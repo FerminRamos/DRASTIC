@@ -16,7 +16,7 @@ Finally, all ArcGIS Pro software has been downloaded to the new work computer! R
 #### :point_right: Pipeline of Current Objectives
 - [ ] Map previous data onto new computer  ![](https://geps.dev/progress/70)
 
-- [ ] Create DRASTIC GitHub Repo  ![](https://geps.dev/progress/100)
+- [X] Create DRASTIC GitHub Repo  ![](https://geps.dev/progress/100)
 
   - [ ] Populate Repo w/ Data  ![](https://geps.dev/progress/45)
 
