@@ -22,8 +22,11 @@ Finally, all ArcGIS Pro software has been downloaded to the new work computer! R
 
 - [ ] Pull FEMA Declaration Summaries data, to now include years 2000-2022.  ![](https://geps.dev/progress/0)
 
-- [ ] Find new poss. datasets for Transportation, Education Rates, Etc. ![](https://geps.dev/progress/10)
+  - [ ] Re-populate old FEMA .shp files w/ data from 2000 - 2022  ![](https://geps.dev/progress/0)
+  
+  - [ ] Typhoon Data needed...  ![](https://geps.dev/progress/0)
 
+- [ ] Find new poss. datasets for Transportation, Education Rates, Etc. ![](https://geps.dev/progress/10)
 
 <br>
 
