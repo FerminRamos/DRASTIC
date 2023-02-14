@@ -1,0 +1,1793 @@
+﻿State,designatedArea,disasterType,Freq,FEMA_Object_ID
+West Virginia,Berkeley,Severe Storms,2,2960
+West Virginia,Barbour,Severe Storms,3,2959
+West Virginia,Boone,Severe Storms,4,2334
+West Virginia,Brooke,Severe Storms,1,2961
+West Virginia,Doddridge,Severe Storms,5,2581
+West Virginia,Clay,Severe Storms,3,2580
+New Hampshire,Strafford,Severe Storms,3,3019
+West Virginia,Fayette,Severe Storms,3,2335
+New Hampshire,Belknap,Severe Storms,4,3012
+West Virginia,Calhoun,Severe Storms,2,2579
+West Virginia,Gilmer,Severe Storms,3,2582
+West Virginia,Braxton,Severe Storms,4,2577
+West Virginia,Cabell,Severe Storms,4,2578
+West Virginia,Hampshire,Severe Storms,2,2963
+West Virginia,Hancock,Severe Storms,1,2964
+West Virginia,Hardy,Severe Storms,3,2965
+West Virginia,Harrison,Severe Storms,5,2966
+West Virginia,Greenbrier,Severe Storms,2,2779
+West Virginia,Grant,Severe Storms,3,2962
+West Virginia,Jackson,Severe Storms,4,2583
+West Virginia,Jefferson,Severe Storms,3,2967
+West Virginia,Lincoln,Severe Storms,7,2337
+West Virginia,Logan,Severe Storms,6,2338
+West Virginia,McDowell,Severe Storms,3,2339
+West Virginia,Marshall,Severe Storms,4,2584
+West Virginia,Kanawha,Severe Storms,3,2336
+West Virginia,Mason,Severe Storms,2,2585
+West Virginia,Mercer,Severe Storms,3,2340
+West Virginia,Marion,Severe Storms,3,2969
+West Virginia,Mingo,Severe Storms,6,2341
+West Virginia,Monroe,Severe Storms,2,2780
+West Virginia,Mineral,Severe Storms,2,2970
+West Virginia,Morgan,Severe Storms,2,2972
+West Virginia,Nicholas,Severe Storms,3,2342
+West Virginia,Ohio,Severe Storms,2,2586
+West Virginia,Pendleton,Severe Storms,3,2973
+West Virginia,Pocahontas,Severe Storms,2,2974
+West Virginia,Lewis,Severe Storms,3,2968
+West Virginia,Preston,Severe Storms,4,2975
+West Virginia,Putnam,Severe Storms,3,2588
+West Virginia,Randolph,Severe Storms,3,2976
+West Virginia,Pleasants,Severe Storms,2,2587
+West Virginia,Monongalia,Severe Storms,4,2971
+West Virginia,Roane,Severe Storms,5,2590
+West Virginia,Ritchie,Severe Storms,4,2589
+West Virginia,Tucker,Severe Storms,4,2978
+West Virginia,Summers,Severe Storms,3,2344
+West Virginia,Raleigh,Severe Storms,3,2343
+West Virginia,Upshur,Severe Storms,3,2979
+West Virginia,Wayne,Severe Storms,5,2345
+West Virginia,Webster,Severe Storms,4,2980
+West Virginia,Wetzel,Severe Storms,4,2592
+West Virginia,Tyler,Severe Storms,4,2591
+West Virginia,Taylor,Severe Storms,4,2977
+Ohio,Adams,Severe Storms,2,2489
+West Virginia,Wirt,Severe Storms,3,2593
+Ohio,Allen,Severe Storms,2,2490
+West Virginia,Wood,Severe Storms,4,2594
+Ohio,Athens,Severe Storms,2,2493
+West Virginia,Wyoming,Severe Storms,3,2346
+Ohio,Carroll,Severe Storms,1,2498
+Ohio,Ashland,Severe Storms,1,2491
+Ohio,Clark,Severe Storms,2,2500
+Ohio,Ashtabula,Severe Storms,1,2492
+Ohio,Brown,Severe Storms,1,2496
+Ohio,Clinton,Severe Storms,1,2502
+Ohio,Auglaize,Severe Storms,2,2494
+Ohio,Butler,Severe Storms,1,2497
+Ohio,Belmont,Severe Storms,2,2495
+Ohio,Darke,Severe Storms,1,2507
+Ohio,Champaign,Severe Storms,2,2499
+Ohio,Crawford,Severe Storms,1,2505
+Ohio,Coshocton,Severe Storms,2,2504
+Ohio,Delaware,Severe Storms,1,2509
+Ohio,Cuyahoga,Severe Storms,1,2506
+Ohio,Defiance,Severe Storms,1,2508
+Ohio,Erie,Severe Storms,1,2510
+Ohio,Fairfield,Severe Storms,2,2511
+Ohio,Fulton,Severe Storms,1,2514
+Ohio,Franklin,Severe Storms,2,2513
+Ohio,Clermont,Severe Storms,1,2501
+Ohio,Columbiana,Severe Storms,1,2503
+Ohio,Fayette,Severe Storms,1,2512
+Ohio,Greene,Severe Storms,1,2517
+Ohio,Hamilton,Severe Storms,1,2519
+Ohio,Hancock,Severe Storms,2,2520
+Ohio,Hardin,Severe Storms,2,2521
+Ohio,Harrison,Severe Storms,2,2522
+Ohio,Gallia,Severe Storms,2,2515
+Ohio,Geauga,Severe Storms,1,2516
+Ohio,Guernsey,Severe Storms,2,2518
+Ohio,Hocking,Severe Storms,2,2525
+Ohio,Henry,Severe Storms,1,2523
+Ohio,Highland,Severe Storms,2,2524
+Ohio,Jefferson,Severe Storms,1,2529
+Ohio,Knox,Severe Storms,2,2530
+Ohio,Logan,Severe Storms,2,2534
+Ohio,Lorain,Severe Storms,1,2535
+Ohio,Lawrence,Severe Storms,2,2532
+Ohio,Licking,Severe Storms,2,2533
+Ohio,Holmes,Severe Storms,1,2526
+Ohio,Huron,Severe Storms,1,2527
+Ohio,Madison,Severe Storms,1,2537
+Ohio,Jackson,Severe Storms,2,2528
+Ohio,Lucas,Severe Storms,1,2536
+Ohio,Mahoning,Severe Storms,1,2538
+Ohio,Lake,Severe Storms,1,2531
+Ohio,Medina,Severe Storms,1,2540
+Ohio,Mercer,Severe Storms,1,2542
+Ohio,Miami,Severe Storms,2,2543
+Ohio,Monroe,Severe Storms,2,2544
+Ohio,Montgomery,Severe Storms,1,2545
+Ohio,Morgan,Severe Storms,2,2546
+Ohio,Meigs,Severe Storms,2,2541
+Ohio,Marion,Severe Storms,1,2539
+Ohio,Morrow,Severe Storms,2,2547
+Ohio,Muskingum,Severe Storms,2,2548
+Ohio,Noble,Severe Storms,2,2549
+Ohio,Paulding,Severe Storms,2,2551
+Ohio,Pike,Severe Storms,2,2554
+Ohio,Portage,Severe Storms,1,2555
+Ohio,Perry,Severe Storms,2,2552
+Ohio,Pickaway,Severe Storms,2,2553
+Ohio,Ottawa,Severe Storms,1,2550
+Ohio,Ross,Severe Storms,1,2559
+Ohio,Richland,Severe Storms,1,2558
+Ohio,Putnam,Severe Storms,2,2557
+Ohio,Preble,Severe Storms,1,2556
+Ohio,Shelby,Severe Storms,2,2563
+Ohio,Sandusky,Severe Storms,1,2560
+Ohio,Scioto,Severe Storms,1,2561
+Ohio,Summit,Severe Storms,1,2565
+Ohio,Tuscarawas,Severe Storms,1,2567
+Ohio,Trumbull,Severe Storms,1,2566
+Ohio,Stark,Severe Storms,1,2564
+Ohio,Warren,Severe Storms,1,2571
+Ohio,Washington,Severe Storms,2,2572
+Ohio,Seneca,Severe Storms,1,2562
+Ohio,Union,Severe Storms,1,2568
+Ohio,Williams,Severe Storms,1,2574
+Ohio,Van Wert,Severe Storms,2,2569
+Ohio,Wyandot,Severe Storms,2,2576
+Ohio,Wood,Severe Storms,1,2575
+Ohio,Vinton,Severe Storms,2,2570
+Ohio,Wayne,Severe Storms,1,2573
+Connecticut,Fairfield,Severe Storms,2,2981
+Connecticut,Litchfield,Severe Storms,2,2983
+Connecticut,Hartford,Severe Storms,2,2982
+Connecticut,Middlesex,Severe Storms,3,2984
+Connecticut,New Haven,Severe Storms,3,2985
+Connecticut,New London,Severe Storms,4,2986
+Connecticut,Windham,Severe Storms,3,2988
+Connecticut,Tolland,Severe Storms,3,2987
+South Carolina,Aiken,Severe Storms,2,2272
+South Carolina,Abbeville,Severe Storms,1,2271
+South Carolina,Barnwell,Severe Storms,3,2276
+South Carolina,Berkeley,Severe Storms,2,2671
+South Carolina,Bamberg,Severe Storms,2,2275
+South Carolina,Anderson,Severe Storms,2,2274
+South Carolina,Beaufort,Severe Storms,1,2277
+South Carolina,Charleston,Severe Storms,1,2672
+South Carolina,Allendale,Severe Storms,1,2273
+South Carolina,Calhoun,Severe Storms,1,2278
+South Carolina,Chester,Severe Storms,2,2280
+South Carolina,Chesterfield,Severe Storms,1,2673
+South Carolina,Clarendon,Severe Storms,1,2674
+South Carolina,Colleton,Severe Storms,2,2281
+South Carolina,Cherokee,Severe Storms,1,2279
+South Carolina,Darlington,Severe Storms,1,2675
+South Carolina,Dillon,Severe Storms,1,2676
+South Carolina,Dorchester,Severe Storms,1,2677
+South Carolina,Edgefield,Severe Storms,1,2282
+South Carolina,Fairfield,Severe Storms,1,2283
+South Carolina,Florence,Severe Storms,1,2678
+South Carolina,Greenville,Severe Storms,2,2284
+South Carolina,Greenwood,Severe Storms,1,2285
+South Carolina,Hampton,Severe Storms,3,2286
+South Carolina,Georgetown,Severe Storms,2,2679
+South Carolina,Jasper,Severe Storms,1,2287
+South Carolina,Kershaw,Severe Storms,1,2681
+South Carolina,Lancaster,Severe Storms,1,2288
+South Carolina,Lee,Severe Storms,1,2682
+South Carolina,Lexington,Severe Storms,1,2290
+South Carolina,Laurens,Severe Storms,1,2289
+South Carolina,McCormick,Severe Storms,1,2291
+South Carolina,Horry,Severe Storms,1,2680
+South Carolina,Marlboro,Severe Storms,2,2684
+South Carolina,Newberry,Severe Storms,2,2292
+South Carolina,Oconee,Severe Storms,3,2293
+South Carolina,Marion,Severe Storms,1,2683
+South Carolina,Pickens,Severe Storms,3,2295
+South Carolina,Richland,Severe Storms,1,2296
+South Carolina,Orangeburg,Severe Storms,2,2294
+South Carolina,Spartanburg,Severe Storms,2,2298
+South Carolina,Sumter,Severe Storms,1,2685
+South Carolina,Union,Severe Storms,1,2299
+South Carolina,Saluda,Severe Storms,1,2297
+South Carolina,York,Severe Storms,1,2300
+South Carolina,Williamsburg,Severe Storms,1,2686
+Kansas,Butler,Severe Storms,4,539
+Kansas,Chautauqua,Severe Storms,3,541
+Kansas,Coffey,Severe Storms,4,547
+Kansas,Anderson,Severe Storms,3,533
+Kansas,Dickinson,Severe Storms,3,552
+Kansas,Doniphan,Severe Storms,4,553
+Kansas,Crawford,Severe Storms,3,550
+Kansas,Douglas,Severe Storms,2,554
+Kansas,Franklin,Severe Storms,3,561
+Kansas,Geary,Severe Storms,3,562
+Kansas,Elk,Severe Storms,4,556
+Kansas,Greenwood,Severe Storms,6,568
+Kansas,Harvey,Severe Storms,5,571
+Kansas,Allen,Severe Storms,2,532
+Kansas,Leavenworth,Severe Storms,2,583
+Kansas,Linn,Severe Storms,3,585
+Kansas,Lyon,Severe Storms,4,587
+Kansas,Jefferson,Severe Storms,3,575
+Kansas,Cowley,Severe Storms,6,549
+Kansas,Cherokee,Severe Storms,4,542
+Kansas,Montgomery,Severe Storms,3,594
+Kansas,Morris,Severe Storms,4,595
+Kansas,Neosho,Severe Storms,4,598
+Kansas,Marshall,Severe Storms,4,590
+Kansas,Reno,Severe Storms,4,609
+Kansas,Riley,Severe Storms,3,612
+Kansas,Osage,Severe Storms,3,601
+Kansas,Pottawatomie,Severe Storms,3,606
+Kansas,Saline,Severe Storms,3,616
+Kansas,Sumner,Severe Storms,7,627
+Kansas,Wilson,Severe Storms,3,634
+Kansas,Woodson,Severe Storms,4,635
+Kansas,Wabaunsee,Severe Storms,3,630
+Massachusetts,Berkshire,Severe Storms,2,2999
+Massachusetts,Franklin,Severe Storms,2,3003
+Massachusetts,Hampden,Severe Storms,2,3004
+Massachusetts,Hampshire,Severe Storms,2,3005
+Massachusetts,Middlesex,Severe Storms,3,3006
+Massachusetts,Worcester,Severe Storms,3,3011
+Alabama,Chilton,Severe Storms,2,1970
+Alabama,Jefferson,Severe Storms,3,1980
+Alabama,Perry,Severe Storms,5,1474
+Utah,Davis,Severe Storms,2,246
+Alaska,Kenai Peninsula,Severe Storms,2,12
+Washington,Clallam,Severe Storms,5,108
+Washington,Grays Harbor,Severe Storms,4,111
+Washington,King,Severe Storms,1,114
+Washington,Klickitat,Severe Storms,2,117
+Washington,Lewis,Severe Storms,3,118
+Washington,Mason,Severe Storms,4,119
+Washington,Pierce,Severe Storms,1,122
+Washington,Skamania,Severe Storms,3,125
+Washington,Snohomish,Severe Storms,5,126
+Washington,Thurston,Severe Storms,1,127
+Washington,Wahkiakum,Severe Storms,3,128
+Kentucky,Adair,Severe Storms,3,2050
+Kentucky,Ballard,Severe Storms,2,1564
+Kentucky,Campbell,Severe Storms,2,2420
+Kentucky,Carroll,Severe Storms,3,2421
+Kentucky,Montgomery,Severe Storms,2,2088
+Kentucky,Ohio,Severe Storms,2,2092
+Kentucky,Grayson,Severe Storms,1,2069
+Kentucky,Rowan,Severe Storms,2,2238
+Kentucky,Russell,Severe Storms,2,2095
+Kentucky,Bath,Severe Storms,1,2213
+Kentucky,Grant,Severe Storms,2,2423
+Kentucky,Kenton,Severe Storms,1,2427
+Kentucky,Larue,Severe Storms,1,2077
+Kentucky,Laurel,Severe Storms,2,2078
+Kentucky,Johnson,Severe Storms,5,2223
+Kentucky,Lawrence,Severe Storms,4,2226
+Kentucky,Magoffin,Severe Storms,4,2230
+Kentucky,Menifee,Severe Storms,3,2232
+Kentucky,Morgan,Severe Storms,4,2233
+Kentucky,Pendleton,Severe Storms,2,2432
+Kentucky,Trimble,Severe Storms,2,2434
+Kentucky,Wolfe,Severe Storms,3,2239
+Kentucky,Martin,Severe Storms,2,2231
+Indiana,Warrick,Severe Storms,1,1563
+Indiana,Clark,Severe Storms,1,2355
+Indiana,Jefferson,Severe Storms,1,2378
+Indiana,Ripley,Severe Storms,1,2401
+Indiana,Scott,Severe Storms,1,2404
+Indiana,Washington,Severe Storms,1,2413
+Tennessee,Bradley,Severe Storms,2,2111
+Tennessee,Claiborne,Severe Storms,2,2302
+Tennessee,Cumberland,Severe Storms,2,2117
+Tennessee,DeKalb,Severe Storms,1,2119
+Tennessee,Hamilton,Severe Storms,2,2124
+Tennessee,Jackson,Severe Storms,2,2125
+Tennessee,McMinn,Severe Storms,1,2129
+Tennessee,Overton,Severe Storms,1,2138
+Tennessee,Polk,Severe Storms,2,2140
+Tennessee,Monroe,Severe Storms,2,2135
+Hawaii,Kauai,Severe Storms,2,77
+Hawaii,Maui,Severe Storms,2,78
+Kansas,Edwards,Severe Storms,4,555
+Kansas,Ellsworth,Severe Storms,4,558
+Kansas,Hodgeman,Severe Storms,4,573
+Kansas,Jewell,Severe Storms,2,576
+Kansas,Kiowa,Severe Storms,3,580
+Kansas,Mitchell,Severe Storms,1,593
+Kansas,Osborne,Severe Storms,2,602
+Kansas,Harper,Severe Storms,4,570
+Kansas,Rice,Severe Storms,6,611
+Kansas,Rush,Severe Storms,2,614
+Kansas,Russell,Severe Storms,3,615
+Kansas,Sedgwick,Severe Storms,2,618
+Kansas,Stafford,Severe Storms,2,624
+Oklahoma,Alfalfa,Severe Storms,5,801
+Oklahoma,Craig,Severe Storms,6,817
+Oklahoma,Grant,Severe Storms,5,826
+Oklahoma,Kay,Severe Storms,6,835
+Oklahoma,Nowata,Severe Storms,4,852
+New Hampshire,Cheshire,Severe Storms,3,3014
+Vermont,Addison,Severe Storms,6,3045
+Vermont,Lamoille,Severe Storms,5,3049
+Vermont,Orleans,Severe Storms,5,3112
+Florida,Charlotte,Severe Storms,2,1276
+Florida,Collier,Severe Storms,2,1279
+Florida,Dixie,Severe Storms,2,1282
+Florida,Gulf,Severe Storms,1,1290
+Florida,Hamilton,Severe Storms,2,1291
+Florida,Jefferson,Severe Storms,2,1300
+Florida,Lee,Severe Storms,2,1303
+Florida,Levy,Severe Storms,2,1305
+Florida,Liberty,Severe Storms,1,1306
+Florida,Madison,Severe Storms,2,1307
+Florida,Putnam,Severe Storms,2,1319
+Florida,Santa Rosa,Severe Storms,2,1321
+Florida,Gilchrist,Severe Storms,2,1288
+Florida,Highlands,Severe Storms,1,1295
+Florida,Hillsborough,Severe Storms,2,1296
+Florida,Baker,Severe Storms,2,1271
+Florida,Polk,Severe Storms,1,1318
+Florida,Citrus,Severe Storms,2,1277
+Florida,Clay,Severe Storms,2,1278
+Florida,Columbia,Severe Storms,2,1280
+Florida,Duval,Severe Storms,2,1283
+Florida,Franklin,Severe Storms,2,1286
+Florida,Hernando,Severe Storms,2,1294
+Florida,Bradford,Severe Storms,2,1273
+Florida,Lafayette,Severe Storms,2,1301
+Florida,Manatee,Severe Storms,2,1308
+Florida,Nassau,Severe Storms,2,1311
+Florida,Pasco,Severe Storms,2,1316
+Florida,Pinellas,Severe Storms,2,1317
+Florida,Sarasota,Severe Storms,2,1322
+Florida,Suwannee,Severe Storms,2,1325
+Florida,Taylor,Severe Storms,2,1326
+Florida,Union,Severe Storms,2,1327
+Florida,Wakulla,Severe Storms,2,1329
+Minnesota,Aitkin,Severe Storms,1,3091
+Minnesota,Carlton,Severe Storms,1,3093
+Minnesota,Cass,Severe Storms,1,1060
+Minnesota,Cook,Severe Storms,1,3095
+Minnesota,Crow Wing,Severe Storms,1,1064
+Minnesota,Dakota,Severe Storms,1,3096
+Minnesota,Goodhue,Severe Storms,1,1874
+Minnesota,Itasca,Severe Storms,1,1068
+Minnesota,Kandiyohi,Severe Storms,1,1069
+Minnesota,Lake,Severe Storms,1,3100
+Minnesota,Meeker,Severe Storms,1,1077
+Minnesota,Pine,Severe Storms,1,3102
+Minnesota,Rice,Severe Storms,1,1878
+Minnesota,St. Louis,Severe Storms,1,3104
+Minnesota,Sibley,Severe Storms,2,653
+New Jersey,Atlantic,Severe Storms,3,2806
+New Jersey,Cumberland,Severe Storms,2,2811
+New Jersey,Salem,Severe Storms,1,2821
+Virginia,Stafford,Severe Storms,1,2950
+Virginia,Alleghany,Severe Storms,1,2689
+Virginia,Albemarle,Severe Storms,1,2688
+Virginia,Amelia,Severe Storms,1,2690
+Virginia,Amherst,Severe Storms,1,2691
+Virginia,Appomattox,Severe Storms,1,2692
+Virginia,Arlington,Severe Storms,1,2936
+Virginia,Augusta,Severe Storms,1,2693
+Virginia,Bath,Severe Storms,1,2694
+Virginia,Bedford,Severe Storms,1,2695
+Virginia,Bland,Severe Storms,1,2316
+Virginia,Botetourt,Severe Storms,1,2696
+Virginia,Buckingham,Severe Storms,1,2698
+Virginia,Campbell,Severe Storms,1,2699
+Virginia,Carroll,Severe Storms,1,2318
+Virginia,Charlotte,Severe Storms,1,2702
+Virginia,Clarke,Severe Storms,1,2937
+Virginia,Craig,Severe Storms,1,2704
+Virginia,Culpeper,Severe Storms,1,2938
+Virginia,Cumberland,Severe Storms,1,2705
+Virginia,Dinwiddie,Severe Storms,1,2706
+Virginia,Fauquier,Severe Storms,1,2940
+Virginia,Floyd,Severe Storms,1,2708
+Virginia,Frederick,Severe Storms,1,2941
+Virginia,Giles,Severe Storms,1,2320
+Virginia,Greene,Severe Storms,1,2713
+Virginia,Halifax,Severe Storms,1,2715
+Virginia,Highland,Severe Storms,1,2942
+Virginia,Fluvanna,Severe Storms,1,2709
+Virginia,Franklin,Severe Storms,1,2710
+Virginia,Louisa,Severe Storms,1,2725
+Virginia,Lunenburg,Severe Storms,1,2726
+Virginia,Madison,Severe Storms,1,2944
+Virginia,Nelson,Severe Storms,1,2731
+Virginia,New Kent,Severe Storms,1,2732
+Virginia,Nottoway,Severe Storms,1,2735
+Virginia,Page,Severe Storms,1,2945
+Virginia,Orange,Severe Storms,1,2736
+Virginia,Montgomery,Severe Storms,1,2730
+Virginia,Pittsylvania,Severe Storms,1,2738
+Virginia,Powhatan,Severe Storms,1,2739
+Virginia,Prince Edward,Severe Storms,1,2740
+Virginia,Pulaski,Severe Storms,1,2323
+Virginia,Rappahannock,Severe Storms,1,2947
+Virginia,Roanoke,Severe Storms,1,2743
+Virginia,Rockingham,Severe Storms,1,2948
+Virginia,Shenandoah,Severe Storms,1,2949
+Virginia,Smyth,Severe Storms,1,2326
+Virginia,Tazewell,Severe Storms,1,2327
+Virginia,Rockbridge,Severe Storms,1,2744
+Virginia,Warren,Severe Storms,1,2951
+Virginia,Charlottesville,Severe Storms,1,2752
+Virginia,Covington,Severe Storms,1,2755
+Virginia,Buena Vista,Severe Storms,1,2751
+Virginia,Danville,Severe Storms,1,2756
+Virginia,Fairfax City,Severe Storms,1,2953
+Virginia,Falls Church,Severe Storms,1,2954
+Virginia,Lexington,Severe Storms,1,2762
+Virginia,Martinsville,Severe Storms,1,2764
+Virginia,Manassas Park,Severe Storms,1,2957
+Virginia,Radford,Severe Storms,1,2770
+Virginia,Roanoke City,Severe Storms,1,2772
+Virginia,Harrisonburg,Severe Storms,1,2955
+Virginia,Fredericksburg,Severe Storms,1,2759
+Virginia,Lynchburg,Severe Storms,1,2763
+District of Columbia,District of Columbia,Severe Storms,1,2784
+Virginia,Winchester,Severe Storms,1,2958
+Virginia,Staunton,Severe Storms,1,2774
+Virginia,Salem,Severe Storms,1,2773
+Maryland,Calvert,Severe Storms,1,2788
+Maryland,Charles,Severe Storms,1,2792
+Maryland,Kent,Severe Storms,1,2798
+Maryland,Montgomery,Severe Storms,1,2799
+Wisconsin,Ashland,Severe Storms,3,3113
+Wisconsin,Bayfield,Severe Storms,3,3115
+Wisconsin,Douglas,Severe Storms,2,3120
+Maryland,St. Mary's,Severe Storms,1,2600
+Maryland,Baltimore City,Severe Storms,2,2805
+Washington,Ferry,Severe Storms,1,1239
+Washington,Okanogan,Severe Storms,2,120
+Alaska,Denali,Severe Storms,1,6
+Alaska,Matanuska-Susitna,Severe Storms,1,16
+Mississippi,Greene,Severe Storms,2,1442
+Mississippi,Forrest,Severe Storms,2,1439
+Mississippi,Lamar,Severe Storms,1,1450
+Mississippi,Marion,Severe Storms,4,1453
+Mississippi,Wayne,Severe Storms,4,1461
+Louisiana,Acadia,Severe Storms,1,1385
+Louisiana,Catahoula,Severe Storms,1,1394
+Mississippi,Jefferson Davis,Severe Storms,4,1448
+Mississippi,Perry,Severe Storms,2,1455
+Louisiana,Concordia,Severe Storms,1,1395
+Louisiana,East Carroll,Severe Storms,1,1587
+Louisiana,Franklin,Severe Storms,1,1588
+Louisiana,Evangeline,Severe Storms,1,1398
+Louisiana,Jefferson Davis,Severe Storms,1,1403
+Louisiana,Livingston,Severe Storms,1,1407
+Louisiana,St. Landry,Severe Storms,1,1420
+Louisiana,Vermilion,Severe Storms,1,1427
+New Hampshire,Carroll,Severe Storms,3,3013
+Louisiana,Madison,Severe Storms,1,1591
+New Hampshire,Hillsborough,Severe Storms,2,3016
+New Hampshire,Merrimack,Severe Storms,2,3017
+New Hampshire,Rockingham,Severe Storms,2,3018
+New Hampshire,Sullivan,Severe Storms,3,3020
+Rhode Island,Bristol,Severe Storms,2,3040
+Rhode Island,Kent,Severe Storms,2,3041
+Rhode Island,Newport,Severe Storms,2,3042
+Rhode Island,Providence,Severe Storms,2,3043
+Rhode Island,Washington,Severe Storms,2,3044
+Maine,Androscoggin,Severe Storms,1,2989
+Maine,Cumberland,Severe Storms,2,2990
+Maine,Knox,Severe Storms,2,2992
+Maine,Washington,Severe Storms,1,3061
+Maine,Sagadahoc,Severe Storms,2,2995
+Maine,York,Severe Storms,2,2997
+Oklahoma,Beaver,Severe Storms,4,803
+Oklahoma,Beckham,Severe Storms,5,804
+Oklahoma,Blaine,Severe Storms,4,805
+Oklahoma,Custer,Severe Storms,4,819
+Oklahoma,Dewey,Severe Storms,6,821
+Oklahoma,Ellis,Severe Storms,3,822
+Oklahoma,Garfield,Severe Storms,2,823
+Oklahoma,Kingfisher,Severe Storms,4,836
+Oklahoma,Major,Severe Storms,5,846
+Oklahoma,Noble,Severe Storms,5,851
+Oklahoma,Washita,Severe Storms,5,874
+Oklahoma,Roger Mills,Severe Storms,5,864
+Oklahoma,Woods,Severe Storms,4,875
+Massachusetts,Barnstable,Severe Storms,3,2998
+Massachusetts,Bristol,Severe Storms,3,3000
+Massachusetts,Dukes,Severe Storms,2,3001
+Massachusetts,Essex,Severe Storms,3,3002
+Oklahoma,Woodward,Severe Storms,3,876
+Massachusetts,Nantucket,Severe Storms,3,3007
+Massachusetts,Plymouth,Severe Storms,3,3009
+Massachusetts,Suffolk,Severe Storms,2,3010
+Massachusetts,Norfolk,Severe Storms,3,3008
+New York,Suffolk,Severe Storms,1,3036
+Minnesota,Cottonwood,Severe Storms,1,640
+Minnesota,Jackson,Severe Storms,1,642
+Minnesota,Murray,Severe Storms,1,647
+Minnesota,Nobles,Severe Storms,1,649
+Iowa,Lyon,Severe Storms,3,510
+Iowa,O'Brien,Severe Storms,3,515
+Iowa,Sioux,Severe Storms,3,525
+Iowa,Osceola,Severe Storms,2,516
+Minnesota,Rock,Severe Storms,1,652
+South Dakota,Hutchinson,Severe Storms,2,895
+South Dakota,Lincoln,Severe Storms,3,903
+Iowa,Dickinson,Severe Storms,2,499
+South Dakota,McCook,Severe Storms,3,905
+South Dakota,Minnehaha,Severe Storms,2,909
+South Dakota,Oglala Lakota,Severe Storms,3,913
+South Dakota,Turner,Severe Storms,2,917
+South Dakota,Douglas,Severe Storms,2,888
+Arkansas,Cleburne,Severe Storms,3,1490
+Arkansas,Cross,Severe Storms,2,1496
+Arkansas,Independence,Severe Storms,5,1506
+Arkansas,Montgomery,Severe Storms,4,1519
+Arkansas,Polk,Severe Storms,3,434
+Arkansas,Scott,Severe Storms,3,435
+Arkansas,Poinsett,Severe Storms,2,1526
+Arkansas,Stone,Severe Storms,2,1535
+Arkansas,Van Buren,Severe Storms,1,1537
+Arkansas,Woodruff,Severe Storms,3,1539
+South Dakota,Bennett,Severe Storms,1,879
+Arkansas,Searcy,Severe Storms,4,1533
+South Dakota,Lawrence,Severe Storms,3,902
+South Dakota,Union,Severe Storms,2,918
+Iowa,Appanoose,Severe Storms,2,1820
+Iowa,Benton,Severe Storms,3,1821
+South Dakota,Corson,Severe Storms,2,1216
+Iowa,Buchanan,Severe Storms,4,1824
+Iowa,Buena Vista,Severe Storms,2,489
+Iowa,Butler,Severe Storms,4,1825
+Iowa,Cherokee,Severe Storms,2,493
+Iowa,Chickasaw,Severe Storms,3,1828
+Iowa,Clay,Severe Storms,2,495
+Iowa,Clayton,Severe Storms,4,1829
+Iowa,Crawford,Severe Storms,2,496
+Iowa,Des Moines,Severe Storms,3,1833
+Iowa,Davis,Severe Storms,2,1831
+Iowa,Delaware,Severe Storms,3,1832
+Iowa,Fayette,Severe Storms,2,1835
+Iowa,Floyd,Severe Storms,2,1836
+Iowa,Franklin,Severe Storms,1,1837
+Iowa,Greene,Severe Storms,2,502
+Iowa,Grundy,Severe Storms,4,1838
+Iowa,Henry,Severe Storms,1,1840
+Iowa,Howard,Severe Storms,4,1841
+Iowa,Ida,Severe Storms,2,508
+Iowa,Hardin,Severe Storms,3,1839
+Iowa,Iowa,Severe Storms,3,1842
+Iowa,Jasper,Severe Storms,3,1844
+Iowa,Johnson,Severe Storms,3,1846
+Iowa,Keokuk,Severe Storms,2,1848
+Iowa,Jones,Severe Storms,4,1847
+Iowa,Lee,Severe Storms,4,1849
+Iowa,Linn,Severe Storms,3,1850
+Iowa,Louisa,Severe Storms,1,1851
+Iowa,Marshall,Severe Storms,3,1855
+Iowa,Mahaska,Severe Storms,2,1853
+Iowa,Mitchell,Severe Storms,3,1856
+Iowa,Monona,Severe Storms,1,513
+Iowa,Monroe,Severe Storms,2,1857
+Iowa,Palo Alto,Severe Storms,2,518
+Iowa,Plymouth,Severe Storms,1,519
+Iowa,Poweshiek,Severe Storms,3,1860
+Iowa,Sac,Severe Storms,1,523
+Iowa,Story,Severe Storms,3,1862
+Iowa,Webster,Severe Storms,2,528
+Iowa,Winnebago,Severe Storms,2,529
+Iowa,Worth,Severe Storms,1,1870
+Iowa,Wright,Severe Storms,3,531
+Iowa,Tama,Severe Storms,3,1863
+Iowa,Wapello,Severe Storms,1,1865
+North Dakota,Benson,Severe Storms,2,1155
+North Dakota,Bottineau,Severe Storms,1,1157
+North Dakota,Cavalier,Severe Storms,1,1162
+North Dakota,Dunn,Severe Storms,1,1165
+North Dakota,Kidder,Severe Storms,1,1174
+North Dakota,McHenry,Severe Storms,1,1177
+North Dakota,McKenzie,Severe Storms,2,1179
+North Dakota,Mountrail,Severe Storms,2,1183
+North Dakota,McLean,Severe Storms,1,1180
+North Dakota,Nelson,Severe Storms,2,1184
+North Dakota,Pembina,Severe Storms,1,1186
+North Dakota,Pierce,Severe Storms,1,1187
+North Dakota,Ramsey,Severe Storms,1,1188
+North Dakota,Sheridan,Severe Storms,1,1194
+North Dakota,Stark,Severe Storms,1,1197
+North Dakota,Towner,Severe Storms,1,1200
+North Dakota,Walsh,Severe Storms,1,1202
+North Dakota,Wells,Severe Storms,2,1204
+North Dakota,Ward,Severe Storms,1,1203
+Missouri,Barton,Severe Storms,2,658
+Missouri,Callaway,Severe Storms,2,1886
+Missouri,Cape Girardeau,Severe Storms,2,1654
+Missouri,Chariton,Severe Storms,3,1888
+Missouri,Clark,Severe Storms,3,1889
+Missouri,Howard,Severe Storms,2,1895
+Missouri,Iron,Severe Storms,1,1665
+Missouri,Knox,Severe Storms,4,1896
+Missouri,Lewis,Severe Storms,4,1897
+Missouri,Lincoln,Severe Storms,3,1898
+Missouri,Marion,Severe Storms,3,1902
+Missouri,Miller,Severe Storms,4,1670
+Missouri,Montgomery,Severe Storms,3,1906
+Missouri,Osage,Severe Storms,4,1908
+Missouri,Maries,Severe Storms,4,1669
+Missouri,Pike,Severe Storms,3,1910
+Missouri,Putnam,Severe Storms,4,1911
+Missouri,Ralls,Severe Storms,4,1912
+Missouri,Perry,Severe Storms,3,1676
+Missouri,St. Charles,Severe Storms,2,1914
+Missouri,Ste. Genevieve,Severe Storms,3,1682
+Missouri,St. Louis,Severe Storms,1,1915
+Missouri,Scotland,Severe Storms,3,1918
+Missouri,Stoddard,Severe Storms,3,1686
+Missouri,Sullivan,Severe Storms,4,1920
+Missouri,Texas,Severe Storms,4,1689
+Missouri,Shelby,Severe Storms,4,1919
+Missouri,Webster,Severe Storms,4,1692
+Minnesota,Big Stone,Severe Storms,1,1058
+Minnesota,Douglas,Severe Storms,1,1065
+Minnesota,Benton,Severe Storms,1,1057
+Minnesota,Faribault,Severe Storms,1,641
+Minnesota,Fillmore,Severe Storms,1,1872
+Minnesota,Freeborn,Severe Storms,1,1873
+Minnesota,Grant,Severe Storms,1,1066
+Minnesota,Hennepin,Severe Storms,1,3097
+Minnesota,Houston,Severe Storms,1,1875
+Minnesota,McLeod,Severe Storms,1,1074
+Minnesota,Morrison,Severe Storms,1,1078
+Minnesota,Pope,Severe Storms,1,1083
+Minnesota,Stearns,Severe Storms,1,1088
+Minnesota,Stevens,Severe Storms,1,1089
+Minnesota,Swift,Severe Storms,1,1090
+Minnesota,Traverse,Severe Storms,1,1092
+Minnesota,Wilkin,Severe Storms,1,1094
+Iowa,Allamakee,Severe Storms,3,1819
+Iowa,Audubon,Severe Storms,2,487
+Iowa,Cedar,Severe Storms,3,1826
+Iowa,Winneshiek,Severe Storms,4,1869
+South Dakota,Beadle,Severe Storms,1,878
+South Dakota,Codington,Severe Storms,3,1215
+South Dakota,Deuel,Severe Storms,2,1218
+South Dakota,Grant,Severe Storms,2,1222
+South Dakota,Hamlin,Severe Storms,2,1223
+South Dakota,Hughes,Severe Storms,2,894
+South Dakota,Kingsbury,Severe Storms,3,900
+South Dakota,Spink,Severe Storms,1,1230
+Florida,Bay,Severe Storms,2,1272
+Florida,Holmes,Severe Storms,2,1297
+Florida,Walton,Severe Storms,2,1330
+Florida,Washington,Severe Storms,2,1331
+New Hampshire,Grafton,Severe Storms,4,3015
+Wisconsin,Crawford,Severe Storms,2,1928
+Wisconsin,Grant,Severe Storms,2,1932
+Wisconsin,Iowa,Severe Storms,2,1935
+Wisconsin,Richland,Severe Storms,2,1952
+Wisconsin,St. Croix,Severe Storms,1,3137
+Arkansas,Benton,Severe Storms,3,425
+Arkansas,Boone,Severe Storms,3,1483
+Arkansas,Madison,Severe Storms,4,432
+Arkansas,Marion,Severe Storms,4,1516
+Arkansas,Newton,Severe Storms,3,1521
+Missouri,Barry,Severe Storms,3,657
+Wisconsin,Vernon,Severe Storms,2,1957
+Arkansas,Carroll,Severe Storms,3,1486
+Missouri,Camden,Severe Storms,3,1653
+Missouri,Cedar,Severe Storms,2,663
+Missouri,Dade,Severe Storms,3,666
+Missouri,Dallas,Severe Storms,4,1658
+Missouri,Laclede,Severe Storms,4,1667
+Missouri,McDonald,Severe Storms,3,678
+Missouri,Ozark,Severe Storms,3,1674
+Missouri,Phelps,Severe Storms,2,1677
+Missouri,Pulaski,Severe Storms,2,1679
+Missouri,Shannon,Severe Storms,4,1685
+Missouri,Taney,Severe Storms,3,1688
+Missouri,Wright,Severe Storms,4,1693
+New Mexico,Bernalillo,Severe Storms,1,779
+New Mexico,Colfax,Severe Storms,2,781
+New Mexico,Luna,Severe Storms,1,231
+New Mexico,Sandoval,Severe Storms,2,233
+New Mexico,Sierra,Severe Storms,2,235
+New Mexico,Socorro,Severe Storms,1,236
+Pennsylvania,Centre,Severe Storms,1,2882
+Pennsylvania,Clearfield,Severe Storms,1,2885
+Pennsylvania,Clinton,Severe Storms,1,2886
+Pennsylvania,Crawford,Severe Storms,1,2888
+Pennsylvania,Allegheny,Severe Storms,1,2870
+Pennsylvania,Fayette,Severe Storms,1,2894
+Pennsylvania,Jefferson,Severe Storms,1,2901
+Pennsylvania,Lawrence,Severe Storms,1,2905
+Pennsylvania,Venango,Severe Storms,1,2929
+Pennsylvania,Wayne,Severe Storms,1,2932
+Kansas,Barber,Severe Storms,4,535
+Pennsylvania,Huntingdon,Severe Storms,1,2899
+Kansas,Barton,Severe Storms,4,536
+Kansas,Bourbon,Severe Storms,2,537
+Kansas,Chase,Severe Storms,3,540
+Kansas,Clark,Severe Storms,2,544
+Kansas,Clay,Severe Storms,4,545
+Kansas,Cloud,Severe Storms,3,546
+Kansas,Comanche,Severe Storms,2,548
+Kansas,Ford,Severe Storms,2,560
+Kansas,Hamilton,Severe Storms,1,569
+Kansas,Kingman,Severe Storms,5,579
+Kansas,Lane,Severe Storms,1,582
+Kansas,Marion,Severe Storms,3,589
+Kansas,McPherson,Severe Storms,3,588
+Kansas,Meade,Severe Storms,3,591
+Kansas,Ness,Severe Storms,2,599
+Kansas,Ottawa,Severe Storms,3,603
+Kansas,Pawnee,Severe Storms,3,604
+Kansas,Pratt,Severe Storms,4,607
+Kansas,Republic,Severe Storms,2,610
+Kansas,Washington,Severe Storms,3,632
+North Dakota,Adams,Severe Storms,1,1153
+North Dakota,Bowman,Severe Storms,1,1158
+North Dakota,Grant,Severe Storms,1,1171
+North Dakota,Hettinger,Severe Storms,1,1173
+North Dakota,Morton,Severe Storms,1,1182
+North Dakota,Sioux,Severe Storms,1,1195
+South Dakota,Butte,Severe Storms,3,1212
+South Dakota,Custer,Severe Storms,1,886
+North Dakota,Slope,Severe Storms,1,1196
+South Dakota,Fall River,Severe Storms,3,889
+South Dakota,Haakon,Severe Storms,3,891
+South Dakota,Dewey,Severe Storms,2,1219
+South Dakota,Harding,Severe Storms,2,1224
+South Dakota,Jackson,Severe Storms,3,897
+South Dakota,Meade,Severe Storms,3,906
+South Dakota,Pennington,Severe Storms,2,911
+South Dakota,Perkins,Severe Storms,2,1227
+South Dakota,Ziebach,Severe Storms,2,1233
+Nebraska,Adams,Severe Storms,2,686
+Nebraska,Dawes,Severe Storms,2,708
+Nebraska,Dixon,Severe Storms,3,711
+Nebraska,Greeley,Severe Storms,1,724
+Nebraska,Howard,Severe Storms,1,732
+Nebraska,Sheridan,Severe Storms,2,766
+Nebraska,Sherman,Severe Storms,1,767
+Nebraska,Sioux,Severe Storms,3,768
+Nebraska,Thurston,Severe Storms,5,772
+Nebraska,Wayne,Severe Storms,5,775
+Texas,Caldwell,Severe Storms,3,302
+Texas,Freestone,Severe Storms,1,326
+Texas,Hays,Severe Storms,3,338
+Texas,Travis,Severe Storms,3,406
+Alaska,Fairbanks North Star,Severe Storms,1,8
+Oklahoma,Choctaw,Severe Storms,2,811
+Oklahoma,Le Flore,Severe Storms,3,839
+Oklahoma,McCurtain,Severe Storms,3,844
+Oklahoma,Pushmataha,Severe Storms,5,863
+Oregon,Benton,Severe Storms,2,79
+Oregon,Lane,Severe Storms,4,95
+Oregon,Lincoln,Severe Storms,2,96
+Maryland,Baltimore,Severe Storms,1,2787
+Maryland,Carroll,Severe Storms,1,2790
+Maryland,Howard,Severe Storms,1,2797
+Oregon,Linn,Severe Storms,3,97
+Indiana,Allen,Severe Storms,1,2348
+Indiana,Blackford,Severe Storms,1,2350
+Indiana,Boone,Severe Storms,1,2351
+Indiana,Clay,Severe Storms,1,2356
+Indiana,Clinton,Severe Storms,1,2357
+Indiana,Fulton,Severe Storms,1,2366
+Indiana,Hamilton,Severe Storms,1,2369
+Indiana,Hendricks,Severe Storms,1,2371
+Indiana,Huntington,Severe Storms,1,2374
+Indiana,Jasper,Severe Storms,1,2376
+Indiana,Johnson,Severe Storms,1,2380
+Indiana,Kosciusko,Severe Storms,1,2381
+Indiana,LaGrange,Severe Storms,1,2382
+Indiana,Lake,Severe Storms,1,1811
+Indiana,Madison,Severe Storms,1,2385
+Indiana,Marion,Severe Storms,1,2386
+Indiana,Montgomery,Severe Storms,1,2391
+Indiana,Morgan,Severe Storms,1,2392
+Indiana,Newton,Severe Storms,1,1812
+Indiana,Noble,Severe Storms,1,2393
+Indiana,Owen,Severe Storms,1,2396
+Indiana,Putnam,Severe Storms,1,2399
+Indiana,Sullivan,Severe Storms,1,1815
+Indiana,Tipton,Severe Storms,1,2410
+Indiana,Vanderburgh,Severe Storms,1,1562
+Indiana,Vigo,Severe Storms,1,1817
+Indiana,Parke,Severe Storms,1,1813
+Indiana,Wabash,Severe Storms,1,2412
+Indiana,White,Severe Storms,1,2416
+Indiana,Whitley,Severe Storms,1,2417
+Arkansas,Clay,Severe Storms,3,1489
+Arkansas,Izard,Severe Storms,4,1507
+Arkansas,Fulton,Severe Storms,2,1501
+Arkansas,Jackson,Severe Storms,3,1508
+Arkansas,Lawrence,Severe Storms,3,1512
+Arkansas,Sharp,Severe Storms,1,1534
+Arkansas,Pulaski,Severe Storms,2,1529
+Arkansas,Faulkner,Severe Storms,3,1500
+Arkansas,White,Severe Storms,3,1538
+Mississippi,Newton,Severe Storms,3,1627
+Mississippi,Montgomery,Severe Storms,4,1625
+Mississippi,Simpson,Severe Storms,3,1457
+Arkansas,Randolph,Severe Storms,3,1530
+Mississippi,Warren,Severe Storms,4,1644
+Mississippi,Itawamba,Severe Storms,5,1614
+Mississippi,Jones,Severe Storms,4,1449
+Mississippi,Leake,Severe Storms,3,1618
+Mississippi,Lee,Severe Storms,3,1619
+Mississippi,Lowndes,Severe Storms,2,1621
+Mississippi,Madison,Severe Storms,1,1622
+Mississippi,Rankin,Severe Storms,1,1634
+Mississippi,Winston,Severe Storms,1,1647
+Alabama,Bullock,Severe Storms,2,1252
+Alabama,Butler,Severe Storms,3,1253
+Alabama,Covington,Severe Storms,4,1258
+Alabama,Crenshaw,Severe Storms,4,1259
+Alabama,Dale,Severe Storms,3,1260
+Alabama,Franklin,Severe Storms,3,1466
+Alabama,Geneva,Severe Storms,2,1262
+Alabama,Houston,Severe Storms,2,1264
+Alabama,Lamar,Severe Storms,4,1469
+Alabama,Pickens,Severe Storms,1,1475
+Alabama,Washington,Severe Storms,1,1268
+Alabama,Baldwin,Severe Storms,1,1250
+Alabama,Blount,Severe Storms,5,1966
+Alabama,DeKalb,Severe Storms,4,1976
+Alabama,Etowah,Severe Storms,3,1978
+Alabama,Lee,Severe Storms,2,1981
+Alabama,Limestone,Severe Storms,2,1982
+Alabama,Mobile,Severe Storms,1,1265
+Florida,Escambia,Severe Storms,1,1284
+Florida,Calhoun,Severe Storms,1,1275
+Alabama,Tuscaloosa,Severe Storms,2,1477
+Florida,Jackson,Severe Storms,1,1299
+Florida,Okaloosa,Severe Storms,1,1312
+New York,Allegany,Severe Storms,1,2826
+New York,Cattaraugus,Severe Storms,1,2828
+New York,Chautauqua,Severe Storms,2,2830
+New York,Delaware,Severe Storms,1,2834
+New York,Herkimer,Severe Storms,2,2841
+New York,Lewis,Severe Storms,2,2843
+New York,Livingston,Severe Storms,1,2844
+New York,Ontario,Severe Storms,1,2851
+New York,Otsego,Severe Storms,2,2855
+New York,Steuben,Severe Storms,1,2861
+New York,Yates,Severe Storms,1,2868
+Iowa,Clarke,Severe Storms,1,494
+Iowa,Decatur,Severe Storms,1,498
+Iowa,Mills,Severe Storms,1,512
+Iowa,Montgomery,Severe Storms,1,514
+Iowa,Adams,Severe Storms,1,486
+Iowa,Ringgold,Severe Storms,1,522
+Iowa,Taylor,Severe Storms,1,526
+Iowa,Pottawattamie,Severe Storms,1,521
+Iowa,Wayne,Severe Storms,2,1868
+Nebraska,Cedar,Severe Storms,2,699
+Nebraska,Cuming,Severe Storms,3,705
+Nebraska,Franklin,Severe Storms,1,716
+Nebraska,Furnas,Severe Storms,2,718
+Nebraska,Harlan,Severe Storms,2,727
+Nebraska,Dakota,Severe Storms,2,707
+Nebraska,Phelps,Severe Storms,1,754
+Nebraska,Stanton,Severe Storms,1,769
+Nebraska,Kearney,Severe Storms,1,735
+Nebraska,Burt,Severe Storms,1,696
+Nebraska,Butler,Severe Storms,2,697
+Nebraska,Cass,Severe Storms,3,698
+Nebraska,Hamilton,Severe Storms,2,726
+Nebraska,Holt,Severe Storms,2,730
+Nebraska,Nemaha,Severe Storms,2,749
+Nebraska,Pawnee,Severe Storms,2,752
+Nebraska,Polk,Severe Storms,2,757
+Nebraska,Rock,Severe Storms,2,760
+Nebraska,Valley,Severe Storms,2,773
+Nebraska,Washington,Severe Storms,1,774
+Iowa,Black Hawk,Severe Storms,1,1822
+Iowa,Hamilton,Severe Storms,2,504
+Iowa,Jackson,Severe Storms,2,1843
+Iowa,Muscatine,Severe Storms,2,1858
+Iowa,Shelby,Severe Storms,1,524
+Iowa,Washington,Severe Storms,2,1867
+Tennessee,Anderson,Severe Storms,1,2107
+Tennessee,Decatur,Severe Storms,3,1698
+Tennessee,Bledsoe,Severe Storms,1,2109
+Tennessee,Carroll,Severe Storms,2,1695
+Tennessee,Gibson,Severe Storms,1,1702
+Tennessee,Giles,Severe Storms,1,2122
+Tennessee,Haywood,Severe Storms,1,1705
+Tennessee,Henry,Severe Storms,2,1707
+Tennessee,Hickman,Severe Storms,2,1708
+Tennessee,Lawrence,Severe Storms,2,1713
+Tennessee,Lewis,Severe Storms,2,1714
+Tennessee,McNairy,Severe Storms,2,1715
+Tennessee,Houston,Severe Storms,3,1709
+Tennessee,Madison,Severe Storms,2,1716
+Tennessee,Marion,Severe Storms,2,2131
+Tennessee,Maury,Severe Storms,2,2133
+Tennessee,Moore,Severe Storms,1,2136
+Tennessee,Roane,Severe Storms,2,2143
+Tennessee,Sequatchie,Severe Storms,1,2147
+Tennessee,Tipton,Severe Storms,1,1722
+Tennessee,Weakley,Severe Storms,2,1724
+Tennessee,Perry,Severe Storms,3,1719
+Hawaii,Hawaii,Severe Storms,1,74
+Kentucky,Floyd,Severe Storms,3,2221
+Kentucky,Knott,Severe Storms,4,2224
+Kentucky,Pike,Severe Storms,3,2236
+New Mexico,Guadalupe,Severe Storms,1,785
+New Mexico,Lincoln,Severe Storms,2,788
+New Mexico,Otero,Severe Storms,2,791
+New Mexico,Rio Arriba,Severe Storms,1,793
+New Mexico,San Miguel,Severe Storms,2,795
+Montana,Blaine,Severe Storms,1,1099
+Montana,Carter,Severe Storms,1,1102
+Montana,Musselshell,Severe Storms,1,1129
+Montana,Petroleum,Severe Storms,1,1131
+Montana,Valley,Severe Storms,1,1149
+New Mexico,Eddy,Severe Storms,1,784
+New Mexico,Lea,Severe Storms,1,787
+New Mexico,Santa Fe,Severe Storms,1,796
+Missouri,Adair,Severe Storms,3,1883
+Missouri,Andrew,Severe Storms,3,655
+Missouri,Atchison,Severe Storms,3,656
+Missouri,Daviess,Severe Storms,3,667
+Missouri,Gentry,Severe Storms,3,669
+Missouri,Grundy,Severe Storms,2,1894
+Missouri,Harrison,Severe Storms,3,670
+Missouri,Linn,Severe Storms,3,1899
+Missouri,Mercer,Severe Storms,2,1903
+Missouri,Macon,Severe Storms,3,1901
+Missouri,Nodaway,Severe Storms,3,680
+Missouri,Holt,Severe Storms,3,672
+Missouri,Livingston,Severe Storms,3,1900
+Missouri,Worth,Severe Storms,2,685
+Vermont,Franklin,Severe Storms,3,3110
+Vermont,Essex,Severe Storms,3,3109
+Vermont,Rutland,Severe Storms,2,3051
+Vermont,Chittenden,Severe Storms,5,3048
+Vermont,Orange,Severe Storms,5,3050
+Vermont,Windsor,Severe Storms,2,3054
+Vermont,Washington,Severe Storms,4,3052
+Oklahoma,Creek,Severe Storms,2,818
+Oklahoma,Harmon,Severe Storms,2,828
+Oklahoma,Haskell,Severe Storms,4,830
+Oklahoma,Muskogee,Severe Storms,4,850
+Oklahoma,Greer,Severe Storms,3,827
+Oklahoma,Jackson,Severe Storms,3,832
+Oklahoma,Sequoyah,Severe Storms,4,867
+Oklahoma,Tulsa,Severe Storms,2,871
+Oklahoma,Rogers,Severe Storms,3,865
+Oklahoma,Atoka,Severe Storms,2,802
+Oklahoma,Bryan,Severe Storms,2,806
+Oklahoma,Cherokee,Severe Storms,4,810
+Oklahoma,Adair,Severe Storms,4,800
+Oklahoma,Lincoln,Severe Storms,4,840
+Oklahoma,Caddo,Severe Storms,4,807
+Oklahoma,Carter,Severe Storms,1,809
+Oklahoma,Coal,Severe Storms,3,814
+Oklahoma,Canadian,Severe Storms,3,808
+Oklahoma,Cleveland,Severe Storms,1,813
+Oklahoma,Garvin,Severe Storms,1,824
+Oklahoma,Delaware,Severe Storms,4,820
+Oklahoma,Comanche,Severe Storms,2,815
+Oklahoma,Grady,Severe Storms,3,825
+Oklahoma,Cotton,Severe Storms,2,816
+Oklahoma,Jefferson,Severe Storms,1,833
+Oklahoma,Hughes,Severe Storms,2,831
+Oklahoma,Kiowa,Severe Storms,4,837
+Oklahoma,Latimer,Severe Storms,2,838
+Oklahoma,Logan,Severe Storms,3,841
+Oklahoma,Love,Severe Storms,2,842
+Oklahoma,McClain,Severe Storms,1,843
+Oklahoma,Johnston,Severe Storms,1,834
+Oklahoma,McIntosh,Severe Storms,2,845
+Oklahoma,Oklahoma,Severe Storms,1,854
+Oklahoma,Okmulgee,Severe Storms,4,855
+Oklahoma,Okfuskee,Severe Storms,4,853
+Oklahoma,Pittsburg,Severe Storms,5,860
+Oklahoma,Murray,Severe Storms,1,849
+Oklahoma,Marshall,Severe Storms,1,847
+Oklahoma,Mayes,Severe Storms,4,848
+Oklahoma,Pontotoc,Severe Storms,1,861
+Oklahoma,Pottawatomie,Severe Storms,2,862
+Oklahoma,Ottawa,Severe Storms,5,857
+Oklahoma,Tillman,Severe Storms,4,870
+Texas,Atascosa,Severe Storms,1,286
+Texas,Austin,Severe Storms,1,287
+Oklahoma,Seminole,Severe Storms,1,866
+Oklahoma,Stephens,Severe Storms,2,868
+Texas,Bosque,Severe Storms,2,294
+Texas,Burleson,Severe Storms,1,300
+Oklahoma,Wagoner,Severe Storms,2,872
+Texas,Baylor,Severe Storms,1,924
+Texas,Archer,Severe Storms,1,921
+Texas,Clay,Severe Storms,1,934
+Texas,Brown,Severe Storms,1,299
+Texas,Colorado,Severe Storms,1,309
+Texas,Comal,Severe Storms,2,310
+Texas,Cass,Severe Storms,2,931
+Texas,Coryell,Severe Storms,1,313
+Texas,Callahan,Severe Storms,1,928
+Texas,Duval,Severe Storms,1,319
+Texas,Delta,Severe Storms,2,945
+Texas,Collingsworth,Severe Storms,2,937
+Texas,Dickens,Severe Storms,2,947
+Texas,Edwards,Severe Storms,1,321
+Texas,DeWitt,Severe Storms,1,317
+Texas,Comanche,Severe Storms,1,311
+Texas,Garza,Severe Storms,1,958
+Texas,Gillespie,Severe Storms,1,329
+Texas,Hardin,Severe Storms,2,336
+Texas,Gonzales,Severe Storms,1,332
+Texas,Hall,Severe Storms,2,963
+Texas,Hartley,Severe Storms,1,967
+Texas,Hill,Severe Storms,2,340
+Texas,Grimes,Severe Storms,1,333
+Texas,Jack,Severe Storms,1,977
+Texas,Hopkins,Severe Storms,2,973
+Texas,Leon,Severe Storms,2,361
+Texas,Houston,Severe Storms,1,341
+Texas,Jones,Severe Storms,2,979
+Texas,Kaufman,Severe Storms,2,980
+Texas,Kendall,Severe Storms,1,351
+Texas,Lamar,Severe Storms,1,984
+Texas,Lee,Severe Storms,1,360
+Texas,Jasper,Severe Storms,2,345
+Texas,Newton,Severe Storms,2,382
+Texas,Lynn,Severe Storms,1,988
+Texas,Lubbock,Severe Storms,2,987
+Texas,McLennan,Severe Storms,1,368
+Texas,Parker,Severe Storms,1,1001
+Texas,Orange,Severe Storms,1,384
+Texas,Nacogdoches,Severe Storms,1,380
+Texas,Robertson,Severe Storms,1,392
+Texas,Sabine,Severe Storms,1,394
+Texas,Real,Severe Storms,1,389
+Texas,San Jacinto,Severe Storms,1,396
+Texas,Refugio,Severe Storms,1,391
+Texas,Somervell,Severe Storms,1,1014
+Texas,Polk,Severe Storms,1,386
+Texas,Palo Pinto,Severe Storms,1,999
+Texas,Starr,Severe Storms,1,401
+Texas,Victoria,Severe Storms,1,412
+Texas,San Augustine,Severe Storms,1,395
+Texas,Throckmorton,Severe Storms,1,1021
+Texas,Tom Green,Severe Storms,1,405
+Texas,Tarrant,Severe Storms,1,1018
+Texas,Waller,Severe Storms,1,414
+Texas,Young,Severe Storms,1,1031
+Texas,Zavala,Severe Storms,1,424
+Texas,Fort Bend,Severe Storms,1,325
+Texas,Washington,Severe Storms,1,416
+Texas,Wilson,Severe Storms,2,421
+Texas,Uvalde,Severe Storms,1,410
+Texas,Tyler,Severe Storms,1,408
+Texas,Guadalupe,Severe Storms,2,334
+Texas,Montgomery,Severe Storms,1,379
+Texas,Angelina,Severe Storms,1,284
+Texas,Blanco,Severe Storms,1,293
+Texas,Bastrop,Severe Storms,2,289
+Texas,Bowie,Severe Storms,1,926
+Texas,Brazoria,Severe Storms,2,295
+Texas,Cooke,Severe Storms,1,938
+Texas,Dallas,Severe Storms,2,942
+Texas,Cherokee,Severe Storms,1,306
+Texas,Denton,Severe Storms,1,946
+Texas,Erath,Severe Storms,1,951
+Texas,Eastland,Severe Storms,1,949
+Texas,Ellis,Severe Storms,2,950
+Texas,Fannin,Severe Storms,1,952
+Texas,Fayette,Severe Storms,1,324
+Texas,Gaines,Severe Storms,1,957
+Texas,Grayson,Severe Storms,1,960
+Texas,Harris,Severe Storms,2,337
+Texas,Frio,Severe Storms,1,327
+Texas,Harrison,Severe Storms,2,966
+Texas,Hidalgo,Severe Storms,2,339
+Texas,Jim Wells,Severe Storms,1,349
+Texas,Milam,Severe Storms,1,377
+Texas,Henderson,Severe Storms,2,970
+Texas,Montague,Severe Storms,1,992
+Texas,Navarro,Severe Storms,3,381
+Texas,Liberty,Severe Storms,2,362
+Texas,Hood,Severe Storms,1,972
+Texas,Smith,Severe Storms,2,1013
+Texas,Nueces,Severe Storms,1,383
+Texas,Johnson,Severe Storms,1,978
+Texas,Madison,Severe Storms,1,370
+Texas,Shelby,Severe Storms,1,400
+Texas,Red River,Severe Storms,2,1006
+Texas,Walker,Severe Storms,3,413
+Texas,Rusk,Severe Storms,1,1009
+Texas,Wharton,Severe Storms,1,418
+Texas,Williamson,Severe Storms,1,420
+Texas,Trinity,Severe Storms,2,407
+Texas,Wichita,Severe Storms,1,1026
+Texas,Van Zandt,Severe Storms,2,1024
+Texas,Wise,Severe Storms,1,1028
+Nebraska,Arthur,Severe Storms,1,688
+Nebraska,Box Butte,Severe Storms,2,692
+Nebraska,Hayes,Severe Storms,1,728
+Nebraska,Dundy,Severe Storms,1,714
+Nebraska,Gage,Severe Storms,2,719
+Nebraska,Clay,Severe Storms,1,703
+Nebraska,Johnson,Severe Storms,1,734
+Nebraska,Fillmore,Severe Storms,2,715
+Nebraska,Lancaster,Severe Storms,1,740
+Nebraska,Jefferson,Severe Storms,2,733
+Nebraska,Lincoln,Severe Storms,1,741
+Nebraska,Morrill,Severe Storms,2,747
+Nebraska,Nuckolls,Severe Storms,1,750
+Nebraska,Otoe,Severe Storms,1,751
+Nebraska,Richardson,Severe Storms,1,759
+Nebraska,Seward,Severe Storms,1,765
+Nebraska,Saunders,Severe Storms,2,763
+Nebraska,Saline,Severe Storms,1,761
+Nebraska,York,Severe Storms,1,778
+Arkansas,Clark,Severe Storms,1,1488
+Arkansas,Hempstead,Severe Storms,1,428
+Arkansas,Dallas,Severe Storms,2,1497
+Arkansas,Franklin,Severe Storms,2,427
+Nebraska,Thayer,Severe Storms,1,770
+Arkansas,Logan,Severe Storms,2,431
+Arkansas,Lafayette,Severe Storms,1,1511
+Arkansas,Nevada,Severe Storms,1,1520
+Arkansas,Johnson,Severe Storms,1,1510
+Arkansas,Ouachita,Severe Storms,4,1522
+Arkansas,Pike,Severe Storms,2,1525
+Arkansas,Yell,Severe Storms,3,1540
+Arkansas,Sebastian,Severe Storms,2,436
+Arkansas,Crawford,Severe Storms,2,426
+Arkansas,Garland,Severe Storms,1,1502
+Arkansas,Little River,Severe Storms,2,430
+Arkansas,Perry,Severe Storms,3,1523
+Arkansas,Sevier,Severe Storms,2,437
+Arkansas,Miller,Severe Storms,1,433
+Arkansas,Jefferson,Severe Storms,2,1509
+Arkansas,Howard,Severe Storms,1,429
+Kansas,Atchison,Severe Storms,2,534
+Kansas,Brown,Severe Storms,2,538
+Kansas,Cheyenne,Severe Storms,2,543
+Kansas,Jackson,Severe Storms,1,574
+Kansas,Gray,Severe Storms,2,566
+Kansas,Miami,Severe Storms,2,592
+Kansas,Haskell,Severe Storms,1,572
+Kansas,Nemaha,Severe Storms,2,597
+New Jersey,Gloucester,Severe Storms,1,2813
+Kansas,Stevens,Severe Storms,1,626
+New Jersey,Burlington,Severe Storms,3,2808
+New Jersey,Camden,Severe Storms,2,2809
+South Dakota,Buffalo,Severe Storms,1,883
+South Dakota,Brule,Severe Storms,2,882
+South Dakota,Jerauld,Severe Storms,1,898
+South Dakota,Jones,Severe Storms,2,899
+South Dakota,Lyman,Severe Storms,1,904
+Iowa,Dallas,Severe Storms,3,497
+South Dakota,Stanley,Severe Storms,2,914
+Iowa,Guthrie,Severe Storms,2,503
+Iowa,Marion,Severe Storms,2,1854
+Iowa,Jefferson,Severe Storms,1,1845
+Iowa,Warren,Severe Storms,2,1866
+Iowa,Lucas,Severe Storms,1,1852
+Missouri,Audrain,Severe Storms,1,1884
+Missouri,Bates,Severe Storms,3,659
+Missouri,Christian,Severe Storms,1,1656
+Missouri,Caldwell,Severe Storms,2,661
+Missouri,Clay,Severe Storms,2,664
+Missouri,Benton,Severe Storms,2,1650
+Missouri,Buchanan,Severe Storms,2,660
+Missouri,Clinton,Severe Storms,1,665
+Missouri,Crawford,Severe Storms,1,1657
+Missouri,Cole,Severe Storms,2,1890
+Missouri,DeKalb,Severe Storms,1,668
+Missouri,Douglas,Severe Storms,3,1660
+Missouri,Henry,Severe Storms,3,671
+Missouri,Hickory,Severe Storms,3,1663
+Missouri,Johnson,Severe Storms,1,675
+Missouri,Lafayette,Severe Storms,2,676
+Missouri,Jefferson,Severe Storms,2,1666
+Missouri,Jackson,Severe Storms,2,673
+Missouri,Moniteau,Severe Storms,1,1904
+Missouri,Monroe,Severe Storms,2,1905
+Missouri,Oregon,Severe Storms,2,1673
+Missouri,Morgan,Severe Storms,1,1907
+Missouri,New Madrid,Severe Storms,3,1672
+Missouri,Platte,Severe Storms,2,681
+Missouri,Pettis,Severe Storms,1,1909
+Missouri,Polk,Severe Storms,2,1678
+Missouri,Ray,Severe Storms,2,682
+Missouri,St. Clair,Severe Storms,2,683
+Missouri,Pemiscot,Severe Storms,3,1675
+Missouri,Saline,Severe Storms,2,1916
+Missouri,Schuyler,Severe Storms,2,1917
+Missouri,Stone,Severe Storms,1,1687
+Missouri,Washington,Severe Storms,1,1690
+Kentucky,Bracken,Severe Storms,1,2419
+Kentucky,Cumberland,Severe Storms,2,2062
+Kentucky,Elliott,Severe Storms,2,2219
+Kentucky,Estill,Severe Storms,2,2065
+Kentucky,Clay,Severe Storms,4,2218
+Kentucky,Henry,Severe Storms,2,2426
+Kentucky,Jackson,Severe Storms,2,2074
+Kentucky,Lee,Severe Storms,2,2227
+Kentucky,Lewis,Severe Storms,2,2428
+Kentucky,Lincoln,Severe Storms,1,2079
+Kentucky,Letcher,Severe Storms,3,2229
+Kentucky,Nicholas,Severe Storms,2,2091
+Kentucky,Owsley,Severe Storms,3,2234
+Kentucky,Spencer,Severe Storms,1,2099
+Kentucky,Washington,Severe Storms,2,2102
+Kentucky,Rockcastle,Severe Storms,2,2094
+Kentucky,Robertson,Severe Storms,1,2433
+Kentucky,Leslie,Severe Storms,3,2228
+Kentucky,Perry,Severe Storms,3,2235
+Kentucky,Fleming,Severe Storms,1,2220
+Kentucky,Breathitt,Severe Storms,2,2216
+Kentucky,Carter,Severe Storms,2,2217
+Washington,Island,Severe Storms,4,112
+Washington,Whatcom,Severe Storms,2,129
+Washington,Jefferson,Severe Storms,4,113
+Texas,Galveston,Severe Storms,1,328
+Texas,Cameron,Severe Storms,1,304
+Texas,Willacy,Severe Storms,1,419
+Idaho,Benewah,Severe Storms,3,1043
+Idaho,Bonner,Severe Storms,3,1044
+Idaho,Boundary,Severe Storms,1,1045
+Idaho,Kootenai,Severe Storms,3,1048
+Mississippi,Tallahatchie,Severe Storms,4,1638
+Mississippi,Chickasaw,Severe Storms,5,1604
+Mississippi,Clay,Severe Storms,6,1606
+Mississippi,Benton,Severe Storms,1,1600
+Mississippi,Coahoma,Severe Storms,3,1607
+Mississippi,Monroe,Severe Storms,3,1624
+Mississippi,Panola,Severe Storms,4,1630
+Mississippi,Prentiss,Severe Storms,4,1632
+Mississippi,Tippah,Severe Storms,2,1640
+Washington,Chelan,Severe Storms,1,107
+Mississippi,Marshall,Severe Storms,1,1623
+Mississippi,Quitman,Severe Storms,4,1633
+Washington,Garfield,Severe Storms,1,1241
+Washington,Kittitas,Severe Storms,1,116
+Washington,Lincoln,Severe Storms,1,1243
+Washington,Pend Oreille,Severe Storms,2,1244
+Washington,Spokane,Severe Storms,2,1245
+Washington,Whitman,Severe Storms,1,1248
+Washington,Stevens,Severe Storms,1,1246
+Alabama,Autauga,Severe Storms,1,1965
+Alabama,Barbour,Severe Storms,2,1251
+Alabama,Chambers,Severe Storms,2,1968
+Alabama,Cherokee,Severe Storms,2,1969
+Alabama,Clay,Severe Storms,2,1971
+Alabama,Cleburne,Severe Storms,1,1972
+Alabama,Coffee,Severe Storms,2,1256
+Alabama,Colbert,Severe Storms,3,1464
+Alabama,Conecuh,Severe Storms,1,1257
+Alabama,Cullman,Severe Storms,4,1974
+Alabama,Elmore,Severe Storms,1,1977
+Alabama,Escambia,Severe Storms,1,1261
+Alabama,Henry,Severe Storms,2,1263
+Alabama,Fayette,Severe Storms,2,1465
+Alabama,Jackson,Severe Storms,3,1979
+Alabama,Lawrence,Severe Storms,1,1471
+Alabama,Lowndes,Severe Storms,1,1983
+Alabama,Macon,Severe Storms,2,1984
+Alabama,Marshall,Severe Storms,2,1986
+Alabama,Monroe,Severe Storms,1,1266
+Alabama,Pike,Severe Storms,2,1267
+Alabama,Russell,Severe Storms,1,1990
+Alabama,St. Clair,Severe Storms,2,1991
+Alabama,Walker,Severe Storms,2,1478
+Alabama,Marion,Severe Storms,3,1473
+Alabama,Winston,Severe Storms,2,1479
+Arkansas,Bradley,Severe Storms,2,1484
+Arkansas,Calhoun,Severe Storms,2,1485
+Arkansas,Drew,Severe Storms,1,1499
+Arkansas,Greene,Severe Storms,1,1504
+Arkansas,Mississippi,Severe Storms,2,1517
+Arkansas,Washington,Severe Storms,2,438
+Arkansas,Lee,Severe Storms,1,1513
+Texas,Bailey,Severe Storms,1,923
+Texas,Castro,Severe Storms,1,932
+Texas,Childress,Severe Storms,1,933
+Texas,Cochran,Severe Storms,1,935
+Texas,Borden,Severe Storms,1,925
+Texas,Cottle,Severe Storms,1,939
+Texas,Crosby,Severe Storms,1,940
+Texas,Deaf Smith,Severe Storms,1,944
+Texas,Donley,Severe Storms,1,948
+Texas,Fisher,Severe Storms,1,953
+Texas,Floyd,Severe Storms,1,954
+Texas,Foard,Severe Storms,1,955
+Texas,Franklin,Severe Storms,1,956
+Texas,Haskell,Severe Storms,1,968
+Texas,Hockley,Severe Storms,1,971
+Texas,Hardeman,Severe Storms,1,965
+Texas,Kent,Severe Storms,1,981
+Texas,King,Severe Storms,1,982
+Texas,Knox,Severe Storms,1,983
+Texas,Lamb,Severe Storms,1,985
+Texas,Motley,Severe Storms,1,995
+Texas,Nolan,Severe Storms,1,996
+Texas,Parmer,Severe Storms,1,1002
+Texas,Rains,Severe Storms,1,1004
+Texas,Rockwall,Severe Storms,1,1008
+Texas,Scurry,Severe Storms,1,1010
+Texas,Shackelford,Severe Storms,1,1011
+Texas,Stonewall,Severe Storms,1,1016
+Texas,Terry,Severe Storms,1,1020
+Texas,Titus,Severe Storms,1,1022
+Texas,Wheeler,Severe Storms,1,1025
+Texas,Wilbarger,Severe Storms,1,1027
+Oklahoma,Osage,Severe Storms,3,856
+Oregon,Clackamas,Severe Storms,2,80
+Oregon,Columbia,Severe Storms,2,82
+Oregon,Curry,Severe Storms,2,85
+Oregon,Douglas,Severe Storms,2,87
+Oregon,Coos,Severe Storms,2,83
+Oregon,Clatsop,Severe Storms,1,81
+Alaska,Aleutians West,Severe Storms,1,2
+Oregon,Multnomah,Severe Storms,1,99
+Oregon,Polk,Severe Storms,2,100
+Oregon,Washington,Severe Storms,1,104
+Oregon,Tillamook,Severe Storms,1,102
+Oregon,Yamhill,Severe Storms,2,106
+Georgia,Carroll,Severe Storms,1,1997
+Georgia,Chattahoochee,Severe Storms,1,1999
+Georgia,Crawford,Severe Storms,1,2005
+Georgia,Dade,Severe Storms,1,2006
+Georgia,Baker,Severe Storms,2,1335
+Georgia,Decatur,Severe Storms,1,1351
+Georgia,Douglas,Severe Storms,1,2009
+Georgia,Gilmer,Severe Storms,2,2015
+Georgia,Greene,Severe Storms,1,2174
+Georgia,Harris,Severe Storms,1,2019
+Georgia,Jeff Davis,Severe Storms,1,1358
+Georgia,Lamar,Severe Storms,1,2022
+Georgia,Macon,Severe Storms,1,2024
+Georgia,Marion,Severe Storms,1,2025
+Georgia,Fannin,Severe Storms,2,2010
+Georgia,Morgan,Severe Storms,1,2191
+Georgia,Muscogee,Severe Storms,1,2029
+Georgia,Montgomery,Severe Storms,1,2190
+Georgia,Meriwether,Severe Storms,1,2026
+Georgia,Fayette,Severe Storms,1,2011
+Georgia,Newton,Severe Storms,1,2192
+Georgia,Haralson,Severe Storms,1,2018
+Georgia,Pickens,Severe Storms,2,2031
+Georgia,Stewart,Severe Storms,1,1371
+Georgia,Talbot,Severe Storms,1,2037
+Georgia,Taliaferro,Severe Storms,1,2202
+Georgia,Oglethorpe,Severe Storms,1,2194
+Georgia,Taylor,Severe Storms,1,2038
+Georgia,Towns,Severe Storms,1,2204
+Georgia,Troup,Severe Storms,1,2039
+Georgia,Union,Severe Storms,1,2040
+Georgia,Upson,Severe Storms,1,2041
+Georgia,Webster,Severe Storms,1,1381
+Georgia,Wilkes,Severe Storms,1,2211
+New Jersey,Bergen,Severe Storms,2,2807
+New Jersey,Cape May,Severe Storms,1,2810
+New Jersey,Hudson,Severe Storms,1,3021
+New Jersey,Essex,Severe Storms,2,2812
+New Jersey,Hunterdon,Severe Storms,1,2814
+New Jersey,Mercer,Severe Storms,1,2815
+New Jersey,Middlesex,Severe Storms,1,2816
+New Jersey,Monmouth,Severe Storms,1,2817
+New Jersey,Morris,Severe Storms,2,2818
+New Jersey,Ocean,Severe Storms,1,2819
+New Jersey,Somerset,Severe Storms,2,2822
+New Jersey,Union,Severe Storms,1,2824
+New Jersey,Warren,Severe Storms,1,2825
+Arkansas,Arkansas,Severe Storms,1,1480
+Arkansas,Ashley,Severe Storms,1,1481
+Arkansas,Chicot,Severe Storms,1,1487
+Arkansas,Cleveland,Severe Storms,1,1491
+Arkansas,Columbia,Severe Storms,1,1492
+Arkansas,Desha,Severe Storms,1,1498
+Arkansas,Lincoln,Severe Storms,1,1514
+Arkansas,Phillips,Severe Storms,1,1524
+Arkansas,Prairie,Severe Storms,2,1528
+Montana,Glacier,Severe Storms,1,1114
+Montana,Liberty,Severe Storms,1,1122
+Montana,Teton,Severe Storms,1,1146
+Montana,Pondera,Severe Storms,1,1133
+Montana,Toole,Severe Storms,1,1147
+Wisconsin,Burnett,Severe Storms,1,3116
+Wisconsin,Sawyer,Severe Storms,1,3138
+Wisconsin,Iron,Severe Storms,1,3125
+Wisconsin,Florence,Severe Storms,1,3123
+Wisconsin,Washburn,Severe Storms,1,3142
+Kentucky,Calloway,Severe Storms,1,1566
+Kentucky,Butler,Severe Storms,3,2058
+Kentucky,Christian,Severe Storms,1,1568
+Kentucky,Daviess,Severe Storms,1,2063
+Kentucky,Edmonson,Severe Storms,2,2064
+Kentucky,Crittenden,Severe Storms,2,1569
+Kentucky,Hopkins,Severe Storms,1,1574
+Kentucky,Hart,Severe Storms,1,2073
+Kentucky,Caldwell,Severe Storms,1,1565
+Kentucky,Livingston,Severe Storms,2,1575
+Kentucky,Lyon,Severe Storms,1,1576
+Kentucky,Todd,Severe Storms,1,1580
+Kentucky,Trigg,Severe Storms,2,1581
+Kentucky,Marshall,Severe Storms,2,1579
+Kentucky,Webster,Severe Storms,2,1583
+Kentucky,Union,Severe Storms,3,1582
+Kentucky,Metcalfe,Severe Storms,3,2086
+Kansas,Ellis,Severe Storms,1,557
+Kansas,Graham,Severe Storms,1,564
+Kansas,Norton,Severe Storms,1,600
+Kansas,Rooks,Severe Storms,1,613
+Kansas,Phillips,Severe Storms,2,605
+Georgia,Early,Severe Storms,1,1353
+Georgia,Turner,Severe Storms,1,1378
+Georgia,Worth,Severe Storms,1,1384
+Georgia,Dougherty,Severe Storms,1,1352
+Georgia,Mitchell,Severe Storms,1,1366
+Georgia,Calhoun,Severe Storms,1,1341
+Oregon,Josephine,Severe Storms,2,92
+South Dakota,Clark,Severe Storms,2,1214
+South Dakota,Edmunds,Severe Storms,1,1220
+South Dakota,Faulk,Severe Storms,1,1221
+South Dakota,Day,Severe Storms,2,1217
+South Dakota,McPherson,Severe Storms,1,1225
+South Dakota,Marshall,Severe Storms,1,1226
+South Dakota,Roberts,Severe Storms,1,1229
+South Dakota,Sully,Severe Storms,1,1231
+Oklahoma,Harper,Severe Storms,2,829
+Oklahoma,Texas,Severe Storms,2,869
+California,Alameda,Severe Storms,1,30
+California,Butte,Severe Storms,2,32
+California,Calaveras,Severe Storms,2,33
+California,Contra Costa,Severe Storms,1,35
+California,Amador,Severe Storms,2,31
+California,El Dorado,Severe Storms,2,37
+California,Inyo,Severe Storms,1,149
+California,Humboldt,Severe Storms,2,39
+California,Marin,Severe Storms,3,43
+California,Lake,Severe Storms,2,41
+California,Merced,Severe Storms,1,46
+California,Mendocino,Severe Storms,3,45
+California,Mono,Severe Storms,1,153
+California,Lassen,Severe Storms,1,42
+California,Napa,Severe Storms,3,49
+California,Monterey,Severe Storms,2,48
+California,San Luis Obispo,Severe Storms,1,57
+California,Placer,Severe Storms,1,51
+California,Plumas,Severe Storms,1,52
+California,Santa Clara,Severe Storms,1,60
+California,Nevada,Severe Storms,1,50
+California,Santa Cruz,Severe Storms,1,61
+California,Sacramento,Severe Storms,1,53
+California,Shasta,Severe Storms,2,62
+California,San Benito,Severe Storms,1,54
+California,Solano,Severe Storms,1,65
+California,Trinity,Severe Storms,3,70
+California,Yolo,Severe Storms,2,72
+California,Yuba,Severe Storms,1,73
+California,Siskiyou,Severe Storms,1,64
+California,Sonoma,Severe Storms,2,66
+California,Sutter,Severe Storms,1,68
+California,Tuolumne,Severe Storms,2,71
+California,Sierra,Severe Storms,1,63
+Nevada,Douglas,Severe Storms,2,211
+Nevada,Lyon,Severe Storms,1,218
+Nevada,Storey,Severe Storms,2,222
+Nevada,Washoe,Severe Storms,2,223
+Nevada,Carson City,Severe Storms,2,225
+Nevada,Churchill,Severe Storms,1,209
+Nevada,Humboldt,Severe Storms,1,215
+Nevada,Elko,Severe Storms,1,212
+Wyoming,Teton,Severe Storms,1,279
+Mississippi,Adams,Severe Storms,1,1433
+Mississippi,Calhoun,Severe Storms,3,1602
+Mississippi,Carroll,Severe Storms,4,1603
+Mississippi,Claiborne,Severe Storms,3,1435
+Mississippi,Holmes,Severe Storms,4,1611
+Mississippi,Jefferson,Severe Storms,1,1447
+Mississippi,Webster,Severe Storms,3,1646
+Mississippi,Yazoo,Severe Storms,4,1649
+Oklahoma,Cimarron,Severe Storms,1,812
+Arkansas,Conway,Severe Storms,1,1493
+Arkansas,Baxter,Severe Storms,1,1482
+Arkansas,Craighead,Severe Storms,1,1494
+Arkansas,Saline,Severe Storms,1,1532
+Tennessee,Blount,Severe Storms,1,2110
+Tennessee,Fayette,Severe Storms,1,1701
+Tennessee,Knox,Severe Storms,1,2126
+Tennessee,Loudon,Severe Storms,1,2128
+Tennessee,Morgan,Severe Storms,1,2137
+Tennessee,Putnam,Severe Storms,1,2141
+Tennessee,Jefferson,Severe Storms,1,2309
+Nebraska,Blaine,Severe Storms,1,690
+Tennessee,Rhea,Severe Storms,1,2142
+Tennessee,Shelby,Severe Storms,1,1720
+Tennessee,Smith,Severe Storms,1,2148
+Nebraska,Garfield,Severe Storms,1,721
+Nebraska,Gosper,Severe Storms,1,722
+Tennessee,Sevier,Severe Storms,1,2311
+Nebraska,Custer,Severe Storms,1,706
+Nebraska,Loup,Severe Storms,1,743
+Nebraska,Red Willow,Severe Storms,1,758
+Nebraska,Banner,Severe Storms,1,689
+Nebraska,Douglas,Severe Storms,1,713
+Nebraska,Dodge,Severe Storms,1,712
+Nebraska,Sarpy,Severe Storms,1,762
+Nebraska,Platte,Severe Storms,1,756
+Michigan,Bay,Severe Storms,1,2438
+Michigan,Gladwin,Severe Storms,1,2448
+Michigan,Midland,Severe Storms,1,2467
+Michigan,Isabella,Severe Storms,1,2455
+Oregon,Deschutes,Severe Storms,1,86
+Oregon,Hood River,Severe Storms,1,89
+New Hampshire,Coos,Severe Storms,2,3107
+Vermont,Bennington,Severe Storms,1,3046
+Vermont,Caledonia,Severe Storms,1,3047
+Iowa,Bremer,Severe Storms,1,1823
+Iowa,Dubuque,Severe Storms,1,1834
+Wisconsin,Buffalo,Severe Storms,1,1925
+Wisconsin,Jackson,Severe Storms,1,1936
+Wisconsin,Monroe,Severe Storms,1,1946
+Wisconsin,Lafayette,Severe Storms,1,1942
+Wisconsin,La Crosse,Severe Storms,1,1941
+Wisconsin,Trempealeau,Severe Storms,1,1956
+Kansas,Johnson,Severe Storms,1,577
+Kansas,Wyandotte,Severe Storms,2,636
+Alaska,North Slope,Severe Storms,1,18
+Maine,Franklin,Severe Storms,1,3056
+Maine,Lincoln,Severe Storms,1,2993
+Maine,Oxford,Severe Storms,1,2994
+Maine,Penobscot,Severe Storms,1,3058
+Maine,Piscataquis,Severe Storms,1,3059
+Maine,Kennebec,Severe Storms,1,2991
+Maine,Hancock,Severe Storms,1,3057
+Maine,Somerset,Severe Storms,1,3060
+Maine,Waldo,Severe Storms,1,2996
+Vermont,Grand Isle,Severe Storms,2,3111
+Vermont,Windham,Severe Storms,1,3053
+Alabama,Calhoun,Severe Storms,2,1967
+North Carolina,Rockingham,Severe Storms,1,2657
+North Carolina,Guilford,Severe Storms,1,2630
+New Jersey,Passaic,Severe Storms,1,2820
+Maryland,Frederick,Severe Storms,1,2794
+Maryland,Washington,Severe Storms,1,2803
+Iowa,Adair,Severe Storms,1,485
+Iowa,Cerro Gordo,Severe Storms,1,1827
+Iowa,Emmet,Severe Storms,1,500
+Iowa,Humboldt,Severe Storms,1,507
+Iowa,Kossuth,Severe Storms,1,509
+Iowa,Hancock,Severe Storms,1,505
+Iowa,Pocahontas,Severe Storms,1,520
+Iowa,Polk,Severe Storms,2,1859
+Iowa,Woodbury,Severe Storms,1,530
+Nebraska,Boyd,Severe Storms,1,693
+Nebraska,Colfax,Severe Storms,1,704
+Nebraska,Logan,Severe Storms,1,742
+Nebraska,Thomas,Severe Storms,1,771
+Iowa,Van Buren,Severe Storms,1,1864
+Pennsylvania,Columbia,Severe Storms,1,2887
+Pennsylvania,Lycoming,Severe Storms,1,2909
+Pennsylvania,Lackawanna,Severe Storms,1,2903
+Pennsylvania,Montour,Severe Storms,1,2915
+Pennsylvania,Northampton,Severe Storms,1,2916
+Pennsylvania,Bradford,Severe Storms,1,2876
+Pennsylvania,Schuylkill,Severe Storms,1,2922
+Pennsylvania,Wyoming,Severe Storms,1,2934
+Pennsylvania,Susquehanna,Severe Storms,1,2926
+Pennsylvania,Tioga,Severe Storms,1,2927
+Pennsylvania,Sullivan,Severe Storms,1,2925
+Mississippi,Clarke,Severe Storms,3,1436
+Mississippi,Covington,Severe Storms,4,1438
+Mississippi,Noxubee,Severe Storms,2,1628
+Mississippi,Jasper,Severe Storms,3,1446
+Washington,Pacific,Severe Storms,2,121
+Alabama,Madison,Severe Storms,1,1985
+Alabama,Morgan,Severe Storms,1,1988
+Alabama,Greene,Severe Storms,2,1467
+Kentucky,Bell,Severe Storms,2,2214
+Kentucky,Boyd,Severe Storms,2,2215
+Kentucky,Carlisle,Severe Storms,1,1567
+Kentucky,Casey,Severe Storms,1,2059
+Kentucky,Greenup,Severe Storms,1,2424
+Kentucky,Fulton,Severe Storms,1,1570
+Kentucky,Hancock,Severe Storms,1,2071
+Kentucky,Henderson,Severe Storms,2,1572
+Kentucky,Harlan,Severe Storms,2,2222
+Kentucky,Hickman,Severe Storms,2,1573
+Kentucky,Knox,Severe Storms,2,2225
+Kentucky,McCracken,Severe Storms,2,1577
+Kentucky,McCreary,Severe Storms,2,2081
+Kentucky,Madison,Severe Storms,1,2082
+Kentucky,Marion,Severe Storms,1,2083
+Kentucky,Owen,Severe Storms,1,2431
+Kentucky,Powell,Severe Storms,2,2237
+Kentucky,Whitley,Severe Storms,2,2104
+Kentucky,Wayne,Severe Storms,1,2103
+Mississippi,Alcorn,Severe Storms,2,1598
+Mississippi,Grenada,Severe Storms,3,1609
+Mississippi,Lafayette,Severe Storms,2,1616
+Mississippi,Leflore,Severe Storms,2,1620
+Mississippi,Pontotoc,Severe Storms,2,1631
+Mississippi,Tishomingo,Severe Storms,2,1641
+Mississippi,Sunflower,Severe Storms,3,1637
+Mississippi,Washington,Severe Storms,2,1645
+Mississippi,Union,Severe Storms,1,1643
+Mississippi,Yalobusha,Severe Storms,2,1648
+Mississippi,Issaquena,Severe Storms,2,1613
+Mississippi,Sharkey,Severe Storms,2,1636
+Mississippi,Humphreys,Severe Storms,1,1612
+California,Mariposa,Severe Storms,2,44
+California,Modoc,Severe Storms,1,47
+California,Colusa,Severe Storms,2,34
+California,Santa Barbara,Severe Storms,1,59
+California,Riverside,Severe Storms,1,155
+California,Del Norte,Severe Storms,1,36
+Oregon,Jefferson,Severe Storms,1,91
+California,Glenn,Severe Storms,1,38
+California,Tehama,Severe Storms,1,69
+Oklahoma,Payne,Severe Storms,1,859
+Oklahoma,Pawnee,Severe Storms,1,858
+Oklahoma,Washington,Severe Storms,1,873
+Louisiana,Lincoln,Severe Storms,1,1590
+Louisiana,Union,Severe Storms,1,1595
+Louisiana,Morehouse,Severe Storms,1,1592
+Kansas,Lincoln,Severe Storms,1,584
+Kansas,Smith,Severe Storms,1,623
+Kansas,Wallace,Severe Storms,1,631
+Mississippi,Kemper,Severe Storms,1,1615
+Mississippi,Oktibbeha,Severe Storms,3,1629
+Missouri,Bollinger,Severe Storms,1,1651
+Missouri,Cooper,Severe Storms,1,1891
+Missouri,Dunklin,Severe Storms,2,1661
+Missouri,Gasconade,Severe Storms,1,1893
+Missouri,Howell,Severe Storms,2,1664
+Missouri,Mississippi,Severe Storms,1,1671
+Missouri,Randolph,Severe Storms,1,1913
+Missouri,Scott,Severe Storms,1,1684
+Missouri,Vernon,Severe Storms,1,684
+Missouri,St. Louis City,Severe Storms,1,1922
+Missouri,Wayne,Severe Storms,2,1691
+Missouri,Greene,Severe Storms,1,1662
+Missouri,Boone,Severe Storms,1,1885
+Missouri,Carroll,Severe Storms,1,1887
+Missouri,Newton,Severe Storms,1,679
+Missouri,Jasper,Severe Storms,1,674
+South Dakota,Gregory,Severe Storms,2,890
+South Dakota,Tripp,Severe Storms,1,916
+South Dakota,Miner,Severe Storms,1,908
+South Dakota,Sanborn,Severe Storms,1,912
+South Dakota,Hanson,Severe Storms,1,893
+South Dakota,Charles Mix,Severe Storms,1,884
+South Dakota,Brookings,Severe Storms,1,881
+South Dakota,Davison,Severe Storms,1,887
+South Dakota,Aurora,Severe Storms,1,877
+South Dakota,Lake,Severe Storms,1,901
+South Dakota,Moody,Severe Storms,1,910
+South Dakota,Yankton,Severe Storms,1,919
+Mississippi,Choctaw,Severe Storms,3,1605
+Mississippi,Neshoba,Severe Storms,1,1626
+Mississippi,Scott,Severe Storms,1,1635
+Mississippi,Smith,Severe Storms,3,1458
+Tennessee,Benton,Severe Storms,2,1694
+New York,Chenango,Severe Storms,1,2832
+New York,Cortland,Severe Storms,1,2833
+Tennessee,Humphreys,Severe Storms,2,1710
+New York,Essex,Severe Storms,1,3026
+New York,Fulton,Severe Storms,1,2837
+Tennessee,Hardin,Severe Storms,2,1704
+Tennessee,Henderson,Severe Storms,2,1706
+Tennessee,Wayne,Severe Storms,1,1723
+New York,Erie,Severe Storms,1,2835
+New York,Jefferson,Severe Storms,1,2842
+Tennessee,Montgomery,Severe Storms,1,1717
+New York,Hamilton,Severe Storms,1,2840
+New York,Montgomery,Severe Storms,1,2847
+New York,Oswego,Severe Storms,1,2854
+New York,Madison,Severe Storms,1,2845
+New York,Warren,Severe Storms,1,3037
+New York,Oneida,Severe Storms,1,2849
+New York,Saratoga,Severe Storms,1,3034
+New York,Tioga,Severe Storms,1,2863
+Mississippi,Bolivar,Severe Storms,2,1601
+Mississippi,DeSoto,Severe Storms,1,1608
+Mississippi,Tate,Severe Storms,1,1639
+Mississippi,Tunica,Severe Storms,1,1642
+Mississippi,Lawrence,Severe Storms,2,1451
+Mississippi,Walthall,Severe Storms,1,1460
+Mississippi,Hinds,Severe Storms,1,1610
+Mississippi,Attala,Severe Storms,1,1599
+Mississippi,Wilkinson,Severe Storms,1,1462
+Mississippi,Copiah,Severe Storms,1,1437
+Kentucky,Monroe,Severe Storms,1,2087
+Tennessee,Campbell,Severe Storms,1,2112
+Tennessee,Scott,Severe Storms,1,2146
+Tennessee,Unicoi,Severe Storms,1,2313
+Tennessee,Washington,Severe Storms,1,2315
+North Carolina,Alexander,Severe Storms,2,2240
+North Carolina,Ashe,Severe Storms,2,2242
+North Carolina,Cherokee,Severe Storms,1,2106
+North Carolina,Pender,Severe Storms,1,2650
+North Carolina,Cleveland,Severe Storms,1,2249
+North Carolina,Mitchell,Severe Storms,1,2261
+North Carolina,Graham,Severe Storms,1,2251
+North Carolina,Madison,Severe Storms,1,2259
+North Carolina,Gaston,Severe Storms,1,2250
+North Carolina,Perquimans,Severe Storms,1,2651
+North Carolina,Randolph,Severe Storms,1,2654
+North Carolina,Polk,Severe Storms,1,2262
+North Carolina,Rutherford,Severe Storms,1,2263
+North Carolina,Stanly,Severe Storms,1,2661
+North Carolina,Stokes,Severe Storms,2,2662
+North Carolina,Swain,Severe Storms,1,2265
+North Carolina,Wayne,Severe Storms,1,2669
+North Carolina,Yadkin,Severe Storms,2,2269
+North Carolina,Yancey,Severe Storms,1,2270
+Alabama,Choctaw,Severe Storms,1,1254
+Alabama,Dallas,Severe Storms,1,1975
+Alabama,Wilcox,Severe Storms,1,1269
+Tennessee,Davidson,Severe Storms,1,2118
+Alabama,Randolph,Severe Storms,2,1989
+Tennessee,Dickson,Severe Storms,1,1699
+Tennessee,Dyer,Severe Storms,1,1700
+Tennessee,Lake,Severe Storms,1,1711
+Tennessee,Obion,Severe Storms,1,1718
+Mississippi,Amite,Severe Storms,1,1434
+Mississippi,George,Severe Storms,1,1441
+Missouri,Carter,Severe Storms,1,1655
+Mississippi,Pike,Severe Storms,1,1456
+Missouri,Butler,Severe Storms,1,1652
+Missouri,Ripley,Severe Storms,1,1681
+Alabama,Coosa,Severe Storms,1,1973
+Alabama,Tallapoosa,Severe Storms,1,1994
+Iowa,Boone,Severe Storms,1,488
+Iowa,Clinton,Severe Storms,1,1830
+Iowa,Scott,Severe Storms,1,1861
+North Dakota,Grand Forks,Severe Storms,1,1170
+Utah,Morgan,Severe Storms,1,255
+Utah,Salt Lake,Severe Storms,1,258
+Utah,Weber,Severe Storms,1,269
+North Carolina,Alleghany,Severe Storms,1,2241
+North Carolina,Beaufort,Severe Storms,1,2605
+North Carolina,Burke,Severe Storms,1,2245
+North Carolina,Edgecombe,Severe Storms,1,2624
+North Carolina,Duplin,Severe Storms,1,2622
+North Carolina,Davidson,Severe Storms,1,2620
+North Carolina,Caldwell,Severe Storms,1,2246
+North Carolina,Davie,Severe Storms,1,2621
+North Carolina,Iredell,Severe Storms,1,2254
+North Carolina,Sampson,Severe Storms,1,2659
+North Carolina,Wilson,Severe Storms,1,2670
+North Carolina,Robeson,Severe Storms,1,2656
+North Carolina,Rowan,Severe Storms,1,2658
+Idaho,Shoshone,Severe Storms,1,1053
+North Carolina,Hertford,Severe Storms,1,2633
+North Carolina,Wilkes,Severe Storms,1,2268
+Washington,Columbia,Severe Storms,1,1237
+Washington,Skagit,Severe Storms,1,124
+Washington,Cowlitz,Severe Storms,1,110
+Alabama,Bibb,Severe Storms,1,1463
+Alabama,Hale,Severe Storms,1,1468
+Alabama,Shelby,Severe Storms,1,1992
+Oregon,Marion,Severe Storms,1,98
+Georgia,Coweta,Severe Storms,1,2004
+Georgia,Gordon,Severe Storms,1,2016
+Georgia,Heard,Severe Storms,1,2020
+Georgia,Lumpkin,Severe Storms,1,2023
+Georgia,Rabun,Severe Storms,1,2198
+Georgia,White,Severe Storms,1,2210
+Florida,DeSoto,Severe Storms,1,1281
+Florida,Hardee,Severe Storms,1,1292
+Florida,Miami-Dade,Severe Storms,1,2597
+Florida,Monroe,Severe Storms,1,1310
+Florida,Alachua,Severe Storms,1,1270
+Florida,Lake,Severe Storms,1,1302
+Florida,Sumter,Severe Storms,1,1324
+Florida,Marion,Severe Storms,1,1309
+Michigan,Wayne,Severe Storms,1,2487
+Michigan,Washtenaw,Severe Storms,1,2486
