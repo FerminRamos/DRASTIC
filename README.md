@@ -1,6 +1,6 @@
 # DRASTIC Database Repository
 
-###### :exclamation: Current Obj: Pull 2000's-2022's FEMA data :exclamation:
+###### :exclamation: Current Obj: Pull 2000's-2022's FEMA data + Split data into 3 files for mapping changes over time :exclamation:
 
 
 <br>
@@ -20,9 +20,9 @@ Finally, all ArcGIS Pro software has been downloaded to the new work computer! R
 
   - [ ] Populate Repo w/ Data  ![](https://geps.dev/progress/45)
 
-- [ ] Pull FEMA Declaration Summaries data, to now include years 2000-2022.  ![](https://geps.dev/progress/0)
+- [X] Pull FEMA Declaration Summaries data, to now include years 2000-2022.  ![](https://geps.dev/progress/100)
 
-  - [ ] Re-populate old FEMA .shp files w/ data from 2000 - 2022  ![](https://geps.dev/progress/0)
+  - [ ] Split old FEMA .shp files into 3 separate files w/ data from 2000 - 2022  ![](https://geps.dev/progress/35)
   
   - [ ] Typhoon Data needed...  ![](https://geps.dev/progress/0)
 
