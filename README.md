@@ -1,6 +1,6 @@
 # DRASTIC Database Repository
 
-###### :exclamation: Current Obj: Map previous data onto new computer // define a structure for this repository :exclamation:
+###### :exclamation: Current Obj: Pull 2000's-2022's FEMA data :exclamation:
 
 
 <br>
