@@ -8,7 +8,8 @@
 
 #### :boom: Announcements :boom:
 📌 Finally, all ArcGIS Pro software has been downloaded to the new work computer! Ready to start importing data.
-📌 FEMA data expanded to include 2000-2022 datasets now
+
+📌 FEMA data expanded to include 2000-2022 datasets (previously only 2012-2022)
 
 <br>
 
