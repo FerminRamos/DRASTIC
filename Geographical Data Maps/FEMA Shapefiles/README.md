@@ -1,4 +1,4 @@
-### This section of the repo will undergo a MASSIVE reconstruction
+### This section (all the folders on top) will undergo a MASSIVE reconstruction
 
 Our goal is to create a file structue similar to this...a replica of how we want ArcGIS Pro to eventually store our data.
 ```
