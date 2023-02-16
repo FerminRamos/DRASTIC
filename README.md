@@ -1,6 +1,6 @@
 # DRASTIC Database Repository
 
-###### :exclamation: Current Obj: Map our 3 new FEMA files (2000-2022) in ArcGIS Pro :exclamation:
+###### :exclamation: Current Obj: "Map our 3 new FEMA grouped datasets (2000-2009, 2010-2019, 2020+)" :exclamation:
 
 
 <br>
@@ -23,17 +23,25 @@
 
 - [X] Pull FEMA Declaration Summaries data, to now include years 2000-2022.  ![](https://geps.dev/progress/100)
 
-  - [ ] Split old FEMA .shp files into 3 separate files w/ data from 2000 - 2022 + Map them  ![](https://geps.dev/progress/75)
+  - [X] Split old FEMA .shp files into 3 separate files w/ data from 2000 - 2022  ![](https://geps.dev/progress/100)
   
     - [X] Assigned FEMA 2000-2009 Data  ![](https://geps.dev/progress/100)
     
     - [X] Assigned FEMA 2010-2019 Data  ![](https://geps.dev/progress/100)
     
     - [X] Assigned FEMA 2020-2022 Data  ![](https://geps.dev/progress/100)
+ 
 
-    - [ ] Map our 3 new FEMA files  ![](https://geps.dev/progress/10)
+- [ ] Map our 3 new FEMA grouped datasets (2000-2009, 2010-2019, 2020+)  ![](https://geps.dev/progress/5)
+
+  - [ ] Create all 18 FEMA disaster types (bio,hurricane,etc.) in each FEMA grouped dataset.  ![](https://geps.dev/progress/00)
+
+  - [ ] Assign datapoints to all 18 FEMA disaster types, for group 2000-2009  ![](https://geps.dev/progress/00)
   
-  - [ ] Typhoon Data needed...  ![](https://geps.dev/progress/0)
+  - [ ] Assign datapoints to all 18 FEMA disaster types, for group 2010-2019  ![](https://geps.dev/progress/00)
+  
+  - [ ] Assign datapoints to all 18 FEMA disaster types, for group 2020+  ![](https://geps.dev/progress/00)
+
 
 - [ ] Upload Census Datasets (2000, 2010, 2020) as Estimates, not whole values.  ![](https://geps.dev/progress/0)
 
