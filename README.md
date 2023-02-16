@@ -35,6 +35,8 @@
   
   - [ ] Typhoon Data needed...  ![](https://geps.dev/progress/0)
 
+- [ ] Upload Census Datasets (2000, 2010, 2020) as Estimates, not whole values.  ![](https://geps.dev/progress/0)
+
 - [ ] Find new poss. datasets for Transportation, Education Rates, Etc. ![](https://geps.dev/progress/10)
 
 <br>
