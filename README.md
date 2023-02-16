@@ -24,6 +24,12 @@ Finally, all ArcGIS Pro software has been downloaded to the new work computer! R
 
   - [ ] Split old FEMA .shp files into 3 separate files w/ data from 2000 - 2022  ![](https://geps.dev/progress/35)
   
+    - [ ] Assigned FEMA 2000-2009 Data  ![](https://geps.dev/progress/30)
+    
+    - [ ] Assigned FEMA 2010-2019 Data  ![](https://geps.dev/progress/30)
+    
+    - [ ] Assigned FEMA 2020-2022 Data  ![](https://geps.dev/progress/30)
+  
   - [ ] Typhoon Data needed...  ![](https://geps.dev/progress/0)
 
 - [ ] Find new poss. datasets for Transportation, Education Rates, Etc. ![](https://geps.dev/progress/10)
