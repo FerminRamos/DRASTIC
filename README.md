@@ -1,6 +1,6 @@
 # DRASTIC Database Repository
 
-###### :exclamation: Current Obj: Pull 2000's-2022's FEMA data + Split data into 3 files for mapping changes over time :exclamation:
+###### :exclamation: Current Obj: Map our 3 new FEMA files (2000-2020) in ArcGIS Pro :exclamation:
 
 
 <br>
@@ -29,6 +29,8 @@ Finally, all ArcGIS Pro software has been downloaded to the new work computer! R
     - [X] Assigned FEMA 2010-2019 Data  ![](https://geps.dev/progress/100)
     
     - [X] Assigned FEMA 2020-2022 Data  ![](https://geps.dev/progress/100)
+
+    - [ ] Map our 3 new FEMA files  ![](https://geps.dev/progress/10)
   
   - [ ] Typhoon Data needed...  ![](https://geps.dev/progress/0)
 
