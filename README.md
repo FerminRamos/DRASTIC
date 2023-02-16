@@ -22,7 +22,7 @@
 
 - [X] Pull FEMA Declaration Summaries data, to now include years 2000-2022.  ![](https://geps.dev/progress/100)
 
-  - [ ] Split old FEMA .shp files into 3 separate files w/ data from 2000 - 2022  ![](https://geps.dev/progress/35)
+  - [ ] Split old FEMA .shp files into 3 separate files w/ data from 2000 - 2022 + Map them  ![](https://geps.dev/progress/75)
   
     - [X] Assigned FEMA 2000-2009 Data  ![](https://geps.dev/progress/100)
     
