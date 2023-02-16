@@ -1,14 +1,14 @@
 # DRASTIC Database Repository
 
-###### :exclamation: Current Obj: Map our 3 new FEMA files (2000-2020) in ArcGIS Pro :exclamation:
+###### :exclamation: Current Obj: Map our 3 new FEMA files (2000-2022) in ArcGIS Pro :exclamation:
 
 
 <br>
 
 
 #### :boom: Announcements :boom:
-Finally, all ArcGIS Pro software has been downloaded to the new work computer! Ready to start importing data.
-
+📌 Finally, all ArcGIS Pro software has been downloaded to the new work computer! Ready to start importing data.
+📌 FEMA data expanded to include 2000-2022 datasets now
 
 <br>
 
