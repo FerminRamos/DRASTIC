@@ -1,6 +1,6 @@
 # DRASTIC Database Repository
 
-###### :exclamation: Current Obj: "Map our 3 new FEMA grouped datasets (2000-2009, 2010-2019, 2020+)" :exclamation:
+###### :exclamation: Current Obj: Identify Reservation vs. County Datapoints in our FEMA datasets :exclamation:
 
 
 <br>
