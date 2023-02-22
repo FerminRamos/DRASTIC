@@ -1,0 +1,1130 @@
+﻿State,designatedArea,disasterType,Freq,FEMA_Object_ID
+Louisiana,Ascension,Hurricane,10,1387
+Louisiana,Assumption,Hurricane,12,1388
+Louisiana,Allen,Hurricane,12,1386
+Louisiana,Acadia,Hurricane,11,1385
+Louisiana,Cameron,Hurricane,12,1393
+Louisiana,Iberia,Hurricane,13,1400
+Louisiana,East Baton Rouge,Hurricane,10,1396
+Louisiana,Avoyelles,Hurricane,8,1389
+Louisiana,Jefferson Davis,Hurricane,11,1403
+Louisiana,Jefferson,Hurricane,11,1402
+Louisiana,Natchitoches,Hurricane,10,1408
+Louisiana,East Feliciana,Hurricane,10,1397
+Louisiana,Lafourche,Hurricane,12,1405
+Louisiana,Livingston,Hurricane,11,1407
+Louisiana,Morehouse,Hurricane,8,1592
+Louisiana,Orleans,Hurricane,11,1409
+Louisiana,Franklin,Hurricane,8,1588
+Louisiana,Iberville,Hurricane,10,1401
+Louisiana,St. Bernard,Hurricane,11,1415
+Louisiana,Plaquemines,Hurricane,12,1410
+Louisiana,Rapides,Hurricane,10,1412
+Louisiana,St. Charles,Hurricane,12,1416
+Louisiana,Pointe Coupee,Hurricane,10,1411
+Louisiana,Ouachita,Hurricane,8,1593
+Louisiana,St. Martin,Hurricane,11,1421
+Louisiana,St. Mary,Hurricane,12,1422
+Louisiana,St. John the Baptist,Hurricane,11,1419
+Louisiana,St. Tammany,Hurricane,10,1423
+Louisiana,Tangipahoa,Hurricane,11,1424
+Louisiana,Washington,Hurricane,10,1429
+Louisiana,St. Helena,Hurricane,11,1417
+Louisiana,St. James,Hurricane,10,1418
+Mississippi,Attala,Hurricane,2,1599
+Louisiana,Terrebonne,Hurricane,11,1426
+Mississippi,Carroll,Hurricane,2,1603
+Louisiana,West Baton Rouge,Hurricane,9,1430
+Mississippi,Clarke,Hurricane,3,1436
+Mississippi,Amite,Hurricane,5,1434
+Mississippi,Copiah,Hurricane,3,1437
+Mississippi,Covington,Hurricane,4,1438
+Mississippi,Hancock,Hurricane,9,1443
+Mississippi,Harrison,Hurricane,9,1444
+Mississippi,Forrest,Hurricane,6,1439
+Mississippi,Grenada,Hurricane,2,1609
+Mississippi,Greene,Hurricane,7,1442
+Mississippi,George,Hurricane,9,1441
+Mississippi,Holmes,Hurricane,2,1611
+Mississippi,Hinds,Hurricane,3,1610
+Mississippi,Lauderdale,Hurricane,2,1617
+Mississippi,Jackson,Hurricane,9,1445
+Mississippi,Lincoln,Hurricane,5,1452
+Mississippi,Madison,Hurricane,3,1622
+Mississippi,Jasper,Hurricane,2,1446
+Mississippi,Jefferson Davis,Hurricane,5,1448
+Mississippi,Lawrence,Hurricane,5,1451
+Mississippi,Montgomery,Hurricane,2,1625
+Mississippi,Marion,Hurricane,5,1453
+Mississippi,Lamar,Hurricane,5,1450
+Mississippi,Pearl River,Hurricane,7,1454
+Mississippi,Jones,Hurricane,5,1449
+Mississippi,Rankin,Hurricane,3,1634
+Mississippi,Perry,Hurricane,6,1455
+Mississippi,Stone,Hurricane,9,1459
+Mississippi,Wilkinson,Hurricane,5,1462
+Mississippi,Yazoo,Hurricane,3,1649
+Maryland,Calvert,Hurricane,3,2788
+Mississippi,Pike,Hurricane,5,1456
+Mississippi,Walthall,Hurricane,5,1460
+Maryland,Caroline,Hurricane,2,2789
+Maryland,Baltimore,Hurricane,2,2787
+Mississippi,Wayne,Hurricane,6,1461
+Maryland,Garrett,Hurricane,2,2795
+Maryland,Howard,Hurricane,2,2797
+Maryland,Anne Arundel,Hurricane,2,2786
+Maryland,Allegany,Hurricane,2,2785
+Maryland,Kent,Hurricane,2,2798
+Maryland,Montgomery,Hurricane,2,2799
+Maryland,Carroll,Hurricane,2,2790
+Maryland,Harford,Hurricane,2,2796
+Maryland,Cecil,Hurricane,2,2791
+Maryland,Charles,Hurricane,2,2792
+Maryland,Frederick,Hurricane,2,2794
+Maryland,Somerset,Hurricane,2,2601
+Maryland,Talbot,Hurricane,2,2802
+Maryland,St. Mary's,Hurricane,3,2600
+Maryland,Queen Anne's,Hurricane,2,2801
+Maryland,Washington,Hurricane,2,2803
+Maryland,Dorchester,Hurricane,3,2793
+Massachusetts,Bristol,Hurricane,2,3000
+Massachusetts,Berkshire,Hurricane,1,2999
+Maryland,Baltimore City,Hurricane,2,2805
+Massachusetts,Dukes,Hurricane,2,3001
+Massachusetts,Barnstable,Hurricane,2,2998
+Maryland,Wicomico,Hurricane,2,2804
+Maryland,Worcester,Hurricane,2,2602
+Maryland,Prince George's,Hurricane,2,2800
+Massachusetts,Essex,Hurricane,1,3002
+Massachusetts,Middlesex,Hurricane,1,3006
+Massachusetts,Nantucket,Hurricane,2,3007
+Massachusetts,Hampshire,Hurricane,1,3005
+Massachusetts,Plymouth,Hurricane,2,3009
+Massachusetts,Norfolk,Hurricane,1,3008
+Massachusetts,Suffolk,Hurricane,2,3010
+New York,Albany,Hurricane,1,3022
+Massachusetts,Franklin,Hurricane,1,3003
+Massachusetts,Hampden,Hurricane,1,3004
+New York,Bronx,Hurricane,2,3023
+Massachusetts,Worcester,Hurricane,1,3011
+New York,Broome,Hurricane,1,2827
+New York,Cattaraugus,Hurricane,1,2828
+New York,Chautauqua,Hurricane,1,2830
+New York,Chemung,Hurricane,1,2831
+New York,Allegany,Hurricane,1,2826
+New York,Chenango,Hurricane,1,2832
+New York,Clinton,Hurricane,1,3108
+New York,Cortland,Hurricane,1,2833
+New York,Dutchess,Hurricane,1,3025
+New York,Essex,Hurricane,1,3026
+New York,Delaware,Hurricane,1,2834
+New York,Fulton,Hurricane,1,2837
+New York,Greene,Hurricane,2,2839
+New York,Hamilton,Hurricane,1,2840
+New York,Erie,Hurricane,1,2835
+New York,Franklin,Hurricane,1,2836
+New York,Jefferson,Hurricane,1,2842
+New York,Cayuga,Hurricane,1,2829
+New York,Herkimer,Hurricane,1,2841
+New York,Columbia,Hurricane,1,3024
+New York,Genesee,Hurricane,1,2838
+New York,Kings,Hurricane,2,3027
+New York,Lewis,Hurricane,1,2843
+New York,Livingston,Hurricane,1,2844
+New York,Madison,Hurricane,1,2845
+New York,Monroe,Hurricane,1,2846
+New York,Montgomery,Hurricane,1,2847
+New York,Nassau,Hurricane,3,3028
+New York,New York,Hurricane,2,3029
+New York,Niagara,Hurricane,1,2848
+New York,Oneida,Hurricane,1,2849
+New York,Ontario,Hurricane,1,2851
+New York,Orleans,Hurricane,1,2853
+New York,Otsego,Hurricane,1,2855
+New York,Oswego,Hurricane,1,2854
+New York,Putnam,Hurricane,3,3030
+New York,Queens,Hurricane,3,3031
+New York,Onondaga,Hurricane,1,2850
+New York,Orange,Hurricane,2,2852
+New York,Rensselaer,Hurricane,1,3032
+New York,Richmond,Hurricane,3,2856
+New York,Rockland,Hurricane,3,3033
+New York,St. Lawrence,Hurricane,1,2857
+New York,Saratoga,Hurricane,1,3034
+New York,Schenectady,Hurricane,1,3035
+New York,Schoharie,Hurricane,1,2858
+New York,Schuyler,Hurricane,1,2859
+New York,Seneca,Hurricane,1,2860
+New York,Steuben,Hurricane,1,2861
+New York,Suffolk,Hurricane,3,3036
+New York,Tompkins,Hurricane,1,2864
+New York,Ulster,Hurricane,2,2865
+New York,Warren,Hurricane,1,3037
+New York,Wayne,Hurricane,1,2866
+New York,Wyoming,Hurricane,1,2867
+New York,Yates,Hurricane,1,2868
+District of Columbia,District of Columbia,Hurricane,2,2784
+Connecticut,Fairfield,Hurricane,4,2981
+Connecticut,Hartford,Hurricane,3,2982
+Connecticut,Litchfield,Hurricane,4,2983
+Connecticut,New Haven,Hurricane,4,2985
+Connecticut,New London,Hurricane,4,2986
+Connecticut,Windham,Hurricane,4,2988
+New Jersey,Atlantic,Hurricane,3,2806
+Connecticut,Middlesex,Hurricane,4,2984
+New Jersey,Bergen,Hurricane,3,2807
+New Jersey,Burlington,Hurricane,3,2808
+New Jersey,Camden,Hurricane,2,2809
+New Jersey,Cape May,Hurricane,3,2810
+Connecticut,Tolland,Hurricane,4,2987
+New Jersey,Gloucester,Hurricane,3,2813
+New Jersey,Hudson,Hurricane,2,3021
+New Jersey,Mercer,Hurricane,2,2815
+New Jersey,Essex,Hurricane,3,2812
+New Jersey,Middlesex,Hurricane,2,2816
+New Jersey,Monmouth,Hurricane,3,2817
+New Jersey,Morris,Hurricane,3,2818
+New Jersey,Passaic,Hurricane,2,2820
+New Jersey,Somerset,Hurricane,2,2822
+New Jersey,Sussex,Hurricane,3,2823
+New Jersey,Union,Hurricane,2,2824
+New Jersey,Warren,Hurricane,2,2825
+New Jersey,Salem,Hurricane,3,2821
+New Jersey,Hunterdon,Hurricane,2,2814
+New Jersey,Cumberland,Hurricane,3,2811
+Rhode Island,Bristol,Hurricane,2,3040
+Rhode Island,Kent,Hurricane,2,3041
+Rhode Island,Newport,Hurricane,2,3042
+New York,Washington,Hurricane,1,3038
+Rhode Island,Washington,Hurricane,2,3044
+Rhode Island,Providence,Hurricane,1,3043
+New York,Westchester,Hurricane,3,3039
+New York,Tioga,Hurricane,1,2863
+Pennsylvania,Adams,Hurricane,1,2869
+Pennsylvania,Beaver,Hurricane,1,2872
+Pennsylvania,Armstrong,Hurricane,1,2871
+Pennsylvania,Allegheny,Hurricane,1,2870
+Pennsylvania,Blair,Hurricane,1,2875
+New York,Sullivan,Hurricane,2,2862
+New Jersey,Ocean,Hurricane,2,2819
+Pennsylvania,Bedford,Hurricane,2,2873
+Pennsylvania,Bucks,Hurricane,2,2877
+Pennsylvania,Cambria,Hurricane,1,2879
+Pennsylvania,Bradford,Hurricane,1,2876
+Pennsylvania,Berks,Hurricane,1,2874
+Pennsylvania,Butler,Hurricane,1,2878
+Pennsylvania,Cameron,Hurricane,2,2880
+Pennsylvania,Chester,Hurricane,1,2883
+Pennsylvania,Clearfield,Hurricane,1,2885
+Pennsylvania,Carbon,Hurricane,1,2881
+Pennsylvania,Crawford,Hurricane,1,2888
+Pennsylvania,Delaware,Hurricane,1,2891
+Pennsylvania,Cumberland,Hurricane,1,2889
+Pennsylvania,Elk,Hurricane,1,2892
+Pennsylvania,Columbia,Hurricane,1,2887
+Pennsylvania,Centre,Hurricane,1,2882
+Pennsylvania,Clinton,Hurricane,1,2886
+Pennsylvania,Fayette,Hurricane,1,2894
+Pennsylvania,Clarion,Hurricane,1,2884
+Pennsylvania,Dauphin,Hurricane,2,2890
+Pennsylvania,Greene,Hurricane,1,2898
+Pennsylvania,Huntingdon,Hurricane,2,2899
+Pennsylvania,Indiana,Hurricane,1,2900
+Pennsylvania,Jefferson,Hurricane,1,2901
+Pennsylvania,Lawrence,Hurricane,1,2905
+Pennsylvania,Fulton,Hurricane,2,2897
+Pennsylvania,Juniata,Hurricane,2,2902
+Pennsylvania,Lehigh,Hurricane,1,2907
+Pennsylvania,Luzerne,Hurricane,1,2908
+Pennsylvania,Lackawanna,Hurricane,1,2903
+Pennsylvania,Forest,Hurricane,2,2895
+Pennsylvania,Erie,Hurricane,1,2893
+Pennsylvania,Mercer,Hurricane,1,2911
+Pennsylvania,Lancaster,Hurricane,1,2904
+Pennsylvania,Franklin,Hurricane,2,2896
+Pennsylvania,Lebanon,Hurricane,1,2906
+Pennsylvania,Monroe,Hurricane,2,2913
+Pennsylvania,Mifflin,Hurricane,1,2912
+Pennsylvania,Montour,Hurricane,1,2915
+Pennsylvania,McKean,Hurricane,1,2910
+Pennsylvania,Lycoming,Hurricane,1,2909
+Pennsylvania,Perry,Hurricane,1,2918
+Pennsylvania,Philadelphia,Hurricane,2,2919
+Pennsylvania,Northampton,Hurricane,2,2916
+Pennsylvania,Northumberland,Hurricane,1,2917
+Pennsylvania,Pike,Hurricane,2,2920
+Pennsylvania,Potter,Hurricane,2,2921
+Pennsylvania,Montgomery,Hurricane,2,2914
+Pennsylvania,Snyder,Hurricane,1,2923
+Pennsylvania,Somerset,Hurricane,2,2924
+Pennsylvania,Sullivan,Hurricane,2,2925
+Pennsylvania,Tioga,Hurricane,1,2927
+Pennsylvania,Schuylkill,Hurricane,1,2922
+Pennsylvania,Union,Hurricane,1,2928
+Pennsylvania,Susquehanna,Hurricane,1,2926
+Pennsylvania,Warren,Hurricane,1,2930
+Pennsylvania,Venango,Hurricane,1,2929
+Pennsylvania,Washington,Hurricane,1,2931
+Pennsylvania,Wayne,Hurricane,1,2932
+Pennsylvania,Wyoming,Hurricane,2,2934
+Pennsylvania,York,Hurricane,1,2935
+Pennsylvania,Westmoreland,Hurricane,1,2933
+Delaware,New Castle,Hurricane,3,2782
+West Virginia,Barbour,Hurricane,2,2959
+Delaware,Kent,Hurricane,3,2781
+West Virginia,Berkeley,Hurricane,1,2960
+West Virginia,Boone,Hurricane,2,2334
+West Virginia,Calhoun,Hurricane,1,2579
+Delaware,Sussex,Hurricane,2,2783
+West Virginia,Cabell,Hurricane,1,2578
+West Virginia,Fayette,Hurricane,2,2335
+West Virginia,Greenbrier,Hurricane,1,2779
+West Virginia,Clay,Hurricane,2,2580
+West Virginia,Brooke,Hurricane,1,2961
+West Virginia,Hancock,Hurricane,1,2964
+West Virginia,Braxton,Hurricane,2,2577
+West Virginia,Harrison,Hurricane,1,2966
+West Virginia,Jackson,Hurricane,1,2583
+West Virginia,Hardy,Hurricane,1,2965
+West Virginia,Grant,Hurricane,1,2962
+West Virginia,Jefferson,Hurricane,1,2967
+West Virginia,Lewis,Hurricane,2,2968
+West Virginia,Hampshire,Hurricane,1,2963
+West Virginia,Gilmer,Hurricane,1,2582
+West Virginia,Doddridge,Hurricane,1,2581
+West Virginia,Logan,Hurricane,1,2338
+West Virginia,McDowell,Hurricane,1,2339
+West Virginia,Lincoln,Hurricane,1,2337
+West Virginia,Mercer,Hurricane,1,2340
+West Virginia,Mineral,Hurricane,1,2970
+West Virginia,Mingo,Hurricane,1,2341
+West Virginia,Marion,Hurricane,1,2969
+West Virginia,Mason,Hurricane,1,2585
+West Virginia,Monroe,Hurricane,1,2780
+West Virginia,Monongalia,Hurricane,1,2971
+West Virginia,Kanawha,Hurricane,2,2336
+West Virginia,Marshall,Hurricane,1,2584
+West Virginia,Ohio,Hurricane,1,2586
+West Virginia,Pendleton,Hurricane,2,2973
+West Virginia,Morgan,Hurricane,1,2972
+West Virginia,Nicholas,Hurricane,2,2342
+West Virginia,Pocahontas,Hurricane,2,2974
+West Virginia,Preston,Hurricane,2,2975
+West Virginia,Pleasants,Hurricane,1,2587
+West Virginia,Randolph,Hurricane,2,2976
+West Virginia,Putnam,Hurricane,1,2588
+West Virginia,Raleigh,Hurricane,2,2343
+West Virginia,Ritchie,Hurricane,1,2589
+West Virginia,Roane,Hurricane,1,2590
+West Virginia,Summers,Hurricane,1,2344
+West Virginia,Tucker,Hurricane,2,2978
+West Virginia,Tyler,Hurricane,1,2591
+West Virginia,Upshur,Hurricane,2,2979
+West Virginia,Taylor,Hurricane,2,2977
+West Virginia,Webster,Hurricane,2,2980
+West Virginia,Wetzel,Hurricane,1,2592
+West Virginia,Wirt,Hurricane,1,2593
+West Virginia,Wayne,Hurricane,1,2345
+West Virginia,Wood,Hurricane,1,2594
+West Virginia,Wyoming,Hurricane,2,2346
+Virginia,Accomack,Hurricane,3,2687
+Virginia,Alleghany,Hurricane,2,2689
+Virginia,Albemarle,Hurricane,2,2688
+Virginia,Amherst,Hurricane,2,2691
+Virginia,Appomattox,Hurricane,3,2692
+Virginia,Amelia,Hurricane,3,2690
+Virginia,Arlington,Hurricane,3,2936
+Virginia,Augusta,Hurricane,2,2693
+Virginia,Bath,Hurricane,2,2694
+Virginia,Bedford,Hurricane,2,2695
+Virginia,Bland,Hurricane,2,2316
+Virginia,Botetourt,Hurricane,3,2696
+Virginia,Brunswick,Hurricane,3,2697
+Virginia,Buchanan,Hurricane,2,2317
+Virginia,Buckingham,Hurricane,2,2698
+Virginia,Caroline,Hurricane,2,2700
+Virginia,Carroll,Hurricane,2,2318
+Virginia,Charles City,Hurricane,3,2701
+Virginia,Charlotte,Hurricane,3,2702
+Virginia,Chesterfield,Hurricane,4,2703
+Virginia,Clarke,Hurricane,3,2937
+Virginia,Craig,Hurricane,4,2704
+Virginia,Culpeper,Hurricane,3,2938
+Virginia,Campbell,Hurricane,3,2699
+Virginia,Cumberland,Hurricane,3,2705
+Virginia,Dickenson,Hurricane,2,2319
+Virginia,Fairfax,Hurricane,2,2939
+Virginia,Fauquier,Hurricane,3,2940
+Virginia,Floyd,Hurricane,4,2708
+Virginia,Dinwiddie,Hurricane,3,2706
+Virginia,Essex,Hurricane,4,2707
+Virginia,Fluvanna,Hurricane,3,2709
+Virginia,Franklin,Hurricane,4,2710
+Virginia,Frederick,Hurricane,3,2941
+Virginia,Giles,Hurricane,2,2320
+Virginia,Gloucester,Hurricane,2,2711
+Virginia,Grayson,Hurricane,4,2321
+Virginia,Greene,Hurricane,3,2713
+Virginia,Greensville,Hurricane,2,2714
+Virginia,Halifax,Hurricane,4,2715
+Virginia,Goochland,Hurricane,2,2712
+Virginia,Hanover,Hurricane,2,2716
+Virginia,Henrico,Hurricane,2,2717
+Virginia,Henry,Hurricane,3,2718
+Virginia,Highland,Hurricane,3,2942
+Virginia,Isle of Wight,Hurricane,4,2719
+Virginia,James City,Hurricane,3,2720
+Virginia,King and Queen,Hurricane,5,2721
+Virginia,King George,Hurricane,2,2722
+Virginia,King William,Hurricane,4,2723
+Virginia,Lancaster,Hurricane,5,2724
+Virginia,Lee,Hurricane,2,2322
+Virginia,Loudoun,Hurricane,3,2943
+Virginia,Louisa,Hurricane,2,2725
+Virginia,Lunenburg,Hurricane,4,2726
+Virginia,Madison,Hurricane,3,2944
+Virginia,Mathews,Hurricane,4,2727
+Virginia,Mecklenburg,Hurricane,4,2728
+Virginia,Middlesex,Hurricane,4,2729
+Virginia,Montgomery,Hurricane,3,2730
+Virginia,Nelson,Hurricane,4,2731
+Virginia,New Kent,Hurricane,4,2732
+Virginia,Northampton,Hurricane,4,2733
+Virginia,Northumberland,Hurricane,5,2734
+Virginia,Orange,Hurricane,2,2736
+Virginia,Nottoway,Hurricane,4,2735
+Virginia,Pittsylvania,Hurricane,4,2738
+Virginia,Powhatan,Hurricane,3,2739
+Virginia,Prince Edward,Hurricane,3,2740
+Virginia,Prince George,Hurricane,2,2741
+Virginia,Patrick,Hurricane,3,2737
+Virginia,Page,Hurricane,2,2945
+Virginia,Pulaski,Hurricane,3,2323
+Virginia,Rappahannock,Hurricane,4,2947
+Virginia,Richmond,Hurricane,3,2742
+Virginia,Roanoke,Hurricane,3,2743
+Virginia,Prince William,Hurricane,3,2946
+Virginia,Rockingham,Hurricane,2,2948
+Virginia,Russell,Hurricane,3,2324
+Virginia,Scott,Hurricane,2,2325
+Virginia,Rockbridge,Hurricane,2,2744
+Virginia,Smyth,Hurricane,2,2326
+Virginia,Southampton,Hurricane,3,2745
+Virginia,Spotsylvania,Hurricane,2,2746
+Virginia,Shenandoah,Hurricane,3,2949
+Virginia,Stafford,Hurricane,2,2950
+Virginia,Surry,Hurricane,3,2747
+Virginia,Sussex,Hurricane,2,2748
+Virginia,Tazewell,Hurricane,2,2327
+Virginia,Warren,Hurricane,3,2951
+Virginia,Washington,Hurricane,2,2328
+Virginia,Westmoreland,Hurricane,4,2749
+Virginia,Wise,Hurricane,2,2329
+Virginia,Wythe,Hurricane,2,2330
+Virginia,York,Hurricane,2,2750
+Virginia,Alexandria,Hurricane,2,2952
+Virginia,Bristol,Hurricane,3,2331
+Virginia,Buena Vista,Hurricane,2,2751
+Virginia,Charlottesville,Hurricane,2,2752
+Virginia,Chesapeake,Hurricane,3,2753
+Virginia,Colonial Heights,Hurricane,2,2754
+Virginia,Covington,Hurricane,2,2755
+Virginia,Danville,Hurricane,4,2756
+Virginia,Emporia,Hurricane,2,2757
+Virginia,Fairfax City,Hurricane,3,2953
+Virginia,Falls Church,Hurricane,3,2954
+Virginia,Franklin City,Hurricane,4,2758
+Virginia,Galax,Hurricane,3,2332
+Virginia,Fredericksburg,Hurricane,2,2759
+Virginia,Hampton,Hurricane,4,2760
+Virginia,Harrisonburg,Hurricane,2,2955
+Virginia,Hopewell,Hurricane,2,2761
+Virginia,Lexington,Hurricane,2,2762
+Virginia,Lynchburg,Hurricane,2,2763
+Virginia,Manassas,Hurricane,3,2956
+Virginia,Manassas Park,Hurricane,2,2957
+Virginia,Martinsville,Hurricane,4,2764
+Virginia,Newport News,Hurricane,4,2765
+Virginia,Norfolk,Hurricane,3,2766
+Virginia,Norton,Hurricane,2,2333
+Virginia,Petersburg,Hurricane,2,2767
+Virginia,Poquoson,Hurricane,2,2768
+Virginia,Portsmouth,Hurricane,3,2769
+Virginia,Radford,Hurricane,2,2770
+Virginia,Richmond City,Hurricane,3,2771
+Virginia,Salem,Hurricane,2,2773
+Virginia,Staunton,Hurricane,2,2774
+Virginia,Suffolk,Hurricane,3,2775
+Virginia,Virginia Beach,Hurricane,3,2776
+Virginia,Waynesboro,Hurricane,2,2777
+Virginia,Roanoke City,Hurricane,3,2772
+Virginia,Williamsburg,Hurricane,3,2778
+Virginia,Winchester,Hurricane,2,2958
+New Hampshire,Belknap,Hurricane,2,3012
+New Hampshire,Carroll,Hurricane,2,3013
+New Hampshire,Cheshire,Hurricane,1,3014
+New Hampshire,Coos,Hurricane,2,3107
+New Hampshire,Hillsborough,Hurricane,1,3016
+New Hampshire,Merrimack,Hurricane,1,3017
+New Hampshire,Rockingham,Hurricane,2,3018
+New Hampshire,Strafford,Hurricane,1,3019
+New Hampshire,Grafton,Hurricane,2,3015
+New Hampshire,Sullivan,Hurricane,2,3020
+Florida,Baker,Hurricane,6,1271
+Florida,Brevard,Hurricane,7,1274
+Florida,Broward,Hurricane,7,2595
+Florida,Citrus,Hurricane,7,1277
+Florida,Clay,Hurricane,6,1278
+Florida,Duval,Hurricane,7,1283
+Florida,Flagler,Hurricane,7,1285
+Florida,Glades,Hurricane,5,1289
+Florida,Hendry,Hurricane,4,1293
+Florida,Highlands,Hurricane,4,1295
+Florida,Indian River,Hurricane,7,1298
+Florida,Marion,Hurricane,6,1309
+Florida,Lake,Hurricane,5,1302
+Florida,Martin,Hurricane,8,2596
+Florida,Hernando,Hurricane,7,1294
+Florida,Miami-Dade,Hurricane,5,2597
+Florida,Monroe,Hurricane,6,1310
+Florida,Nassau,Hurricane,7,1311
+Florida,Okeechobee,Hurricane,5,1313
+Florida,Orange,Hurricane,6,1314
+Florida,Osceola,Hurricane,7,1315
+Florida,Palm Beach,Hurricane,8,2598
+Florida,Polk,Hurricane,4,1318
+Florida,Putnam,Hurricane,7,1319
+Florida,St. Johns,Hurricane,7,1320
+Florida,St. Lucie,Hurricane,8,2599
+Florida,Seminole,Hurricane,7,1323
+Florida,Volusia,Hurricane,7,1328
+South Carolina,Aiken,Hurricane,5,2272
+South Carolina,Abbeville,Hurricane,5,2271
+South Carolina,Allendale,Hurricane,7,2273
+South Carolina,Bamberg,Hurricane,6,2275
+South Carolina,Barnwell,Hurricane,6,2276
+South Carolina,Beaufort,Hurricane,7,2277
+South Carolina,Berkeley,Hurricane,8,2671
+South Carolina,Calhoun,Hurricane,7,2278
+South Carolina,Charleston,Hurricane,8,2672
+South Carolina,Anderson,Hurricane,5,2274
+South Carolina,Cherokee,Hurricane,5,2279
+South Carolina,Chester,Hurricane,5,2280
+South Carolina,Chesterfield,Hurricane,7,2673
+South Carolina,Clarendon,Hurricane,7,2674
+South Carolina,Colleton,Hurricane,8,2281
+South Carolina,Dillon,Hurricane,8,2676
+South Carolina,Dorchester,Hurricane,8,2677
+South Carolina,Fairfield,Hurricane,5,2283
+South Carolina,Darlington,Hurricane,7,2675
+South Carolina,Florence,Hurricane,7,2678
+South Carolina,Georgetown,Hurricane,8,2679
+South Carolina,Greenville,Hurricane,5,2284
+South Carolina,Greenwood,Hurricane,5,2285
+South Carolina,Hampton,Hurricane,6,2286
+South Carolina,Horry,Hurricane,8,2680
+South Carolina,Edgefield,Hurricane,5,2282
+South Carolina,Jasper,Hurricane,8,2287
+South Carolina,Kershaw,Hurricane,6,2681
+South Carolina,Lancaster,Hurricane,6,2288
+South Carolina,Laurens,Hurricane,5,2289
+South Carolina,Lee,Hurricane,6,2682
+South Carolina,McCormick,Hurricane,5,2291
+South Carolina,Marlboro,Hurricane,7,2684
+South Carolina,Newberry,Hurricane,5,2292
+South Carolina,Lexington,Hurricane,5,2290
+South Carolina,Marion,Hurricane,8,2683
+South Carolina,Orangeburg,Hurricane,7,2294
+South Carolina,Pickens,Hurricane,5,2295
+South Carolina,Richland,Hurricane,6,2296
+South Carolina,Oconee,Hurricane,5,2293
+South Carolina,Saluda,Hurricane,5,2297
+South Carolina,Union,Hurricane,5,2299
+South Carolina,Williamsburg,Hurricane,8,2686
+South Carolina,York,Hurricane,5,2300
+South Carolina,Spartanburg,Hurricane,5,2298
+Georgia,Appling,Hurricane,5,1332
+South Carolina,Sumter,Hurricane,7,2685
+Georgia,Atkinson,Hurricane,5,1333
+Georgia,Bacon,Hurricane,5,1334
+Georgia,Bulloch,Hurricane,6,2161
+Georgia,Burke,Hurricane,5,2162
+Georgia,Camden,Hurricane,6,1342
+Georgia,Candler,Hurricane,6,2163
+Georgia,Bryan,Hurricane,6,1340
+Georgia,Brantley,Hurricane,6,1338
+Georgia,Charlton,Hurricane,5,1343
+Georgia,Chatham,Hurricane,6,1344
+Georgia,Clinch,Hurricane,4,1346
+Georgia,Coffee,Hurricane,5,1347
+Georgia,Echols,Hurricane,5,1354
+Georgia,Evans,Hurricane,6,2171
+Georgia,Glynn,Hurricane,6,1355
+Georgia,Jeff Davis,Hurricane,5,1358
+Georgia,Emanuel,Hurricane,6,2170
+Georgia,Effingham,Hurricane,6,2168
+Georgia,Liberty,Hurricane,6,1361
+Georgia,Jenkins,Hurricane,6,2183
+Georgia,Screven,Hurricane,6,2200
+Georgia,McIntosh,Hurricane,6,1364
+Georgia,Long,Hurricane,6,1362
+Georgia,Treutlen,Hurricane,5,2205
+Georgia,Ware,Hurricane,5,1379
+Georgia,Wayne,Hurricane,6,1380
+North Carolina,Alamance,Hurricane,6,2603
+North Carolina,Anson,Hurricane,6,2604
+North Carolina,Beaufort,Hurricane,8,2605
+Georgia,Pierce,Hurricane,6,1367
+Georgia,Tattnall,Hurricane,6,1373
+Georgia,Toombs,Hurricane,6,2203
+North Carolina,Bertie,Hurricane,7,2606
+North Carolina,Bladen,Hurricane,7,2607
+North Carolina,Brunswick,Hurricane,9,2608
+North Carolina,Camden,Hurricane,6,2610
+North Carolina,Chatham,Hurricane,7,2613
+North Carolina,Carteret,Hurricane,8,2611
+North Carolina,Caswell,Hurricane,5,2612
+North Carolina,Columbus,Hurricane,8,2615
+North Carolina,Chowan,Hurricane,7,2614
+North Carolina,Cumberland,Hurricane,6,2617
+North Carolina,Craven,Hurricane,8,2616
+North Carolina,Dare,Hurricane,8,2619
+North Carolina,Davidson,Hurricane,6,2620
+North Carolina,Davie,Hurricane,5,2621
+North Carolina,Currituck,Hurricane,6,2618
+North Carolina,Duplin,Hurricane,7,2622
+North Carolina,Durham,Hurricane,5,2623
+North Carolina,Edgecombe,Hurricane,5,2624
+North Carolina,Forsyth,Hurricane,5,2625
+North Carolina,Franklin,Hurricane,5,2626
+North Carolina,Gates,Hurricane,5,2627
+North Carolina,Granville,Hurricane,6,2628
+North Carolina,Guilford,Hurricane,5,2630
+North Carolina,Halifax,Hurricane,5,2631
+North Carolina,Harnett,Hurricane,6,2632
+North Carolina,Hertford,Hurricane,6,2633
+North Carolina,Hoke,Hurricane,7,2634
+North Carolina,Greene,Hurricane,7,2629
+North Carolina,Johnston,Hurricane,6,2636
+North Carolina,Jones,Hurricane,8,2637
+North Carolina,Hyde,Hurricane,9,2635
+North Carolina,Lee,Hurricane,6,2638
+North Carolina,Lenoir,Hurricane,8,2639
+North Carolina,Martin,Hurricane,5,2640
+North Carolina,Montgomery,Hurricane,7,2641
+North Carolina,Nash,Hurricane,5,2643
+North Carolina,New Hanover,Hurricane,8,2644
+North Carolina,Moore,Hurricane,6,2642
+North Carolina,Orange,Hurricane,6,2647
+North Carolina,Pamlico,Hurricane,8,2648
+North Carolina,Pasquotank,Hurricane,6,2649
+North Carolina,Northampton,Hurricane,5,2645
+North Carolina,Onslow,Hurricane,8,2646
+North Carolina,Perquimans,Hurricane,6,2651
+North Carolina,Richmond,Hurricane,6,2655
+North Carolina,Randolph,Hurricane,6,2654
+North Carolina,Robeson,Hurricane,7,2656
+North Carolina,Pitt,Hurricane,8,2653
+North Carolina,Person,Hurricane,6,2652
+North Carolina,Scotland,Hurricane,6,2660
+North Carolina,Pender,Hurricane,8,2650
+North Carolina,Vance,Hurricane,5,2665
+North Carolina,Wake,Hurricane,5,2666
+North Carolina,Surry,Hurricane,5,2264
+North Carolina,Tyrrell,Hurricane,7,2663
+North Carolina,Sampson,Hurricane,7,2659
+North Carolina,Warren,Hurricane,5,2667
+North Carolina,Rockingham,Hurricane,5,2657
+North Carolina,Washington,Hurricane,6,2668
+North Carolina,Stokes,Hurricane,5,2662
+North Carolina,Wayne,Hurricane,7,2669
+North Carolina,Yadkin,Hurricane,5,2269
+North Carolina,Wilson,Hurricane,6,2670
+Louisiana,Beauregard,Hurricane,10,1390
+Louisiana,Calcasieu,Hurricane,9,1391
+Louisiana,Sabine,Hurricane,8,1414
+Louisiana,Vermilion,Hurricane,12,1427
+Louisiana,Vernon,Hurricane,8,1428
+Florida,Alachua,Hurricane,6,1270
+Florida,Bay,Hurricane,8,1272
+Florida,Bradford,Hurricane,5,1273
+Florida,Calhoun,Hurricane,7,1275
+Florida,Charlotte,Hurricane,3,1276
+Florida,Columbia,Hurricane,5,1280
+Florida,Escambia,Hurricane,8,1284
+Florida,DeSoto,Hurricane,3,1281
+Florida,Collier,Hurricane,4,1279
+Florida,Dixie,Hurricane,6,1282
+Florida,Franklin,Hurricane,9,1286
+Florida,Gadsden,Hurricane,8,1287
+Florida,Gilchrist,Hurricane,6,1288
+Florida,Gulf,Hurricane,8,1290
+Florida,Hamilton,Hurricane,5,1291
+Florida,Hardee,Hurricane,3,1292
+Florida,Hillsborough,Hurricane,6,1296
+Florida,Holmes,Hurricane,7,1297
+Florida,Jefferson,Hurricane,7,1300
+Florida,Lafayette,Hurricane,5,1301
+Florida,Jackson,Hurricane,7,1299
+Florida,Leon,Hurricane,6,1304
+Florida,Levy,Hurricane,6,1305
+Florida,Lee,Hurricane,3,1303
+Florida,Liberty,Hurricane,8,1306
+Florida,Madison,Hurricane,6,1307
+Florida,Manatee,Hurricane,6,1308
+Florida,Okaloosa,Hurricane,8,1312
+Florida,Pasco,Hurricane,6,1316
+Florida,Pinellas,Hurricane,6,1317
+Florida,Santa Rosa,Hurricane,8,1321
+Florida,Sarasota,Hurricane,5,1322
+Florida,Sumter,Hurricane,5,1324
+Florida,Suwannee,Hurricane,6,1325
+Florida,Taylor,Hurricane,6,1326
+Florida,Union,Hurricane,5,1327
+Florida,Wakulla,Hurricane,6,1329
+Florida,Walton,Hurricane,7,1330
+Florida,Washington,Hurricane,7,1331
+Georgia,Banks,Hurricane,3,2157
+Georgia,Baldwin,Hurricane,3,2156
+Georgia,Barrow,Hurricane,2,2158
+Georgia,Baker,Hurricane,4,1335
+Georgia,Bartow,Hurricane,2,1995
+Georgia,Berrien,Hurricane,4,1337
+Georgia,Brooks,Hurricane,4,1339
+Georgia,Bleckley,Hurricane,4,2160
+Georgia,Ben Hill,Hurricane,4,1336
+Georgia,Butts,Hurricane,3,1996
+Georgia,Bibb,Hurricane,3,2159
+Georgia,Calhoun,Hurricane,4,1341
+Georgia,Catoosa,Hurricane,2,1998
+Georgia,Carroll,Hurricane,3,1997
+Georgia,Chattahoochee,Hurricane,4,1999
+Georgia,Chattooga,Hurricane,2,2000
+Georgia,Cherokee,Hurricane,3,2001
+Georgia,Clarke,Hurricane,3,2164
+Georgia,Clayton,Hurricane,2,2002
+Georgia,Cobb,Hurricane,2,2003
+Georgia,Coweta,Hurricane,2,2004
+Georgia,Colquitt,Hurricane,4,1348
+Georgia,Crawford,Hurricane,4,2005
+Georgia,Crisp,Hurricane,4,1350
+Georgia,Dawson,Hurricane,3,2007
+Georgia,Dade,Hurricane,2,2006
+Georgia,DeKalb,Hurricane,2,2008
+Georgia,Dodge,Hurricane,4,2166
+Georgia,Clay,Hurricane,4,1345
+Georgia,Dooly,Hurricane,4,2167
+Georgia,Columbia,Hurricane,3,2165
+Georgia,Decatur,Hurricane,4,1351
+Georgia,Cook,Hurricane,4,1349
+Georgia,Early,Hurricane,4,1353
+Georgia,Elbert,Hurricane,3,2169
+Georgia,Dougherty,Hurricane,4,1352
+Georgia,Fayette,Hurricane,2,2011
+Georgia,Douglas,Hurricane,3,2009
+Georgia,Floyd,Hurricane,2,2012
+Georgia,Forsyth,Hurricane,3,2013
+Georgia,Franklin,Hurricane,3,2172
+Georgia,Fannin,Hurricane,3,2010
+Georgia,Fulton,Hurricane,2,2014
+Georgia,Glascock,Hurricane,4,2173
+Georgia,Gordon,Hurricane,2,2016
+Georgia,Grady,Hurricane,4,1356
+Georgia,Gilmer,Hurricane,3,2015
+Georgia,Gwinnett,Hurricane,2,2017
+Georgia,Habersham,Hurricane,3,2175
+Georgia,Hall,Hurricane,3,2176
+Georgia,Greene,Hurricane,3,2174
+Georgia,Hancock,Hurricane,4,2177
+Georgia,Haralson,Hurricane,3,2018
+Georgia,Harris,Hurricane,2,2019
+Georgia,Hart,Hurricane,2,2178
+Georgia,Heard,Hurricane,3,2020
+Georgia,Henry,Hurricane,2,2021
+Georgia,Houston,Hurricane,4,2179
+Georgia,Jackson,Hurricane,2,2180
+Georgia,Jasper,Hurricane,3,2181
+Georgia,Irwin,Hurricane,4,1357
+Georgia,Jefferson,Hurricane,4,2182
+Georgia,Jones,Hurricane,4,2185
+Georgia,Lamar,Hurricane,3,2022
+Georgia,Lanier,Hurricane,3,1359
+Georgia,Johnson,Hurricane,4,2184
+Georgia,Lincoln,Hurricane,3,2187
+Georgia,Laurens,Hurricane,4,2186
+Georgia,Lee,Hurricane,4,1360
+Georgia,Lumpkin,Hurricane,3,2023
+Georgia,Lowndes,Hurricane,3,1363
+Georgia,Macon,Hurricane,4,2024
+Georgia,Madison,Hurricane,2,2189
+Georgia,Marion,Hurricane,4,2025
+Georgia,Meriwether,Hurricane,2,2026
+Georgia,Miller,Hurricane,4,1365
+Georgia,McDuffie,Hurricane,3,2188
+Georgia,Monroe,Hurricane,3,2027
+Georgia,Montgomery,Hurricane,4,2190
+Georgia,Morgan,Hurricane,3,2191
+Georgia,Murray,Hurricane,2,2028
+Georgia,Muscogee,Hurricane,3,2029
+Georgia,Newton,Hurricane,2,2192
+Georgia,Mitchell,Hurricane,4,1366
+Georgia,Oglethorpe,Hurricane,3,2194
+Georgia,Paulding,Hurricane,3,2030
+Georgia,Oconee,Hurricane,3,2193
+Georgia,Pickens,Hurricane,3,2031
+Georgia,Peach,Hurricane,4,2195
+Georgia,Pulaski,Hurricane,4,2196
+Georgia,Putnam,Hurricane,4,2197
+Georgia,Polk,Hurricane,2,2033
+Georgia,Pike,Hurricane,2,2032
+Georgia,Rabun,Hurricane,3,2198
+Georgia,Randolph,Hurricane,4,1369
+Georgia,Quitman,Hurricane,4,1368
+Georgia,Schley,Hurricane,4,2035
+Georgia,Richmond,Hurricane,3,2199
+Georgia,Rockdale,Hurricane,2,2034
+Georgia,Seminole,Hurricane,4,1370
+Georgia,Spalding,Hurricane,2,2036
+Georgia,Stephens,Hurricane,3,2201
+Georgia,Stewart,Hurricane,4,1371
+Georgia,Sumter,Hurricane,4,1372
+Georgia,Taliaferro,Hurricane,3,2202
+Georgia,Taylor,Hurricane,3,2038
+Georgia,Telfair,Hurricane,4,1374
+Georgia,Talbot,Hurricane,3,2037
+Georgia,Tift,Hurricane,4,1377
+Georgia,Thomas,Hurricane,4,1376
+Georgia,Terrell,Hurricane,4,1375
+Georgia,Towns,Hurricane,3,2204
+Georgia,Troup,Hurricane,2,2039
+Georgia,Twiggs,Hurricane,4,2206
+Georgia,Union,Hurricane,3,2040
+Georgia,Upson,Hurricane,3,2041
+Georgia,Walker,Hurricane,2,2042
+Georgia,Turner,Hurricane,4,1378
+Georgia,Warren,Hurricane,3,2208
+Georgia,Washington,Hurricane,4,2209
+Georgia,Walton,Hurricane,2,2207
+Georgia,White,Hurricane,3,2210
+Georgia,Webster,Hurricane,4,1381
+Georgia,Whitfield,Hurricane,2,2043
+Georgia,Wilcox,Hurricane,4,1383
+Georgia,Wilkes,Hurricane,3,2211
+Georgia,Wilkinson,Hurricane,4,2212
+Georgia,Wheeler,Hurricane,4,1382
+Georgia,Worth,Hurricane,4,1384
+Alabama,Baldwin,Hurricane,7,1250
+Alabama,Barbour,Hurricane,5,1251
+Alabama,Autauga,Hurricane,5,1965
+Alabama,Blount,Hurricane,2,1966
+Alabama,Bullock,Hurricane,4,1252
+Alabama,Butler,Hurricane,6,1253
+Alabama,Calhoun,Hurricane,3,1967
+Alabama,Bibb,Hurricane,3,1463
+Alabama,Cherokee,Hurricane,3,1969
+Alabama,Choctaw,Hurricane,5,1254
+Alabama,Chambers,Hurricane,2,1968
+Alabama,Clay,Hurricane,3,1971
+Alabama,Cleburne,Hurricane,2,1972
+Alabama,Clarke,Hurricane,6,1255
+Alabama,Chilton,Hurricane,4,1970
+Alabama,Coffee,Hurricane,5,1256
+Alabama,Colbert,Hurricane,2,1464
+Alabama,Conecuh,Hurricane,5,1257
+Alabama,Coosa,Hurricane,4,1973
+Alabama,Covington,Hurricane,6,1258
+Alabama,Crenshaw,Hurricane,5,1259
+Alabama,Cullman,Hurricane,2,1974
+Alabama,Dale,Hurricane,5,1260
+Alabama,Dallas,Hurricane,6,1975
+Alabama,DeKalb,Hurricane,2,1976
+Alabama,Elmore,Hurricane,4,1977
+Alabama,Etowah,Hurricane,2,1978
+Alabama,Fayette,Hurricane,2,1465
+Alabama,Franklin,Hurricane,2,1466
+Alabama,Geneva,Hurricane,7,1262
+Alabama,Escambia,Hurricane,5,1261
+Alabama,Greene,Hurricane,3,1467
+Alabama,Hale,Hurricane,4,1468
+Alabama,Henry,Hurricane,5,1263
+Alabama,Houston,Hurricane,6,1264
+Alabama,Jackson,Hurricane,2,1979
+Alabama,Lamar,Hurricane,2,1469
+Alabama,Jefferson,Hurricane,3,1980
+Alabama,Lawrence,Hurricane,2,1471
+Alabama,Lauderdale,Hurricane,2,1470
+Alabama,Lee,Hurricane,2,1981
+Alabama,Limestone,Hurricane,2,1982
+Alabama,Lowndes,Hurricane,4,1983
+Alabama,Macon,Hurricane,4,1984
+Alabama,Madison,Hurricane,2,1985
+Alabama,Marengo,Hurricane,4,1472
+Alabama,Marion,Hurricane,2,1473
+Alabama,Marshall,Hurricane,2,1986
+Alabama,Mobile,Hurricane,9,1265
+Alabama,Montgomery,Hurricane,4,1987
+Alabama,Monroe,Hurricane,6,1266
+Alabama,Morgan,Hurricane,2,1988
+Alabama,Perry,Hurricane,5,1474
+Alabama,Pickens,Hurricane,3,1475
+Alabama,Randolph,Hurricane,3,1989
+Alabama,Pike,Hurricane,5,1267
+Alabama,Sumter,Hurricane,3,1476
+Alabama,Talladega,Hurricane,4,1993
+Alabama,St. Clair,Hurricane,3,1991
+Alabama,Walker,Hurricane,2,1478
+Alabama,Tuscaloosa,Hurricane,3,1477
+Alabama,Washington,Hurricane,5,1268
+Alabama,Tallapoosa,Hurricane,2,1994
+Alabama,Winston,Hurricane,2,1479
+Alabama,Russell,Hurricane,3,1990
+Alabama,Shelby,Hurricane,3,1992
+Alabama,Wilcox,Hurricane,4,1269
+Hawaii,Hawaii,Hurricane,4,74
+Hawaii,Honolulu,Hurricane,3,75
+Hawaii,Kauai,Hurricane,4,77
+Hawaii,Maui,Hurricane,4,78
+North Carolina,Alleghany,Hurricane,4,2241
+North Carolina,Ashe,Hurricane,4,2242
+North Carolina,Avery,Hurricane,3,2243
+North Carolina,Alexander,Hurricane,3,2240
+North Carolina,Buncombe,Hurricane,3,2244
+North Carolina,Burke,Hurricane,3,2245
+North Carolina,Clay,Hurricane,3,2248
+North Carolina,Cleveland,Hurricane,3,2249
+North Carolina,Cherokee,Hurricane,3,2106
+North Carolina,Caldwell,Hurricane,3,2246
+North Carolina,Cabarrus,Hurricane,4,2609
+North Carolina,Catawba,Hurricane,3,2247
+North Carolina,Gaston,Hurricane,3,2250
+North Carolina,Graham,Hurricane,3,2251
+North Carolina,Haywood,Hurricane,3,2252
+North Carolina,Henderson,Hurricane,3,2253
+North Carolina,Iredell,Hurricane,4,2254
+North Carolina,Jackson,Hurricane,3,2255
+North Carolina,Lincoln,Hurricane,3,2256
+North Carolina,McDowell,Hurricane,5,2257
+North Carolina,Macon,Hurricane,3,2258
+North Carolina,Madison,Hurricane,4,2259
+North Carolina,Mecklenburg,Hurricane,3,2260
+North Carolina,Mitchell,Hurricane,3,2261
+North Carolina,Polk,Hurricane,4,2262
+North Carolina,Rowan,Hurricane,4,2658
+North Carolina,Rutherford,Hurricane,3,2263
+North Carolina,Stanly,Hurricane,4,2661
+North Carolina,Swain,Hurricane,3,2265
+North Carolina,Union,Hurricane,4,2664
+North Carolina,Transylvania,Hurricane,3,2266
+North Carolina,Watauga,Hurricane,3,2267
+North Carolina,Wilkes,Hurricane,3,2268
+North Carolina,Yancey,Hurricane,4,2270
+Texas,Aransas,Hurricane,3,285
+Texas,Bee,Hurricane,2,290
+Texas,Bexar,Hurricane,3,292
+Texas,Brazoria,Hurricane,3,295
+Texas,Calhoun,Hurricane,3,303
+Texas,Cameron,Hurricane,2,304
+Texas,Dimmit,Hurricane,1,318
+Texas,Brooks,Hurricane,1,298
+Texas,Goliad,Hurricane,2,331
+Texas,Harris,Hurricane,3,337
+Texas,Hidalgo,Hurricane,1,339
+Texas,Fort Bend,Hurricane,3,325
+Texas,Duval,Hurricane,1,319
+Texas,Galveston,Hurricane,4,328
+Texas,Jackson,Hurricane,3,344
+Texas,Jim Hogg,Hurricane,1,348
+Texas,Jim Wells,Hurricane,2,349
+Texas,Kenedy,Hurricane,2,352
+Texas,La Salle,Hurricane,1,358
+Texas,Live Oak,Hurricane,1,364
+Texas,McMullen,Hurricane,1,369
+Texas,Kleberg,Hurricane,3,356
+Texas,Matagorda,Hurricane,3,372
+Texas,Nueces,Hurricane,3,383
+Texas,Refugio,Hurricane,3,391
+Texas,San Patricio,Hurricane,3,397
+Texas,Starr,Hurricane,1,401
+Texas,Victoria,Hurricane,3,412
+Texas,Webb,Hurricane,1,417
+Texas,Wharton,Hurricane,3,418
+Texas,Willacy,Hurricane,2,419
+Texas,Zapata,Hurricane,1,423
+Louisiana,Bienville,Hurricane,6,1584
+Louisiana,Bossier,Hurricane,7,1585
+Louisiana,Caddo,Hurricane,7,637
+Louisiana,Caldwell,Hurricane,7,1392
+Louisiana,Catahoula,Hurricane,7,1394
+Louisiana,Claiborne,Hurricane,7,1586
+Louisiana,Concordia,Hurricane,7,1395
+Louisiana,De Soto,Hurricane,7,282
+Louisiana,East Carroll,Hurricane,7,1587
+Louisiana,Evangeline,Hurricane,8,1398
+Louisiana,Grant,Hurricane,6,1399
+Louisiana,Lafayette,Hurricane,10,1404
+Louisiana,Jackson,Hurricane,7,1589
+Louisiana,La Salle,Hurricane,7,1406
+Louisiana,Lincoln,Hurricane,7,1590
+Louisiana,Madison,Hurricane,7,1591
+Louisiana,Red River,Hurricane,7,1413
+Louisiana,Richland,Hurricane,7,1594
+Louisiana,St. Landry,Hurricane,9,1420
+Louisiana,Union,Hurricane,7,1595
+Louisiana,Tensas,Hurricane,7,1425
+Louisiana,Webster,Hurricane,6,1596
+Louisiana,West Feliciana,Hurricane,9,1431
+Louisiana,Winn,Hurricane,6,1432
+Louisiana,West Carroll,Hurricane,7,1597
+Mississippi,Adams,Hurricane,4,1433
+Mississippi,Franklin,Hurricane,4,1440
+Mississippi,Jefferson,Hurricane,4,1447
+Texas,Anderson,Hurricane,1,283
+Texas,Angelina,Hurricane,1,284
+Texas,Bowie,Hurricane,1,926
+Texas,Cass,Hurricane,1,931
+Texas,Camp,Hurricane,1,929
+Texas,Chambers,Hurricane,2,305
+Texas,Cherokee,Hurricane,1,306
+Texas,Dallas,Hurricane,2,942
+Texas,Ellis,Hurricane,1,950
+Texas,Franklin,Hurricane,1,956
+Texas,Gregg,Hurricane,1,961
+Texas,Grimes,Hurricane,2,333
+Texas,Hardin,Hurricane,2,336
+Texas,Harrison,Hurricane,1,966
+Texas,Houston,Hurricane,1,341
+Texas,Jasper,Hurricane,3,345
+Texas,Jefferson,Hurricane,3,347
+Texas,Leon,Hurricane,1,361
+Texas,Liberty,Hurricane,2,362
+Texas,Marion,Hurricane,1,989
+Texas,Montgomery,Hurricane,2,379
+Texas,Panola,Hurricane,1,1000
+Texas,Morris,Hurricane,1,994
+Texas,Polk,Hurricane,2,386
+Texas,Madison,Hurricane,2,370
+Texas,Nacogdoches,Hurricane,1,380
+Texas,Orange,Hurricane,3,384
+Texas,Rusk,Hurricane,1,1009
+Texas,Sabine,Hurricane,2,394
+Texas,Red River,Hurricane,1,1006
+Texas,Newton,Hurricane,3,382
+Texas,Shelby,Hurricane,1,400
+Texas,Smith,Hurricane,1,1013
+Texas,San Jacinto,Hurricane,2,396
+Texas,Travis,Hurricane,2,406
+Texas,San Augustine,Hurricane,2,395
+Texas,Tyler,Hurricane,2,408
+Texas,Tarrant,Hurricane,2,1018
+Texas,Waller,Hurricane,2,414
+Texas,Wood,Hurricane,1,1029
+Arkansas,Baxter,Hurricane,1,1482
+Arkansas,Ashley,Hurricane,1,1481
+Texas,Titus,Hurricane,1,1022
+Texas,Upshur,Hurricane,1,1023
+Arkansas,Boone,Hurricane,1,1483
+Arkansas,Chicot,Hurricane,1,1487
+Texas,Walker,Hurricane,2,413
+Arkansas,Arkansas,Hurricane,1,1480
+Texas,Trinity,Hurricane,1,407
+Arkansas,Clark,Hurricane,1,1488
+Arkansas,Cleburne,Hurricane,1,1490
+Arkansas,Calhoun,Hurricane,1,1485
+Arkansas,Bradley,Hurricane,1,1484
+Arkansas,Benton,Hurricane,1,425
+Arkansas,Cleveland,Hurricane,1,1491
+Arkansas,Carroll,Hurricane,1,1486
+Arkansas,Clay,Hurricane,1,1489
+Arkansas,Cross,Hurricane,1,1496
+Arkansas,Desha,Hurricane,1,1498
+Arkansas,Crittenden,Hurricane,1,1495
+Arkansas,Faulkner,Hurricane,1,1500
+Arkansas,Columbia,Hurricane,1,1492
+Arkansas,Conway,Hurricane,1,1493
+Arkansas,Crawford,Hurricane,1,426
+Arkansas,Dallas,Hurricane,1,1497
+Arkansas,Craighead,Hurricane,1,1494
+Arkansas,Fulton,Hurricane,1,1501
+Arkansas,Drew,Hurricane,1,1499
+Arkansas,Grant,Hurricane,1,1503
+Arkansas,Hot Spring,Hurricane,1,1505
+Arkansas,Franklin,Hurricane,1,427
+Arkansas,Independence,Hurricane,1,1506
+Arkansas,Howard,Hurricane,1,429
+Arkansas,Jefferson,Hurricane,1,1509
+Arkansas,Izard,Hurricane,1,1507
+Arkansas,Garland,Hurricane,1,1502
+Arkansas,Greene,Hurricane,1,1504
+Arkansas,Hempstead,Hurricane,1,428
+Arkansas,Lee,Hurricane,1,1513
+Arkansas,Lincoln,Hurricane,1,1514
+Arkansas,Lafayette,Hurricane,1,1511
+Arkansas,Little River,Hurricane,1,430
+Arkansas,Jackson,Hurricane,1,1508
+Arkansas,Johnson,Hurricane,1,1510
+Arkansas,Marion,Hurricane,1,1516
+Arkansas,Miller,Hurricane,1,433
+Arkansas,Madison,Hurricane,1,432
+Arkansas,Monroe,Hurricane,1,1518
+Arkansas,Lonoke,Hurricane,1,1515
+Arkansas,Mississippi,Hurricane,1,1517
+Arkansas,Newton,Hurricane,1,1521
+Arkansas,Ouachita,Hurricane,1,1522
+Arkansas,Logan,Hurricane,1,431
+Arkansas,Nevada,Hurricane,1,1520
+Arkansas,Lawrence,Hurricane,1,1512
+Arkansas,Perry,Hurricane,1,1523
+Arkansas,Phillips,Hurricane,1,1524
+Arkansas,Pike,Hurricane,1,1525
+Arkansas,Poinsett,Hurricane,1,1526
+Arkansas,Montgomery,Hurricane,1,1519
+Arkansas,Polk,Hurricane,1,434
+Arkansas,Pope,Hurricane,1,1527
+Arkansas,Pulaski,Hurricane,1,1529
+Arkansas,Randolph,Hurricane,1,1530
+Arkansas,St. Francis,Hurricane,1,1531
+Arkansas,Prairie,Hurricane,1,1528
+Arkansas,Scott,Hurricane,1,435
+Arkansas,Searcy,Hurricane,1,1533
+Arkansas,Sebastian,Hurricane,1,436
+Arkansas,Saline,Hurricane,1,1532
+Arkansas,Sharp,Hurricane,1,1534
+Arkansas,Stone,Hurricane,1,1535
+Arkansas,Union,Hurricane,1,1536
+Arkansas,Sevier,Hurricane,1,437
+Arkansas,Van Buren,Hurricane,1,1537
+Arkansas,Washington,Hurricane,1,438
+Arkansas,White,Hurricane,1,1538
+Arkansas,Woodruff,Hurricane,1,1539
+Arkansas,Yell,Hurricane,1,1540
+Mississippi,Claiborne,Hurricane,2,1435
+Mississippi,Issaquena,Hurricane,1,1613
+Mississippi,Humphreys,Hurricane,1,1612
+Mississippi,Sharkey,Hurricane,1,1636
+Mississippi,Simpson,Hurricane,2,1457
+Mississippi,Warren,Hurricane,2,1644
+Mississippi,Leake,Hurricane,1,1618
+Mississippi,Kemper,Hurricane,1,1615
+Mississippi,Neshoba,Hurricane,1,1626
+Mississippi,Newton,Hurricane,1,1627
+Mississippi,Scott,Hurricane,1,1635
+Mississippi,Noxubee,Hurricane,1,1628
+Mississippi,Smith,Hurricane,1,1458
+Mississippi,Winston,Hurricane,1,1647
+Ohio,Ashtabula,Hurricane,1,2492
+Ohio,Cuyahoga,Hurricane,1,2506
+Texas,Comal,Hurricane,1,310
+Texas,Guadalupe,Hurricane,1,334
+Texas,Burleson,Hurricane,1,300
+Texas,Milam,Hurricane,1,377
+Texas,Austin,Hurricane,1,287
+Texas,Washington,Hurricane,1,416
+Texas,Bastrop,Hurricane,1,289
+Texas,Caldwell,Hurricane,1,302
+Texas,DeWitt,Hurricane,1,317
+Texas,Fayette,Hurricane,1,324
+Texas,Colorado,Hurricane,1,309
+Texas,Gonzales,Hurricane,1,332
+Texas,Lavaca,Hurricane,1,359
+Texas,Karnes,Hurricane,1,350
+Texas,Lee,Hurricane,1,360
