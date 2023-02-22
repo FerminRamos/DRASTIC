@@ -32,9 +32,9 @@
     - [X] Assigned FEMA 2020-2022 Data  ![](https://geps.dev/progress/100)
  
 
-- [ ] Map our 3 new FEMA grouped datasets (2000-2009, 2010-2019, 2020+)  ![](https://geps.dev/progress/5)
+- [ ] Map our 3 new FEMA grouped datasets (2000-2009, 2010-2019, 2020+)  ![](https://geps.dev/progress/15)
 
-  - [ ] Create all 18 FEMA disaster types (bio,hurricane,etc.) in each FEMA grouped dataset.  ![](https://geps.dev/progress/00)
+  - [X] Create all 18 FEMA disaster types (bio,hurricane,etc.) in each FEMA grouped dataset.  ![](https://geps.dev/progress/100)
 
   - [ ] Assign datapoints to all 18 FEMA disaster types, for group 2000-2009  ![](https://geps.dev/progress/00)
   
