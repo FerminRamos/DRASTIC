@@ -34,13 +34,13 @@
 
 - [ ] Map our 3 new FEMA grouped datasets (2000-2009, 2010-2019, 2020+)  ![](https://geps.dev/progress/78)
 
-  - [X] Create all 18 FEMA disaster types (bio,hurricane,etc.) in each FEMA grouped dataset.  ![](https://geps.dev/progress/100)
+  - [X] Create all 19 FEMA disaster types (bio,hurricane,etc.) in each FEMA grouped dataset.  ![](https://geps.dev/progress/100)
 
-  - [X] Assign datapoints to all 18 FEMA disaster types, for group 2000-2009  ![](https://geps.dev/progress/100)
+  - [X] Assign datapoints to all 19 FEMA disaster types, for group 2000-2009  ![](https://geps.dev/progress/100)
   
-  - [X] Assign datapoints to all 18 FEMA disaster types, for group 2010-2019  ![](https://geps.dev/progress/100)
+  - [X] Assign datapoints to all 19 FEMA disaster types, for group 2010-2019  ![](https://geps.dev/progress/100)
   
-  - [X] Assign datapoints to all 18 FEMA disaster types, for group 2020+  ![](https://geps.dev/progress/100)
+  - [X] Assign datapoints to all 19 FEMA disaster types, for group 2020+  ![](https://geps.dev/progress/100)
   
   - [ ] Split data into Counties & Reservations  ![](https://geps.dev/progress/15)
   
