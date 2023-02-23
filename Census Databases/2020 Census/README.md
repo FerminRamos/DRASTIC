@@ -1,5 +1,5 @@
 ### File Types
-* 2020 Census Database_Estimates - Whole values
+* 2020 Census Database_Estimates.csv - Whole values
 * 2020 Census Database.csv - Percentages
 
 
