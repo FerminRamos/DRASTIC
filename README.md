@@ -36,7 +36,9 @@
 
   - [X] Assign IDs to all 3,000+ U.S. Counties + Find any missing counties  ![](https://geps.dev/progress/100)
   
-  - [ ] Fix the "Income" .csv Bug when mapped to ArcGIS Pro Software  ![](https://geps.dev/progress/50)
+  - [X] Fix the "Income" .csv Bug when mapped to ArcGIS Pro Software  ![](https://geps.dev/progress/100)
+
+  - [ ] Convert whole values -> percent  ![](https://geps.dev/progress/40)
   
   - [ ] Map all 30 Census Database Attributes  ![](https://geps.dev/progress/00)
  
