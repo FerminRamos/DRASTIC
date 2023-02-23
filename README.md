@@ -34,7 +34,7 @@
  
 - [ ] Map 2020 Census (w/ %-Values)  ![](https://geps.dev/progress/40)
 
-  - [ ] Assign IDs to all 3,000+ U.S. Counties + Find any missing counties  ![](https://geps.dev/progress/100)
+  - [X] Assign IDs to all 3,000+ U.S. Counties + Find any missing counties  ![](https://geps.dev/progress/100)
   
   - [ ] Fix the "Income" .csv Bug when mapped to ArcGIS Pro Software  ![](https://geps.dev/progress/50)
   
