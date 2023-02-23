@@ -64,7 +64,7 @@
   - [ ] Map, all 19 disasters from group 2020+  ![](https://geps.dev/progress/00)
 
 
-- [ ] Upload Census Datasets (2000, 2010, 2020) as Estimates, not whole values.  ![](https://geps.dev/progress/0)
+- [ ] Upload Census Datasets (2000, 2010, 2020) as Estimates, not whole values.  ![](https://geps.dev/progress/33)
 
 - [ ] Find new poss. datasets for Transportation, Education Rates, Etc. ![](https://geps.dev/progress/10)
 
