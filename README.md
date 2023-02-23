@@ -1,6 +1,6 @@
 # DRASTIC Database Repository
 
-###### :exclamation: Current Obj: Identify Reservation vs. County Datapoints in our FEMA datasets :exclamation:
+###### :exclamation: Current Obj: Map 2020 Census on new computer (w/ %-values) :exclamation:
 
 
 <br>
