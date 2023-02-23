@@ -31,6 +31,15 @@
     
     - [X] Assigned FEMA 2020-2022 Data  ![](https://geps.dev/progress/100)
  
+ 
+- [ ] Map 2020 Census (w/ %-Values)  ![](https://geps.dev/progress/40)
+
+  - [ ] Assign IDs to all 3,000+ U.S. Counties + Find any missing counties  ![](https://geps.dev/progress/100)
+  
+  - [ ] Fix the "Income" .csv Bug when mapped to ArcGIS Pro Software  ![](https://geps.dev/progress/50)
+  
+  - [ ] Map all 30 Census Database Attributes  ![](https://geps.dev/progress/00)
+ 
 
 - [ ] Map our 3 new FEMA grouped datasets (2000-2009, 2010-2019, 2020+)  ![](https://geps.dev/progress/78)
 
