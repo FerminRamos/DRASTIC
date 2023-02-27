@@ -1,6 +1,6 @@
 # DRASTIC Database Repository
 
-###### :exclamation: Current Obj: Map 2020 Census on new computer (w/ %-values) :exclamation:
+###### :exclamation: Current Obj: Find new data for the "7 vital conditions for healtha & well-being" :exclamation:
 
 
 <br>
