@@ -1,6 +1,6 @@
 # DRASTIC Database Repository
 
-###### :exclamation: Current Obj: Find new data for the "7 vital conditions for healtha & well-being" :exclamation:
+###### :exclamation: Current Obj: Find new data for the "7 vital conditions for health & well-being" :exclamation:
 
 
 <br>
@@ -31,6 +31,7 @@
     
     - [X] Assigned FEMA 2020-2022 Data  ![](https://geps.dev/progress/100)
  
+</br>
  
 - [X] Map 2020 Census (w/ %-Values)  ![](https://geps.dev/progress/100)
 
@@ -41,7 +42,12 @@
   - [X] Convert whole values -> percent  ![](https://geps.dev/progress/100)
   
   - [X] Map all 30 Census Database Attributes  ![](https://geps.dev/progress/100)
- 
+
+</br>
+
+- [ ] Compile a list of sources for the 7 Pillars for Health and Well-Being  ![](https://geps.dev/progress/05)
+
+</br>
 
 - [ ] Map our 3 new FEMA grouped datasets (2000-2009, 2010-2019, 2020+)  ![](https://geps.dev/progress/78)
 
@@ -63,8 +69,9 @@
     
   - [ ] Map, all 19 disasters from group 2020+  ![](https://geps.dev/progress/00)
 
+</br>
 
-- [ ] Upload Census Datasets (2000, 2010, 2020) as Estimates, not whole values.  ![](https://geps.dev/progress/33)
+- [ ] Upload Census Datasets (2000, 2010, 2020) as both Estimates & Whole Values.  ![](https://geps.dev/progress/33)
 
 - [ ] Find new poss. datasets for Transportation, Education Rates, Etc. ![](https://geps.dev/progress/10)
 
