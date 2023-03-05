@@ -45,7 +45,7 @@
 
 </br>
 
-- [ ] Compile a list of sources for the 7 Pillars for Health and Well-Being  ![](https://geps.dev/progress/05)
+- [ ] Compile a list of sources for the 7 Pillars for Health and Well-Being  ![](https://geps.dev/progress/88)
 
 </br>
 
