@@ -7,9 +7,7 @@
 
 
 #### :boom: Announcements :boom:
-📌 Finally, all ArcGIS Pro software has been downloaded to the new work computer! Ready to start importing data.
-
-📌 FEMA data expanded to include 2000-2022 datasets (previously only 2012-2022)
+📌 I pulled new datasets to fulfill the "7-Pillars", check them out and let me know what you think! (see 7-Pillars Folder above)
 
 <br>
 
