@@ -1,6 +1,6 @@
 # DRASTIC Database Repository
 
-###### :exclamation: Current Obj: Find new data for the "7 vital conditions for health & well-being" :exclamation:
+###### :exclamation: Current Obj: Separate counties from reservations in FEMA data (2000s, 2010s, 2020s) :exclamation:
 
 
 <br>
@@ -73,7 +73,15 @@
 
 - [ ] Upload Census Datasets (2000, 2010, 2020) as both Estimates & Whole Values.  ![](https://geps.dev/progress/33)
 
-- [ ] Find new poss. datasets for Transportation, Education Rates, Etc. ![](https://geps.dev/progress/10)
+- [ ] Find new poss. datasets for Transportation, Education Rates, Etc. ![](https://geps.dev/progress/75)
+
+- [ ] Pull new 7-Pillars Datasets  ![](https://geps.dev/progress/00)
+
+  - [ ] 2000s Dataset Pulled  ![](https://geps.dev/progress/00)
+
+  - [ ] 2010s Dataset Pulled  ![](https://geps.dev/progress/00)
+
+  - [ ] 2020s Dataset Pulled  ![](https://geps.dev/progress/00)
 
 <br>
 
