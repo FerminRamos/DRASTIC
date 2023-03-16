@@ -59,7 +59,7 @@
   
   - [ ] Split data into Counties & Reservations  ![](https://geps.dev/progress/43)
   
-    - [ ] Identify Reservations vs. Counties in our datasets  ![](https://geps.dev/progress/35)
+    - [ ] Identify Reservations vs. Counties in our datasets  ![](https://geps.dev/progress/93)
   
   - [ ] Map, all 19 disasters from group 2000-2009  ![](https://geps.dev/progress/00)
   
