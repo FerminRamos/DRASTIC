@@ -1,6 +1,6 @@
 # DRASTIC Database Repository
 
-###### :exclamation: Current Obj: Separate counties from reservations in FEMA data (2000s, 2010s, 2020s) :exclamation:
+###### :exclamation: Current Obj: There are some FEMA reservations that don't exists (too tiny?). Going to further investigate them prior to assiging FIDs to areas / mapping. Nearly finished w/ everything FEMA-related. :exclamation:
 
 
 <br>
@@ -57,9 +57,9 @@
   
   - [X] Assign datapoints to all 19 FEMA disaster types, for group 2020+  ![](https://geps.dev/progress/100)
   
-  - [ ] Split data into Counties & Reservations  ![](https://geps.dev/progress/43)
+  - [ ] Split data into Counties & Reservations  ![](https://geps.dev/progress/80)
   
-    - [ ] Identify Reservations vs. Counties in our datasets  ![](https://geps.dev/progress/93)
+    - [ ] Identify Reservations vs. Counties in our datasets  ![](https://geps.dev/progress/99)
   
   - [ ] Map, all 19 disasters from group 2000-2009  ![](https://geps.dev/progress/00)
   
