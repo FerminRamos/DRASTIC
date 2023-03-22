@@ -11,38 +11,46 @@
    * " (Census Area)"
    * " (City and Borough)"
    * " (Municipio)"
-3. **Separate any county w/ "Reservation" Keyword** *(Since our maps split between counties & reservations)*
-4. **At this point our County has been cleaned -> Check if there's a match w/ our ArcGIS .shp files?**
+   * " Colony (Reservation)"
+   * " Indian Reservation"
+   * " Community (Indian Reservation)"
+   * " Pueblo (Indian Reservation)"
+3. **Check if there's a match w/ our ArcGIS COUNTY .shp files?**
    1. **Yes, match**
       * Append associated FID
-   2. **No, no direct match.**
-      * Manually check these things:
-        1. **Diff. spelling?**  *(Ex, "St. Louis" vs. "St Louis")*
-        2. **Independent City Combo?**  *(Ex, "Bedford City" vs. "Bedford County" - 2 diff. locations in same state)*
-        3. **Part of American Samoa or Northern Mariana Islands?**  *(these territories not yet mapped)*
-        4. **Is it a reservation, that didn't have "reservation" keyword?**  *(Ex, Absentee Shawnee-Citizens Band of Potawatomi)*
-        5. **Is it large enough to even EXIST in our map?**  *(Ex, FEMA Disaster in an area called "T05 ND BPP, Maine." - is a tiny rural town, does not have it's own official county! Yet, received funding from FEMA.)*
-        6. **Does it have this type of callsign "...(in (P)MSA 1120,2600,4560)"?**  *Ignore, it's just a tiny farm in Maine or Massachusetts*
-        7. **Some other minor exclusion**
+4. **Check if there's a match w/ our ArcGIS RESERVATION .shp files?**
+   1. **Yes, match**
+      * Append associated FID
+5. **At this point, Removing the "Fluff" didn't help find a match -> Use Python Translator or Manually check these options...**
+   * Manually check these things:
+     1. **Diff. spelling?**  *(Ex, "St. Louis" vs. "St Louis")*
+     2. **Independent City Combo?**  *(Ex, "Bedford City" vs. "Bedford County" - 2 diff. locations in same state)*
+     3. **Part of American Samoa or Northern Mariana Islands?**  *(these territories not yet mapped)*
+     4. **Is it a reservation, that didn't have "reservation" keyword?**  *(Ex, Absentee Shawnee-Citizens Band of Potawatomi)*
+     5. **Is it large enough to even EXIST in our map?**  *(Ex, FEMA Disaster in an area called "T05 ND BPP, Maine." - is a tiny rural town, does not have it's own official county! Yet, received funding from FEMA.)*
+     6. **Does it have this type of callsign "...(in (P)MSA 1120,2600,4560)"?**  *Ignore, it's just a tiny farm in Maine or Massachusetts*
+     7. **Some other minor exclusion**
 
 - - - 
 
 ## Notes
 
 ### 1. Call-signs
-| Included? | Call-sign              | Comment                           |
-|:---------:|:-----------------------|:----------------------------------|
-|     Y     | (County)               |                                   |
-|     Y     | (Parish)               |                                   |
-|     Y     | (Borough)              |                                   |
-|     Y     | (Census Area)          |                                   |
-|     Y     | (City and Borough)     |                                   |
-|     Y     | (Municipio)            |                                   |
-|     Y     | (ANV/ANVSA)            | included as reservations          |
-|     N     | (Township of)          | not included, land area too small |
-|     N     | "City School District" |                                   |
-|     Y     | (TJSA) or (OTSA)       | included as reservations          |
-|     Y     | (Joint Area)           | not all locations could be found  |
+| Included? | Call-sign              | Comment                            |
+|:---------:|:-----------------------|:-----------------------------------|
+|     Y     | (County)               |                                    |
+|     Y     | (Parish)               |                                    |
+|     Y     | (Borough)              |                                    |
+|     Y     | (Census Area)          |                                    |
+|     Y     | (City and Borough)     |                                    |
+|     Y     | (Municipio)            |                                    |
+|     Y     | (Reservation)          | included as reservations           |
+|     Y     | (Indian Reservation)   | included as reservations           |
+|     Y     | (ANV/ANVSA)            | included as reservations           |
+|     N     | (Township of)          | not included, land area too small  |
+|     N     | "City School District" |                                    |
+|     Y     | (TJSA) or (OTSA)       | included as reservations           |
+|     Y     | (Joint Area)           | but not all locations can be found |
 
 
 ### 2. Flat-out ignored these...
