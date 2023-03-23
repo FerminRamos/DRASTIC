@@ -1,0 +1,3521 @@
+State,Old_County_Name,New_County_Name,FID
+Kentucky,Ballard (County),Ballard,932
+Kentucky,Breckinridge (County),Breckinridge,1020
+Kentucky,Carlisle (County),Carlisle,1039
+Kentucky,Livingston (County),Livingston,1187
+Kentucky,Spencer (County),Spencer,1000
+Kentucky,Hancock (County),Hancock,1107
+Kentucky,Henderson (County),Henderson,1126
+Kentucky,Crittenden (County),Crittenden,1064
+Kentucky,Daviess (County),Daviess,1071
+Kentucky,Hopkins (County),Hopkins,1136
+Kentucky,Webster (County),Webster,1029
+Georgia,Banks (County),Banks,992
+Georgia,Barrow (County),Barrow,993
+Georgia,Bartow (County),Bartow,994
+Georgia,Butts (County),Butts,588
+Georgia,Carroll (County),Carroll,620
+Georgia,Catoosa (County),Catoosa,626
+Georgia,Chattooga (County),Chattooga,659
+Georgia,Cherokee (County),Cherokee,662
+Georgia,Clarke (County),Clarke,666
+Georgia,Cobb (County),Cobb,680
+Georgia,Dawson (County),Dawson,713
+Georgia,DeKalb (County),DeKalb,718
+Georgia,Elbert (County),Elbert,746
+Georgia,Fannin (County),Fannin,755
+Georgia,Floyd (County),Floyd,764
+Georgia,Forsyth (County),Forsyth,768
+Georgia,Franklin (County),Franklin,772
+Georgia,Fulton (County),Fulton,779
+Georgia,Douglas (County),Douglas,731
+Georgia,Gilmer (County),Gilmer,781
+Georgia,Gordon (County),Gordon,796
+Georgia,Greene (County),Greene,800
+Georgia,Gwinnett (County),Gwinnett,804
+Georgia,Habersham (County),Habersham,806
+Georgia,Hall (County),Hall,808
+Georgia,Haralson (County),Haralson,813
+Georgia,Hart (County),Hart,816
+Georgia,Henry (County),Henry,820
+Georgia,Jackson (County),Jackson,828
+Georgia,Jasper (County),Jasper,830
+Georgia,Jones (County),Jones,839
+Georgia,Lamar (County),Lamar,841
+Georgia,Lumpkin (County),Lumpkin,865
+Georgia,Monroe (County),Monroe,885
+Georgia,Newton (County),Newton,899
+Georgia,Oconee (County),Oconee,901
+Georgia,Oglethorpe (County),Oglethorpe,905
+Georgia,Paulding (County),Paulding,908
+Georgia,Pickens (County),Pickens,912
+Georgia,Pike (County),Pike,7
+Georgia,Rabun (County),Rabun,18
+Georgia,Rockdale (County),Rockdale,28
+Georgia,Spalding (County),Spalding,41
+Georgia,Stephens (County),Stephens,45
+Georgia,Taliaferro (County),Taliaferro,60
+Georgia,Union (County),Union,120
+Georgia,Walker (County),Walker,126
+Georgia,Upson (County),Upson,123
+Georgia,Walton (County),Walton,127
+Georgia,White (County),White,157
+Georgia,Wilkes (County),Wilkes,167
+North Carolina,Alamance (County),Alamance,1967
+North Carolina,Cabarrus (County),Cabarrus,1426
+North Carolina,Caswell (County),Caswell,1449
+North Carolina,Chatham (County),Chatham,1451
+North Carolina,Davidson (County),Davidson,1489
+North Carolina,Anson (County),Anson,1972
+North Carolina,Durham (County),Durham,1494
+North Carolina,Edgecombe (County),Edgecombe,1495
+North Carolina,Granville (County),Granville,1503
+North Carolina,Guilford (County),Guilford,1506
+North Carolina,Halifax (County),Halifax,1508
+North Carolina,Harnett (County),Harnett,1509
+North Carolina,Hoke (County),Hoke,1517
+North Carolina,Franklin (County),Franklin,1498
+North Carolina,Johnston (County),Johnston,1530
+North Carolina,Lee (County),Lee,1540
+North Carolina,Mecklenburg (County),Mecklenburg,1565
+North Carolina,Montgomery (County),Montgomery,1573
+North Carolina,Nash (County),Nash,1588
+North Carolina,Moore (County),Moore,1584
+North Carolina,Northampton (County),Northampton,1606
+North Carolina,Orange (County),Orange,1630
+North Carolina,Person (County),Person,1729
+North Carolina,Randolph (County),Randolph,1741
+North Carolina,Richmond (County),Richmond,1744
+North Carolina,Union (County),Union,1798
+North Carolina,Vance (County),Vance,1801
+North Carolina,Scotland (County),Scotland,1772
+North Carolina,Stanly (County),Stanly,1775
+North Carolina,Rockingham (County),Rockingham,1751
+North Carolina,Wake (County),Wake,1805
+North Carolina,Warren (County),Warren,1809
+North Carolina,Wilson (County),Wilson,1819
+South Carolina,Edgefield (County),Edgefield,2735
+South Carolina,Abbeville (County),Abbeville,2489
+South Carolina,Allendale (County),Allendale,2527
+South Carolina,Bamberg (County),Bamberg,2592
+South Carolina,Barnwell (County),Barnwell,2605
+South Carolina,Berkeley (County),Berkeley,2631
+South Carolina,Calhoun (County),Calhoun,2635
+South Carolina,Charleston (County),Charleston,2691
+South Carolina,Aiken (County),Aiken,2503
+South Carolina,Cherokee (County),Cherokee,2700
+South Carolina,Chester (County),Chester,2704
+South Carolina,Chesterfield (County),Chesterfield,2708
+South Carolina,Clarendon (County),Clarendon,2715
+South Carolina,Colleton (County),Colleton,2718
+South Carolina,Darlington (County),Darlington,2721
+South Carolina,Dillon (County),Dillon,2725
+South Carolina,Dorchester (County),Dorchester,2730
+South Carolina,Florence (County),Florence,2742
+South Carolina,Georgetown (County),Georgetown,2752
+South Carolina,Greenwood (County),Greenwood,2764
+South Carolina,Fairfield (County),Fairfield,2738
+South Carolina,Lancaster (County),Lancaster,2790
+South Carolina,Laurens (County),Laurens,2794
+South Carolina,Lee (County),Lee,2800
+South Carolina,Kershaw (County),Kershaw,2787
+South Carolina,McCormick (County),McCormick,2807
+South Carolina,Marion (County),Marion,2811
+South Carolina,Lexington (County),Lexington,2803
+South Carolina,Newberry (County),Newberry,2818
+South Carolina,Orangeburg (County),Orangeburg,2829
+South Carolina,Richland (County),Richland,2843
+South Carolina,Saluda (County),Saluda,2846
+South Carolina,Spartanburg (County),Spartanburg,2851
+South Carolina,Sumter (County),Sumter,2855
+South Carolina,Marlboro (County),Marlboro,2813
+South Carolina,Williamsburg (County),Williamsburg,2864
+South Carolina,York (County),York,2867
+Louisiana,Bienville (Parish),Bienville,1069
+Louisiana,Claiborne (Parish),Claiborne,1095
+Louisiana,Lincoln (Parish),Lincoln,1291
+Louisiana,Ouachita (Parish),Ouachita,1306
+South Carolina,Union (County),Union,2860
+Louisiana,Richland (Parish),Richland,1439
+Louisiana,Union (Parish),Union,1507
+Louisiana,Webster (Parish),Webster,1518
+Georgia,Decatur (County),Decatur,714
+Georgia,Turner (County),Turner,108
+Georgia,Colquitt (County),Colquitt,689
+Georgia,Grady (County),Grady,797
+Georgia,Mitchell (County),Mitchell,883
+Louisiana,West Carroll (Parish),West Carroll,1522
+Georgia,Tift (County),Tift,87
+Alaska,Aleutians East (Borough),Aleutians East,346
+Alaska,Anchorage (Borough),Anchorage,400
+Alaska,Bethel (Census Area),Bethel,411
+Alaska,Bristol Bay (Borough),Bristol Bay,423
+Alaska,Denali (Borough),Denali,426
+Alaska,Dillingham (Census Area),Dillingham,445
+Alaska,Fairbanks North Star (Borough),Fairbanks North Star,454
+Alaska,Kenai Peninsula (Borough),Kenai Peninsula,494
+Alaska,Kodiak Island (Borough),Kodiak Island,533
+Alaska,Lake and Peninsula (Borough),Lake and Peninsula,544
+Alaska,Matanuska-Susitna (Borough),Matanuska-Susitna,556
+Alaska,Southeast Fairbanks (Census Area),Southeast Fairbanks,690
+Alaska,Valdez-Cordova (Census Area),Valdez-Cordova,710
+Alabama,Cherokee (County),Cherokee,51
+Alabama,DeKalb (County),DeKalb,112
+Alabama,Jackson (County),Jackson,164
+Alaska,Wade Hampton (Census Area),Wade Hampton,725
+Virginia,Lynchburg,Lynchburg,2762
+Virginia,Norton,Norton,2780
+Virginia,Accomack (County),Accomack,2719
+Virginia,Albemarle (County),Albemarle,2728
+Virginia,Amelia (County),Amelia,2741
+Virginia,Amherst (County),Amherst,2746
+Virginia,Appomattox (County),Appomattox,2749
+Virginia,Alleghany (County),Alleghany,2733
+Virginia,Arlington (County),Arlington,2753
+Virginia,Augusta (County),Augusta,2758
+Virginia,Bath (County),Bath,2763
+Virginia,Bedford (County),Bedford City,2713
+Virginia,Bland (County),Bland,2772
+Virginia,Brunswick (County),Brunswick,2777
+Virginia,Buchanan (County),Buchanan,2784
+Virginia,Buckingham (County),Buckingham,2785
+Virginia,Campbell (County),Campbell,2788
+Virginia,Caroline (County),Caroline,2793
+Virginia,Carroll (County),Carroll,2797
+Virginia,Charles City (County),Charles City,2806
+Virginia,Botetourt (County),Botetourt,2776
+Virginia,Charlotte (County),Charlotte,2810
+Virginia,Chesterfield (County),Chesterfield,2816
+Virginia,Clarke (County),Clarke,2819
+Virginia,Craig (County),Craig,2820
+Virginia,Culpeper (County),Culpeper,2824
+Virginia,Cumberland (County),Cumberland,2827
+Virginia,Dickenson (County),Dickenson,2832
+Virginia,Dinwiddie (County),Dinwiddie,2838
+Virginia,Essex (County),Essex,2842
+Virginia,Fairfax (County),Fairfax City,2737
+Virginia,Fauquier (County),Fauquier,2853
+Virginia,Floyd (County),Floyd,2856
+Virginia,Fluvanna (County),Fluvanna,2858
+Virginia,Franklin (County),Franklin City,2744
+Virginia,Frederick (County),Frederick,2868
+Virginia,Giles (County),Giles,2873
+Virginia,Goochland (County),Goochland,2892
+Virginia,Grayson (County),Grayson,2896
+Virginia,Greene (County),Greene,2899
+Virginia,Greensville (County),Greensville,2902
+Virginia,Halifax (County),Halifax,2904
+Virginia,Hanover (County),Hanover,2909
+Virginia,Henrico (County),Henrico,2915
+Virginia,Henry (County),Henry,2918
+Virginia,Isle of Wight (County),Isle of Wight,2925
+Virginia,James City (County),James City,2930
+Virginia,King and Queen (County),King and Queen,2936
+Virginia,Highland (County),Highland,2920
+Virginia,King George (County),King George,2938
+Virginia,Lancaster (County),Lancaster,2948
+Virginia,King William (County),King William,2943
+Virginia,Lee (County),Lee,2950
+Virginia,Loudoun (County),Loudoun,2952
+Virginia,Louisa (County),Louisa,2953
+Virginia,Lunenburg (County),Lunenburg,2954
+Virginia,Madison (County),Madison,2955
+Virginia,Mecklenburg (County),Mecklenburg,2964
+Virginia,Middlesex (County),Middlesex,2965
+Virginia,Montgomery (County),Montgomery,2966
+Virginia,New Kent (County),New Kent,2971
+Virginia,Nelson (County),Nelson,2968
+Virginia,Northampton (County),Northampton,2982
+Virginia,Nottoway (County),Nottoway,2984
+Virginia,Orange (County),Orange,2985
+Virginia,Page (County),Page,2986
+Virginia,Patrick (County),Patrick,2987
+Virginia,Pittsylvania (County),Pittsylvania,2988
+Virginia,Powhatan (County),Powhatan,2989
+Virginia,Prince Edward (County),Prince Edward,2990
+Virginia,Prince George (County),Prince George,2991
+Virginia,Northumberland (County),Northumberland,2983
+Virginia,Prince William (County),Prince William,2992
+Virginia,Rappahannock (County),Rappahannock,2994
+Virginia,Pulaski (County),Pulaski,2993
+Virginia,Richmond (County),Richmond City,2802
+Virginia,Roanoke (County),Roanoke City,2805
+Virginia,Rockbridge (County),Rockbridge,2997
+Virginia,Scott (County),Scott,2585
+Virginia,Russell (County),Russell,2999
+Virginia,Shenandoah (County),Shenandoah,2594
+Virginia,Rockingham (County),Rockingham,2998
+Virginia,Smyth (County),Smyth,2600
+Virginia,Southampton (County),Southampton,2608
+Virginia,Spotsylvania (County),Spotsylvania,2619
+Virginia,Stafford (County),Stafford,2629
+Virginia,Sussex (County),Sussex,2647
+Virginia,Warren (County),Warren,2662
+Virginia,Surry (County),Surry,2636
+Virginia,Washington (County),Washington,2667
+Virginia,Westmoreland (County),Westmoreland,2684
+Virginia,Wythe (County),Wythe,2699
+Virginia,Wise (County),Wise,2695
+Virginia,York (County),York,2709
+Virginia,Tazewell (County),Tazewell,2656
+Virginia,Alexandria,Alexandria,2712
+Virginia,Colonial Heights,Colonial Heights,2727
+Virginia,Danville,Danville,2732
+Virginia,Emporia,Emporia,2736
+Virginia,Fairfax,Fairfax City,2737
+Virginia,Manassas,Manassas,2765
+Virginia,Newport News,Newport News,2775
+Virginia,Petersburg,Petersburg,2782
+Virginia,Fredericksburg,Fredericksburg,2745
+Virginia,Hopewell,Hopewell,2756
+Virginia,Franklin,Franklin City,2744
+Virginia,Richmond,Richmond City,2802
+Virginia,Suffolk,Suffolk,2815
+West Virginia,Barbour (County),Barbour,2975
+West Virginia,Braxton (County),Braxton,2978
+West Virginia,Cabell (County),Cabell,2980
+West Virginia,Pocahontas (County),Pocahontas,3066
+Virginia,Williamsburg,Williamsburg,2835
+West Virginia,Calhoun (County),Calhoun,2981
+West Virginia,Doddridge (County),Doddridge,3002
+West Virginia,Gilmer (County),Gilmer,3008
+West Virginia,Jackson (County),Jackson,3023
+West Virginia,Harrison (County),Harrison,3021
+West Virginia,Kanawha (County),Kanawha,3027
+West Virginia,Lincoln (County),Lincoln,3031
+West Virginia,Marion (County),Marion,3039
+West Virginia,Monongalia (County),Monongalia,3050
+West Virginia,Mason (County),Mason,3042
+West Virginia,Preston (County),Preston,3068
+West Virginia,Putnam (County),Putnam,3070
+West Virginia,Randolph (County),Randolph,3075
+West Virginia,Ritchie (County),Ritchie,3077
+West Virginia,Lewis (County),Lewis,3029
+West Virginia,Roane (County),Roane,3079
+West Virginia,Taylor (County),Taylor,3082
+West Virginia,Tyler (County),Tyler,3085
+West Virginia,Wirt (County),Wirt,3095
+Kentucky,Bourbon (County),Bourbon,1005
+Kentucky,Harrison (County),Harrison,1119
+West Virginia,Upshur (County),Upshur,3087
+West Virginia,Tucker (County),Tucker,3084
+West Virginia,Wetzel (County),Wetzel,3093
+Kentucky,Johnson (County),Johnson,1148
+Kentucky,Lawrence (County),Lawrence,1167
+Kentucky,Oldham (County),Oldham,1252
+Kentucky,Bath (County),Bath,934
+Kentucky,Mason (County),Mason,1217
+Kentucky,Pendleton (County),Pendleton,1260
+Kentucky,Boyd (County),Boyd,1008
+Kentucky,Carter (County),Carter,1044
+Kentucky,Robertson (County),Robertson,1273
+Kentucky,Fleming (County),Fleming,1083
+Kentucky,Greenup (County),Greenup,1105
+Kentucky,Lewis (County),Lewis,1180
+Kentucky,Nicholas (County),Nicholas,1246
+Kentucky,Rowan (County),Rowan,1279
+Ohio,Adams (County),Adams,2248
+Ohio,Gallia (County),Gallia,2383
+Ohio,Jackson (County),Jackson,2472
+Ohio,Lawrence (County),Lawrence,2499
+Ohio,Meigs (County),Meigs,2549
+Ohio,Scioto (County),Scioto,2048
+Ohio,Pike (County),Pike,2034
+Alabama,Jefferson (County),Jefferson,171
+Alabama,Tuscaloosa (County),Tuscaloosa,313
+Texas,Tarrant (County),Tarrant,2500
+Maryland,Anne Arundel (County),Anne Arundel,1925
+Maryland,Baltimore (County),Baltimore City,1460
+Maryland,Calvert (County),Calvert,1946
+Maryland,Caroline (County),Caroline,1949
+Maryland,Charles (County),Charles,1294
+Maryland,Howard (County),Howard,1379
+Maryland,Kent (County),Kent,1394
+Maryland,Montgomery (County),Montgomery,1398
+Maryland,Dorchester (County),Dorchester,1346
+Maryland,Frederick (County),Frederick,1357
+Maryland,St. Mary's (County),St. Mary's,1421
+Maryland,Talbot (County),Talbot,1438
+Maryland,Baltimore,Baltimore City,1460
+District of Columbia,District of Columbia (County-equivalent),District of Columbia,630
+Maryland,Prince George's (County),Prince George's,1403
+Maryland,Queen Anne's (County),Queen Anne's,1413
+Maine,Aroostook (County),Aroostook,1535
+Maine,Franklin (County),Franklin,1619
+Maine,Kennebec (County),Kennebec,1755
+Maine,Oxford (County),Oxford,1842
+Maine,Piscataquis (County),Piscataquis,1851
+Maine,Androscoggin (County),Androscoggin,1532
+Maine,Somerset (County),Somerset,1860
+Maine,Washington (County),Washington,1884
+Kansas,Crawford (County),Crawford,756
+Kansas,Labette (County),Labette,831
+Kansas,Neosho (County),Neosho,862
+Missouri,St. Charles (County),St. Charles,1205
+Missouri,Ste. Genevieve (County),Ste. Genevieve,1209
+Missouri,St. Francois (County),St. Francois,1212
+Missouri,Crawford (County),Crawford,1028
+Missouri,St. Louis (County),St. Louis City,1266
+Missouri,Warren (County),Warren,1251
+Missouri,Washington (County),Washington,1253
+Missouri,Franklin (County),Franklin,1047
+Missouri,Gasconade (County),Gasconade,1049
+Missouri,Jefferson (County),Jefferson,1082
+New Mexico,Chaves (County),Chaves,1578
+New Mexico,DeBaca (County),De Baca,1589
+New Mexico,Dona Ana (County),Doña Ana,1590
+New Mexico,Eddy (County),Eddy,1592
+New Mexico,Guadalupe (County),Guadalupe,1595
+New Mexico,Lincoln (County),Lincoln,1613
+New Mexico,Sierra (County),Sierra,1657
+New Mexico,Bernalillo (County),Bernalillo,1574
+New Mexico,Cibola (County),Cibola,1580
+New Mexico,McKinley (County),McKinley,1626
+New Mexico,Mora (County),Mora,1629
+New Mexico,Rio Arriba (County),Rio Arriba,1639
+New Mexico,Sandoval (County),Sandoval,1646
+New Mexico,Socorro (County),Socorro,1659
+New Mexico,San Juan (County),San Juan,1650
+New Mexico,San Miguel (County),San Miguel,1652
+New Mexico,Santa Fe (County),Santa Fe,1654
+New Mexico,Taos (County),Taos,1662
+New Mexico,Torrance (County),Torrance,1664
+New Mexico,Otero (County),Otero,1633
+South Dakota,Custer (County),Custer,2908
+South Dakota,Fall River (County),Fall River,2919
+South Dakota,Jackson (County),Jackson,2939
+South Dakota,Pennington (County),Pennington,2497
+South Dakota,Oglala Lakota (County),Shannon,2519
+Tennessee,Anderson (County),Anderson,2584
+New Mexico,Los Alamos (County),Los Alamos,1618
+Tennessee,Benton (County),Benton,2598
+Tennessee,Davidson (County),Davidson,2698
+Tennessee,Cheatham (County),Cheatham,2660
+Tennessee,Henry (County),Henry,2789
+Tennessee,Hickman (County),Hickman,2792
+Tennessee,Jackson (County),Jackson,2801
+Tennessee,Lake (County),Lake,2817
+Tennessee,Knox (County),Knox,2814
+Tennessee,Obion (County),Obion,2872
+Tennessee,Perry (County),Perry,2878
+Tennessee,Pickett (County),Pickett,2881
+Tennessee,Stewart (County),Stewart,2041
+Tennessee,Houston (County),Houston,2796
+Tennessee,Weakley (County),Weakley,2096
+Wisconsin,Barron (County),Barron,3106
+Wisconsin,Burnett (County),Burnett,3115
+Wisconsin,Forest (County),Forest,3141
+Wisconsin,Oneida (County),Oneida,3183
+Wisconsin,Iron (County),Iron,3151
+Wisconsin,Polk (County),Polk,3191
+Wisconsin,Rusk (County),Rusk,3199
+Wisconsin,Sawyer (County),Sawyer,3203
+Wisconsin,Washburn (County),Washburn,3004
+Wisconsin,Adams (County),Adams,3101
+Wisconsin,Green (County),Green,3145
+Wisconsin,Ashland (County),Ashland,3104
+Wisconsin,Jackson (County),Jackson,3153
+Wisconsin,Monroe (County),Monroe,3179
+Wisconsin,Dodge (County),Dodge,3126
+Wisconsin,Racine (County),Racine,3195
+Wisconsin,Waukesha (County),Waukesha,3007
+Wisconsin,Columbia (County),Columbia,3120
+Wisconsin,Dane (County),Dane,3124
+Wisconsin,Crawford (County),Crawford,3122
+Wisconsin,Grant (County),Grant,3143
+Wisconsin,Iowa (County),Iowa,3148
+Wisconsin,Juneau (County),Juneau,3156
+Wisconsin,Kenosha (County),Kenosha,3158
+Wisconsin,Lafayette (County),Lafayette,3163
+Wisconsin,Milwaukee (County),Milwaukee,3177
+Wisconsin,Walworth (County),Walworth,3003
+Minnesota,Clearwater (County),Clearwater,1899
+Minnesota,Roseau (County),Roseau,1976
+Minnesota,Dodge (County),Dodge,1906
+Wisconsin,Richland (County),Richland,3196
+Wisconsin,Vernon (County),Vernon,3213
+Wisconsin,Sauk (County),Sauk,3202
+Minnesota,Freeborn (County),Freeborn,1910
+Minnesota,Ramsey (County),Ramsey,1964
+Minnesota,Faribault (County),Faribault,1908
+Minnesota,Becker (County),Becker,1878
+Minnesota,Clay (County),Clay,1898
+Minnesota,Dakota (County),Dakota,1904
+Minnesota,Chippewa (County),Chippewa,1896
+Minnesota,Winona (County),Winona,1998
+Minnesota,Yellow Medicine (County),Yellow Medicine,1531
+Minnesota,Houston (County),Houston,1914
+Minnesota,Mahnomen (County),Mahnomen,1936
+Minnesota,Mower (County),Mower,1945
+Minnesota,Norman (County),Norman,1951
+** North Dakota,Statewide,Statewide,Statewide **
+Minnesota,Fillmore (County),Fillmore,1909
+North Dakota,Dickey (County),Dickey,2004
+North Dakota,Emmons (County),Emmons,2021
+North Dakota,Barnes (County),Barnes,1828
+North Dakota,Cavalier (County),Cavalier,1849
+North Dakota,LaMoure (County),LaMoure,2074
+North Dakota,McIntosh (County),McIntosh,2090
+North Dakota,Morton (County),Morton,2114
+North Dakota,Steele (County),Steele,2186
+North Dakota,Stutsman (County),Stutsman,2199
+North Dakota,Mountrail (County),Mountrail,2119
+North Dakota,Towner (County),Towner,2205
+North Dakota,Ward (County),Ward,2233
+North Dakota,Benson (County),Benson,1831
+North Dakota,Bottineau (County),Bottineau,1836
+North Dakota,Burke (County),Burke,1841
+North Dakota,Burleigh (County),Burleigh,1844
+North Dakota,Cass (County),Cass,1848
+North Dakota,Eddy (County),Eddy,2017
+North Dakota,Foster (County),Foster,2026
+North Dakota,Grand Forks (County),Grand Forks,2043
+North Dakota,Griggs (County),Griggs,2056
+North Dakota,Kidder (County),Kidder,2068
+North Dakota,McHenry (County),McHenry,2082
+North Dakota,McLean (County),McLean,2103
+North Dakota,Nelson (County),Nelson,2122
+North Dakota,Pembina (County),Pembina,2131
+North Dakota,Pierce (County),Pierce,2136
+North Dakota,Ramsey (County),Ramsey,2141
+North Dakota,Renville (County),Renville,2150
+North Dakota,Richland (County),Richland,2156
+North Dakota,Rolette (County),Rolette,2161
+North Dakota,Ransom (County),Ransom,2147
+North Dakota,Sheridan (County),Sheridan,2169
+North Dakota,Traill (County),Traill,2217
+North Dakota,Walsh (County),Walsh,2225
+North Dakota,Wells (County),Wells,2237
+North Dakota,Logan (County),Logan,2078
+North Dakota,Oliver (County),Oliver,2127
+North Dakota,Sargent (County),Sargent,2164
+New York,Cattaraugus (County),Cattaraugus,1687
+New York,Erie (County),Erie,1723
+New York,Essex (County),Essex,1728
+New York,Greene (County),Greene,1739
+New York,Orleans (County),Orleans,1862
+New York,Rensselaer (County),Rensselaer,1874
+New York,Allegany (County),Allegany,1674
+New York,Schoharie (County),Schoharie,1888
+New York,Steuben (County),Steuben,1891
+New York,Albany (County),Albany,1673
+New York,Chenango (County),Chenango,1699
+New York,Schenectady (County),Schenectady,1887
+New York,Dutchess (County),Dutchess,1711
+New York,Herkimer (County),Herkimer,1745
+New York,Lewis (County),Lewis,1790
+New York,Columbia (County),Columbia,1704
+New York,Livingston (County),Livingston,1791
+New York,Madison (County),Madison,1796
+New York,Montgomery (County),Montgomery,1807
+New York,Oneida (County),Oneida,1852
+New York,Onondaga (County),Onondaga,1853
+New York,Otsego (County),Otsego,1868
+New York,Sullivan (County),Sullivan,1928
+New York,Tioga (County),Tioga,1930
+New York,Niagara (County),Niagara,1850
+New York,Ulster (County),Ulster,1935
+New York,Yates (County),Yates,1965
+New York,Tompkins (County),Tompkins,1933
+Vermont,Addison (County),Addison,2590
+Vermont,Bennington (County),Bennington,2591
+Vermont,Orange (County),Orange,2612
+Vermont,Rutland (County),Rutland,2615
+Vermont,Windham (County),Windham,2620
+New Jersey,Morris (County),Morris,1511
+New Jersey,Sussex (County),Sussex,1561
+Ohio,Lucas (County),Lucas,2520
+Vermont,Windsor (County),Windsor,2625
+Montana,Blaine (County),Blaine,1124
+Montana,Broadwater (County),Broadwater,1132
+Montana,Carbon (County),Carbon,1137
+Montana,Carter (County),Carter,1141
+Montana,Cascade (County),Cascade,1144
+Montana,Chouteau (County),Chouteau,1150
+Montana,Big Horn (County),Big Horn,1274
+Montana,Custer (County),Custer,1153
+Montana,Deer Lodge (County),Deer Lodge,1163
+Montana,Fallon (County),Fallon,1165
+Montana,Fergus (County),Fergus,1169
+Montana,Flathead (County),Flathead,1173
+Montana,Gallatin (County),Gallatin,1177
+Montana,Garfield (County),Garfield,1182
+Montana,Golden Valley (County),Golden Valley,1189
+Montana,Granite (County),Granite,1192
+Montana,Hill (County),Hill,1195
+Montana,Jefferson (County),Jefferson,1199
+Montana,Judith Basin (County),Judith Basin,1202
+Montana,Glacier (County),Glacier,1186
+Montana,Lake (County),Lake,1207
+Montana,Lewis and Clark (County),Lewis and Clark,1211
+Montana,Liberty (County),Liberty,1214
+Montana,Lincoln (County),Lincoln,1219
+Montana,Meagher (County),Meagher,1231
+Montana,Madison (County),Madison,1226
+Montana,Missoula (County),Missoula,1239
+Montana,Musselshell (County),Musselshell,1241
+Montana,Park (County),Park,1244
+Montana,Petroleum (County),Petroleum,1247
+Montana,Mineral (County),Mineral,1234
+Montana,Phillips (County),Phillips,1250
+Montana,Pondera (County),Pondera,1254
+Montana,Powder River (County),Powder River,1259
+Montana,Prairie (County),Prairie,1264
+Montana,Ravalli (County),Ravalli,1268
+Montana,Rosebud (County),Rosebud,1277
+Montana,Sanders (County),Sanders,1278
+Montana,Powell (County),Powell,1262
+Montana,Silver Bow (County),Silver Bow,1284
+Montana,Stillwater (County),Stillwater,1286
+Montana,Sweet Grass (County),Sweet Grass,1288
+Montana,Teton (County),Teton,1290
+Montana,Toole (County),Toole,1292
+Montana,Treasure (County),Treasure,1293
+Montana,Yellowstone (County),Yellowstone,1302
+Montana,Beaverhead (County),Beaverhead,1269
+Idaho,Ada (County),Ada,336
+Montana,Wheatland (County),Wheatland,1298
+Idaho,Bingham (County),Bingham,362
+Idaho,Blaine (County),Blaine,371
+Idaho,Boise (County),Boise,380
+Idaho,Clearwater (County),Clearwater,474
+Idaho,Custer (County),Custer,484
+Idaho,Elmore (County),Elmore,490
+Idaho,Jerome (County),Jerome,547
+Idaho,Lemhi (County),Lemhi,566
+Idaho,Lewis (County),Lewis,574
+Idaho,Lincoln (County),Lincoln,578
+Idaho,Power (County),Power,613
+Idaho,Valley (County),Valley,643
+Idaho,Bannock (County),Bannock,343
+Idaho,Idaho (County),Idaho,528
+California,Napa (County),Napa,236
+Ohio,Greene (County),Greene,2393
+Florida,Bay (County),Bay,658
+Florida,Gulf (County),Gulf,941
+Florida,Jefferson (County),Jefferson,951
+Florida,Leon (County),Leon,955
+Florida,Escambia (County),Escambia,931
+Florida,Franklin (County),Franklin,937
+Florida,Calhoun (County),Calhoun,699
+Florida,Okaloosa (County),Okaloosa,965
+Florida,Wakulla (County),Wakulla,984
+Florida,Collier (County),Collier,894
+Florida,Broward (County),Broward,695
+Florida,Dade (County),Maimi-Dade,962
+Michigan,Oakland (County),Oakland,1824
+Florida,Monroe (County),Monroe,963
+Michigan,Wayne (County),Wayne,1871
+** Arizona,Statewide,Statewide,Statewide **
+Arizona,Cochise (County),Cochise,763
+Arizona,Santa Cruz (County),Santa Cruz,32
+Arizona,Yavapai (County),Yavapai,35
+Arizona,La Paz (County),La Paz,3
+Arizona,Maricopa (County),Maricopa,9
+Arizona,Pinal (County),Pinal,26
+Hawaii,Maui (County),Maui,323
+Hawaii,Hawaii (County),Hawaii,198
+Oklahoma,Cotton (County),Cotton,2146
+Oklahoma,Jackson (County),Jackson,2202
+Oklahoma,Kiowa (County),Kiowa,2222
+Oklahoma,McClain (County),McClain,2245
+Oklahoma,Oklahoma (County),Oklahoma,2303
+Oklahoma,Carter (County),Carter,2126
+Oklahoma,Comanche (County),Comanche,2145
+Oklahoma,Grady (County),Grady,2184
+Oklahoma,Jefferson (County),Jefferson,2206
+Oklahoma,Tillman (County),Tillman,2005
+Oklahoma,Caddo (County),Caddo,2118
+Montana,McCone (County),McCone,1223
+Montana,Roosevelt (County),Roosevelt,1275
+Montana,Sheridan (County),Sheridan,1281
+Montana,Wibaux (County),Wibaux,1300
+Wyoming,Crook (County),Crook,3025
+Montana,Richland (County),Richland,1271
+Wyoming,Weston (County),Weston,3058
+Alabama,Etowah (County),Etowah,131
+Alabama,Geneva (County),Geneva,140
+Wyoming,Platte (County),Platte,3045
+Wyoming,Goshen (County),Goshen,3030
+Alabama,Henry (County),Henry,158
+Alabama,Houston (County),Houston,160
+Alabama,Limestone (County),Limestone,197
+Alabama,Macon (County),Macon,210
+Alabama,St. Clair (County),St. Clair,292
+Alabama,Dale (County),Dale,101
+North Dakota,Bowman (County),Bowman,1838
+North Dakota,Divide (County),Divide,2007
+North Dakota,Golden Valley (County),Golden Valley,2036
+North Dakota,McKenzie (County),McKenzie,2097
+North Dakota,Williams (County),Williams,2244
+Arkansas,Boone (County),Boone,62
+Arkansas,Sharp (County),Sharp,394
+Arkansas,Greene (County),Greene,162
+Arkansas,Independence (County),Independence,200
+Arkansas,Baxter (County),Baxter,54
+Arkansas,Benton (County),Benton,59
+Arkansas,Bradley (County),Bradley,68
+Arkansas,Calhoun (County),Calhoun,72
+Arkansas,Clark (County),Clark,86
+Arkansas,Cleburne (County),Cleburne,97
+Arkansas,Cleveland (County),Cleveland,103
+Arkansas,Columbia (County),Columbia,107
+Arkansas,Conway (County),Conway,109
+Arkansas,Crawford (County),Crawford,115
+Arkansas,Crittenden (County),Crittenden,119
+Arkansas,Cross (County),Cross,124
+Arkansas,Dallas (County),Dallas,128
+Arkansas,Drew (County),Drew,136
+Arkansas,Faulkner (County),Faulkner,141
+Arkansas,Franklin (County),Franklin,144
+Arkansas,Fulton (County),Fulton,146
+Arkansas,Garland (County),Garland,151
+Arkansas,Desha (County),Desha,130
+Arkansas,Hempstead (County),Hempstead,172
+Arkansas,Hot Spring (County),Hot Spring,184
+Arkansas,Howard (County),Howard,191
+Arkansas,Izard (County),Izard,203
+Arkansas,Jackson (County),Jackson,209
+Arkansas,Jefferson (County),Jefferson,213
+Arkansas,Grant (County),Grant,155
+Arkansas,Johnson (County),Johnson,218
+Arkansas,Lafayette (County),Lafayette,222
+Arkansas,Lee (County),Lee,237
+Arkansas,Lincoln (County),Lincoln,244
+Arkansas,Little River (County),Little River,251
+Arkansas,Lonoke (County),Lonoke,268
+Arkansas,Madison (County),Madison,277
+Arkansas,Marion (County),Marion,282
+Arkansas,Miller (County),Miller,287
+Arkansas,Mississippi (County),Mississippi,294
+Arkansas,Logan (County),Logan,258
+Arkansas,Monroe (County),Monroe,300
+Arkansas,Montgomery (County),Montgomery,304
+Arkansas,Nevada (County),Nevada,307
+Arkansas,Ouachita (County),Ouachita,316
+Arkansas,Perry (County),Perry,318
+Arkansas,Pike (County),Pike,327
+Arkansas,Poinsett (County),Poinsett,333
+Arkansas,Newton (County),Newton,311
+Arkansas,Polk (County),Polk,337
+Arkansas,Pope (County),Pope,340
+Arkansas,Prairie (County),Prairie,345
+Arkansas,Pulaski (County),Pulaski,350
+Arkansas,St. Francis (County),St. Francis,357
+Arkansas,Saline (County),Saline,360
+Arkansas,Scott (County),Scott,364
+Arkansas,Searcy (County),Searcy,372
+Arkansas,Sebastian (County),Sebastian,378
+Arkansas,Sevier (County),Sevier,390
+Arkansas,Stone (County),Stone,399
+Arkansas,Union (County),Union,403
+Arkansas,Van Buren (County),Van Buren,407
+Arkansas,Washington (County),Washington,417
+Arkansas,White (County),White,428
+Arkansas,Woodruff (County),Woodruff,435
+Arkansas,Yell (County),Yell,438
+Arkansas,Arkansas (County),Arkansas,46
+Oklahoma,Beckham (County),Beckham,2106
+Oklahoma,Blaine (County),Blaine,2110
+Oklahoma,Custer (County),Custer,2153
+Oklahoma,Garfield (County),Garfield,2167
+Oklahoma,Greer (County),Greer,2189
+Oklahoma,Harmon (County),Harmon,2191
+Oklahoma,Canadian (County),Canadian,2123
+Oklahoma,Kay (County),Kay,2215
+Oklahoma,Kingfisher (County),Kingfisher,2219
+Oklahoma,Logan (County),Logan,2236
+Oklahoma,Nowata (County),Nowata,2290
+Oklahoma,Osage (County),Osage,2318
+Oklahoma,Payne (County),Payne,2340
+Oklahoma,Roger Mills (County),Roger Mills,2369
+Oklahoma,Washita (County),Washita,2023
+Oklahoma,Craig (County),Craig,2148
+Oklahoma,Adair (County),Adair,2095
+Oklahoma,Pawnee (County),Pawnee,2329
+Oklahoma,Atoka (County),Atoka,2102
+Oklahoma,Bryan (County),Bryan,2112
+Oklahoma,Cherokee (County),Cherokee,2129
+Oklahoma,Cleveland (County),Cleveland,2140
+Oklahoma,Coal (County),Coal,2144
+Oklahoma,Choctaw (County),Choctaw,2133
+Oklahoma,Creek (County),Creek,2151
+Oklahoma,Delaware (County),Delaware,2154
+Oklahoma,Garvin (County),Garvin,2176
+Oklahoma,Haskell (County),Haskell,2195
+Oklahoma,Hughes (County),Hughes,2197
+Oklahoma,Latimer (County),Latimer,2226
+Oklahoma,Le Flore (County),Le Flore,2230
+Oklahoma,Lincoln (County),Lincoln,2234
+Oklahoma,Johnston (County),Johnston,2211
+Oklahoma,Love (County),Love,2238
+Oklahoma,McCurtain (County),McCurtain,2252
+Oklahoma,McIntosh (County),McIntosh,2258
+Oklahoma,Mayes (County),Mayes,2270
+Oklahoma,Murray (County),Murray,2276
+Oklahoma,Muskogee (County),Muskogee,2281
+Oklahoma,Okfuskee (County),Okfuskee,2297
+Oklahoma,Marshall (County),Marshall,2265
+Oklahoma,Ottawa (County),Ottawa,2325
+Oklahoma,Pittsburg (County),Pittsburg,2344
+Oklahoma,Pontotoc (County),Pontotoc,2351
+Oklahoma,Pottawatomie (County),Pottawatomie,2356
+Oklahoma,Okmulgee (County),Okmulgee,2311
+Oklahoma,Rogers (County),Rogers,2374
+Oklahoma,Seminole (County),Seminole,2384
+Oklahoma,Sequoyah (County),Sequoyah,2391
+Oklahoma,Stephens (County),Stephens,2396
+Oklahoma,Pushmataha (County),Pushmataha,2362
+Oklahoma,Wagoner (County),Wagoner,2014
+Oklahoma,Washington (County),Washington,2018
+Texas,Armstrong (County),Armstrong,2172
+Texas,Bailey (County),Bailey,2179
+Texas,Briscoe (County),Briscoe,2269
+Oklahoma,Tulsa (County),Tulsa,2008
+Texas,Deaf Smith (County),Deaf Smith,2515
+Texas,Floyd (County),Floyd,2630
+Texas,Hall (County),Hall,2125
+Texas,Hemphill (County),Hemphill,2171
+Texas,Crosby (County),Crosby,2487
+Texas,Oldham (County),Oldham,2210
+Texas,Parmer (County),Parmer,2235
+Texas,Nacogdoches (County),Nacogdoches,2701
+Texas,San Augustine (County),San Augustine,2380
+Texas,Shelby (County),Shelby,2448
+Texas,Borden (County),Borden,2212
+Texas,Randall (County),Randall,2274
+Texas,Potter (County),Potter,2247
+Texas,Carson (County),Carson,2377
+Texas,Cherokee (County),Cherokee,2400
+Texas,Cooke (County),Cooke,2463
+Texas,Dawson (County),Dawson,2512
+Texas,Delta (County),Delta,2524
+Texas,Franklin (County),Franklin,2016
+Texas,Gaines (County),Gaines,2032
+Texas,Garza (County),Garza,2060
+Texas,Gray (County),Gray,2088
+Texas,Grayson (County),Grayson,2094
+Texas,Harrison (County),Harrison,2157
+Texas,Hopkins (County),Hopkins,2221
+Texas,Hunt (County),Hunt,2246
+Texas,Lynn (County),Lynn,2438
+Texas,Marion (County),Marion,2547
+Texas,Montague (County),Montague,2669
+Texas,Gregg (County),Gregg,2101
+Texas,Morris (County),Morris,2688
+Texas,Panola (County),Panola,2227
+Texas,Rusk (County),Rusk,2367
+Texas,Smith (County),Smith,2465
+Texas,Upshur (County),Upshur,2566
+Texas,Wood (County),Wood,2644
+Texas,Bowie (County),Bowie,2224
+Texas,Rains (County),Rains,2268
+Texas,Cass (County),Cass,2382
+Texas,Fannin (County),Fannin,2621
+Texas,Lamar (County),Lamar,2371
+Texas,Red River (County),Red River,2295
+Texas,Titus (County),Titus,2531
+Louisiana,Bossier (Parish),Bossier,1076
+Louisiana,Caddo (Parish),Caddo,1079
+Florida,Baker (County),Baker,641
+Florida,Bradford (County),Bradford,665
+Florida,Brevard (County),Brevard,686
+Florida,Charlotte (County),Charlotte,743
+Florida,Citrus (County),Citrus,843
+Florida,Clay (County),Clay,852
+Florida,Columbia (County),Columbia,903
+Florida,DeSoto (County),DeSoto,906
+Florida,Dixie (County),Dixie,918
+Florida,Duval (County),Duval,924
+Florida,Flagler (County),Flagler,935
+Florida,Gilchrist (County),Gilchrist,939
+Florida,Glades (County),Glades,940
+Florida,Hamilton (County),Hamilton,942
+Florida,Hardee (County),Hardee,943
+Florida,Hendry (County),Hendry,944
+Florida,Hernando (County),Hernando,945
+Florida,Highlands (County),Highlands,946
+Florida,Hillsborough (County),Hillsborough,947
+Florida,Indian River (County),Indian River,949
+Florida,Lafayette (County),Lafayette,952
+Florida,Lake (County),Lake,953
+Florida,Lee (County),Lee,954
+Florida,Levy (County),Levy,956
+Florida,Manatee (County),Manatee,959
+Florida,Marion (County),Marion,960
+Florida,Martin (County),Martin,961
+Florida,Nassau (County),Nassau,964
+Florida,Okeechobee (County),Okeechobee,966
+Florida,Orange (County),Orange,967
+Florida,Osceola (County),Osceola,968
+Florida,Palm Beach (County),Palm Beach,969
+Florida,Pasco (County),Pasco,970
+Florida,Pinellas (County),Pinellas,971
+Florida,Polk (County),Polk,972
+Florida,Putnam (County),Putnam,973
+Florida,St. Johns (County),St. Johns,974
+Florida,St. Lucie (County),St. Lucie,975
+Florida,Sarasota (County),Sarasota,977
+Florida,Seminole (County),Seminole,978
+Florida,Sumter (County),Sumter,979
+Florida,Suwannee (County),Suwannee,980
+Florida,Union (County),Union,982
+Florida,Volusia (County),Volusia,983
+Mississippi,Alcorn (County),Alcorn,1538
+Mississippi,Amite (County),Amite,1539
+Mississippi,Bolivar (County),Bolivar,1547
+Mississippi,Carroll (County),Carroll,1549
+Florida,Alachua (County),Alachua,639
+Mississippi,Coahoma (County),Coahoma,1562
+Mississippi,Franklin (County),Franklin,1575
+Mississippi,Chickasaw (County),Chickasaw,1550
+Mississippi,Calhoun (County),Calhoun,1548
+Mississippi,Grenada (County),Grenada,1581
+Mississippi,Humphreys (County),Humphreys,1596
+Mississippi,Itawamba (County),Itawamba,1601
+Mississippi,Lafayette (County),Lafayette,1620
+Mississippi,Madison (County),Madison,1651
+Mississippi,Monroe (County),Monroe,1656
+Mississippi,Neshoba (County),Neshoba,1661
+Mississippi,Panola (County),Panola,1671
+Mississippi,Quitman (County),Quitman,1685
+Mississippi,Scott (County),Scott,1692
+Mississippi,Pike (County),Pike,1680
+Mississippi,Tate (County),Tate,1727
+Mississippi,Tippah (County),Tippah,1730
+Mississippi,Tishomingo (County),Tishomingo,1732
+Mississippi,Sunflower (County),Sunflower,1721
+Mississippi,Union (County),Union,1737
+Mississippi,Washington (County),Washington,1750
+Mississippi,Webster (County),Webster,1756
+Mississippi,Wilkinson (County),Wilkinson,1757
+Mississippi,Yalobusha (County),Yalobusha,1759
+Mississippi,Attala (County),Attala,1541
+Mississippi,Clay (County),Clay,1559
+Mississippi,Forrest (County),Forrest,1572
+Mississippi,Jones (County),Jones,1615
+Mississippi,Choctaw (County),Choctaw,1552
+Mississippi,Lee (County),Lee,1638
+Mississippi,Leflore (County),Leflore,1643
+Mississippi,Lincoln (County),Lincoln,1645
+Mississippi,Lamar (County),Lamar,1623
+Mississippi,Noxubee (County),Noxubee,1666
+Mississippi,Pearl River (County),Pearl River,1676
+Mississippi,Perry (County),Perry,1679
+Mississippi,Pontotoc (County),Pontotoc,1682
+Mississippi,Prentiss (County),Prentiss,1684
+Mississippi,Tallahatchie (County),Tallahatchie,1725
+Mississippi,Marion (County),Marion,1653
+Mississippi,Winston (County),Winston,1758
+Mississippi,Yazoo (County),Yazoo,1760
+Mississippi,Holmes (County),Holmes,1593
+Mississippi,Lowndes (County),Lowndes,1647
+Mississippi,Oktibbeha (County),Oktibbeha,1668
+Washington,Douglas (County),Douglas,2877
+Washington,Walla Walla (County),Walla Walla,2970
+Mississippi,Walthall (County),Walthall,1740
+Washington,Clark (County),Clark,2865
+Washington,Island (County),Island,2898
+Washington,Benton (County),Benton,2847
+Washington,Chelan (County),Chelan,2852
+Washington,Jefferson (County),Jefferson,2905
+Washington,Kittitas (County),Kittitas,2932
+Washington,Skamania (County),Skamania,2959
+Washington,Wahkiakum (County),Wahkiakum,2969
+Washington,Yakima (County),Yakima,2974
+Washington,Cowlitz (County),Cowlitz,2871
+Washington,Grays Harbor (County),Grays Harbor,2894
+Washington,Kitsap (County),Kitsap,2927
+Washington,Lewis (County),Lewis,2940
+Washington,Mason (County),Mason,2946
+Washington,Pacific (County),Pacific,2949
+Washington,Skagit (County),Skagit,2958
+Washington,Snohomish (County),Snohomish,2960
+Washington,Pierce (County),Pierce,2956
+Washington,Thurston (County),Thurston,2967
+Washington,Clallam (County),Clallam,2861
+Washington,King (County),King,2913
+Washington,Whatcom (County),Whatcom,2972
+Alabama,Fayette (County),Fayette,134
+Alabama,Blount (County),Blount,33
+Alabama,Lamar (County),Lamar,174
+Alabama,Walker (County),Walker,317
+Arkansas,Craighead (County),Craighead,114
+Massachusetts,Suffolk (County),Suffolk,1585
+Mississippi,Leake (County),Leake,1636
+Kansas,Barton (County),Barton,719
+Iowa,Grundy (County),Grundy,460
+Iowa,Lucas (County),Lucas,542
+Iowa,Humboldt (County),Humboldt,487
+Iowa,Palo Alto (County),Palo Alto,618
+Iowa,Union (County),Union,675
+Iowa,Buchanan (County),Buchanan,632
+Iowa,Calhoun (County),Calhoun,365
+Iowa,Henry (County),Henry,479
+Iowa,Sac (County),Sac,647
+Iowa,Pottawattamie (County),Pottawattamie,637
+Iowa,Webster (County),Webster,694
+Iowa,Allamakee (County),Allamakee,608
+Iowa,Clayton (County),Clayton,402
+Iowa,Des Moines (County),Des Moines,424
+Iowa,Clinton (County),Clinton,404
+Iowa,Jackson (County),Jackson,499
+Iowa,Lee (County),Lee,531
+Iowa,Dubuque (County),Dubuque,434
+Iowa,Louisa (County),Louisa,539
+Iowa,Muscatine (County),Muscatine,600
+Iowa,Ringgold (County),Ringgold,642
+Iowa,Wapello (County),Wapello,681
+Illinois,Adams (County),Adams,650
+Illinois,Calhoun (County),Calhoun,4
+Illinois,Carroll (County),Carroll,6
+Iowa,Scott (County),Scott,657
+Illinois,Henderson (County),Henderson,117
+Illinois,Jo Daviess (County),Jo Daviess,145
+Illinois,Mercer (County),Mercer,216
+Illinois,Pike (County),Pike,241
+Illinois,Rock Island (County),Rock Island,265
+Illinois,Whiteside (County),Whiteside,314
+Illinois,Hancock (County),Hancock,111
+Wisconsin,Clark (County),Clark,3119
+Wisconsin,Dunn (County),Dunn,3135
+Wisconsin,Chippewa (County),Chippewa,3117
+Wisconsin,Portage (County),Portage,3192
+Wisconsin,Wood (County),Wood,3014
+Wisconsin,Taylor (County),Taylor,3208
+Wisconsin,Waupaca (County),Waupaca,3009
+Wisconsin,Waushara (County),Waushara,3010
+Wisconsin,Bayfield (County),Bayfield,3108
+Wisconsin,Buffalo (County),Buffalo,3113
+Wisconsin,Calumet (County),Calumet,3116
+Wisconsin,Douglas (County),Douglas,3134
+Wisconsin,La Crosse (County),La Crosse,3161
+Wisconsin,Outagamie (County),Outagamie,3185
+Wisconsin,Pepin (County),Pepin,3188
+Wisconsin,Pierce (County),Pierce,3189
+Wisconsin,St. Croix (County),St. Croix,3200
+Wisconsin,Winnebago (County),Winnebago,3012
+Wisconsin,Trempealeau (County),Trempealeau,3210
+Minnesota,Le Sueur (County),Le Sueur,1929
+Minnesota,Marshall (County),Marshall,1937
+Minnesota,Nobles (County),Nobles,1950
+Minnesota,Isanti (County),Isanti,1916
+Minnesota,Lake (County),Lake,1926
+Minnesota,Anoka (County),Anoka,1877
+Minnesota,Koochiching (County),Koochiching,1922
+Minnesota,Olmsted (County),Olmsted,1953
+Minnesota,Hennepin (County),Hennepin,1913
+Minnesota,Rice (County),Rice,1973
+Minnesota,Aitkin (County),Aitkin,1875
+Minnesota,Beltrami (County),Beltrami,1880
+Minnesota,Brown (County),Brown,1892
+Minnesota,Carlton (County),Carlton,1893
+Minnesota,Crow Wing (County),Crow Wing,1903
+Minnesota,Douglas (County),Douglas,1907
+Minnesota,Kanabec (County),Kanabec,1919
+Minnesota,Kandiyohi (County),Kandiyohi,1920
+Minnesota,Kittson (County),Kittson,1921
+Minnesota,Lake of the Woods (County),Lake of the Woods,1927
+Minnesota,Mille Lacs (County),Mille Lacs,1943
+Minnesota,Nicollet (County),Nicollet,1948
+Minnesota,Otter Tail (County),Otter Tail,1954
+Minnesota,Pine (County),Pine,1957
+Minnesota,Pope (County),Pope,1961
+Minnesota,Sibley (County),Sibley,1982
+Minnesota,Stearns (County),Stearns,1984
+Minnesota,Wright (County),Wright,1999
+Minnesota,Scott (County),Scott,1979
+Minnesota,Benton (County),Benton,1881
+Minnesota,Big Stone (County),Big Stone,1882
+Minnesota,Carver (County),Carver,1894
+Minnesota,Chisago (County),Chisago,1897
+Minnesota,Goodhue (County),Goodhue,1911
+Minnesota,Grant (County),Grant,1912
+Minnesota,Lac qui Parle (County),Lac qui Parle,1923
+Minnesota,McLeod (County),McLeod,1934
+Minnesota,Meeker (County),Meeker,1941
+Minnesota,Polk (County),Polk,1959
+Minnesota,Morrison (County),Morrison,1944
+Minnesota,Redwood (County),Redwood,1969
+Minnesota,Renville (County),Renville,1971
+Minnesota,St. Louis (County),St. Louis,1978
+Minnesota,Stevens (County),Stevens,1987
+Minnesota,Todd (County),Todd,1989
+Minnesota,Swift (County),Swift,1988
+Minnesota,Red Lake (County),Red Lake,1966
+Minnesota,Wabasha (County),Wabasha,1991
+Minnesota,Washington (County),Washington,1994
+Minnesota,Wilkin (County),Wilkin,1997
+Minnesota,Traverse (County),Traverse,1990
+Maine,Penobscot (County),Penobscot,1846
+Puerto Rico,Anasco (Municipio),Anasco,3069
+Puerto Rico,Lares (Municipio),Lares,3142
+Puerto Rico,Las Marias (Municipio),Las Marias,3144
+Puerto Rico,Maricao (Municipio),Maricao,3155
+Puerto Rico,Moca (Municipio),Moca,3162
+Puerto Rico,Hormigueros (Municipio),Hormigueros,3128
+Puerto Rico,Adjuntas (Municipio),Adjuntas,3060
+Puerto Rico,Cabo Rojo (Municipio),Cabo Rojo,3081
+Puerto Rico,Guayanilla (Municipio),Guayanilla,3121
+Puerto Rico,Lajas (Municipio),Lajas,3139
+Puerto Rico,Rincon (Municipio),Rincon,3182
+Puerto Rico,Sabana Grande (Municipio),Sabana Grande,3187
+Puerto Rico,Guanica (Municipio),Guanica,3114
+Puerto Rico,San German (Municipio),San German,3193
+Nebraska,Custer (County),Custer,1342
+Puerto Rico,Yauco (Municipio),Yauco,3220
+Nebraska,Dundy (County),Dundy,1360
+Nebraska,Banner (County),Banner,1308
+Nebraska,Blaine (County),Blaine,1309
+Nebraska,Box Butte (County),Box Butte,1315
+Nebraska,Brown (County),Brown,1319
+Nebraska,Chase (County),Chase,1330
+Nebraska,Cherry (County),Cherry,1333
+Nebraska,Cheyenne (County),Cheyenne,1334
+Nebraska,Deuel (County),Deuel,1351
+Nebraska,Gage (County),Gage,1378
+Nebraska,Hayes (County),Hayes,1411
+Nebraska,Garden (County),Garden,1381
+Nebraska,Hooker (County),Hooker,1418
+Nebraska,Johnson (County),Johnson,1313
+Nebraska,Keith (County),Keith,1316
+Nebraska,Kimball (County),Kimball,1320
+Nebraska,Logan (County),Logan,1328
+Nebraska,McPherson (County),McPherson,1332
+Nebraska,Morrill (County),Morrill,1339
+Nebraska,Nuckolls (County),Nuckolls,1345
+Nebraska,Rock (County),Rock,1366
+Nebraska,Perkins (County),Perkins,1352
+Nebraska,Keya Paha (County),Keya Paha,1318
+Nebraska,Lincoln (County),Lincoln,1327
+Nebraska,Saline (County),Saline,1367
+Nebraska,Sioux (County),Sioux,1380
+Nebraska,Thomas (County),Thomas,1384
+Colorado,Baca (County),Baca,563
+Colorado,Bent (County),Bent,564
+Colorado,Cheyenne (County),Cheyenne,587
+Colorado,Crowley (County),Crowley,605
+Colorado,Kiowa (County),Kiowa,711
+Colorado,Lincoln (County),Lincoln,747
+Colorado,Morgan (County),Morgan,775
+Colorado,Logan (County),Logan,749
+Colorado,Phillips (County),Phillips,785
+Colorado,Washington (County),Washington,377
+Colorado,Weld (County),Weld,382
+Colorado,Yuma (County),Yuma,385
+South Dakota,Brown (County),Brown,2885
+Colorado,Sedgwick (County),Sedgwick,366
+Colorado,Prowers (County),Prowers,792
+South Dakota,Buffalo (County),Buffalo,2891
+South Dakota,Deuel (County),Deuel,2912
+South Dakota,Edmunds (County),Edmunds,2917
+South Dakota,Gregory (County),Gregory,2923
+South Dakota,Day (County),Day,2911
+South Dakota,Hanson (County),Hanson,2929
+South Dakota,Jerauld (County),Jerauld,2941
+South Dakota,Marshall (County),Marshall,2430
+South Dakota,Moody (County),Moody,2485
+South Dakota,Todd (County),Todd,2540
+South Dakota,Turner (County),Turner,2550
+South Dakota,Tripp (County),Tripp,2546
+South Dakota,Beadle (County),Beadle,2874
+South Dakota,Clark (County),Clark,2901
+South Dakota,Codington (County),Codington,2906
+South Dakota,Hamlin (County),Hamlin,2926
+South Dakota,Grant (County),Grant,2922
+South Dakota,Brookings (County),Brookings,2882
+South Dakota,Kingsbury (County),Kingsbury,2945
+South Dakota,Roberts (County),Roberts,2511
+South Dakota,Sanborn (County),Sanborn,2514
+South Dakota,Mellette (County),Mellette,2450
+South Dakota,Spink (County),Spink,2523
+North Dakota,Adams (County),Adams,1826
+North Dakota,Grant (County),Grant,2051
+West Virginia,Mingo (County),Mingo,3048
+West Virginia,Summers (County),Summers,3080
+West Virginia,Fayette (County),Fayette,3006
+West Virginia,McDowell (County),McDowell,3037
+West Virginia,Boone (County),Boone,2977
+West Virginia,Clay (County),Clay,3000
+West Virginia,Greenbrier (County),Greenbrier,3013
+West Virginia,Logan (County),Logan,3034
+West Virginia,Nicholas (County),Nicholas,3057
+West Virginia,Raleigh (County),Raleigh,3073
+West Virginia,Wayne (County),Wayne,3089
+West Virginia,Wyoming (County),Wyoming,3099
+Texas,Grimes (County),Grimes,2108
+West Virginia,Mercer (County),Mercer,3044
+Texas,Anderson (County),Anderson,2113
+Texas,Angelina (County),Angelina,2124
+Texas,Brazoria (County),Brazoria,2240
+Texas,Chambers (County),Chambers,2395
+Texas,Waller (County),Waller,2606
+Texas,Galveston (County),Galveston,2059
+Texas,Hardin (County),Hardin,2142
+Texas,Harris (County),Harris,2149
+Texas,Houston (County),Houston,2228
+Texas,Jasper (County),Jasper,2271
+Texas,Fort Bend (County),Fort Bend,2009
+Texas,Jefferson (County),Jefferson,2285
+Texas,Leon (County),Leon,2402
+Texas,Liberty (County),Liberty,2404
+Texas,Madison (County),Madison,2526
+Texas,Montgomery (County),Montgomery,2682
+Texas,Newton (County),Newton,2711
+Texas,Orange (County),Orange,2214
+Texas,Polk (County),Polk,2243
+Texas,Sabine (County),Sabine,2370
+Texas,San Jacinto (County),San Jacinto,2387
+Texas,Trinity (County),Trinity,2553
+Texas,Tyler (County),Tyler,2560
+Texas,Walker (County),Walker,2603
+Louisiana,Pointe Coupee (Parish),Pointe Coupee,1431
+Louisiana,West Feliciana (Parish),West Feliciana,1524
+Louisiana,St. Helena (Parish),St. Helena,1467
+Louisiana,Beauregard (Parish),Beauregard,1066
+Louisiana,West Baton Rouge (Parish),West Baton Rouge,1520
+Louisiana,East Feliciana (Parish),East Feliciana,1115
+Louisiana,Iberia (Parish),Iberia,1133
+Louisiana,Jefferson (Parish),Jefferson,1147
+Louisiana,Orleans (Parish),Orleans,1304
+Louisiana,St. Bernard (Parish),St. Bernard,1463
+Louisiana,St. Charles (Parish),St. Charles,1466
+Louisiana,St. John the Baptist (Parish),St. John the Baptist,1469
+Louisiana,St. James (Parish),St. James,1468
+Louisiana,St. Mary (Parish),St. Mary,1474
+Louisiana,St. Tammany (Parish),St. Tammany,1475
+Louisiana,Tangipahoa (Parish),Tangipahoa,1476
+Louisiana,Washington (Parish),Washington,1516
+Louisiana,Ascension (Parish),Ascension,1055
+Louisiana,Assumption (Parish),Assumption,1060
+Louisiana,East Baton Rouge (Parish),East Baton Rouge,1108
+Louisiana,Iberville (Parish),Iberville,1134
+Louisiana,Lafayette (Parish),Lafayette,1161
+Louisiana,Lafourche (Parish),Lafourche,1280
+Louisiana,Livingston (Parish),Livingston,1295
+Louisiana,St. Martin (Parish),St. Martin,1473
+Louisiana,Vermilion (Parish),Vermilion,1510
+Florida,Washington (County),Washington,986
+Florida,Holmes (County),Holmes,948
+Florida,Gadsden (County),Gadsden,938
+Louisiana,Terrebonne (Parish),Terrebonne,1501
+Florida,Liberty (County),Liberty,957
+Mississippi,George (County),George,1577
+Mississippi,Hancock (County),Hancock,1583
+Mississippi,Harrison (County),Harrison,1587
+Mississippi,Jackson (County),Jackson,1605
+Pennsylvania,Bucks (County),Bucks,2336
+Pennsylvania,Berks (County),Berks,2326
+Pennsylvania,Montgomery (County),Montgomery,2528
+Oklahoma,Alfalfa (County),Alfalfa,2099
+Oklahoma,Beaver (County),Beaver,2104
+Oklahoma,Cimarron (County),Cimarron,2135
+Oklahoma,Dewey (County),Dewey,2158
+Oklahoma,Harper (County),Harper,2193
+Oklahoma,Ellis (County),Ellis,2165
+Oklahoma,Major (County),Major,2260
+Oklahoma,Texas (County),Texas,2003
+Oklahoma,Woodward (County),Woodward,2035
+Tennessee,Shelby (County),Shelby,2033
+Tennessee,Carter (County),Carter,2654
+Tennessee,Cocke (County),Cocke,2686
+Tennessee,Greene (County),Greene,2750
+Tennessee,Johnson (County),Johnson,2808
+Tennessee,Union (County),Union,2073
+Tennessee,Unicoi (County),Unicoi,2069
+Kentucky,Clay (County),Clay,1056
+Kentucky,Elliott (County),Elliott,1075
+Kentucky,Estill (County),Estill,1077
+Tennessee,Washington (County),Washington,2085
+Kentucky,Menifee (County),Menifee,1222
+Kentucky,Powell (County),Powell,1270
+Kentucky,Rockcastle (County),Rockcastle,1276
+Kentucky,Knott (County),Knott,1154
+Kentucky,Letcher (County),Letcher,1178
+Kentucky,Perry (County),Perry,1265
+Ohio,Brown (County),Brown,2282
+Kentucky,Pike (County),Pike,1267
+Kentucky,Whitley (County),Whitley,1034
+Kentucky,Floyd (County),Floyd,1085
+Ohio,Clermont (County),Clermont,2306
+Ohio,Hamilton (County),Hamilton,2411
+Ohio,Butler (County),Butler,2286
+New York,Broome (County),Broome,1683
+New York,Cayuga (County),Cayuga,1689
+New York,Chautauqua (County),Chautauqua,1694
+New York,Chemung (County),Chemung,1696
+New York,Clinton (County),Clinton,1702
+New York,Cortland (County),Cortland,1706
+New York,Franklin (County),Franklin,1731
+New York,Fulton (County),Fulton,1734
+New York,Genesee (County),Genesee,1736
+New York,Hamilton (County),Hamilton,1742
+New York,Jefferson (County),Jefferson,1782
+New York,Monroe (County),Monroe,1804
+New York,Ontario (County),Ontario,1856
+New York,Oswego (County),Oswego,1864
+New York,St. Lawrence (County),St. Lawrence,1883
+New York,Saratoga (County),Saratoga,1885
+New York,Seneca (County),Seneca,1890
+New York,Schuyler (County),Schuyler,1889
+New York,Washington (County),Washington,1942
+New York,Wayne (County),Wayne,1952
+New York,Wyoming (County),Wyoming,1962
+New York,Warren (County),Warren,1938
+New York,Nassau (County),Nassau,1839
+New York,Orange (County),Orange,1859
+New York,Putnam (County),Putnam,1870
+New York,Delaware (County),Delaware,1707
+New York,Rockland (County),Rockland,1879
+New York,Suffolk (County),Suffolk,1924
+New York,Westchester (County),Westchester,1960
+New York,Bronx (County),Bronx,1681
+New York,Kings (County),Kings,1788
+New York,New York (County),New York,1847
+New York,Queens (County),Queens,1872
+New York,Richmond (County),Richmond,1876
+Nebraska,Dakota (County),Dakota,1344
+Puerto Rico,Aguas Buenas (Municipio),Aguas Buenas,3065
+Puerto Rico,Vega Alta (Municipio),Vega Alta,3215
+Puerto Rico,Orocovis (Municipio),Orocovis,3171
+Puerto Rico,Barranquitas (Municipio),Barranquitas,3076
+Puerto Rico,Bayamon (Municipio),Bayamon,3078
+Puerto Rico,Corozal (Municipio),Corozal,3105
+Puerto Rico,Jayuya (Municipio),Jayuya,3132
+Puerto Rico,Juncos (Municipio),Juncos,3136
+Puerto Rico,Morovis (Municipio),Morovis,3164
+Puerto Rico,Naranjito (Municipio),Naranjito,3168
+Puerto Rico,San Lorenzo (Municipio),San Lorenzo,3201
+Puerto Rico,Utuado (Municipio),Utuado,3214
+Puerto Rico,Ciales (Municipio),Ciales,3098
+Mississippi,Benton (County),Benton,1544
+Mississippi,Marshall (County),Marshall,1655
+Mississippi,Sharkey (County),Sharkey,1695
+Mississippi,DeSoto (County),DeSoto,1571
+Mississippi,Hinds (County),Hinds,1591
+Mississippi,Tunica (County),Tunica,1735
+Alabama,Autauga (County),Autauga,5
+Alabama,Calhoun (County),Calhoun,43
+Alabama,Lawrence (County),Lawrence,181
+Alabama,Madison (County),Madison,217
+Alabama,Marion (County),Marion,224
+Alabama,Clay (County),Clay,65
+Alabama,Marshall (County),Marshall,231
+Alabama,Talladega (County),Talladega,306
+Alabama,Butler (County),Butler,39
+Alabama,Winston (County),Winston,332
+Arkansas,Ashley (County),Ashley,50
+Arkansas,Clay (County),Clay,93
+Oklahoma,Grant (County),Grant,2187
+Oklahoma,Noble (County),Noble,2287
+Oklahoma,Woods (County),Woods,2029
+Kansas,Harper (County),Harper,807
+Kansas,Comanche (County),Comanche,748
+Kansas,Jefferson (County),Jefferson,821
+Kansas,Cherokee (County),Cherokee,732
+Kansas,Kiowa (County),Kiowa,829
+Kansas,Leavenworth (County),Leavenworth,836
+Kansas,Lyon (County),Lyon,844
+Kansas,Kingman (County),Kingman,827
+Kansas,Pratt (County),Pratt,878
+Kansas,Sedgwick (County),Sedgwick,898
+Kansas,Shawnee (County),Shawnee,902
+Kansas,Anderson (County),Anderson,712
+Kansas,Butler (County),Butler,726
+Kansas,Barber (County),Barber,717
+Kansas,Coffey (County),Coffey,745
+Kansas,Chautauqua (County),Chautauqua,730
+Kansas,Cowley (County),Cowley,752
+Kansas,Douglas (County),Douglas,767
+Kansas,Elk (County),Elk,773
+Kansas,Franklin (County),Franklin,786
+Kansas,Greenwood (County),Greenwood,803
+Kansas,Johnson (County),Johnson,824
+Kansas,Linn (County),Linn,840
+Kansas,Miami (County),Miami,853
+Kansas,Montgomery (County),Montgomery,856
+Kansas,Sumner (County),Sumner,916
+Kansas,Wilson (County),Wilson,925
+Kansas,Woodson (County),Woodson,926
+Kansas,Wyandotte (County),Wyandotte,927
+Kansas,Osage (County),Osage,867
+Missouri,Adair (County),Adair,1761
+Kansas,Bourbon (County),Bourbon,722
+Kansas,Allen (County),Allen,709
+Missouri,Audrain (County),Audrain,1766
+Missouri,Barton (County),Barton,1771
+Missouri,Benton (County),Benton,1778
+Missouri,Boone (County),Boone,1783
+Missouri,Caldwell (County),Caldwell,1795
+Missouri,Clark (County),Clark,1015
+Missouri,Daviess (County),Daviess,1036
+Missouri,Cooper (County),Cooper,1025
+Missouri,Grundy (County),Grundy,1057
+Missouri,Buchanan (County),Buchanan,1789
+Missouri,DeKalb (County),DeKalb,1038
+Missouri,Sullivan (County),Sullivan,1240
+Missouri,Bates (County),Bates,1776
+Missouri,Morgan (County),Morgan,1146
+Missouri,Ralls (County),Ralls,1191
+Missouri,Cedar (County),Cedar,1007
+Missouri,Livingston (County),Livingston,1112
+Missouri,Clinton (County),Clinton,1021
+Missouri,Scotland (County),Scotland,1224
+Missouri,Henry (County),Henry,1061
+Missouri,Howard (County),Howard,1068
+Missouri,Chariton (County),Chariton,1011
+Missouri,Clay (County),Clay,1018
+Missouri,Carroll (County),Carroll,1822
+Missouri,Johnson (County),Johnson,1087
+Missouri,Cass (County),Cass,1004
+Missouri,Knox (County),Knox,1091
+Missouri,Jackson (County),Jackson,1074
+Missouri,Lafayette (County),Lafayette,1099
+Missouri,Linn (County),Linn,1109
+Missouri,Macon (County),Macon,1116
+Missouri,Lewis (County),Lewis,1104
+Missouri,Marion (County),Marion,1122
+Missouri,Pettis (County),Pettis,1174
+Missouri,Randolph (County),Randolph,1194
+Missouri,Platte (County),Platte,1181
+Missouri,St. Clair (County),St. Clair,1208
+Missouri,Shelby (County),Shelby,1232
+Missouri,Monroe (County),Monroe,1139
+Missouri,Vernon (County),Vernon,1248
+Oregon,Lane (County),Lane,2170
+Oregon,Linn (County),Linn,2181
+Oregon,Curry (County),Curry,2098
+Missouri,Ray (County),Ray,1197
+Missouri,Saline (County),Saline,1218
+Oregon,Douglas (County),Douglas,2115
+Oregon,Coos (County),Coos,2083
+Kentucky,Breathitt (County),Breathitt,1017
+Kentucky,Lee (County),Lee,1171
+Kentucky,Wayne (County),Wayne,1027
+Kentucky,Wolfe (County),Wolfe,1037
+Kentucky,Owsley (County),Owsley,1257
+Kentucky,Montgomery (County),Montgomery,1233
+Kentucky,Martin (County),Martin,1215
+Kentucky,Laurel (County),Laurel,1166
+Kentucky,Bell (County),Bell,936
+Kentucky,Harlan (County),Harlan,1114
+Kentucky,Knox (County),Knox,1159
+Kentucky,Leslie (County),Leslie,1175
+Kentucky,McCreary (County),McCreary,1198
+Kentucky,Morgan (County),Morgan,1235
+Kentucky,Magoffin (County),Magoffin,1206
+Tennessee,Bedford (County),Bedford,2593
+Tennessee,Cannon (County),Cannon,2638
+Tennessee,Clay (County),Clay,2679
+Tennessee,DeKalb (County),DeKalb,2710
+Tennessee,Dickson (County),Dickson,2717
+Tennessee,Fentress (County),Fentress,2731
+Tennessee,Cumberland (County),Cumberland,2696
+Tennessee,Decatur (County),Decatur,2705
+Tennessee,Grainger (County),Grainger,2748
+Tennessee,Hardin (County),Hardin,2773
+Tennessee,Lauderdale (County),Lauderdale,2821
+Tennessee,Giles (County),Giles,2743
+Tennessee,Lincoln (County),Lincoln,2828
+Tennessee,Marshall (County),Marshall,2848
+Tennessee,Lewis (County),Lewis,2825
+Tennessee,Lawrence (County),Lawrence,2823
+Tennessee,Meigs (County),Meigs,2854
+Tennessee,Overton (County),Overton,2875
+Tennessee,Maury (County),Maury,2850
+Tennessee,Macon (County),Macon,2839
+Tennessee,McNairy (County),McNairy,2836
+Tennessee,Warren (County),Warren,2081
+Tennessee,Wayne (County),Wayne,2089
+Tennessee,Haywood (County),Haywood,2781
+Tennessee,Roane (County),Roane,2001
+Tennessee,Scott (County),Scott,2020
+Tennessee,Blount (County),Blount,2622
+Tennessee,Claiborne (County),Claiborne,2670
+Tennessee,Van Buren (County),Van Buren,2077
+Tennessee,Hancock (County),Hancock,2766
+Tennessee,Hawkins (County),Hawkins,2779
+Tennessee,Loudon (County),Loudon,2830
+Tennessee,Sevier (County),Sevier,2030
+Tennessee,Bledsoe (County),Bledsoe,2602
+Virginia,Bedford,Bedford City,2713
+Missouri,Maries (County),Maries,1120
+Missouri,Miller (County),Miller,1128
+Missouri,Lincoln (County),Lincoln,1106
+Missouri,Osage (County),Osage,1164
+Missouri,Phelps (County),Phelps,1176
+Missouri,Pulaski (County),Pulaski,1185
+Missouri,Pike (County),Pike,1179
+Missouri,Mercer (County),Mercer,1125
+Missouri,Schuyler (County),Schuyler,1221
+Missouri,Greene (County),Greene,1054
+Missouri,Jasper (County),Jasper,1078
+Missouri,Hickory (County),Hickory,1063
+Missouri,Dunklin (County),Dunklin,1045
+Missouri,New Madrid (County),New Madrid,1149
+Missouri,Barry (County),Barry,1767
+Missouri,Newton (County),Newton,1152
+Missouri,Dade (County),Dade,1030
+Missouri,Dallas (County),Dallas,1032
+Missouri,Laclede (County),Laclede,1096
+Missouri,Lawrence (County),Lawrence,1101
+Missouri,McDonald (County),McDonald,1113
+Missouri,Pemiscot (County),Pemiscot,1170
+Missouri,Stone (County),Stone,1237
+Missouri,Taney (County),Taney,1242
+Missouri,Wright (County),Wright,1263
+Missouri,Bollinger (County),Bollinger,1781
+Missouri,Butler (County),Butler,1792
+Missouri,Camden (County),Camden,1803
+Missouri,Cape Girardeau (County),Cape Girardeau,1808
+Missouri,Carter (County),Carter,1001
+Missouri,Christian (County),Christian,1014
+Missouri,Douglas (County),Douglas,1043
+Missouri,Howell (County),Howell,1070
+Missouri,Iron (County),Iron,1072
+Missouri,Madison (County),Madison,1117
+Missouri,Mississippi (County),Mississippi,1131
+Missouri,Dent (County),Dent,1040
+Missouri,Oregon (County),Oregon,1158
+Missouri,Ozark (County),Ozark,1168
+Missouri,Perry (County),Perry,1172
+Missouri,Reynolds (County),Reynolds,1200
+Missouri,Ripley (County),Ripley,1203
+Missouri,Scott (County),Scott,1227
+Missouri,Polk (County),Polk,1183
+Missouri,Shannon (County),Shannon,1229
+Missouri,Stoddard (County),Stoddard,1236
+Missouri,Texas (County),Texas,1245
+Missouri,Wayne (County),Wayne,1256
+Missouri,Webster (County),Webster,1258
+Michigan,Iron (County),Iron,1716
+Michigan,Baraga (County),Baraga,1624
+Michigan,Gogebic (County),Gogebic,1693
+Michigan,Houghton (County),Houghton,1705
+Michigan,Marquette (County),Marquette,1793
+Michigan,Ontonagon (County),Ontonagon,1829
+Kentucky,Edmonson (County),Edmonson,1073
+Kentucky,Green (County),Green,1102
+Kentucky,Lincoln (County),Lincoln,1184
+Kentucky,Boyle (County),Boyle,1010
+Kentucky,Casey (County),Casey,1048
+Kentucky,Hardin (County),Hardin,1110
+Kentucky,Jackson (County),Jackson,1140
+Kentucky,Larue (County),Larue,1162
+Kentucky,Meade (County),Meade,1220
+Kentucky,McLean (County),McLean,1201
+Kentucky,Nelson (County),Nelson,1243
+Kentucky,Ohio (County),Ohio,1249
+Kentucky,Pulaski (County),Pulaski,1272
+Kentucky,Taylor (County),Taylor,1003
+Kentucky,Union (County),Union,1016
+Kentucky,Washington (County),Washington,1023
+Kentucky,Grayson (County),Grayson,1100
+Kentucky,Marion (County),Marion,1210
+Illinois,Clinton (County),Clinton,27
+Illinois,Edwards (County),Edwards,71
+Illinois,Hardin (County),Hardin,113
+Illinois,Jefferson (County),Jefferson,137
+Illinois,Madison (County),Madison,199
+Illinois,Massac (County),Massac,208
+Illinois,Monroe (County),Monroe,219
+Illinois,Perry (County),Perry,235
+Illinois,Washington (County),Washington,305
+Illinois,White (County),White,312
+Illinois,Williamson (County),Williamson,324
+Illinois,Bond (County),Bond,652
+Illinois,Champaign (County),Champaign,12
+Illinois,Christian (County),Christian,14
+Illinois,Clay (County),Clay,22
+Illinois,Coles (County),Coles,30
+Illinois,Ford (County),Ford,81
+Illinois,Franklin (County),Franklin,85
+Illinois,Iroquois (County),Iroquois,125
+Illinois,Crawford (County),Crawford,40
+Illinois,De Witt (County),De Witt,53
+Illinois,Logan (County),Logan,186
+Illinois,McDonough (County),McDonough,189
+Illinois,Macon (County),Macon,194
+Illinois,Marion (County),Marion,201
+Illinois,St. Clair (County),St. Clair,269
+Illinois,Vermilion (County),Vermilion,296
+Illinois,Effingham (County),Effingham,76
+Illinois,Fayette (County),Fayette,79
+Illinois,Hamilton (County),Hamilton,106
+Illinois,Montgomery (County),Montgomery,223
+Illinois,Piatt (County),Piatt,238
+Illinois,Richland (County),Richland,259
+Illinois,Alexander (County),Alexander,651
+Illinois,Brown (County),Brown,654
+Illinois,Clark (County),Clark,19
+Illinois,Cumberland (County),Cumberland,44
+Illinois,Cass (County),Cass,10
+Illinois,Douglas (County),Douglas,55
+Illinois,Edgar (County),Edgar,66
+Illinois,Fulton (County),Fulton,89
+Illinois,Gallatin (County),Gallatin,92
+Illinois,Greene (County),Greene,96
+Illinois,Jackson (County),Jackson,129
+Illinois,Jasper (County),Jasper,133
+Illinois,Jersey (County),Jersey,142
+Illinois,Johnson (County),Johnson,152
+Illinois,Lawrence (County),Lawrence,177
+Illinois,Macoupin (County),Macoupin,196
+Illinois,Mason (County),Mason,206
+Illinois,Menard (County),Menard,212
+Illinois,Moultrie (County),Moultrie,227
+Illinois,Saline (County),Saline,271
+Illinois,Sangamon (County),Sangamon,274
+Illinois,Schuyler (County),Schuyler,278
+Illinois,Randolph (County),Randolph,255
+Illinois,Scott (County),Scott,280
+Illinois,Shelby (County),Shelby,283
+Illinois,Pulaski (County),Pulaski,248
+Illinois,Union (County),Union,293
+Illinois,Wabash (County),Wabash,299
+Illinois,Morgan (County),Morgan,225
+Illinois,Wayne (County),Wayne,310
+Illinois,Pope (County),Pope,245
+** Indiana,Statewide,Statewide,Statewide **
+Indiana,Brown (County),Brown,188
+Indiana,Crawford (County),Crawford,232
+Indiana,Franklin (County),Franklin,272
+Indiana,Jackson (County),Jackson,355
+Indiana,Ohio (County),Ohio,440
+Indiana,Switzerland (County),Switzerland,526
+Indiana,Union (County),Union,538
+Indiana,Vermillion (County),Vermillion,548
+Indiana,Clay (County),Clay,221
+Indiana,Hamilton (County),Hamilton,321
+Indiana,Dubois (County),Dubois,254
+Indiana,Marion (County),Marion,409
+Indiana,Gibson (County),Gibson,286
+Indiana,Dearborn (County),Dearborn,242
+Indiana,Johnson (County),Johnson,370
+Indiana,Knox (County),Knox,376
+Indiana,Orange (County),Orange,444
+Indiana,Montgomery (County),Montgomery,425
+Indiana,Martin (County),Martin,418
+Indiana,Greene (County),Greene,309
+Indiana,Jefferson (County),Jefferson,363
+Indiana,Parke (County),Parke,452
+Indiana,Owen (County),Owen,448
+Indiana,Pike (County),Pike,465
+Indiana,Perry (County),Perry,459
+Indiana,Putnam (County),Putnam,480
+Indiana,Sullivan (County),Sullivan,518
+Indiana,Vigo (County),Vigo,553
+Indiana,Posey (County),Posey,471
+Indiana,Washington (County),Washington,584
+Minnesota,Hubbard (County),Hubbard,1915
+Minnesota,Itasca (County),Itasca,1917
+Minnesota,Pennington (County),Pennington,1956
+Iowa,Benton (County),Benton,619
+Iowa,Cedar (County),Cedar,379
+Iowa,Fayette (County),Fayette,442
+Iowa,Iowa (County),Iowa,495
+Iowa,Johnson (County),Johnson,508
+Iowa,Winneshiek (County),Winneshiek,698
+Iowa,Delaware (County),Delaware,421
+Iowa,Jones (County),Jones,516
+Iowa,Linn (County),Linn,535
+Colorado,Adams (County),Adams,545
+Colorado,Alamosa (County),Alamosa,549
+Colorado,Arapahoe (County),Arapahoe,558
+Colorado,Archuleta (County),Archuleta,560
+Colorado,Boulder (County),Boulder,570
+Colorado,Chaffee (County),Chaffee,582
+Colorado,Clear Creek (County),Clear Creek,591
+Colorado,Conejos (County),Conejos,596
+Colorado,Costilla (County),Costilla,599
+Colorado,Custer (County),Custer,610
+Colorado,Delta (County),Delta,617
+Colorado,Denver (County),Denver,628
+Colorado,Dolores (County),Dolores,636
+Colorado,Douglas (County),Douglas,644
+Colorado,Eagle (County),Eagle,648
+Colorado,Elbert (County),Elbert,655
+Colorado,El Paso (County),El Paso,661
+Colorado,Fremont (County),Fremont,664
+Colorado,Garfield (County),Garfield,667
+Colorado,Gilpin (County),Gilpin,672
+Colorado,Grand (County),Grand,677
+Colorado,Gunnison (County),Gunnison,682
+Colorado,Huerfano (County),Huerfano,693
+Colorado,Jackson (County),Jackson,701
+Colorado,Jefferson (County),Jefferson,706
+Colorado,Kit Carson (County),Kit Carson,716
+Colorado,Hinsdale (County),Hinsdale,688
+Colorado,Lake (County),Lake,721
+Colorado,La Plata (County),La Plata,727
+Colorado,Larimer (County),Larimer,734
+Colorado,Las Animas (County),Las Animas,741
+Colorado,Mineral (County),Mineral,757
+Colorado,Moffat (County),Moffat,758
+Colorado,Montezuma (County),Montezuma,766
+Colorado,Montrose (County),Montrose,769
+Colorado,Mesa (County),Mesa,751
+Colorado,Otero (County),Otero,777
+Colorado,Ouray (County),Ouray,780
+Colorado,Park (County),Park,782
+Colorado,Rio Blanco (County),Rio Blanco,799
+Colorado,Rio Grande (County),Rio Grande,802
+Colorado,Routt (County),Routt,809
+Colorado,Saguache (County),Saguache,811
+Colorado,Pueblo (County),Pueblo,795
+Colorado,Pitkin (County),Pitkin,789
+Colorado,San Juan (County),San Juan,347
+Colorado,Teller (County),Teller,375
+Colorado,San Miguel (County),San Miguel,359
+Colorado,Summit (County),Summit,373
+Arizona,Coconino (County),Coconino,771
+Arizona,Gila (County),Gila,787
+Arizona,Apache (County),Apache,761
+Arizona,Navajo (County),Navajo,17
+Alaska,Yukon-Koyukuk (Census Area),Yukon-Koyukuk,753
+Texas,Jones (County),Jones,2301
+Texas,San Saba (County),San Saba,2435
+Texas,Bee (County),Bee,2196
+Texas,Caldwell (County),Caldwell,2320
+Texas,Calhoun (County),Calhoun,2327
+Texas,DeWitt (County),DeWitt,2538
+Texas,Nueces (County),Nueces,2194
+Texas,Travis (County),Travis,2543
+Texas,Atascosa (County),Atascosa,2173
+Texas,Bandera (County),Bandera,2183
+Texas,Bexar (County),Bexar,2203
+Texas,Blanco (County),Blanco,2207
+Texas,Brown (County),Brown,2296
+Texas,Burnet (County),Burnet,2312
+Texas,Callahan (County),Callahan,2331
+Texas,Victoria (County),Victoria,2595
+Texas,Coleman (County),Coleman,2423
+Texas,Comal (County),Comal,2449
+Texas,Dimmit (County),Dimmit,2548
+Texas,Duval (County),Duval,2556
+Texas,Eastland (County),Eastland,2562
+Texas,Frio (County),Frio,2028
+Texas,Gillespie (County),Gillespie,2066
+Texas,Goliad (County),Goliad,2079
+Texas,Gonzales (County),Gonzales,2086
+Texas,Guadalupe (County),Guadalupe,2116
+Texas,Hays (County),Hays,2166
+Texas,Jim Wells (County),Jim Wells,2294
+Texas,Karnes (County),Karnes,2307
+Texas,Kendall (County),Kendall,2319
+Texas,Kerr (County),Kerr,2337
+Texas,La Salle (County),La Salle,2388
+Texas,McMullen (County),McMullen,2494
+Texas,Medina (County),Medina,2652
+Texas,Live Oak (County),Live Oak,2416
+Texas,Real (County),Real,2283
+Texas,Taylor (County),Taylor,2508
+Texas,San Patricio (County),San Patricio,2415
+Texas,Uvalde (County),Uvalde,2576
+Texas,Wilson (County),Wilson,2641
+Texas,Zavala (County),Zavala,2651
+Vermont,Essex (County),Essex,2604
+Vermont,Caledonia (County),Caledonia,2596
+Vermont,Franklin (County),Franklin,2607
+Vermont,Lamoille (County),Lamoille,2611
+Vermont,Orleans (County),Orleans,2614
+Wisconsin,Marathon (County),Marathon,3170
+Wisconsin,Marinette (County),Marinette,3172
+Wisconsin,Lincoln (County),Lincoln,3166
+Wisconsin,Langlade (County),Langlade,3165
+Wisconsin,Price (County),Price,3194
+Wisconsin,Shawano (County),Shawano,3205
+Indiana,Bartholomew (County),Bartholomew,342
+Indiana,Blackford (County),Blackford,183
+Indiana,Daviess (County),Daviess,239
+Indiana,Delaware (County),Delaware,252
+Indiana,Fayette (County),Fayette,263
+Indiana,Decatur (County),Decatur,246
+Indiana,Grant (County),Grant,297
+Indiana,Jay (County),Jay,358
+Indiana,Lawrence (County),Lawrence,396
+Indiana,Hendricks (County),Hendricks,341
+Indiana,Henry (County),Henry,344
+Indiana,Hancock (County),Hancock,329
+Indiana,Randolph (County),Randolph,485
+Indiana,Rush (County),Rush,493
+Indiana,Shelby (County),Shelby,506
+Indiana,Tipton (County),Tipton,534
+Indiana,Vanderburgh (County),Vanderburgh,543
+Indiana,Madison (County),Madison,401
+Indiana,Monroe (County),Monroe,422
+Indiana,Morgan (County),Morgan,430
+Texas,Webb (County),Webb,2616
+Texas,Matagorda (County),Matagorda,2637
+Texas,Wharton (County),Wharton,2618
+Louisiana,Plaquemines (Parish),Plaquemines,1427
+Mississippi,Copiah (County),Copiah,1564
+Mississippi,Greene (County),Greene,1579
+Mississippi,Stone (County),Stone,1712
+Louisiana,Caldwell (Parish),Caldwell,1084
+Louisiana,Catahoula (Parish),Catahoula,1093
+Louisiana,Vernon (Parish),Vernon,1513
+Louisiana,Natchitoches (Parish),Natchitoches,1301
+Louisiana,Grant (Parish),Grant,1127
+Louisiana,La Salle (Parish),La Salle,1289
+Louisiana,Acadia (Parish),Acadia,1046
+Louisiana,Allen (Parish),Allen,1051
+Louisiana,Avoyelles (Parish),Avoyelles,1062
+Louisiana,Calcasieu (Parish),Calcasieu,1081
+Louisiana,Cameron (Parish),Cameron,1089
+Louisiana,Evangeline (Parish),Evangeline,1118
+Louisiana,Jefferson Davis (Parish),Jefferson Davis,1155
+Louisiana,Rapides (Parish),Rapides,1434
+Louisiana,St. Landry (Parish),St. Landry,1471
+Alabama,Baldwin (County),Baldwin,20
+Alabama,Mobile (County),Mobile,240
+Texas,Cameron (County),Cameron,2359
+Texas,Hidalgo (County),Hidalgo,2188
+Texas,Kleberg (County),Kleberg,2358
+Texas,Aransas (County),Aransas,2162
+Tennessee,Henderson (County),Henderson,2786
+Tennessee,Montgomery (County),Montgomery,2859
+Tennessee,Rutherford (County),Rutherford,2015
+Tennessee,Sumner (County),Sumner,2050
+Tennessee,Carroll (County),Carroll,2648
+Tennessee,Coffee (County),Coffee,2689
+Tennessee,Crockett (County),Crockett,2693
+Tennessee,Gibson (County),Gibson,2739
+Tennessee,Madison (County),Madison,2841
+Tennessee,Morgan (County),Morgan,2866
+Tennessee,Tipton (County),Tipton,2055
+Alabama,Barbour (County),Barbour,25
+Alabama,Cleburne (County),Cleburne,67
+Alabama,Bibb (County),Bibb,29
+Alabama,Franklin (County),Franklin,138
+Alabama,Hale (County),Hale,150
+Alabama,Greene (County),Greene,148
+Alabama,Morgan (County),Morgan,262
+Alabama,Pickens (County),Pickens,273
+Alabama,Shelby (County),Shelby,298
+Alabama,Cullman (County),Cullman,98
+Ohio,Summit (County),Summit,2057
+Ohio,Ashland (County),Ashland,2254
+Ohio,Coshocton (County),Coshocton,2317
+Ohio,Auglaize (County),Auglaize,2273
+Ohio,Franklin (County),Franklin,2375
+Ohio,Cuyahoga (County),Cuyahoga,2332
+Ohio,Hancock (County),Hancock,2427
+Ohio,Henry (County),Henry,2451
+Ohio,Huron (County),Huron,2468
+Ohio,Lorain (County),Lorain,2516
+Ohio,Medina (County),Medina,2545
+Ohio,Ottawa (County),Ottawa,2019
+Ohio,Putnam (County),Putnam,2040
+Ohio,Sandusky (County),Sandusky,2047
+Ohio,Seneca (County),Seneca,2049
+Ohio,Union (County),Union,2067
+Ohio,Van Wert (County),Van Wert,2071
+Ohio,Paulding (County),Paulding,2024
+Ohio,Wayne (County),Wayne,2084
+Ohio,Wood (County),Wood,2091
+North Carolina,Forsyth (County),Forsyth,1496
+North Carolina,Alexander (County),Alexander,1968
+North Carolina,Caldwell (County),Caldwell,1429
+North Carolina,Catawba (County),Catawba,1450
+North Carolina,Cleveland (County),Cleveland,1458
+North Carolina,Burke (County),Burke,1424
+North Carolina,Davie (County),Davie,1490
+North Carolina,Gaston (County),Gaston,1499
+North Carolina,Iredell (County),Iredell,1525
+North Carolina,Lincoln (County),Lincoln,1545
+North Carolina,McDowell (County),McDowell,1554
+North Carolina,Polk (County),Polk,1738
+North Carolina,Rowan (County),Rowan,1754
+North Carolina,Rutherford (County),Rutherford,1764
+North Carolina,Wayne (County),Wayne,1814
+Arkansas,Lawrence (County),Lawrence,230
+Arkansas,Randolph (County),Randolph,353
+South Carolina,Greenville (County),Greenville,2759
+Ohio,Athens (County),Athens,2266
+Ohio,Belmont (County),Belmont,2278
+Ohio,Darke (County),Darke,2345
+Ohio,Delaware (County),Delaware,2352
+Ohio,Guernsey (County),Guernsey,2399
+Ohio,Fayette (County),Fayette,2368
+Ohio,Hocking (County),Hocking,2461
+Ohio,Licking (County),Licking,2504
+Ohio,Madison (County),Madison,2529
+Ohio,Harrison (County),Harrison,2440
+Ohio,Monroe (County),Monroe,2565
+Ohio,Montgomery (County),Montgomery,2573
+Ohio,Morgan (County),Morgan,2000
+Ohio,Muskingum (County),Muskingum,2010
+Ohio,Noble (County),Noble,2012
+Ohio,Perry (County),Perry,2027
+Ohio,Preble (County),Preble,2039
+Ohio,Miami (County),Miami,2558
+Ohio,Ross (County),Ross,2045
+Ohio,Washington (County),Washington,2080
+Ohio,Vinton (County),Vinton,2075
+Kentucky,Bracken (County),Bracken,1013
+Kentucky,Grant (County),Grant,1094
+Kentucky,Jessamine (County),Jessamine,1145
+Kentucky,Mercer (County),Mercer,1225
+Kentucky,Scott (County),Scott,1283
+Kentucky,Shelby (County),Shelby,1285
+Kentucky,Anderson (County),Anderson,930
+Kentucky,Clark (County),Clark,1053
+Kentucky,Fayette (County),Fayette,1080
+Kentucky,Woodford (County),Woodford,1042
+West Virginia,Brooke (County),Brooke,2979
+West Virginia,Hancock (County),Hancock,3017
+West Virginia,Hardy (County),Hardy,3019
+West Virginia,Marshall (County),Marshall,3041
+West Virginia,Ohio (County),Ohio,3059
+West Virginia,Pendleton (County),Pendleton,3061
+West Virginia,Berkeley (County),Berkeley,2976
+West Virginia,Grant (County),Grant,3011
+West Virginia,Hampshire (County),Hampshire,3016
+West Virginia,Mineral (County),Mineral,3046
+West Virginia,Morgan (County),Morgan,3054
+West Virginia,Jefferson (County),Jefferson,3026
+West Virginia,Monroe (County),Monroe,3052
+West Virginia,Webster (County),Webster,3091
+Tennessee,Campbell (County),Campbell,2633
+Tennessee,Humphreys (County),Humphreys,2798
+Tennessee,Marion (County),Marion,2844
+Tennessee,Rhea (County),Rhea,2893
+Tennessee,Sequatchie (County),Sequatchie,2025
+North Carolina,Stokes (County),Stokes,1777
+Virginia,Manassas Park,Manassas Park,2768
+Virginia,Falls Church,Falls Church,2740
+Virginia,Winchester,Winchester,2837
+Virginia,Roanoke,Roanoke City,2805
+Virginia,Salem,Salem,2809
+Mississippi,Jefferson Davis (County),Jefferson Davis,1612
+Mississippi,Claiborne (County),Claiborne,1555
+Mississippi,Issaquena (County),Issaquena,1598
+Mississippi,Jasper (County),Jasper,1607
+Mississippi,Jefferson (County),Jefferson,1610
+Mississippi,Lawrence (County),Lawrence,1632
+Mississippi,Simpson (County),Simpson,1698
+Mississippi,Wayne (County),Wayne,1753
+Mississippi,Clarke (County),Clarke,1557
+Mississippi,Kemper (County),Kemper,1616
+Mississippi,Smith (County),Smith,1709
+Mississippi,Newton (County),Newton,1663
+Mississippi,Lauderdale (County),Lauderdale,1628
+Mississippi,Rankin (County),Rankin,1690
+Mississippi,Warren (County),Warren,1746
+Florida,Miami-Dade (County),Miami-Dade,962
+Kansas,Haskell (County),Haskell,815
+Kansas,Meade (County),Meade,851
+Kansas,Seward (County),Seward,900
+Missouri,Callaway (County),Callaway,1799
+Missouri,Cole (County),Cole,1022
+Missouri,Moniteau (County),Moniteau,1135
+Missouri,Montgomery (County),Montgomery,1142
+Tennessee,Grundy (County),Grundy,2754
+Tennessee,White (County),White,2100
+Tennessee,Wilson (County),Wilson,2111
+Tennessee,Chester (County),Chester,2664
+Tennessee,Fayette (County),Fayette,2726
+Tennessee,Jefferson (County),Jefferson,2804
+Tennessee,Robertson (County),Robertson,2011
+Tennessee,Bradley (County),Bradley,2627
+Tennessee,Dyer (County),Dyer,2723
+Tennessee,Hamilton (County),Hamilton,2761
+Tennessee,Hardeman (County),Hardeman,2770
+Tennessee,McMinn (County),McMinn,2833
+Tennessee,Monroe (County),Monroe,2857
+Tennessee,Polk (County),Polk,2883
+Tennessee,Smith (County),Smith,2037
+Tennessee,Trousdale (County),Trousdale,2062
+Tennessee,Williamson (County),Williamson,2105
+Alabama,Escambia (County),Escambia,122
+Alabama,Monroe (County),Monroe,250
+Alabama,Clarke (County),Clarke,61
+Alabama,Washington (County),Washington,319
+Alabama,Bullock (County),Bullock,37
+Alabama,Coosa (County),Coosa,82
+Alabama,Lee (County),Lee,187
+Alabama,Tallapoosa (County),Tallapoosa,308
+Alabama,Chambers (County),Chambers,47
+Alabama,Colbert (County),Colbert,73
+Alabama,Lauderdale (County),Lauderdale,176
+Alabama,Randolph (County),Randolph,284
+Alabama,Russell (County),Russell,288
+Maine,Cumberland (County),Cumberland,1608
+Maine,Hancock (County),Hancock,1748
+Maine,Lincoln (County),Lincoln,1835
+Illinois,Tazewell (County),Tazewell,291
+Illinois,Woodford (County),Woodford,328
+Kentucky,Calloway (County),Calloway,1033
+Kentucky,Madison (County),Madison,1204
+Kentucky,Garrard (County),Garrard,1092
+Kentucky,Jefferson (County),Jefferson,1143
+Kentucky,Caldwell (County),Caldwell,1031
+Kentucky,Bullitt (County),Bullitt,1024
+Kentucky,Graves (County),Graves,1097
+Kentucky,Hart (County),Hart,1121
+Arkansas,Phillips (County),Phillips,322
+Arkansas,Chicot (County),Chicot,77
+Kentucky,Monroe (County),Monroe,1230
+Indiana,Benton (County),Benton,179
+Indiana,Boone (County),Boone,185
+Indiana,Clinton (County),Clinton,226
+Indiana,Fulton (County),Fulton,276
+Indiana,Lake (County),Lake,389
+Indiana,Noble (County),Noble,436
+Indiana,Porter (County),Porter,468
+Indiana,Pulaski (County),Pulaski,477
+Indiana,Wayne (County),Wayne,586
+Indiana,Whitley (County),Whitley,597
+Indiana,Allen (County),Allen,335
+Indiana,Adams (County),Adams,330
+Indiana,Carroll (County),Carroll,195
+Indiana,Cass (County),Cass,211
+Indiana,Fountain (County),Fountain,270
+Indiana,Howard (County),Howard,348
+Indiana,Huntington (County),Huntington,352
+Indiana,Jasper (County),Jasper,356
+Indiana,Kosciusko (County),Kosciusko,384
+Indiana,Miami (County),Miami,420
+Indiana,Newton (County),Newton,433
+Indiana,Tippecanoe (County),Tippecanoe,530
+Indiana,Wabash (County),Wabash,555
+Indiana,Warren (County),Warren,567
+Indiana,Wells (County),Wells,590
+Indiana,White (County),White,594
+Arizona,Pima (County),Pima,21
+Ohio,Columbiana (County),Columbiana,2315
+Ohio,Crawford (County),Crawford,2323
+Ohio,Logan (County),Logan,2510
+Ohio,Mahoning (County),Mahoning,2534
+Ohio,Mercer (County),Mercer,2552
+Ohio,Shelby (County),Shelby,2052
+Texas,Jackson (County),Jackson,2264
+Texas,Refugio (County),Refugio,2334
+Nebraska,Cedar (County),Cedar,1329
+Nebraska,Cuming (County),Cuming,1340
+Nebraska,Butler (County),Butler,1325
+Nebraska,Dixon (County),Dixon,1353
+Nebraska,Greeley (County),Greeley,1397
+Nebraska,Douglas (County),Douglas,1358
+Nebraska,Holt (County),Holt,1416
+Nebraska,Jefferson (County),Jefferson,1312
+Nebraska,Knox (County),Knox,1322
+Nebraska,Pierce (County),Pierce,1356
+Nebraska,Howard (County),Howard,1311
+Nebraska,Polk (County),Polk,1362
+Nebraska,Stanton (County),Stanton,1382
+Nebraska,Thayer (County),Thayer,1383
+Nebraska,Platte (County),Platte,1359
+Florida,Taylor (County),Taylor,981
+Nebraska,Valley (County),Valley,1386
+Ohio,Richland (County),Richland,2042
+Ohio,Carroll (County),Carroll,2289
+Ohio,Jefferson (County),Jefferson,2476
+Ohio,Portage (County),Portage,2038
+Ohio,Stark (County),Stark,2054
+Ohio,Trumbull (County),Trumbull,2061
+** Pennsylvania,Statewide,Statewide,Statewide **
+Pennsylvania,Forest (County),Forest,2436
+Pennsylvania,Clarion (County),Clarion,2366
+Pennsylvania,Wyoming (County),Wyoming,2407
+Pennsylvania,Blair (County),Blair,2328
+Pennsylvania,Crawford (County),Crawford,2389
+Pennsylvania,McKean (County),McKean,2509
+Pennsylvania,Mercer (County),Mercer,2513
+Pennsylvania,Venango (County),Venango,2316
+Pennsylvania,Warren (County),Warren,2322
+Pennsylvania,Lackawanna (County),Lackawanna,2471
+Pennsylvania,Potter (County),Potter,2575
+Pennsylvania,Lawrence (County),Lawrence,2488
+Pennsylvania,Tioga (County),Tioga,2305
+Pennsylvania,Wayne (County),Wayne,2363
+New Hampshire,Cheshire (County),Cheshire,1437
+New Hampshire,Sullivan (County),Sullivan,1454
+North Carolina,Bladen (County),Bladen,1986
+North Carolina,Columbus (County),Columbus,1459
+North Carolina,Cumberland (County),Cumberland,1464
+North Carolina,Duplin (County),Duplin,1492
+North Carolina,Beaufort (County),Beaufort,1981
+North Carolina,Bertie (County),Bertie,1983
+North Carolina,Brunswick (County),Brunswick,1995
+North Carolina,Camden (County),Camden,1433
+North Carolina,Robeson (County),Robeson,1747
+North Carolina,Sampson (County),Sampson,1769
+North Carolina,Carteret (County),Carteret,1447
+North Carolina,Chowan (County),Chowan,1455
+North Carolina,Craven (County),Craven,1462
+North Carolina,Currituck (County),Currituck,1481
+North Carolina,Dare (County),Dare,1485
+North Carolina,Gates (County),Gates,1500
+North Carolina,Greene (County),Greene,1505
+North Carolina,Hertford (County),Hertford,1515
+North Carolina,Hyde (County),Hyde,1521
+North Carolina,Jones (County),Jones,1536
+North Carolina,Lenoir (County),Lenoir,1542
+North Carolina,Martin (County),Martin,1563
+North Carolina,New Hanover (County),New Hanover,1602
+North Carolina,Onslow (County),Onslow,1625
+North Carolina,Pamlico (County),Pamlico,1703
+North Carolina,Pasquotank (County),Pasquotank,1714
+North Carolina,Pender (County),Pender,1718
+North Carolina,Perquimans (County),Perquimans,1724
+North Carolina,Pitt (County),Pitt,1733
+North Carolina,Tyrrell (County),Tyrrell,1794
+North Carolina,Washington (County),Washington,1811
+Virginia,Gloucester (County),Gloucester,2887
+Virginia,Mathews (County),Mathews,2962
+Virginia,Charlottesville,Charlottesville,2722
+Virginia,Chesapeake,Chesapeake,2724
+Virginia,Hampton,Hampton,2751
+Virginia,Harrisonburg,Harrisonburg,2755
+Virginia,Buena Vista,Buena Vista,2720
+Virginia,Norfolk,Norfolk,2778
+Virginia,Portsmouth,Portsmouth,2795
+Virginia,Staunton,Staunton,2812
+Virginia,Poquoson,Poquoson,2791
+Virginia,Waynesboro,Waynesboro,2831
+Maryland,Carroll (County),Carroll,1955
+Maryland,Cecil (County),Cecil,1963
+Virginia,Virginia Beach,Virginia Beach,2826
+Maryland,Garrett (County),Garrett,1361
+Maryland,Harford (County),Harford,1372
+Maryland,Allegany (County),Allegany,1905
+Maryland,Somerset (County),Somerset,1430
+Maryland,Washington (County),Washington,1445
+Maryland,Wicomico (County),Wicomico,1446
+Maryland,Worcester (County),Worcester,1456
+Delaware,Kent (County),Kent,532
+Delaware,Sussex (County),Sussex,609
+Delaware,New Castle (County),New Castle,536
+Pennsylvania,Chester (County),Chester,2360
+California,Los Angeles (County),Los Angeles,139
+California,Riverside (County),Riverside,281
+California,San Bernardino (County),San Bernardino,302
+California,San Diego (County),San Diego,315
+California,Ventura (County),Ventura,521
+Washington,Okanogan (County),Okanogan,2947
+Washington,San Juan (County),San Juan,2957
+Puerto Rico,Cayey (Municipio),Cayey,3094
+Puerto Rico,Ceiba (Municipio),Ceiba,3096
+Puerto Rico,Coamo (Municipio),Coamo,3102
+Puerto Rico,Culebra (Municipio),Culebra,3107
+Puerto Rico,Vieques (Municipio),Vieques,3217
+Puerto Rico,Aibonito (Municipio),Aibonito,3067
+Puerto Rico,Arroyo (Municipio),Arroyo,3072
+Puerto Rico,Canovanas (Municipio),Canovanas,3088
+Puerto Rico,Fajardo (Municipio),Fajardo,3110
+Puerto Rico,Juana Diaz (Municipio),Juana Diaz,3133
+Puerto Rico,Loiza (Municipio),Loiza,3149
+Puerto Rico,Toa Baja (Municipio),Toa Baja,3211
+Puerto Rico,Guayama (Municipio),Guayama,3118
+Puerto Rico,Santa Isabel (Municipio),Santa Isabel,3206
+Puerto Rico,Luquillo (Municipio),Luquillo,3150
+Puerto Rico,Maunabo (Municipio),Maunabo,3157
+Puerto Rico,Naguabo (Municipio),Naguabo,3167
+Puerto Rico,Patillas (Municipio),Patillas,3173
+Puerto Rico,Yabucoa (Municipio),Yabucoa,3219
+Puerto Rico,Rio Grande (Municipio),Rio Grande,3184
+Puerto Rico,Salinas (Municipio),Salinas,3190
+Virginia,Galax,Galax,2747
+California,Santa Barbara (County),Santa Barbara,391
+California,San Luis Obispo (County),San Luis Obispo,351
+Ohio,Tuscarawas (County),Tuscarawas,2065
+Maine,Waldo (County),Waldo,1865
+Maine,Sagadahoc (County),Sagadahoc,1855
+South Carolina,Horry (County),Horry,2774
+South Carolina,Oconee (County),Oconee,2822
+Oregon,Benton (County),Benton,2053
+Oregon,Clackamas (County),Clackamas,2058
+Oregon,Clatsop (County),Clatsop,2064
+Oregon,Baker (County),Baker,2044
+Oregon,Columbia (County),Columbia,2070
+Oregon,Deschutes (County),Deschutes,2109
+Oregon,Crook (County),Crook,2092
+Oregon,Gilliam (County),Gilliam,2121
+Oregon,Grant (County),Grant,2130
+Oregon,Harney (County),Harney,2134
+Oregon,Hood River (County),Hood River,2138
+Oregon,Jefferson (County),Jefferson,2143
+Oregon,Lake (County),Lake,2159
+Oregon,Lincoln (County),Lincoln,2174
+Oregon,Malheur (County),Malheur,2185
+Oregon,Marion (County),Marion,2200
+Oregon,Morrow (County),Morrow,2209
+Oregon,Multnomah (County),Multnomah,2218
+Oregon,Polk (County),Polk,2223
+Oregon,Sherman (County),Sherman,2232
+Oregon,Tillamook (County),Tillamook,2242
+Oregon,Umatilla (County),Umatilla,2251
+Oregon,Union (County),Union,2257
+Oregon,Wallowa (County),Wallowa,2263
+Oregon,Wasco (County),Wasco,2267
+Oregon,Wheeler (County),Wheeler,2277
+Oregon,Yamhill (County),Yamhill,2284
+Illinois,Kankakee (County),Kankakee,161
+Illinois,Will (County),Will,320
+Illinois,La Salle (County),LaSalle,175
+Illinois,Putnam (County),Putnam,253
+Arkansas,Carroll (County),Carroll,74
+Nebraska,Antelope (County),Antelope,1305
+Nebraska,Boone (County),Boone,1310
+Nebraska,Madison (County),Madison,1335
+Nebraska,Nance (County),Nance,1341
+Nebraska,Red Willow (County),Red Willow,1364
+Nebraska,Sherman (County),Sherman,1377
+Nebraska,Thurston (County),Thurston,1385
+Nebraska,Fillmore (County),Fillmore,1363
+Nebraska,Franklin (County),Franklin,1369
+Nebraska,Hall (County),Hall,1402
+Nebraska,Hamilton (County),Hamilton,1405
+Nebraska,Kearney (County),Kearney,1314
+Nebraska,Saunders (County),Saunders,1370
+Nebraska,Otoe (County),Otoe,1348
+Nebraska,Sarpy (County),Sarpy,1368
+Nebraska,Seward (County),Seward,1375
+Nebraska,Buffalo (County),Buffalo,1321
+Nebraska,Adams (County),Adams,1303
+Nebraska,Cass (County),Cass,1326
+Nebraska,Clay (County),Clay,1336
+Nebraska,Dodge (County),Dodge,1354
+Nebraska,Lancaster (County),Lancaster,1324
+Nebraska,Pawnee (County),Pawnee,1350
+Nebraska,Washington (County),Washington,1387
+Nebraska,Webster (County),Webster,1389
+Nebraska,York (County),York,1392
+Iowa,Ida (County),Ida,491
+Iowa,Taylor (County),Taylor,674
+Iowa,Adams (County),Adams,602
+Iowa,Buena Vista (County),Buena Vista,633
+Iowa,Carroll (County),Carroll,369
+Iowa,Davis (County),Davis,416
+Iowa,Greene (County),Greene,458
+Iowa,Hamilton (County),Hamilton,469
+Iowa,Hardin (County),Hardin,475
+Iowa,Madison (County),Madison,550
+Iowa,Mills (County),Mills,569
+Iowa,Monroe (County),Monroe,580
+Iowa,Montgomery (County),Montgomery,595
+Iowa,Poweshiek (County),Poweshiek,640
+Iowa,Warren (County),Warren,685
+Iowa,Wayne (County),Wayne,691
+Iowa,Washington (County),Washington,687
+Iowa,Adair (County),Adair,598
+Iowa,Audubon (County),Audubon,615
+Iowa,Black Hawk (County),Black Hawk,623
+Iowa,Appanoose (County),Appanoose,611
+Iowa,Boone (County),Boone,625
+Iowa,Bremer (County),Bremer,631
+Iowa,Butler (County),Butler,361
+Iowa,Cass (County),Cass,374
+Iowa,Cerro Gordo (County),Cerro Gordo,383
+Iowa,Clay (County),Clay,398
+Iowa,Dallas (County),Dallas,413
+Iowa,Chickasaw (County),Chickasaw,393
+Iowa,Floyd (County),Floyd,447
+Iowa,Franklin (County),Franklin,451
+Iowa,Fremont (County),Fremont,455
+Iowa,Guthrie (County),Guthrie,467
+Iowa,Hancock (County),Hancock,470
+Iowa,Howard (County),Howard,481
+Iowa,Kossuth (County),Kossuth,523
+Iowa,Jasper (County),Jasper,505
+Iowa,Mitchell (County),Mitchell,572
+Iowa,Page (County),Page,612
+Iowa,Marshall (County),Marshall,568
+Iowa,Shelby (County),Shelby,660
+Iowa,Story (County),Story,668
+Iowa,Pocahontas (County),Pocahontas,624
+Iowa,Polk (County),Polk,629
+Iowa,Winnebago (County),Winnebago,696
+Iowa,Tama (County),Tama,671
+Iowa,Worth (County),Worth,703
+Iowa,Wright (County),Wright,705
+Ohio,Knox (County),Knox,2479
+Ohio,Geauga (County),Geauga,2390
+Ohio,Holmes (County),Holmes,2464
+Indiana,DeKalb (County),DeKalb,249
+Indiana,Jennings (County),Jennings,367
+Indiana,Ripley (County),Ripley,488
+Indiana,Scott (County),Scott,504
+Indiana,Clark (County),Clark,215
+Indiana,Floyd (County),Floyd,267
+Indiana,Harrison (County),Harrison,334
+Indiana,Spencer (County),Spencer,509
+Indiana,Warrick (County),Warrick,575
+Kentucky,Butler (County),Butler,1026
+Kentucky,Carroll (County),Carroll,1041
+Kentucky,Christian (County),Christian,1050
+Kentucky,Muhlenberg (County),Muhlenberg,1238
+Kentucky,Owen (County),Owen,1255
+Kentucky,Trimble (County),Trimble,1012
+Kentucky,Franklin (County),Franklin,1086
+Kentucky,Henry (County),Henry,1129
+Missouri,Andrew (County),Andrew,1762
+Missouri,Gentry (County),Gentry,1052
+Missouri,Harrison (County),Harrison,1058
+Missouri,Nodaway (County),Nodaway,1156
+Wisconsin,Brown (County),Brown,3111
+Missouri,Worth (County),Worth,1261
+Wisconsin,Eau Claire (County),Eau Claire,3137
+Wisconsin,Rock (County),Rock,3198
+Wisconsin,Sheboygan (County),Sheboygan,3207
+Wisconsin,Washington (County),Washington,3005
+Wisconsin,Fond du Lac (County),Fond du Lac,3140
+Wisconsin,Jefferson (County),Jefferson,3154
+Wisconsin,Green Lake (County),Green Lake,3147
+Wisconsin,Ozaukee (County),Ozaukee,3186
+Wisconsin,Marquette (County),Marquette,3174
+Michigan,Arenac (County),Arenac,1621
+Michigan,Newaygo (County),Newaygo,1820
+Michigan,Van Buren (County),Van Buren,1867
+Michigan,Barry (County),Barry,1627
+Michigan,Berrien (County),Berrien,1635
+Michigan,Cass (County),Cass,1644
+Michigan,Genesee (County),Genesee,1688
+Michigan,Gladwin (County),Gladwin,1691
+Michigan,Eaton (County),Eaton,1678
+Michigan,Jackson (County),Jackson,1719
+Michigan,Ingham (County),Ingham,1710
+Michigan,Ionia (County),Ionia,1713
+Michigan,Macomb (County),Macomb,1785
+Michigan,Mecosta (County),Mecosta,1800
+Michigan,Kent (County),Kent,1726
+Michigan,Livingston (County),Livingston,1770
+Michigan,Ottawa (County),Ottawa,1837
+Michigan,Saginaw (County),Saginaw,1845
+Michigan,Muskegon (County),Muskegon,1818
+Michigan,St. Joseph (County),St. Joseph,1857
+Michigan,Shiawassee (County),Shiawassee,1863
+Michigan,Sanilac (County),Sanilac,1858
+Michigan,Washtenaw (County),Washtenaw,1869
+Michigan,St. Clair (County),St. Clair,1854
+California,San Joaquin (County),San Joaquin,339
+New Jersey,Burlington (County),Burlington,1470
+New Jersey,Camden (County),Camden,1472
+South Dakota,Haakon (County),Haakon,2924
+South Dakota,Minnehaha (County),Minnehaha,2467
+South Dakota,Yankton (County),Yankton,2569
+Kansas,Rooks (County),Rooks,889
+Kansas,Decatur (County),Decatur,759
+Kansas,Ellis (County),Ellis,774
+Kansas,Geary (County),Geary,788
+Kansas,Graham (County),Graham,791
+Kansas,Jewell (County),Jewell,822
+Kansas,Marion (County),Marion,848
+Kansas,Morris (County),Morris,858
+Kansas,Ness (County),Ness,864
+Kansas,Mitchell (County),Mitchell,854
+Kansas,Osborne (County),Osborne,869
+Kansas,Pawnee (County),Pawnee,872
+Kansas,Phillips (County),Phillips,873
+Kansas,Rush (County),Rush,891
+Kansas,Russell (County),Russell,893
+Kansas,Sheridan (County),Sheridan,904
+Kansas,Smith (County),Smith,909
+Kansas,Thomas (County),Thomas,917
+Kansas,Trego (County),Trego,919
+Kansas,Wabaunsee (County),Wabaunsee,920
+Kansas,Wallace (County),Wallace,921
+Kentucky,Adair (County),Adair,928
+Kentucky,Allen (County),Allen,929
+Kentucky,Barren (County),Barren,933
+Kentucky,Clinton (County),Clinton,1059
+Kentucky,Cumberland (County),Cumberland,1067
+Kentucky,Metcalfe (County),Metcalfe,1228
+Kentucky,Russell (County),Russell,1282
+Kentucky,Warren (County),Warren,1019
+Pennsylvania,Bradford (County),Bradford,2333
+Pennsylvania,Sullivan (County),Sullivan,2293
+Pennsylvania,Susquehanna (County),Susquehanna,2298
+Pennsylvania,Delaware (County),Delaware,2414
+Pennsylvania,Philadelphia (County),Philadelphia,2563
+Florida,Jackson (County),Jackson,950
+Florida,Madison (County),Madison,958
+Florida,Santa Rosa (County),Santa Rosa,976
+Florida,Walton (County),Walton,985
+Nevada,Carson City,Carson City,1428
+North Carolina,Macon (County),Macon,1556
+North Carolina,Alleghany (County),Alleghany,1970
+North Carolina,Wilkes (County),Wilkes,1817
+North Carolina,Ashe (County),Ashe,1975
+North Carolina,Avery (County),Avery,1977
+North Carolina,Buncombe (County),Buncombe,1422
+North Carolina,Haywood (County),Haywood,1512
+North Carolina,Henderson (County),Henderson,1514
+North Carolina,Jackson (County),Jackson,1528
+North Carolina,Madison (County),Madison,1560
+North Carolina,Mitchell (County),Mitchell,1568
+North Carolina,Transylvania (County),Transylvania,1786
+North Carolina,Yancey (County),Yancey,1823
+North Carolina,Watauga (County),Watauga,1813
+Louisiana,Concordia (Parish),Concordia,1098
+Alabama,Chilton (County),Chilton,56
+Alabama,Coffee (County),Coffee,70
+Alabama,Conecuh (County),Conecuh,80
+Alabama,Choctaw (County),Choctaw,58
+Alabama,Crenshaw (County),Crenshaw,90
+Alabama,Covington (County),Covington,88
+Alabama,Elmore (County),Elmore,118
+Alabama,Dallas (County),Dallas,110
+Alabama,Lowndes (County),Lowndes,205
+Alabama,Marengo (County),Marengo,220
+Alabama,Montgomery (County),Montgomery,256
+Alabama,Pike (County),Pike,279
+Alabama,Perry (County),Perry,264
+Alabama,Sumter (County),Sumter,303
+Alabama,Wilcox (County),Wilcox,326
+Mississippi,Adams (County),Adams,1534
+Mississippi,Covington (County),Covington,1567
+Puerto Rico,Guaynabo (Municipio),Guaynabo,3123
+Puerto Rico,Mayaguez (Municipio),Mayaguez,3159
+Puerto Rico,Penuelas (Municipio),Penuelas,3176
+Puerto Rico,Ponce (Municipio),Ponce,3178
+Puerto Rico,San Juan (Municipio),San Juan,3197
+Puerto Rico,Trujillo Alto (Municipio),Trujillo Alto,3212
+Puerto Rico,Aguadilla (Municipio),Aguadilla,3063
+Puerto Rico,Aguada (Municipio),Aguada,3062
+Puerto Rico,Arecibo (Municipio),Arecibo,3071
+Puerto Rico,Barceloneta (Municipio),Barceloneta,3074
+Puerto Rico,Caguas (Municipio),Caguas,3083
+Puerto Rico,Camuy (Municipio),Camuy,3086
+Puerto Rico,Catano (Municipio),Catano,3092
+Puerto Rico,Cidra (Municipio),Cidra,3100
+Puerto Rico,Carolina (Municipio),Carolina,3090
+Puerto Rico,Comerio (Municipio),Comerio,3103
+Puerto Rico,Dorado (Municipio),Dorado,3109
+Puerto Rico,Florida (Municipio),Florida,3112
+Puerto Rico,Gurabo (Municipio),Gurabo,3125
+Puerto Rico,Hatillo (Municipio),Hatillo,3127
+Puerto Rico,Humacao (Municipio),Humacao,3129
+Puerto Rico,Isabela (Municipio),Isabela,3130
+Puerto Rico,Las Piedras (Municipio),Las Piedras,3146
+Puerto Rico,Manati (Municipio),Manati,3152
+Puerto Rico,Quebradillas (Municipio),Quebradillas,3180
+Puerto Rico,San Sebastian (Municipio),San Sebastian,3204
+Puerto Rico,Toa Alta (Municipio),Toa Alta,3209
+Puerto Rico,Vega Baja (Municipio),Vega Baja,3216
+Puerto Rico,Villalba (Municipio),Villalba,3218
+North Carolina,Graham (County),Graham,1502
+North Carolina,Swain (County),Swain,1784
+Georgia,Clay (County),Clay,670
+Georgia,Harris (County),Harris,814
+Georgia,Heard (County),Heard,817
+Georgia,Dade (County),Dade,708
+Georgia,Early (County),Early,735
+Georgia,Clayton (County),Clayton,673
+Georgia,Madison (County),Madison,875
+Georgia,Towns (County),Towns,95
+Georgia,Miller (County),Miller,881
+Pennsylvania,Adams (County),Adams,2292
+Pennsylvania,Allegheny (County),Allegheny,2302
+Pennsylvania,Armstrong (County),Armstrong,2309
+Pennsylvania,Cambria (County),Cambria,2341
+Pennsylvania,Cameron (County),Cameron,2343
+Pennsylvania,Carbon (County),Carbon,2349
+Pennsylvania,Centre (County),Centre,2354
+Pennsylvania,Clearfield (County),Clearfield,2372
+Pennsylvania,Clinton (County),Clinton,2379
+Pennsylvania,Cumberland (County),Cumberland,2397
+Pennsylvania,Dauphin (County),Dauphin,2403
+Pennsylvania,Columbia (County),Columbia,2385
+Pennsylvania,Elk (County),Elk,2420
+Pennsylvania,Fayette (County),Fayette,2431
+Pennsylvania,Franklin (County),Franklin,2439
+Pennsylvania,Fulton (County),Fulton,2446
+Pennsylvania,Greene (County),Greene,2447
+Pennsylvania,Indiana (County),Indiana,2459
+Pennsylvania,Jefferson (County),Jefferson,2462
+Pennsylvania,Juniata (County),Juniata,2466
+Pennsylvania,Lancaster (County),Lancaster,2482
+Pennsylvania,Lebanon (County),Lebanon,2492
+Pennsylvania,Lehigh (County),Lehigh,2496
+Pennsylvania,Luzerne (County),Luzerne,2501
+Pennsylvania,Lycoming (County),Lycoming,2505
+Pennsylvania,Mifflin (County),Mifflin,2517
+Pennsylvania,Monroe (County),Monroe,2521
+Pennsylvania,Montour (County),Montour,2533
+Pennsylvania,Northampton (County),Northampton,2537
+Pennsylvania,Northumberland (County),Northumberland,2544
+Pennsylvania,Perry (County),Perry,2554
+Pennsylvania,Pike (County),Pike,2571
+Pennsylvania,Schuylkill (County),Schuylkill,2581
+Pennsylvania,Snyder (County),Snyder,2583
+Pennsylvania,Somerset (County),Somerset,2589
+Pennsylvania,Westmoreland (County),Westmoreland,2394
+Pennsylvania,Union (County),Union,2313
+Pennsylvania,York (County),York,2419
+Pennsylvania,Bedford (County),Bedford,2324
+Pennsylvania,Beaver (County),Beaver,2321
+Pennsylvania,Butler (County),Butler,2338
+Pennsylvania,Erie (County),Erie,2425
+Pennsylvania,Huntingdon (County),Huntingdon,2454
+Ohio,Allen (County),Allen,2250
+Pennsylvania,Washington (County),Washington,2346
+Ohio,Ashtabula (County),Ashtabula,2259
+Ohio,Champaign (County),Champaign,2291
+Ohio,Clinton (County),Clinton,2310
+Ohio,Clark (County),Clark,2300
+Ohio,Defiance (County),Defiance,2350
+Ohio,Erie (County),Erie,2357
+Ohio,Fulton (County),Fulton,2378
+Ohio,Fairfield (County),Fairfield,2365
+Ohio,Hardin (County),Hardin,2432
+Ohio,Highland (County),Highland,2457
+Ohio,Lake (County),Lake,2493
+Ohio,Marion (County),Marion,2541
+Ohio,Morrow (County),Morrow,2006
+Ohio,Pickaway (County),Pickaway,2031
+Ohio,Warren (County),Warren,2076
+Ohio,Williams (County),Williams,2087
+Ohio,Wyandot (County),Wyandot,2093
+West Virginia,Pleasants (County),Pleasants,3064
+West Virginia,Wood (County),Wood,3097
+Vermont,Chittenden (County),Chittenden,2599
+Georgia,Appling (County),Appling,987
+Georgia,Atkinson (County),Atkinson,988
+Georgia,Bacon (County),Bacon,989
+Georgia,Baker (County),Baker,990
+Georgia,Ben Hill (County),Ben Hill,995
+Georgia,Berrien (County),Berrien,996
+Georgia,Bibb (County),Bibb,997
+Georgia,Brantley (County),Brantley,999
+Georgia,Bleckley (County),Bleckley,998
+Georgia,Brooks (County),Brooks,565
+Georgia,Calhoun (County),Calhoun,592
+Georgia,Camden (County),Camden,603
+Georgia,Candler (County),Candler,616
+Georgia,Charlton (County),Charlton,635
+Georgia,Clinch (County),Clinch,676
+Georgia,Coffee (County),Coffee,684
+Georgia,Cook (County),Cook,697
+Georgia,Crawford (County),Crawford,704
+Georgia,Crisp (County),Crisp,707
+Georgia,Dodge (County),Dodge,720
+Georgia,Dooly (County),Dooly,724
+Georgia,Dougherty (County),Dougherty,728
+Georgia,Echols (County),Echols,737
+Georgia,Emanuel (County),Emanuel,750
+Georgia,Evans (County),Evans,754
+Georgia,Glynn (County),Glynn,793
+Georgia,Hancock (County),Hancock,810
+Georgia,Houston (County),Houston,823
+Georgia,Irwin (County),Irwin,825
+Georgia,Jeff Davis (County),Jeff Davis,832
+Georgia,Lanier (County),Lanier,845
+Georgia,Laurens (County),Laurens,847
+Georgia,Johnson (County),Johnson,837
+Georgia,Lowndes (County),Lowndes,863
+Georgia,McIntosh (County),McIntosh,871
+Georgia,Long (County),Long,860
+Georgia,Montgomery (County),Montgomery,887
+Georgia,Peach (County),Peach,910
+Georgia,Pierce (County),Pierce,915
+Georgia,Macon (County),Macon,874
+Georgia,Pulaski (County),Pulaski,11
+Georgia,Putnam (County),Putnam,13
+Georgia,Sumter (County),Sumter,52
+Georgia,Talbot (County),Talbot,57
+Georgia,Schley (County),Schley,31
+Georgia,Tattnall (County),Tattnall,63
+Georgia,Taylor (County),Taylor,69
+Georgia,Telfair (County),Telfair,75
+Georgia,Thomas (County),Thomas,83
+Georgia,Treutlen (County),Treutlen,102
+Georgia,Twiggs (County),Twiggs,116
+Georgia,Toombs (County),Toombs,91
+Georgia,Ware (County),Ware,132
+Georgia,Washington (County),Washington,143
+Georgia,Wayne (County),Wayne,147
+Georgia,Webster (County),Webster,149
+Georgia,Wheeler (County),Wheeler,154
+Georgia,Wilkinson (County),Wilkinson,169
+Georgia,Worth (County),Worth,173
+Georgia,Wilcox (County),Wilcox,163
+New Jersey,Hunterdon (County),Hunterdon,1488
+New Jersey,Mercer (County),Mercer,1493
+New Jersey,Warren (County),Warren,1570
+South Carolina,Pickens (County),Pickens,2834
+Minnesota,Martin (County),Martin,1940
+Minnesota,Steele (County),Steele,1985
+Alaska,Northwest Arctic (Borough),Northwest Arctic,638
+Indiana,Elkhart (County),Elkhart,260
+Indiana,LaPorte (County),LaPorte,392
+Indiana,Marshall (County),Marshall,412
+Indiana,St. Joseph (County),St. Joseph,496
+Indiana,Starke (County),Starke,512
+Hawaii,Honolulu (County),Honolulu,234
+Utah,Kane (County),Kane,2678
+Utah,Washington (County),Washington,2577
+California,Kern (County),Kern,84
+California,Orange (County),Orange,257
+Kentucky,Todd (County),Todd,1006
+Kentucky,Trigg (County),Trigg,1009
+Kentucky,Marshall (County),Marshall,1213
+Kentucky,Fulton (County),Fulton,1088
+Kentucky,Hickman (County),Hickman,1130
+Kentucky,Lyon (County),Lyon,1193
+Kansas,Atchison (County),Atchison,715
+Kansas,Brown (County),Brown,723
+Kansas,Chase (County),Chase,729
+Kansas,Clark (County),Clark,738
+Kansas,Harvey (County),Harvey,812
+Kansas,Jackson (County),Jackson,819
+Kansas,McPherson (County),McPherson,846
+Kansas,Pottawatomie (County),Pottawatomie,876
+Kansas,Reno (County),Reno,882
+Kansas,Rice (County),Rice,886
+Arizona,Mohave (County),Mohave,15
+Nevada,Clark (County),Clark,1399
+Alaska,North Slope (Borough),North Slope,614
+Nevada,Lincoln (County),Lincoln,1410
+Arizona,Graham (County),Graham,0
+Arizona,Greenlee (County),Greenlee,1
+New Jersey,Bergen (County),Bergen,1465
+New Jersey,Essex (County),Essex,1483
+New Jersey,Gloucester (County),Gloucester,1484
+New Jersey,Passaic (County),Passaic,1551
+Nebraska,Frontier (County),Frontier,1371
+Nebraska,Merrick (County),Merrick,1337
+Maine,Knox (County),Knox,1774
+Idaho,Nez Perce (County),Nez Perce,589
+South Dakota,Corson (County),Corson,2907
+South Dakota,Faulk (County),Faulk,2921
+South Dakota,Hyde (County),Hyde,2937
+South Dakota,Stanley (County),Stanley,2530
+South Dakota,Sully (County),Sully,2535
+South Dakota,Potter (County),Potter,2506
+North Dakota,Sioux (County),Sioux,2175
+North Dakota,Stark (County),Stark,2182
+Utah,Beaver (County),Beaver,2653
+Utah,Box Elder (County),Box Elder,2658
+Utah,Iron (County),Iron,2676
+Utah,Sevier (County),Sevier,2702
+Utah,Tooele (County),Tooele,2707
+Utah,Wasatch (County),Wasatch,2567
+Utah,Uintah (County),Uintah,2539
+Wyoming,Campbell (County),Campbell,3020
+Louisiana,De Soto (Parish),De Soto,1103
+Louisiana,East Carroll (Parish),East Carroll,1111
+Louisiana,Jackson (Parish),Jackson,1138
+Louisiana,Franklin (Parish),Franklin,1123
+Louisiana,Morehouse (Parish),Morehouse,1299
+Louisiana,Madison (Parish),Madison,1297
+Louisiana,Red River (Parish),Red River,1436
+Louisiana,Sabine (Parish),Sabine,1441
+Louisiana,Tensas (Parish),Tensas,1479
+Louisiana,Winn (Parish),Winn,1529
+Mississippi,Montgomery (County),Montgomery,1658
+Texas,Freestone (County),Freestone,2022
+Texas,Kenedy (County),Kenedy,2330
+Texas,Andrews (County),Andrews,2117
+Texas,Archer (County),Archer,2168
+Texas,Kimble (County),Kimble,2339
+Texas,Austin (County),Austin,2177
+Texas,Bell (County),Bell,2198
+Texas,Baylor (County),Baylor,2192
+Texas,Bosque (County),Bosque,2216
+Texas,Bastrop (County),Bastrop,2190
+Texas,Brewster (County),Brewster,2262
+Texas,Brooks (County),Brooks,2279
+Texas,Brazos (County),Brazos,2253
+Texas,Burleson (County),Burleson,2304
+Texas,Camp (County),Camp,2373
+Texas,Childress (County),Childress,2405
+Texas,Castro (County),Castro,2386
+Texas,Clay (County),Clay,2409
+Texas,Coke (County),Coke,2418
+Texas,Cochran (County),Cochran,2413
+Texas,Collin (County),Collin,2429
+Texas,Collingsworth (County),Collingsworth,2434
+Texas,Colorado (County),Colorado,2441
+Texas,Comanche (County),Comanche,2455
+Texas,Concho (County),Concho,2458
+Texas,Coryell (County),Coryell,2469
+Texas,Cottle (County),Cottle,2473
+Texas,Crane (County),Crane,2478
+Texas,Crockett (County),Crockett,2483
+Texas,Culberson (County),Culberson,2491
+Texas,Dallam (County),Dallam,2498
+Texas,Dallas (County),Dallas,2507
+Texas,Denton (County),Denton,2532
+Texas,Dickens (County),Dickens,2542
+Texas,Donley (County),Donley,2551
+Texas,Ector (County),Ector,2568
+Texas,Ellis (County),Ellis,2579
+Texas,El Paso (County),El Paso,2588
+Texas,Erath (County),Erath,2597
+Texas,Falls (County),Falls,2601
+Texas,Fayette (County),Fayette,2624
+Texas,Edwards (County),Edwards,2574
+Texas,Fisher (County),Fisher,2628
+Texas,Foard (County),Foard,2002
+Texas,Glasscock (County),Glasscock,2072
+Texas,Hale (County),Hale,2120
+Texas,Hamilton (County),Hamilton,2128
+Texas,Hansford (County),Hansford,2132
+Texas,Hardeman (County),Hardeman,2137
+Texas,Hartley (County),Hartley,2160
+Texas,Haskell (County),Haskell,2163
+Texas,Henderson (County),Henderson,2178
+Texas,Hill (County),Hill,2201
+Texas,Hockley (County),Hockley,2208
+Texas,Hood (County),Hood,2213
+Texas,Howard (County),Howard,2231
+Texas,Hudspeth (County),Hudspeth,2241
+Texas,Hutchinson (County),Hutchinson,2249
+Texas,Irion (County),Irion,2255
+Texas,Jack (County),Jack,2256
+Texas,Jeff Davis (County),Jeff Davis,2275
+Texas,Johnson (County),Johnson,2299
+Texas,Jim Hogg (County),Jim Hogg,2288
+Texas,Kaufman (County),Kaufman,2314
+Texas,King (County),King,2342
+Texas,Kinney (County),Kinney,2347
+Texas,Kent (County),Kent,2335
+Texas,Knox (County),Knox,2364
+Texas,Lamb (County),Lamb,2376
+Texas,Lampasas (County),Lampasas,2381
+Texas,Lavaca (County),Lavaca,2392
+Texas,Lee (County),Lee,2398
+Texas,Limestone (County),Limestone,2408
+Texas,Lipscomb (County),Lipscomb,2412
+Texas,Llano (County),Llano,2421
+Texas,Lubbock (County),Lubbock,2428
+Texas,Loving (County),Loving,2424
+Texas,McLennan (County),McLennan,2477
+Texas,Martin (County),Martin,2564
+Texas,Mason (County),Mason,2570
+Texas,McCulloch (County),McCulloch,2452
+Texas,Maverick (County),Maverick,2649
+Texas,Menard (County),Menard,2655
+Texas,Midland (County),Midland,2657
+Texas,Milam (County),Milam,2659
+Texas,Mills (County),Mills,2663
+Texas,Moore (County),Moore,2683
+Texas,Mitchell (County),Mitchell,2666
+Texas,Navarro (County),Navarro,2706
+Texas,Nolan (County),Nolan,2714
+Texas,Ochiltree (County),Ochiltree,2204
+Texas,Motley (County),Motley,2692
+Texas,Palo Pinto (County),Palo Pinto,2220
+Texas,Parker (County),Parker,2229
+Texas,Pecos (County),Pecos,2239
+Texas,Presidio (County),Presidio,2261
+Texas,Roberts (County),Roberts,2348
+Texas,Reeves (County),Reeves,2308
+Texas,Reagan (County),Reagan,2280
+Texas,Robertson (County),Robertson,2353
+Texas,Rockwall (County),Rockwall,2355
+Texas,Runnels (County),Runnels,2361
+Texas,Scurry (County),Scurry,2443
+Texas,Shackelford (County),Shackelford,2445
+Texas,Schleicher (County),Schleicher,2437
+Texas,Somervell (County),Somervell,2470
+Texas,Starr (County),Starr,2474
+Texas,Sherman (County),Sherman,2453
+Texas,Stephens (County),Stephens,2480
+Texas,Sterling (County),Sterling,2481
+Texas,Swisher (County),Swisher,2495
+Texas,Sutton (County),Sutton,2490
+Texas,Stonewall (County),Stonewall,2486
+Texas,Terrell (County),Terrell,2518
+Texas,Terry (County),Terry,2522
+Texas,Tom Green (County),Tom Green,2536
+Texas,Throckmorton (County),Throckmorton,2525
+Texas,Upton (County),Upton,2572
+Texas,Val Verde (County),Val Verde,2582
+Texas,Van Zandt (County),Van Zandt,2586
+Texas,Ward (County),Ward,2610
+Texas,Washington (County),Washington,2613
+Texas,Wheeler (County),Wheeler,2623
+Texas,Wichita (County),Wichita,2632
+Texas,Willacy (County),Willacy,2639
+Texas,Williamson (County),Williamson,2640
+Texas,Wilbarger (County),Wilbarger,2634
+Texas,Winkler (County),Winkler,2642
+Texas,Wise (County),Wise,2643
+Texas,Yoakum (County),Yoakum,2645
+Texas,Young (County),Young,2646
+Texas,Zapata (County),Zapata,2650
+New Hampshire,Grafton (County),Grafton,1442
+New Hampshire,Belknap (County),Belknap,1432
+New Hampshire,Merrimack (County),Merrimack,1444
+Massachusetts,Berkshire (County),Berkshire,1480
+Massachusetts,Franklin (County),Franklin,1523
+Massachusetts,Hampshire (County),Hampshire,1527
+Massachusetts,Hampden (County),Hampden,1526
+North Dakota,Slope (County),Slope,2180
+North Dakota,Billings (County),Billings,1833
+North Dakota,Dunn (County),Dunn,2013
+North Dakota,Mercer (County),Mercer,2107
+Connecticut,Windham (County),Windham,529
+South Dakota,Aurora (County),Aurora,2870
+South Dakota,Bon Homme (County),Bon Homme,2879
+Connecticut,Tolland (County),Tolland,524
+South Dakota,Charles Mix (County),Charles Mix,2900
+South Dakota,Davison (County),Davison,2910
+South Dakota,Douglas (County),Douglas,2916
+South Dakota,Hand (County),Hand,2928
+South Dakota,Hutchinson (County),Hutchinson,2934
+South Dakota,Miner (County),Miner,2456
+Minnesota,Lincoln (County),Lincoln,1931
+South Carolina,Anderson (County),Anderson,2559
+Kansas,Cheyenne (County),Cheyenne,736
+Kansas,Edwards (County),Edwards,770
+Kansas,Hodgeman (County),Hodgeman,818
+Kansas,Rawlins (County),Rawlins,880
+Kansas,Gove (County),Gove,790
+Kansas,Norton (County),Norton,866
+Kansas,Sherman (County),Sherman,907
+Nebraska,Dawson (County),Dawson,1349
+Nebraska,Boyd (County),Boyd,1317
+Nebraska,Garfield (County),Garfield,1391
+Nebraska,Gosper (County),Gosper,1393
+Nebraska,Furnas (County),Furnas,1374
+Nebraska,Loup (County),Loup,1331
+Nebraska,Phelps (County),Phelps,1355
+Nebraska,Wayne (County),Wayne,1388
+Nebraska,Wheeler (County),Wheeler,1390
+California,Alameda (County),Alameda,457
+California,Amador (County),Amador,472
+California,Butte (County),Butte,486
+California,Colusa (County),Colusa,497
+California,Alpine (County),Alpine,461
+California,Lassen (County),Lassen,104
+California,Placer (County),Placer,266
+California,Plumas (County),Plumas,275
+California,Humboldt (County),Humboldt,551
+California,San Mateo (County),San Mateo,368
+California,Santa Cruz (County),Santa Cruz,415
+California,Sierra (County),Sierra,439
+California,Sutter (County),Sutter,483
+California,Yuba (County),Yuba,541
+California,Shasta (County),Shasta,431
+California,Yolo (County),Yolo,525
+California,Trinity (County),Trinity,500
+California,Lake (County),Lake,100
+California,El Dorado (County),El Dorado,522
+California,Marin (County),Marin,168
+California,Contra Costa (County),Contra Costa,503
+California,Del Norte (County),Del Norte,511
+California,Mendocino (County),Mendocino,190
+California,Nevada (County),Nevada,243
+California,Sacramento (County),Sacramento,289
+California,Solano (County),Solano,453
+California,Sonoma (County),Sonoma,463
+California,Siskiyou (County),Siskiyou,446
+Nevada,Elko (County),Elko,1401
+Nevada,Lyon (County),Lyon,1412
+Nevada,Douglas (County),Douglas,1400
+Idaho,Owyhee (County),Owyhee,601
+Nevada,Washoe (County),Washoe,1423
+Nevada,Storey (County),Storey,1420
+Missouri,Putnam (County),Putnam,1188
+Oregon,Jackson (County),Jackson,2139
+Oregon,Josephine (County),Josephine,2152
+Hawaii,Kauai (County),Kauai,261
+Washington,Pend Oreille (County),Pend Oreille,2951
+New Hampshire,Carroll (County),Carroll,1435
+New Hampshire,Strafford (County),Strafford,1453
+California,Calaveras (County),Calaveras,489
+California,Madera (County),Madera,153
+California,Merced (County),Merced,204
+California,Stanislaus (County),Stanislaus,473
+California,Tuolumne (County),Tuolumne,513
+South Dakota,Bennett (County),Bennett,2876
+South Dakota,Butte (County),Butte,2895
+South Dakota,Meade (County),Meade,2442
+South Dakota,Harding (County),Harding,2931
+South Dakota,Perkins (County),Perkins,2502
+New Mexico,Grant (County),Grant,1594
+New Mexico,Hidalgo (County),Hidalgo,1600
+New Mexico,Harding (County),Harding,1597
+New Mexico,Luna (County),Luna,1622
+New Mexico,Valencia (County),Valencia,1670
+Missouri,St. Louis,St. Louis City,1266
+Nebraska,Harlan (County),Harlan,1409
+Nebraska,Hitchcock (County),Hitchcock,1414
+Kansas,Finney (County),Finney,778
+Kansas,Ford (County),Ford,784
+Kansas,Grant (County),Grant,794
+Kansas,Greeley (County),Greeley,801
+Kansas,Hamilton (County),Hamilton,805
+Kansas,Gray (County),Gray,798
+Kansas,Kearny (County),Kearny,826
+Kansas,Logan (County),Logan,842
+Kansas,Lane (County),Lane,833
+Kansas,Morton (County),Morton,859
+Kansas,Scott (County),Scott,897
+Kansas,Stanton (County),Stanton,913
+Kansas,Stevens (County),Stevens,914
+Kansas,Stafford (County),Stafford,911
+Kansas,Wichita (County),Wichita,923
+Illinois,McLean (County),McLean,193
+Washington,Grant (County),Grant,2889
+Washington,Klickitat (County),Klickitat,2935
+Georgia,Stewart (County),Stewart,48
+Georgia,Muscogee (County),Muscogee,896
+Georgia,McDuffie (County),McDuffie,868
+Georgia,Warren (County),Warren,135
+Iowa,Jefferson (County),Jefferson,507
+Iowa,Keokuk (County),Keokuk,520
+Iowa,Marion (County),Marion,561
+Iowa,Mahaska (County),Mahaska,554
+Iowa,Van Buren (County),Van Buren,678
+California,Fresno (County),Fresno,527
+California,Imperial (County),Imperial,557
+California,Kings (County),Kings,94
+California,Monterey (County),Monterey,228
+California,Tulare (County),Tulare,501
+New Mexico,Curry (County),Curry,1586
+New Mexico,Quay (County),Quay,1637
+New Jersey,Atlantic (County),Atlantic,1461
+New Jersey,Hudson (County),Hudson,1487
+New Jersey,Middlesex (County),Middlesex,1497
+New Jersey,Union (County),Union,1566
+New Jersey,Somerset (County),Somerset,1558
+New Hampshire,Coos (County),Coos,1440
+Kansas,Doniphan (County),Doniphan,765
+Kansas,Marshall (County),Marshall,850
+Kansas,Nemaha (County),Nemaha,861
+Kansas,Lincoln (County),Lincoln,838
+Kansas,Washington (County),Washington,922
+Kansas,Clay (County),Clay,739
+Kansas,Dickinson (County),Dickinson,762
+Kansas,Cloud (County),Cloud,740
+Kansas,Ellsworth (County),Ellsworth,776
+Kansas,Ottawa (County),Ottawa,870
+Kansas,Riley (County),Riley,888
+Kansas,Saline (County),Saline,895
+Massachusetts,Barnstable (County),Barnstable,1478
+Massachusetts,Dukes (County),Dukes,1491
+South Dakota,Brule (County),Brule,2888
+South Dakota,Lake (County),Lake,2401
+South Dakota,McCook (County),McCook,2422
+Iowa,Clarke (County),Clarke,397
+Iowa,Decatur (County),Decatur,419
+Iowa,Crawford (County),Crawford,408
+Iowa,Harrison (County),Harrison,478
+Iowa,Monona (County),Monona,576
+Nebraska,Nemaha (County),Nemaha,1343
+Nebraska,Richardson (County),Richardson,1365
+Missouri,Atchison (County),Atchison,1763
+Missouri,Holt (County),Holt,1065
+Vermont,Washington (County),Washington,2617
+Minnesota,Jackson (County),Jackson,1918
+Nebraska,Arthur (County),Arthur,1307
+Illinois,Winnebago (County),Winnebago,325
+Illinois,Stephenson (County),Stephenson,290
+Iowa,Cherokee (County),Cherokee,388
+Illinois,Cook (County),Cook,36
+Illinois,Knox (County),Knox,166
+Illinois,Lake (County),Lake,170
+Illinois,DeKalb (County),DeKalb,49
+Illinois,Kane (County),Kane,156
+Illinois,Warren (County),Warren,301
+Illinois,Grundy (County),Grundy,99
+Oregon,Washington (County),Washington,2272
+Kansas,Republic (County),Republic,884
+Illinois,Livingston (County),Livingston,182
+Georgia,Polk (County),Polk,8
+Georgia,Burke (County),Burke,583
+Georgia,Jefferson (County),Jefferson,834
+South Dakota,Lawrence (County),Lawrence,2406
+Georgia,Jenkins (County),Jenkins,835
+Iowa,Lyon (County),Lyon,546
+Wisconsin,Manitowoc (County),Manitowoc,3169
+Nebraska,Burt (County),Burt,1323
+Nebraska,Colfax (County),Colfax,1338
+Minnesota,Cook (County),Cook,1900
+South Dakota,Clay (County),Clay,2903
+South Dakota,Dewey (County),Dewey,2914
+South Dakota,Hughes (County),Hughes,2933
+South Dakota,Lyman (County),Lyman,2417
+South Dakota,Ziebach (County),Ziebach,2578
+Michigan,Allegan (County),Allegan,1611
+Michigan,Lake (County),Lake,1749
+Michigan,Mason (County),Mason,1797
+Michigan,Missaukee (County),Missaukee,1810
+Michigan,Osceola (County),Osceola,1830
+Michigan,Manistee (County),Manistee,1787
+Michigan,Wexford (County),Wexford,1873
+Idaho,Kootenai (County),Kootenai,552
+Idaho,Shoshone (County),Shoshone,621
+Vermont,Grand Isle (County),Grand Isle,2609
+Illinois,Bureau (County),Bureau,2
+Illinois,Kendall (County),Kendall,165
+Illinois,Peoria (County),Peoria,233
+Illinois,DuPage (County),DuPage,64
+Kentucky,Boone (County),Boone,1002
+Kentucky,Campbell (County),Campbell,1035
+Kentucky,Gallatin (County),Gallatin,1090
+Kentucky,Kenton (County),Kenton,1151
+Kentucky,McCracken (County),McCracken,1196
+Washington,Columbia (County),Columbia,2869
+Washington,Garfield (County),Garfield,2886
+Washington,Lincoln (County),Lincoln,2942
+Kentucky,Logan (County),Logan,1190
+Kentucky,Simpson (County),Simpson,1287
+Washington,Adams (County),Adams,2840
+Washington,Asotin (County),Asotin,2845
+Washington,Ferry (County),Ferry,2880
+Washington,Franklin (County),Franklin,2884
+Washington,Spokane (County),Spokane,2961
+Washington,Stevens (County),Stevens,2963
+Washington,Whitman (County),Whitman,2973
+North Dakota,Hettinger (County),Hettinger,2063
+Minnesota,Wadena (County),Wadena,1992
+Georgia,Lee (County),Lee,849
+Georgia,Seminole (County),Seminole,38
+South Dakota,Campbell (County),Campbell,2897
+South Dakota,McPherson (County),McPherson,2426
+Nebraska,Scotts Bluff (County),Scotts Bluff,1373
+Georgia,Coweta (County),Coweta,700
+New Jersey,Cape May (County),Cape May,1477
+New Jersey,Ocean (County),Ocean,1546
+New Jersey,Cumberland (County),Cumberland,1482
+New Jersey,Salem (County),Salem,1553
+Virginia,Covington,Covington,2729
+Virginia,Radford,Radford,2799
+Iowa,Emmet (County),Emmet,437
+Iowa,Dickinson (County),Dickinson,427
+Iowa,Plymouth (County),Plymouth,622
+Iowa,O'Brien (County),O'Brien,604
+Iowa,Sioux (County),Sioux,663
+Iowa,Woodbury (County),Woodbury,702
+South Dakota,Jones (County),Jones,2944
+South Dakota,Walworth (County),Walworth,2561
+Rhode Island,Bristol (County),Bristol,2433
+Rhode Island,Kent (County),Kent,2444
+New Jersey,Monmouth (County),Monmouth,1504
+Minnesota,Blue Earth (County),Blue Earth,1886
+Minnesota,Cottonwood (County),Cottonwood,1902
+Tennessee,Putnam (County),Putnam,2890
+South Dakota,Union (County),Union,2557
+Wyoming,Fremont (County),Fremont,3028
+Nebraska,Dawes (County),Dawes,1347
+Nebraska,Sheridan (County),Sheridan,1376
+Idaho,Adams (County),Adams,338
+Idaho,Gem (County),Gem,510
+Idaho,Payette (County),Payette,606
+Idaho,Washington (County),Washington,649
+Iowa,Osceola (County),Osceola,607
+Illinois,Ogle (County),Ogle,229
+South Dakota,Lincoln (County),Lincoln,2410
+Minnesota,Lyon (County),Lyon,1932
+Minnesota,Pipestone (County),Pipestone,1958
+Minnesota,Murray (County),Murray,1947
+Minnesota,Rock (County),Rock,1974
+Minnesota,Waseca (County),Waseca,1993
+Minnesota,Watonwan (County),Watonwan,1996
+California,Inyo (County),Inyo,562
+Utah,Garfield (County),Garfield,2674
+Illinois,Boone (County),Boone,653
+Illinois,Henry (County),Henry,121
+Illinois,Lee (County),Lee,180
+Illinois,Marshall (County),Marshall,202
+Illinois,McHenry (County),McHenry,192
+Illinois,Stark (County),Stark,285
+New Mexico,Pueblo of Taos,Taos,1662
+Tennessee,Franklin (County),Franklin,2734
+Tennessee,Moore (County),Moore,2863
+Georgia,Morgan (County),Morgan,890
+Georgia,Meriwether (County),Meriwether,879
+Georgia,Troup (County),Troup,105
+Tennessee,Sullivan (County),Sullivan,2046
+Idaho,Bonner (County),Bonner,387
+Montana,Daniels (County),Daniels,1157
+Montana,Dawson (County),Dawson,1160
+Montana,Valley (County),Valley,1296
+Wyoming,Natrona (County),Natrona,3038
+Wyoming,Teton (County),Teton,3053
+** Oregon,Statewide,Statewide,Statewide **
+Utah,Utah (County),Utah,2555
+New Mexico,Colfax (County),Colfax,1582
+** Colorado,Statewide,Statewide,Statewide **
+Wyoming,Albany (County),Albany,3015
+Wyoming,Converse (County),Converse,3024
+Utah,Daggett (County),Daggett,2668
+Wyoming,Lincoln (County),Lincoln,3036
+** New Mexico,Statewide,Statewide,Statewide **
+California,Santa Clara (County),Santa Clara,406
+Utah,Weber (County),Weber,2587
+Wyoming,Sheridan (County),Sheridan,3047
+California,Mariposa (County),Mariposa,178
+Nevada,Eureka (County),Eureka,1406
+California,Tehama (County),Tehama,492
+New Mexico,Lea (County),Lea,1604
+Georgia,Bryan (County),Bryan,573
+Utah,Duchesne (County),Duchesne,2672
+Utah,Millard (County),Millard,2680
+Utah,Juab (County),Juab,2677
+Oregon,Klamath (County),Klamath,2155
+** Texas,Statewide,Statewide,Statewide **
+** Oklahoma,Statewide,Statewide,Statewide **
+Utah,Salt Lake (County),Salt Lake,2690
+New Mexico,Roosevelt (County),Roosevelt,1642
+New Mexico,Catron (County),Catron,1576
+Utah,Sanpete (County),Sanpete,2697
+New Mexico,Union (County),Union,1667
+Michigan,Bay (County),Bay,1631
+Michigan,Branch (County),Branch,1640
+Michigan,Calhoun (County),Calhoun,1641
+Michigan,Clare (County),Clare,1665
+Michigan,Clinton (County),Clinton,1669
+Michigan,Gratiot (County),Gratiot,1700
+Michigan,Hillsdale (County),Hillsdale,1701
+Michigan,Huron (County),Huron,1708
+Michigan,Isabella (County),Isabella,1717
+Michigan,Kalamazoo (County),Kalamazoo,1720
+Michigan,Lapeer (County),Lapeer,1752
+Michigan,Midland (County),Midland,1806
+Michigan,Montcalm (County),Montcalm,1815
+Michigan,Tuscola (County),Tuscola,1866
+Indiana,LaGrange (County),LaGrange,386
+Indiana,Steuben (County),Steuben,515
+Wisconsin,Door (County),Door,3131
+Wisconsin,Kewaunee (County),Kewaunee,3160
+Massachusetts,Nantucket (County),Nantucket,1537
+Colorado,Broomfield (County),Broomfield,577
+** New York,Statewide,Statewide,Statewide **
+Michigan,Monroe (County),Monroe,1812
+Nevada,Churchill (County),Churchill,1396
+Nevada,Lander (County),Lander,1408
+Nevada,Humboldt (County),Humboldt,1407
+Nevada,Nye (County),Nye,1417
+Nevada,White Pine (County),White Pine,1425
+Nevada,Mineral (County),Mineral,1415
+Nevada,Pershing (County),Pershing,1419
+Tennessee,Hamblen (County),Hamblen,2757
+Georgia,Baldwin (County),Baldwin,991
+Georgia,Bulloch (County),Bulloch,579
+Georgia,Chattahoochee (County),Chattahoochee,656
+Georgia,Columbia (County),Columbia,692
+Georgia,Chatham (County),Chatham,646
+Georgia,Effingham (County),Effingham,742
+Georgia,Fayette (County),Fayette,760
+Georgia,Glascock (County),Glascock,783
+Georgia,Liberty (County),Liberty,855
+Georgia,Lincoln (County),Lincoln,857
+Georgia,Marion (County),Marion,877
+Georgia,Murray (County),Murray,892
+Georgia,Georgetown - Quitman (County),Quitman,16
+Georgia,Randolph (County),Randolph,23
+Georgia,Screven (County),Screven,34
+Georgia,Richmond (County),Richmond,24
+Georgia,Terrell (County),Terrell,78
+Georgia,Whitfield (County),Whitfield,159
+North Carolina,Cherokee (County),Cherokee,1452
+North Carolina,Clay (County),Clay,1457
+North Carolina,Surry (County),Surry,1780
+North Carolina,Yadkin (County),Yadkin,1821
+Utah,Cache (County),Cache,2661
+Utah,Carbon (County),Carbon,2665
+Utah,Davis (County),Davis,2671
+Utah,Emery (County),Emery,2673
+Utah,Grand (County),Grand,2675
+Utah,Morgan (County),Morgan,2681
+Utah,Piute (County),Piute,2685
+Utah,Rich (County),Rich,2687
+Utah,San Juan (County),San Juan,2694
+Utah,Summit (County),Summit,2703
+Utah,Wayne (County),Wayne,2580
+Michigan,Alcona (County),Alcona,1603
+Michigan,Alger (County),Alger,1609
+Michigan,Alpena (County),Alpena,1614
+Michigan,Antrim (County),Antrim,1617
+Michigan,Benzie (County),Benzie,1634
+Michigan,Charlevoix (County),Charlevoix,1648
+Michigan,Cheboygan (County),Cheboygan,1649
+Michigan,Chippewa (County),Chippewa,1660
+Michigan,Crawford (County),Crawford,1672
+Michigan,Delta (County),Delta,1675
+Michigan,Dickinson (County),Dickinson,1677
+Michigan,Emmet (County),Emmet,1686
+Michigan,Iosco (County),Iosco,1715
+Michigan,Grand Traverse (County),Grand Traverse,1697
+Michigan,Keweenaw (County),Keweenaw,1743
+Michigan,Leelanau (County),Leelanau,1765
+Michigan,Kalkaska (County),Kalkaska,1722
+Michigan,Luce (County),Luce,1773
+Michigan,Mackinac (County),Mackinac,1779
+Michigan,Lenawee (County),Lenawee,1768
+Michigan,Menominee (County),Menominee,1802
+Michigan,Montmorency (County),Montmorency,1816
+Michigan,Oceana (County),Oceana,1825
+Michigan,Ogemaw (County),Ogemaw,1827
+Michigan,Oscoda (County),Oscoda,1832
+Michigan,Presque Isle (County),Presque Isle,1840
+Michigan,Otsego (County),Otsego,1834
+Michigan,Roscommon (County),Roscommon,1843
+Michigan,Schoolcraft (County),Schoolcraft,1861
+South Carolina,Beaufort (County),Beaufort,2626
+South Carolina,Hampton (County),Hampton,2767
+South Carolina,Jasper (County),Jasper,2783
+Virginia,Bristol,Bristol,2716
+Virginia,Lexington,Lexington,2760
+Virginia,Martinsville,Martinsville,2771
+Arizona,Yuma (County),Yuma,42
+Minnesota,Cass (County),Cass,1895
+Minnesota,Sherburne (County),Sherburne,1980
+Nevada,Esmeralda (County),Esmeralda,1404
+Idaho,Bear Lake (County),Bear Lake,349
+Idaho,Benewah (County),Benewah,354
+Idaho,Bonneville (County),Bonneville,395
+Idaho,Boundary (County),Boundary,405
+Idaho,Butte (County),Butte,414
+Idaho,Camas (County),Camas,429
+Idaho,Canyon (County),Canyon,441
+Idaho,Caribou (County),Caribou,449
+Idaho,Cassia (County),Cassia,456
+Idaho,Franklin (County),Franklin,498
+Idaho,Clark (County),Clark,464
+Idaho,Fremont (County),Fremont,502
+Idaho,Gooding (County),Gooding,519
+Idaho,Jefferson (County),Jefferson,540
+Idaho,Latah (County),Latah,559
+Idaho,Madison (County),Madison,581
+Idaho,Minidoka (County),Minidoka,585
+Idaho,Oneida (County),Oneida,593
+Idaho,Teton (County),Teton,627
+Idaho,Twin Falls (County),Twin Falls,634
+Nebraska,Grant (County),Grant,1395
+California,Glenn (County),Glenn,537
+California,Modoc (County),Modoc,207
+California,Mono (County),Mono,214
+California,San Benito (County),San Benito,295
+California,San Francisco (County),San Francisco,331
+** Wisconsin,Statewide,Statewide,Statewide **
+Wisconsin,Florence (County),Florence,3138
+Wisconsin,Oconto (County),Oconto,3181
+Wisconsin,Menominee (County),Menominee,3175
+Wisconsin,Vilas (County),Vilas,3001
+** Missouri,Statewide,Statewide,Statewide **
+Alaska,Haines (Borough),Haines,462
+Alaska,Ketchikan Gateway (Borough),Ketchikan Gateway,514
+Alaska,Petersburg (Borough),Petersburg,645
+Alaska,Sitka (Borough),Sitka,679
+Alaska,Skagway (Municipality),Skagway,683
+Alaska,Yakutat (Borough),Yakutat,744
+Alaska,Wrangell (City and Borough),Wrangell,733
+** Louisiana,Statewide,Statewide,Statewide **
+Oklahoma,Choctaw,Choctaw,2133
+Wyoming,Big Horn (County),Big Horn,3018
+Wyoming,Carbon (County),Carbon,3022
+Wyoming,Johnson (County),Johnson,3033
+Wyoming,Laramie (County),Laramie,3035
+Wyoming,Hot Springs (County),Hot Springs,3032
+Wyoming,Park (County),Park,3043
+Wyoming,Niobrara (County),Niobrara,3040
+Wyoming,Sublette (County),Sublette,3049
+Wyoming,Sweetwater (County),Sweetwater,3051
+Wyoming,Uinta (County),Uinta,3055
+Wyoming,Washakie (County),Washakie,3056
+** Rhode Island,Statewide,Statewide,Statewide **
+Alaska,Aleutians West (Census Area),Aleutians West,381
+Hawaii,Kalawao (County),Kalawao,247
+Alaska,Juneau (Borough),Juneau,482
+Alaska,Hoonah Angoon (Census Area),Hoonah-Angoon,476
+Alaska,Kusilvak Census Area,Wade Hampton,725
+Alaska,Nome (Census Area),Nome,571
+Alaska,Prince of Wales-Hyder (Census Area),Prince of Wales-Hyder,669
+Alaska,Prince of Wales-Outer Ketchikan (Census Area),Prince of Wales-Hyder,669
+** Alaska,Wrangell-Petersburg (Census Area),Wrangell + Petersburg,Wrangell + Petersburg **
+** Washington,Statewide,Statewide,Statewide **
+State,Old_Reservation_Name,New_Reservation_Name,FID
+Minnesota,White Earth Indian Reservation,White Earth,172
+North Dakota,Fort Berthold Indian Reservation,Fort Berthold,224
+North Dakota,Turtle Mountain Indian Reservation,Turtle Mountain,159
+Montana,Blackfeet Indian Reservation,Blackfeet,19
+Montana,Crow Indian Reservation,Crow,34
+Montana,Flathead Indian Reservation,Flathead,222
+Montana,Fort Belknap Indian Reservation,Fort Belknap,42
+Montana,Northern Cheyenne Indian Reservation,Northern Cheyenne,98
+Montana,Rocky Boy's Indian Reservation,Rocky Boy's,117
+Idaho,Fort Hall Indian Reservation,Fort Hall,44
+Arizona,Gila River Indian Reservation,Gila River,233
+Minnesota,Mille Lacs Indian Reservation,Mille Lacs,86
+Minnesota,Fond du Lac Indian Reservation,Fond du Lac,39
+Minnesota,Red Lake Indian Reservation,Red Lake,302
+Minnesota,Prairie Island Community (Indian Reservation),Prairie Island,110
+Minnesota,Upper Sioux Community (Indian Reservation),Upper Sioux,165
+Colorado,Southern Ute Indian Reservation,Southern Ute,321
+Colorado,Ute Mountain Indian Reservation (Also NM),Ute Mountain,167
+Arizona,White Mountain Apache Tribe,Fort Apache,223
+Alaska,Crooked Creek (ANV/ANVSA),Crooked Creek,442
+Alaska,Lime Village (ANV/ANVSA),Lime Village,511
+Alaska,Red Devil (ANV/ANVSA),Red Devil,566
+Alaska,Sleetmute (ANV/ANVSA),Sleetmute,582
+Alaska,Chignik Lagoon (ANV/ANVSA),Chignik Lagoon,430
+Alaska,Chignik Lake (ANV/ANVSA),Chignik Lake,431
+North Carolina,Eastern Band of Cherokee Indians of North Carolina,Eastern Cherokee,217
+North Dakota,Standing Rock Sioux Tribe of North & South Dakota,Standing Rock,324
+North Dakota,Spirit Lake Reservation,Spirit Lake,322
+South Dakota,Rosebud Indian Reservation,Rosebud,118
+Arizona,Hopi Indian Reservation,Hopi,57
+Arizona,Navajo Nation Reservation (Also NM and UT),Navajo Nation,93
+Arizona,Havasupai Indian Reservation,Havasupai,238
+Arizona,San Carlos Indian Reservation,San Carlos,309
+Idaho,Nez Perce Indian Reservation,Nez Perce,275
+Utah,Uintah and Ouray Indian Reservation,Uintah and Ouray,162
+Nevada,Pyramid Lake Indian Reservation,Pyramid Lake Paiute,298
+Nevada;California,Washoe Indian Reservation,Washoe,359;358
+Oregon,Warm Springs Indian Reservation,Warm Springs,171
+New Mexico,Navajo Nation Reservation (Also  AZ and UT),Navajo Nation Reservation,94
+Arizona,Tohono O'odham Reservation and Trust Lands,Tohono O'odham Nation,152
+Oregon,Siletz Indian Reservation,Siletz,132
+South Dakota,Crow Creek Indian Reservation,Crow Creek,212
+South Dakota,Lake Traverse (Sisseton) Indian Reservation,Lake Traverse,74
+South Dakota,Oglala Sioux Tribe of the Pine Ridge Reservation,Pine Ridge,293
+Oregon,"Coos,Lower Unqua and Siuslaw Indian Reservation","""Coos", Lower Umpqua," and Siuslaw""",30
+Oregon,Grand Ronde Indian Reservation,Grand Ronde,50
+South Dakota,Cheyenne River Indian Reservation,Cheyenne River,27
+South Dakota,Lower Brule Indian Reservation,Lower Brule,78
+North Dakota,Standing Rock Sioux Tribe of North & South Dakota,Standing Rock,325
+South Dakota,Lake Traverse Sisseton Indian Reservation,Lake Traverse,73
+Wyoming,Wind River Indian Reservation,Wind River,173
+New Mexico,Pueblo of Acoma,Acoma,8
+South Dakota,Flandreau Indian Reservation,Flandreau,221
+Connecticut,Paucatuck Eastern Pequot Indian Reservation,Paucatuck Eastern Pequot,365
+Connecticut,Mashantucket Pequot Indian Reservation,Mashantucket Pequot,82
+New Mexico,Mescalero Tribe,Mescalero,270
+New Mexico,Pueblo of Picuris,Picuris,291
+New Mexico,Pueblo of Pojoaque,Pojoaque,106
+New Mexico,Pueblo of San Felipe,San Felipe,310
+New Mexico,San Felipe Pueblo (Indian Reservation),San Felipe,310
+New Mexico,Pueblo of Santa Ana,Santa Ana,312
+New Mexico,Pueblo of Santa Clara,Santa Clara,126
+Montana,Fort Peck Indian Reservation,Fort Peck,48
+Alaska,Dot Lake (ANV/ANVSA),Dot Lake,446
+Alaska,Northway (ANV/ANVSA),Northway,541
+Alaska,Tanacross (ANV/ANVSA),Tanacross,592
+Alaska,Tetlin (ANV/ANVSA),Tetlin,598
+New Mexico,Cochiti Pueblo (Indian Reservation),Cochiti,202
+New Mexico,Jemez Pueblo (Indian Reservation),Jemez,248
+New Mexico,Santa Clara Pueblo (Indian Reservation),Santa Clara,126
+New York,Oneida (East) Indian Reservation,Oneida,282
+California,Hoopa Valley Indian Reservation,Hoopa Valley,240
+California,Yurok Indian Reservation,Yurok,345
+Virginia,Pamunkey Indian Reservation,Pamunkey,364
+Virginia,Mattaponi Indian Reservation,Mattaponi,362
+Washington,Colville Indian Reservation,Colville,29
+Washington,Kalispel Indian Reservation,Kalispel,66
+Washington,Spokane Indian Reservation,Spokane,138
+Washington,Yakama Reservation,Yakama Nation,176
+South Carolina,Catawba Indian Reservation,Catawba,24
+Alabama,Poarch Creek Reservation and Trust Lands (also FL),Poarch Creek,104
+Florida,Hollywood Indian Reservation,Hollywood,239
+Florida,Big Cypress Indian Reservation,Big Cypress,188
+Florida,Brighton Indian Reservation,Brighton,192
+Florida,Fort Pierce Indian Reservation,Fort Pierce,229
+Florida,Immokalee Indian Reservation,Immokalee,242
+Florida,Tampa Reservation,Tampa,330
+Arizona,Colorado River Indian Reservation (Also CA),Colorado River,206
+Arizona,Fort McDowell Indian Reservation,Fort McDowell Yavapai Nation,228
+Arizona,Fort Mojave Indian Reservation (Also CA),Fort Mojave,45
+Arizona,Fort Yuma (Quechan) Indian Reservation (Also CA),Fort Yuma,231
+Arizona,Cocopah Indian Reservation,Cocopah,203
+Arizona,Hualapai Indian Reservation,Hualapai,59
+Arizona,Kaibab Indian Reservation,Kaibab,250
+Arizona,Maricopa Indian Reservation (Ak Chin),Maricopa (Ak Chin),81
+Arizona,Salt River Indian Reservation,Salt River,308
+Arizona,Tonto Apache Reservation,Tonto Apache,153
+Arizona,Pascua Yaqui Indian Reservation,Pascua Pueblo Yaqui,101
+Arizona,Yavapai-Apache Nation Indian Reservation,Yavapai-Apache Nation,177
+Arizona,Yavapai Indian Reservation,Yavapai-Prescott,342
+Arizona,Zuni Pueblo (Indian Reservation),Zuni,180
+Nevada,Battle Mountain Reservation,Battle Mountain,13
+Nevada,Campbell Ranch (Reservation),Campbell,195
+Nevada,Carson Colony (Indian Reservation),Carson,198
+Nevada,Dresslerville Colony (Reservation),Dresslerville,213
+Nevada,Duck Valley (Western Shoshone) Indian Reservation (A,Duck Valley,215
+Nevada,Duckwater Indian Reservation,Duckwater,216
+Nevada,Ely Colony (Reservation),Ely,219
+Nevada,Fallon Indian Reservation,Fallon Paiute-Shoshone,38
+Nevada,Fort McDermitt Indian Reservation (Also OR),Fort McDermitt
+Nevada,Fort Mojave Indian Reservation (Also AZ),Fort Mojave,47
+Nevada,Goshute Indian Reservation (Also UT),Goshute,234
+Nevada,Elko Colony (Reservation),Elko,218
+Nevada,Fallon Colony (Reservation),Fallon Paiute-Shoshone,38
+Nevada,Las Vegas Colony (Reservation),Las Vegas,257
+Nevada,Lovelock Colony (Reservation),Lovelock,263
+Nevada,Moapa River Indian Reservation,Moapa River,272
+Nevada,Reno-Sparks Colony (Reservation),Reno-Sparks,114
+Nevada,South Fork Reservation and Trust Lands,South Fork,137
+Nevada,Walker River Indian Reservation,Walker River,336
+Nevada,Wells Colony (Reservation),Wells,337
+Nevada,Winnemucca Colony (Reservation),Winnemucca,338
+Nevada,Yerington Indian Reservation,Yerington,343
+Nevada,Stewart Community,Stewart,326
+Nevada,Summit Lake Indian Reservation,Summit Lake,144
+Nevada,Yomba Indian Reservation,Yomba,344
+Maine,Aroostook Band of Micmac (TDSA),Aroostook Band of Micmac,346
+Minnesota,Grand Portage Indian Reservation,Grand Portage,49
+Minnesota,Ho-Chunk Reservation and Trust Lands (Also WI),Ho-Chunk Nation,54
+Minnesota,Leech Lake Indian Reservation,Leech Lake,75
+Minnesota,Bois Forte (Nett Lake) Indian Reservation,Bois Forte,21
+Minnesota,Shakopee Community (Indian Reservation),Shakopee Mdewakanton Sioux,128
+Minnesota,Lower Sioux Community (Indian Reservation),Lower Sioux,264
+Wisconsin,Bad River Indian Reservation,Bad River,186
+Wisconsin,Forest County Potawatomi Reservation and Trust Lands,Forest County Potawatomi,41
+Wisconsin,Ho-Chunk Reservation,Ho-Chunk Nation,55
+Wisconsin,Lac Courte Oreilles Indian Reservation,Lac Courte Oreilles,71
+Wisconsin,Lac du Flambeau Indian Reservation,Lac du Flambeau,255
+Wisconsin,Menominee Indian Reservation,Menominee,84
+Wisconsin,Oneida Indian Reservation,Oneida (WI),100
+Wisconsin,Red Cliff Indian Reservation,Red Cliff,113
+Wisconsin,St. Croix Indian Reservation,St. Croix,140
+Wisconsin,Sokaogon Chippewa Community (Indian Reservation),Sokaogon Chippewa,136
+Wisconsin,Stockbridge Indian Reservation,Stockbridge Munsee,143
+Michigan,Bay Mills Indian Reservation,Bay Mills,14
+Michigan,Grand Traverse Indian Reservation,Grand Traverse,51
+Michigan,Hannahville Community Indian Reservation,Hannahville,53
+Michigan,Huron Potawatomi Indian Reservation,Huron Potawatomi,60
+Michigan,Isabella Indian Reservation,Isabella,63
+Michigan,Little Traverse Bay Indian Reservation,Little Traverse Bay,77
+Michigan,Ontonagon Indian Reservation,Ontonagon,284
+Michigan,Pokagon Potawatomi Band (TDSA),Pokagon,108
+Michigan,Sault Ste. Marie Indian Reservation,Sault Ste. Marie,127
+Michigan,Lac Vieux Desert Indian Reservation,Lac Vieux Desert,256
+Michigan,L'Anse Indian Reservation,L'Anse,70
+Texas,Alabama and Coushatta Indian Reservation,Alabama-Coushatta,10
+Texas,Kickapoo Reservation,Kickapoo (TX),68
+Texas,Ysleta del Sur Pueblo (Indian Reservation),Ysleta del Sur,178
+Louisiana,Coushatta Indian Reservation,Coushatta,32
+Louisiana,Jena Band of Choctaw (TDSA),Jena Band of Choctaw,249
+Louisiana,Tunica-Biloxi Indian Reservation,Tunica-Biloxi,157
+Louisiana,Chitimacha Indian Reservation,Chitimacha,201
+New Mexico,Isleta Pueblo (Indian Reservation),Isleta,245
+New Mexico,Jicarilla Apache Indian Reservation,Jicarilla Apache Nation,65
+New Mexico,Laguna Pueblo (Indian Reservation),Laguna,72
+New Mexico,Nambe Pueblo (Indian Reservation),Nambe,92
+New Mexico,Sandia Pueblo (Indian Reservation),Sandia,311
+New Mexico,San Felipe/Santa Ana Joint Area,San Felipe Pueblo/Santa Ana Pueblo,6
+New Mexico,San Felipe/Santo Domingo Joint Area,San Felipe Pueblo/Santo Domingo Pueblo,7
+New Mexico,San Ildefonso Pueblo (Indian Reservation),San Ildefonso,123
+New Mexico,Santo Domingo Pueblo (Indian Reservation),Santo Domingo,317
+New Mexico,San Juan Pueblo (Indian Reservation),Ohkay Owingeh,278
+New Mexico,Santa Ana Pueblo (Indian Reservation),Santa Ana,312
+New Mexico,Taos Pueblo (Indian Reservation),Taos,148
+New Mexico,Tesuque Pueblo (Indian Reservation),Tesuque,149
+New Mexico,Zia Pueblo (Indian Reservation),Zia,179
+New Mexico,Zuni Pueblo (Indian Reservation),Zuni,181
+New Mexico,Ute Mountain Indian Reservation (Also CO),Ute Mountain,168
+Oklahoma,Caddo-Wichita-Delaware (OTSA),Caddo-Wichita-Delaware,370
+Oklahoma,Cherokee (OTSA),Cherokee,371
+Oklahoma,Chickasaw (OTSA),Chickasaw,373
+Oklahoma,Cheyenne-Arapaho (OTSA),Cheyenne and Arapaho,372
+Oklahoma,Choctaw (OTSA),Choctaw,374
+Oklahoma,Citizen Potawatomi Nation-Absentee Shawnee Tribe (OT,Citizen Potawatomi Nation-Absentee Shawnee,375
+Oklahoma,Cherokee (TJSA),Cherokee,371
+Oklahoma,Creek (OTSA),Creek,376
+Oklahoma,Creek-Seminole Joint Area (OTSA),Creek/Seminole,1
+Oklahoma,Eastern Shawnee (OTSA),Eastern Shawnee,377
+Oklahoma,Iowa (OTSA),Iowa,378
+Oklahoma,Iowa-Sac and Fox Joint Area (OTSA),Sac and Fox,390
+Oklahoma,Kaw (OTSA),Kaw,379
+Oklahoma,Kaw-Ponca (Joint Area),Kaw/Ponca,2
+Oklahoma,Kickapoo (OTSA),Kickapoo,380
+Oklahoma,Kiowa-Comanche-Apache-Fort Sill Apache (OTSA),Kiowa-Comanche-Apache-Fort Sill Apache,382
+Oklahoma,Miami (OTSA),Miami,382
+Oklahoma,Kiowa-Comanche-Apache-Fort Sill Apache-Caddo-Wichita,Kiowa-Comanche-Apache-Ft Sill Apache/Caddo-Wichita-Delaware,4
+Oklahoma,Miami-Peoria (Joint Area),Miami/Peoria,5
+Oklahoma,Modoc (OTSA),Modoc,383
+Oklahoma,Osage Indian Reservation,Osage,285
+Oklahoma,Otoe-Missouria (OTSA),Otoe-Missouria,384
+Oklahoma,Ottowa (OTSA),Ottawa,385
+Oklahoma,Pawnee (OTSA),Pawnee,386
+Oklahoma,Peoria (OTSA),Peoria,387
+Oklahoma,Ponca (OTSA),Ponca,388
+Oklahoma,Quapaw (OTSA),Quapaw,390
+Oklahoma,Sac and Fox (OTSA),Sac and Fox,390
+Oklahoma,Seminole (OTSA),Seminole,391
+Oklahoma,Seneca-Cayuga (OTSA),Seneca-Cayuga,392
+Oklahoma,Tonkawa (OTSA),Tonkawa,394
+Oklahoma,Wyandotte (OTSA),Wyandotte,394
+Georgia,Tama Indian Reservation,Tama,369
+Mississippi,Mississippi Choctaw Indian Reservation,Mississippi Choctaw,87
+South Dakota,Northern Cheyenne Reservation and Trust Lands (&MT),Northern Cheyenne,99
+South Dakota,Turtle Mountain Reservation and Trust Lands (& ND),Turtle Mountain,160
+South Dakota,Yankton Indian Reservation,Yankton,341
+Utah,Goshute Indian Reservation (Also NV),Goshute,235
+Utah,Navajo Nation Reservation (Also AZ and NM),Navajo Nation,95
+Utah,Northwestern Shoshoni Indian Reservation,Northwestern Shoshone,277
+Utah,Paiute of Utah Indian Reservation,Paiute (UT),286
+Utah,Skull Valley Indian Reservation,Skull Valley,319
+Utah,Ute Mountain Indian Reservation,Ute Mountain,169
+Iowa,Omaha Indian Reservation,Omaha,280
+Iowa,Sac and Fox Tribe of the Mississippi in Iowa,Sac and Fox/Meskwaki,122
+Kansas,Kickapoo Indian Reservation,Kickapoo (KS),251
+Kansas,Prairie Band Potawatomi Reservation,Prairie Band of Potawatomi Nation,297
+Kansas,Iowa Indian Reservation (Also NE),Iowa (KS-NE),61
+Kansas,Sac and Fox Indian Reservation (Also NE),Sac and Fox Nation,120
+Nebraska,Iowa Indian Reservation (Also KS),Iowa (KS-NE),62
+Nebraska,Omaha Indian Reservation,Omaha,281
+Nebraska,Ponca (TDSA),Ponca (NE),354
+Nebraska,Sac and Fox Indian Reservation (Also KS),Sac and Fox Nation,121
+Nebraska,Winnebago Indian Reservation,Winnebago,175
+Nebraska,Santee Indian Reservation,Santee,316
+Nebraska,Ponca TDSA,Ponca (NE),354
+Massachusetts,Mashpee Wampanoag Tribe,Mashpee Wampanoag,349
+Massachusetts,Wampanoag Tribe of Gay Head (Aquinnah),Wampanoag-Aquinnah,357
+Maine,Passamaquoddy Indian Reservation,Passamaquoddy,351
+New York,St. Regis Mohawk Indian Reservation,St. Regis Mohawk,323
+Washington,Tulalip Indian Reservation,Tulalip,155
+Rhode Island,Narragansett Indian Reservation,Narragansett,274
+Connecticut,Mohegan Trust Lands,Mohegan,88
+California,Karuk Reservation,Karuk,67
+Washington,Stillaguamish Indian Reservation,Stillaguamish,142
+Washington,Sauk-Suiattle Indian Reservation,Sauk-Suiattle,318
+California,Soboba Indian Reservation,Soboba,135
+Idaho,Coeur d'Alene Indian Reservation,Coeur d'Alene,204
+California,Tule River Indian Reservation,Tule River,156
+California,Resighini Rancheria (Indian Reservation),Resighini,305
+California,La Jolla Indian Reservation,La Jolla,253
+California,Cahuilla Indian Reservation,Cahuilla,194
+Florida,Miccosukee Indian Reservation,Miccosukee,85
+Florida,Poarch Creek Reservation and Trust Lands (also AL),Poarch Creek,105
+Connecticut,Golden Hill Indian Reservation,Golden Hill Paugussett,360
+Connecticut,Schaghticoke Indian Reservation,Schaghticoke,367
+Alabama,MOWA Choctaw (SAIR),Mobile and Washington Counties Choctaw,363
+Indiana,Pokagon Potawatomi Band (TDSA),Pokagon,107
+Oregon,Umatilla Indian Reservation,Umatilla,163
+Nebraska,Pine Ridge Indian Reservation Trust Lands,Pine Ridge,292
+Maine,Indian Township Indian Reservation,Indian Township,244
+Maine,Passamaquoddy Indian Township,Passamaquoddy,351
+Maine,Penobscot Indian Island Indian Reservation,Penobscot,102
+Maine,Penobscot Indian Reservation,Penobscot,102
+Maine,Pleasant Point Indian Reservation,Pleasant Point,295
+Maine,Passamaquoddy Pleasant Point Indian Reservation,Passamaquoddy,351
+Maine,Houlton Maliseet Indian Trust Lands,Houlton Maliseet,58
+Minnesota,Minnesota Chippewa Indian Trust Lands,Minnesota Chippewa,350
+Alaska,Stebbins (ANV/ANVSA),Stebbins,588
+Alaska,Stevens Village (ANV/ANVSA),Stevens Village,589
+Alaska,Stony River (ANV/ANVSA),Stony River,590
+Alaska,Takotna (ANV/ANVSA),Takotna,591
+Alaska,Tanana (ANV/ANVSA),Tanana,593
+Alaska,Tatitlek (ANV/ANVSA),Tatitlek,594
+Alaska,Teller (ANV/ANVSA),Teller,597
+Alaska,Tetlin (TDSA),Tetlin,598
+Alaska,Togiak (ANV/ANVSA),Togiak,599
+Alaska,Toksook Bay (ANV/ANVSA),Toksook Bay,600
+Alaska,Tuluksak (ANV/ANVSA),Tuluksak,601
+Alaska,Tuntutuliak (ANV/ANVSA),Tuntutuliak,602
+Alaska,Tununak (ANV/ANVSA),Tununak,603
+Alaska,Twin Hills (ANV/ANVSA),Twin Hills,604
+Alaska,Tyonek (ANV/ANVSA),Tyonek,605
+Alaska,Unalakleet (ANV/ANVSA),Unalakleet,607
+Alaska,Unalaska (ANV/ANVSA),Unalaska,608
+Alaska,Venetie (ANV/ANVSA),Venetie,609
+Alaska,Wainwright (ANV/ANVSA),Wainwright,610
+Alaska,Wales (ANV/ANVSA),Wales,611
+Alaska,White Mountain (ANV/ANVSA),White Mountain,612
+Alaska,Yakutat (ANV/ANVSA),Yakutat,614
+Idaho,Kootenai Indian Reservation,Kootenai,69
+Idaho,Duck Valley Indian Reservation (Also NV),Duck Valley,214
+Florida,Seminole Indian Trust Lands,Seminole (FL),356
+Washington,Puyallup Indian Reservation,Puyallup,111
+California,Campo Indian Reservation,Campo,196
+California,Hopland Rancheria (Indian Reservation),Hopland,241
+California,Morongo Indian Reservation,Morongo,90
