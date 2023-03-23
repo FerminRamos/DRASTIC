@@ -1,6 +1,6 @@
 # DRASTIC Database Repository
 
-###### :exclamation: Current Obj: There are some FEMA reservations that don't exists (too tiny?). Going to further investigate them prior to assiging FIDs to areas / mapping. Nearly finished w/ everything FEMA-related. :exclamation:
+###### :exclamation: Current Obj: Building a FEMA Frequency Counter + Need to add headers to our FEMA Disaster Files, whoops. :sweat_smile: :exclamation:
 
 
 <br>
@@ -59,9 +59,11 @@
   
   - [X] Assign datapoints to all 19 FEMA disaster types, for group 2020+  ![](https://geps.dev/progress/100)
   
-  - [ ] Split data into Counties & Reservations  ![](https://geps.dev/progress/90)
+  - [X] Split data into Counties & Reservations  ![](https://geps.dev/progress/100)
   
     - [X] Identify Reservations vs. Counties in our datasets  ![](https://geps.dev/progress/100)
+  
+  - [ ] Build a Frequency Counter to count how many of each type of disaster (19 types) occurred, per county (per reservation), and per group year. 
   
   - [ ] Map, all 19 disasters from group 2000-2009  ![](https://geps.dev/progress/00)
   
