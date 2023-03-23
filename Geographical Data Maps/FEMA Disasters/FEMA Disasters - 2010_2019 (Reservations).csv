@@ -1,0 +1,206 @@
+state,declarationDate,incidentType,designatedArea,FID
+NC,2010-02-02T15:24:00.000Z,Severe Storm(s),Eastern Cherokee,217
+ND,2010-02-26T16:25:00.000Z,Severe Storm(s),Standing Rock,324
+SD,2010-03-09T18:30:00.000Z,Severe Storm(s),Pine Ridge,293
+SD,2010-03-09T18:30:00.000Z,Severe Storm(s),Rosebud,118
+SD,2010-03-10T14:00:00.000Z,Severe Storm(s),Cheyenne River,27
+SD,2010-03-10T14:00:00.000Z,Severe Storm(s),Standing Rock,325
+SD,2010-03-10T14:00:00.000Z,Severe Storm(s),Lake Traverse,74
+AZ,2010-03-18T13:40:00.000Z,Severe Storm(s),Fort Apache,223
+AZ,2010-03-18T13:40:00.000Z,Severe Storm(s),Gila River,233
+AZ,2010-03-18T13:40:00.000Z,Severe Storm(s),Hopi,57
+AZ,2010-03-18T13:40:00.000Z,Severe Storm(s),Navajo Nation,93
+AZ,2010-03-18T13:40:00.000Z,Severe Storm(s),San Carlos,309
+AZ,2010-03-18T13:40:00.000Z,Severe Storm(s),Tohono O'odham Nation,152
+MN,2010-04-19T16:30:00.000Z,Flood,Upper Sioux,165
+MN,2010-04-19T16:30:00.000Z,Flood,Prairie Island,110
+ND,2010-04-21T12:20:00.000Z,Severe Storm(s),Standing Rock,324
+ND,2010-04-30T17:37:00.000Z,Flood,Spirit Lake,322
+MT,2010-07-10T10:00:00.000Z,Severe Storm(s),Rocky Boy's,117
+WY,2010-07-14T18:18:00.000Z,Flood,Wind River,173
+SD,2010-07-29T14:05:00.000Z,Severe Storm(s),Cheyenne River,27
+NM,2010-09-13T15:25:00.000Z,Flood,Navajo Nation Reservation,94
+NM,2010-09-13T15:25:00.000Z,Flood,Acoma,8
+AZ,2010-10-04T14:33:00.000Z,Severe Storm(s),Hopi,57
+SD,2010-11-02T20:00:00.000Z,Severe Storm(s),Flandreau,221
+AZ,2010-12-21T18:22:00.000Z,Severe Storm(s),Havasupai,238
+CT,2011-03-03T17:50:00.000Z,Snow,Paucatuck Eastern Pequot,365
+CT,2011-03-03T17:50:00.000Z,Snow,Mashantucket Pequot,82
+NM,2011-03-24T13:46:00.000Z,Severe Storm(s),Acoma,8
+NM,2011-03-24T13:46:00.000Z,Severe Storm(s),Mescalero,270
+NM,2011-03-24T13:46:00.000Z,Severe Storm(s),Picuris,291
+NM,2011-03-24T13:46:00.000Z,Severe Storm(s),Pojoaque,106
+NM,2011-03-24T13:46:00.000Z,Severe Storm(s),San Felipe,310
+NM,2011-03-24T13:46:00.000Z,Severe Storm(s),San Felipe,310
+NM,2011-03-24T13:46:00.000Z,Severe Storm(s),Santa Ana,312
+NM,2011-03-24T13:46:00.000Z,Severe Storm(s),Santa Clara,126
+ND,2011-05-10T19:00:00.000Z,Flood,Fort Berthold,224
+ND,2011-05-10T19:00:00.000Z,Flood,Turtle Mountain,159
+ND,2011-05-10T19:00:00.000Z,Flood,Standing Rock,324
+ND,2011-05-10T19:00:00.000Z,Flood,Spirit Lake,322
+MN,2011-05-10T19:08:00.000Z,Flood,Red Lake,302
+ID,2011-05-20T12:30:00.000Z,Flood,Nez Perce,275
+AK,2011-06-10T15:30:00.000Z,Flood,Crooked Creek,442
+AK,2011-06-10T15:30:00.000Z,Flood,Red Devil,566
+MT,2011-06-17T06:30:00.000Z,Severe Storm(s),Northern Cheyenne,98
+MT,2011-06-17T06:30:00.000Z,Severe Storm(s),Rocky Boy's,117
+MT,2011-06-17T06:30:00.000Z,Severe Storm(s),Fort Peck,48
+MT,2011-06-17T06:30:00.000Z,Severe Storm(s),Blackfeet,19
+MT,2011-06-17T06:30:00.000Z,Severe Storm(s),Crow,34
+MT,2011-06-17T06:30:00.000Z,Severe Storm(s),Fort Belknap,42
+NM,2011-06-26T22:31:00.000Z,Fire,Cochiti,202
+NM,2011-06-26T22:31:00.000Z,Fire,Jemez,248
+NM,2011-06-26T22:31:00.000Z,Fire,Santa Clara,126
+AZ,2010-01-24T22:00:00.000Z,Severe Storm(s),Hopi,57
+AZ,2010-01-24T22:00:00.000Z,Severe Storm(s),Navajo Nation,93
+ND,2010-03-14T00:00:00.000Z,Flood,Spirit Lake,322
+MN,2010-03-19T19:35:00.000Z,Flood,Upper Sioux,165
+ND,2011-04-07T20:00:00.000Z,Flood,Standing Rock,324
+VA,2012-10-29T23:43:00.000Z,Hurricane,Pamunkey,364
+VA,2012-10-29T23:43:00.000Z,Hurricane,Mattaponi,362
+CT,2013-02-10T00:47:00.000Z,Severe Storm(s),Mashantucket Pequot,82
+WA,2015-08-21T11:44:00.000Z,Fire,Colville,29
+WA,2015-08-21T11:44:00.000Z,Fire,Kalispel,66
+WA,2015-08-21T11:44:00.000Z,Fire,Spokane,138
+WA,2015-08-21T11:44:00.000Z,Fire,Yakama Nation,176
+WA,2014-07-23T00:41:00.000Z,Fire,Colville,29
+SC,2015-10-03T14:28:00.000Z,Severe Storm(s),Catawba,24
+SC,2016-10-06T18:00:00.000Z,Hurricane,Catawba,24
+SC,2017-09-07T15:00:00.000Z,Hurricane,Catawba,24
+AL,2017-09-11T17:00:00.000Z,Hurricane,Poarch Creek,104
+FL,2017-09-08T22:15:00.000Z,Hurricane,Hollywood,239
+AL,2017-10-08T07:35:00.000Z,Hurricane,Poarch Creek,104
+SC,2018-09-10T19:48:00.000Z,Hurricane,Catawba,24
+NC,2018-09-10T21:00:00.000Z,Hurricane,Eastern Cherokee,217
+AL,2018-10-12T23:10:00.000Z,Hurricane,Poarch Creek,104
+FL,2019-08-31T12:21:00.000Z,Hurricane,Big Cypress,188
+FL,2019-08-31T12:21:00.000Z,Hurricane,Brighton,192
+FL,2019-08-31T12:21:00.000Z,Hurricane,Fort Pierce,229
+FL,2019-08-31T12:21:00.000Z,Hurricane,Hollywood,239
+FL,2019-08-31T12:21:00.000Z,Hurricane,Immokalee,242
+FL,2019-08-31T12:21:00.000Z,Hurricane,Tampa,330
+SC,2019-09-01T23:18:00.000Z,Hurricane,Catawba,24
+NC,2019-09-03T20:50:00.000Z,Hurricane,Eastern Cherokee,217
+WY,2011-07-22T15:30:00.000Z,Severe Storm(s),Wind River,173
+MN,2011-07-28T13:57:00.000Z,Severe Storm(s),Mille Lacs,86
+UT,2011-08-08T17:08:00.000Z,Flood,Uintah and Ouray,162
+NE,2011-08-12T16:30:00.000Z,Flood,Omaha,281
+NM,2011-11-23T12:30:00.000Z,Flood,Acoma,8
+NM,2011-11-23T12:30:00.000Z,Flood,Cochiti,202
+NM,2011-11-23T12:30:00.000Z,Flood,Santa Clara,126
+MN,2012-07-06T13:05:00.000Z,Severe Storm(s),Fond du Lac,39
+MN,2012-07-06T13:05:00.000Z,Severe Storm(s),Grand Portage,49
+MN,2012-07-06T13:05:00.000Z,Severe Storm(s),Mille Lacs,86
+WI,2012-08-02T16:30:00.000Z,Severe Storm(s),Red Cliff,113
+NM,2012-08-24T16:00:00.000Z,Flood,Mescalero,270
+NM,2012-08-24T16:00:00.000Z,Flood,Santa Clara,126
+MS,2012-08-29T22:50:00.000Z,Hurricane,Mississippi Choctaw,87
+WA,2012-09-25T11:00:00.000Z,Severe Storm(s),Colville,29
+CT,2012-10-30T18:00:00.000Z,Hurricane,Mashantucket Pequot,82
+NC,2013-03-01T17:00:00.000Z,Mud/Landslide,Eastern Cherokee,217
+AZ,2013-03-05T14:00:00.000Z,Freezing,Navajo Nation,93
+CT,2013-03-21T15:35:00.000Z,Severe Storm(s),Mashantucket Pequot,82
+SD,2013-05-10T15:00:00.000Z,Severe Storm(s),Pine Ridge,293
+ND,2013-05-29T16:23:00.000Z,Flood,Spirit Lake,322
+ND,2013-06-25T14:17:00.000Z,Flood,Standing Rock,324
+SD,2013-06-28T16:00:00.000Z,Severe Storm(s),Pine Ridge,293
+MT,2013-07-10T12:26:00.000Z,Flood,Fort Belknap,42
+MT,2013-07-10T12:26:00.000Z,Flood,Fort Peck,48
+MT,2013-07-10T12:26:00.000Z,Flood,Rocky Boy's,117
+ND,2013-07-12T18:09:00.000Z,Severe Storm(s),Spirit Lake,322
+ND,2013-07-12T18:09:00.000Z,Severe Storm(s),Turtle Mountain,159
+CA,2013-08-29T16:30:00.000Z,Fire,Karuk,67
+NC,2013-09-25T09:27:00.000Z,Flood,Eastern Cherokee,217
+NM,2013-09-27T18:55:00.000Z,Severe Storm(s),Santa Clara,126
+NM,2013-09-30T19:29:00.000Z,Severe Storm(s),Cochiti,202
+NM,2013-09-30T19:29:00.000Z,Severe Storm(s),Navajo Nation Reservation,94
+NM,2013-09-30T19:29:00.000Z,Severe Storm(s),Sandia,311
+NM,2013-09-30T19:29:00.000Z,Severe Storm(s),San Felipe,310
+NM,2013-09-30T19:29:00.000Z,Severe Storm(s),Santo Domingo,317
+NM,2013-10-24T17:30:00.000Z,Severe Storm(s),Santa Clara,126
+NM,2013-10-29T12:39:00.000Z,Flood,Isleta,245
+NM,2013-10-29T12:39:00.000Z,Flood,Navajo Nation Reservation,94
+NM,2013-10-29T12:39:00.000Z,Flood,Sandia,311
+SD,2013-11-08T15:54:00.000Z,Severe Storm(s),Pine Ridge,293
+SD,2013-11-08T15:54:00.000Z,Severe Storm(s),Cheyenne River,27
+WA,2014-04-02T17:16:00.000Z,Mud/Landslide,Stillaguamish,142
+WA,2014-04-02T17:16:00.000Z,Mud/Landslide,Tulalip,155
+WA,2014-04-02T17:16:00.000Z,Mud/Landslide,Sauk-Suiattle,318
+MN,2014-07-21T15:29:00.000Z,Flood,Bois Forte,21
+MN,2014-07-21T15:29:00.000Z,Flood,Prairie Island,110
+MN,2014-07-21T15:29:00.000Z,Flood,Red Lake,302
+IA,2014-07-24T09:48:00.000Z,Flood,Sac and Fox/Meskwaki,122
+SD,2014-07-28T17:30:00.000Z,Flood,Standing Rock,325
+WA,2014-08-11T18:30:00.000Z,Fire,Colville,29
+ND,2014-08-19T15:13:00.000Z,Flood,Standing Rock,324
+NM,2014-10-06T19:20:00.000Z,Severe Storm(s),Acoma,8
+NM,2014-10-06T19:20:00.000Z,Severe Storm(s),Santa Clara,126
+MT,2014-10-09T21:35:00.000Z,Severe Storm(s),Fort Belknap,42
+NV,2014-11-05T12:00:00.000Z,Flood,Moapa River,272
+CA,2015-01-27T12:24:00.000Z,Flood,Soboba,135
+SD,2015-07-30T17:00:00.000Z,Severe Storm(s),Lower Brule,78
+SD,2015-07-30T17:00:00.000Z,Severe Storm(s),Crow Creek,212
+SD,2015-08-07T15:45:00.000Z,Severe Storm(s),Pine Ridge,293
+WA,2015-10-20T19:05:00.000Z,Fire,Colville,29
+ID,2015-12-23T09:11:00.000Z,Severe Storm(s),Coeur d'Alene,204
+WI,2016-08-09T18:45:00.000Z,Severe Storm(s),Bad River,186
+SD,2017-02-01T16:00:00.000Z,Severe Storm(s),Cheyenne River,27
+SD,2017-02-01T16:00:00.000Z,Severe Storm(s),Lake Traverse,74
+SD,2017-02-01T16:00:00.000Z,Severe Storm(s),Pine Ridge,293
+CA,2017-02-14T19:30:00.000Z,Severe Storm(s),Hoopa Valley,240
+NV,2017-02-17T20:30:00.000Z,Severe Storm(s),Reno-Sparks,114
+NV,2017-02-17T20:30:00.000Z,Severe Storm(s),Pyramid Lake Paiute,298
+CA,2017-04-01T20:55:00.000Z,Flood,Tule River,156
+CA,2017-05-02T18:00:00.000Z,Severe Storm(s),Resighini,305
+OK,2017-05-26T15:30:00.000Z,Severe Storm(s),Pawnee,386
+ND,2017-07-12T08:30:00.000Z,Flood,Turtle Mountain,159
+FL,2017-09-27T15:00:00.000Z,Hurricane,Brighton,192
+FL,2017-09-27T15:00:00.000Z,Hurricane,Fort Pierce,229
+FL,2017-09-27T15:00:00.000Z,Hurricane,Hollywood,239
+FL,2017-09-27T15:00:00.000Z,Hurricane,Immokalee,242
+FL,2017-09-27T15:00:00.000Z,Hurricane,Big Cypress,188
+FL,2017-09-27T15:00:00.000Z,Hurricane,Tampa,330
+SC,2017-10-16T15:45:00.000Z,Hurricane,Catawba,24
+NM,2017-12-20T19:50:00.000Z,Flood,Acoma,8
+WA,2018-08-17T12:33:00.000Z,Flood,Colville,29
+AZ,2018-08-31T11:55:00.000Z,Flood,Havasupai,238
+MN,2018-09-05T12:15:00.000Z,Flood,Leech Lake,75
+MN,2018-09-05T12:15:00.000Z,Flood,White Earth,172
+MN,2018-09-05T12:15:00.000Z,Flood,Red Lake,302
+AZ,2018-11-30T11:09:00.000Z,Severe Storm(s),Tohono O'odham Nation,152
+NE,2019-03-21T13:35:00.000Z,Flood,Omaha,281
+NE,2019-03-21T13:35:00.000Z,Flood,Ponca (NE),354
+NE,2019-03-21T13:35:00.000Z,Flood,Sac and Fox Nation,121
+NE,2019-03-21T13:35:00.000Z,Flood,Winnebago,175
+NE,2019-03-21T13:35:00.000Z,Flood,Santee,316
+CA,2019-03-26T14:00:00.000Z,Severe Storm(s),La Jolla,253
+CA,2019-03-28T16:50:00.000Z,Severe Storm(s),Cahuilla,194
+CA,2019-04-08T11:00:00.000Z,Severe Storm(s),Soboba,135
+IA,2019-04-29T08:40:00.000Z,Flood,Sac and Fox/Meskwaki,122
+OK,2019-06-01T21:30:00.000Z,Severe Storm(s),Pawnee,386
+AZ,2019-05-21T13:30:00.000Z,Severe Storm(s),Navajo Nation,93
+SD,2019-06-07T22:41:00.000Z,Flood,Lake Traverse,74
+SD,2019-06-07T22:41:00.000Z,Flood,Pine Ridge,293
+SD,2019-06-07T22:41:00.000Z,Flood,Cheyenne River,27
+SD,2019-06-07T22:41:00.000Z,Flood,Rosebud,118
+MN,2019-06-12T11:49:00.000Z,Flood,White Earth,172
+MN,2019-06-12T11:49:00.000Z,Flood,Red Lake,302
+MN,2019-06-12T11:49:00.000Z,Flood,Prairie Island,110
+MN,2019-06-12T11:49:00.000Z,Flood,Upper Sioux,165
+ID,2019-06-12T13:21:00.000Z,Flood,Nez Perce,275
+NE,2019-06-17T11:02:00.000Z,Flood,Ponca (NE),354
+NE,2019-06-17T11:02:00.000Z,Flood,Ponca (NE),354
+SD,2019-06-20T16:01:00.000Z,Severe Storm(s),Pine Ridge,293
+OK,2019-08-07T09:40:00.000Z,Severe Storm(s),Creek,376
+WI,2019-08-27T12:42:00.000Z,Flood,St. Croix,140
+WI,2019-08-27T12:42:00.000Z,Flood,Menominee,84
+SD,2019-09-23T12:21:00.000Z,Flood,Rosebud,118
+SD,2019-09-23T12:21:00.000Z,Flood,Cheyenne River,27
+SD,2019-10-07T16:58:00.000Z,Severe Storm(s),Cheyenne River,27
+SD,2019-10-07T16:58:00.000Z,Severe Storm(s),Lower Brule,78
+SD,2019-11-18T09:48:00.000Z,Severe Storm(s),Flandreau,221
+SD,2019-11-18T09:48:00.000Z,Severe Storm(s),Yankton,341
+CA,2012-09-24T00:37:00.000Z,Fire,Campo,196
+MT,2017-09-12T15:51:00.000Z,Fire,Blackfeet,19
+CA,2018-07-28T22:49:00.000Z,Fire,Hopland,241
+WA,2018-08-11T00:10:00.000Z,Fire,Yakama Nation,176
