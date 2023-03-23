@@ -59,9 +59,9 @@
   
   - [X] Assign datapoints to all 19 FEMA disaster types, for group 2020+  ![](https://geps.dev/progress/100)
   
-  - [ ] Split data into Counties & Reservations  ![](https://geps.dev/progress/80)
+  - [ ] Split data into Counties & Reservations  ![](https://geps.dev/progress/90)
   
-    - [ ] Identify Reservations vs. Counties in our datasets  ![](https://geps.dev/progress/99)
+    - [X] Identify Reservations vs. Counties in our datasets  ![](https://geps.dev/progress/100)
   
   - [ ] Map, all 19 disasters from group 2000-2009  ![](https://geps.dev/progress/00)
   
