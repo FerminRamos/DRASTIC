@@ -1,6 +1,6 @@
 # DRASTIC Database Repository
 
-###### :exclamation: Current Obj: Building a FEMA Frequency Counter + Need to add headers to our FEMA Disaster Files, whoops. :sweat_smile: :exclamation:
+###### :exclamation: Current Obj: Map ALL 57 FEMA datasets :exclamation:
 
 
 <br>
@@ -63,7 +63,7 @@
   
     - [X] Identify Reservations vs. Counties in our datasets  ![](https://geps.dev/progress/100)
   
-  - [ ] Build a Frequency Counter to count how many of each type of disaster (19 types) occurred, per county (per reservation), and per group year. 
+  - [X] Build a Frequency Counter to count how many of each type of disaster (19 types) occurred, per county (per reservation), and per group year.  ![](https://geps.dev/progress/100)
   
   - [ ] Map, all 19 disasters from group 2000-2009  ![](https://geps.dev/progress/00)
   
