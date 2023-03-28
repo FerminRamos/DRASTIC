@@ -174,7 +174,7 @@ Virginia,Alleghany (County),Alleghany,2733
 Virginia,Arlington (County),Arlington,2753
 Virginia,Augusta (County),Augusta,2758
 Virginia,Bath (County),Bath,2763
-Virginia,Bedford (County),Bedford City,2713
+Virginia,Bedford (County),Bedford County,2769
 Virginia,Bland (County),Bland,2772
 Virginia,Brunswick (County),Brunswick,2777
 Virginia,Buchanan (County),Buchanan,2784
@@ -193,11 +193,11 @@ Virginia,Cumberland (County),Cumberland,2827
 Virginia,Dickenson (County),Dickenson,2832
 Virginia,Dinwiddie (County),Dinwiddie,2838
 Virginia,Essex (County),Essex,2842
-Virginia,Fairfax (County),Fairfax City,2737
+Virginia,Fairfax (County),Fairfax County,2849
 Virginia,Fauquier (County),Fauquier,2853
 Virginia,Floyd (County),Floyd,2856
 Virginia,Fluvanna (County),Fluvanna,2858
-Virginia,Franklin (County),Franklin City,2744
+Virginia,Franklin (County),Franklin County,2862
 Virginia,Frederick (County),Frederick,2868
 Virginia,Giles (County),Giles,2873
 Virginia,Goochland (County),Goochland,2892
@@ -238,8 +238,8 @@ Virginia,Northumberland (County),Northumberland,2983
 Virginia,Prince William (County),Prince William,2992
 Virginia,Rappahannock (County),Rappahannock,2994
 Virginia,Pulaski (County),Pulaski,2993
-Virginia,Richmond (County),Richmond City,2802
-Virginia,Roanoke (County),Roanoke City,2805
+Virginia,Richmond (County),Richmond County,2995
+Virginia,Roanoke (County),Roanoke County,2996
 Virginia,Rockbridge (County),Rockbridge,2997
 Virginia,Scott (County),Scott,2585
 Virginia,Russell (County),Russell,2999
@@ -325,7 +325,7 @@ Alabama,Jefferson (County),Jefferson,171
 Alabama,Tuscaloosa (County),Tuscaloosa,313
 Texas,Tarrant (County),Tarrant,2500
 Maryland,Anne Arundel (County),Anne Arundel,1925
-Maryland,Baltimore (County),Baltimore City,1460
+Maryland,Baltimore (County),Baltimore County,1939
 Maryland,Calvert (County),Calvert,1946
 Maryland,Caroline (County),Caroline,1949
 Maryland,Charles (County),Charles,1294
@@ -355,7 +355,7 @@ Missouri,St. Charles (County),St. Charles,1205
 Missouri,Ste. Genevieve (County),Ste. Genevieve,1209
 Missouri,St. Francois (County),St. Francois,1212
 Missouri,Crawford (County),Crawford,1028
-Missouri,St. Louis (County),St. Louis City,1266
+Missouri,St. Louis (County),St. Louis County,1216
 Missouri,Warren (County),Warren,1251
 Missouri,Washington (County),Washington,1253
 Missouri,Franklin (County),Franklin,1047
@@ -1404,7 +1404,7 @@ Kentucky,Leslie (County),Leslie,1175
 Kentucky,McCreary (County),McCreary,1198
 Kentucky,Morgan (County),Morgan,1235
 Kentucky,Magoffin (County),Magoffin,1206
-Tennessee,Bedford (County),Bedford,2593
+Tennessee,Bedford (County),Bedford County,2593
 Tennessee,Cannon (County),Cannon,2638
 Tennessee,Clay (County),Clay,2679
 Tennessee,DeKalb (County),DeKalb,2710
@@ -3017,7 +3017,6 @@ Illinois,Lee (County),Lee,180
 Illinois,Marshall (County),Marshall,202
 Illinois,McHenry (County),McHenry,192
 Illinois,Stark (County),Stark,285
-New Mexico,Pueblo of Taos,Taos,1662
 Tennessee,Franklin (County),Franklin,2734
 Tennessee,Moore (County),Moore,2863
 Georgia,Morgan (County),Morgan,890
@@ -3200,7 +3199,6 @@ Alaska,Skagway (Municipality),Skagway,683
 Alaska,Yakutat (Borough),Yakutat,744
 Alaska,Wrangell (City and Borough),Wrangell,733
 ** Louisiana,Statewide,Statewide,Statewide **
-Oklahoma,Choctaw,Choctaw,2133
 Wyoming,Big Horn (County),Big Horn,3018
 Wyoming,Carbon (County),Carbon,3022
 Wyoming,Johnson (County),Johnson,3033
@@ -3223,6 +3221,24 @@ Alaska,Prince of Wales-Hyder (Census Area),Prince of Wales-Hyder,669
 Alaska,Prince of Wales-Outer Ketchikan (Census Area),Prince of Wales-Hyder,669
 ** Alaska,Wrangell-Petersburg (Census Area),Wrangell + Petersburg,Wrangell + Petersburg **
 ** Washington,Statewide,Statewide,Statewide **
+Connecticut,"Litchfield (County)(in (P)MSA 1170,1930,3280,8880)",Litchfield,443
+Connecticut,"Fairfield (County)(in PMSA 1160,1930,5760,8040)",Fairfield,410
+Connecticut,"New Haven (County)(in (P)MSA 1160,5480,8880)",New Haven,466
+Connecticut,"Hartford (County)(in PMSA 1170,3280,5440)",Hartford,432
+Connecticut,"Middlesex (County)(in (P)MSA 3280,5020,5480)",Middlesex,450
+Connecticut,"New London (County)(in (P)MSA 3280,5520)",New London,517
+Rhode Island,"Washington (County)(in (P)MSA 5520,6480)",Washington,2484
+Rhode Island,"Newport (County)(in PMSA 2480,6480)",Newport,2460
+Rhode Island,"Providence (County)(in PMSA 6060,6480)",Providence,2475
+Massachusetts,"Bristol (County)(in (P)MSA 1120,1200,2480,5400,6060)",Bristol,1486
+Massachusetts,"Plymouth (County)(in (P)MSA 1120,1200,5400)",Plymouth,1569
+Massachusetts,"Norfolk (County)(in PMSA 1120,1200,6060)",Nofolk,1543
+Massachusetts,"Worcester (County) (in (P)MSA 1120,2600,9240)",Worcester,1599
+Massachusetts,"Middlesex (County)(in (P)MSA 1120,2600,4560)",Middlesex,1533
+Massachusetts,"Essex (County)(in PMSA 1120,4160,7090)",Essex,1519
+New Hampshire,"Hillsborough (County)(in (P)MSA 4560,4760,5350)",Hillsborough,1443
+New Hampshire,"Rockingham (County)(in (P)MSA 4160,4760,6450)",Rockingham,1448
+Maine,"York (County)(in MSA 6400,6450)",York,1901
 State,Old_Reservation_Name,New_Reservation_Name,FID
 Minnesota,White Earth Indian Reservation,White Earth,172
 North Dakota,Fort Berthold Indian Reservation,Fort Berthold,224
