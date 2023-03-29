@@ -1,6 +1,6 @@
 # DRASTIC Database Repository
 
-###### :exclamation: Current Obj: Map ALL 57 FEMA datasets :exclamation:
+###### :exclamation: Current Obj: Map ALL 114 FEMA datasets :exclamation:
 
 
 <br>
@@ -67,9 +67,9 @@
   
   - [ ] Map, all 19 disasters from group 2000-2009  ![](https://geps.dev/progress/00)
   
-  - [ ] Map, all 19 disasters from group 2010-2019  ![](https://geps.dev/progress/00)
+  - [ ] Map, all 19 disasters from group 2010-2019  ![](https://geps.dev/progress/08)
     
-  - [ ] Map, all 19 disasters from group 2020+  ![](https://geps.dev/progress/00)
+  - [ ] Map, all 19 disasters from group 2020+  ![](https://geps.dev/progress/23)
 
 </br>
 
