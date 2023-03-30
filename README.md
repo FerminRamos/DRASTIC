@@ -67,9 +67,9 @@
   
   - [ ] Map, all 19 disasters from group 2000-2009  ![](https://geps.dev/progress/00)
   
-  - [ ] Map, all 19 disasters from group 2010-2019  ![](https://geps.dev/progress/08)
+  - [ ] Map, all 19 disasters from group 2010-2019  ![](https://geps.dev/progress/15)
     
-  - [ ] Map, all 19 disasters from group 2020+  ![](https://geps.dev/progress/23)
+  - [ ] Map, all 19 disasters from group 2020+  ![](https://geps.dev/progress/50)
 
 </br>
 
