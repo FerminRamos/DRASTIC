@@ -65,9 +65,9 @@
   
   - [X] Build a Frequency Counter to count how many of each type of disaster (19 types) occurred, per county (per reservation), and per group year.  ![](https://geps.dev/progress/100)
   
-  - [ ] Map, all 19 disasters from group 2000-2009  ![](https://geps.dev/progress/00)
+  - [ ] Map, all 19 disasters from group 2000-2009  ![](https://geps.dev/progress/50)
   
-  - [ ] Map, all 19 disasters from group 2010-2019  ![](https://geps.dev/progress/15)
+  - [ ] Map, all 19 disasters from group 2010-2019  ![](https://geps.dev/progress/50)
     
   - [ ] Map, all 19 disasters from group 2020+  ![](https://geps.dev/progress/50)
 
