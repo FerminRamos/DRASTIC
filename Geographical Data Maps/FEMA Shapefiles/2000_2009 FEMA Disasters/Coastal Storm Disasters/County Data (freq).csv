@@ -1,0 +1,366 @@
+BaseYear,state,incidentType,designatedArea,Freq,FID
+2000,TX,Coastal Storm,Grimes,1,2108
+2000,TX,Coastal Storm,Harrison,1,2157
+2000,TX,Coastal Storm,Anderson,1,2113
+2000,TX,Coastal Storm,Angelina,1,2124
+2000,TX,Coastal Storm,Brazoria,2,2240
+2000,TX,Coastal Storm,Chambers,1,2395
+2000,TX,Coastal Storm,Cherokee,1,2400
+2000,TX,Coastal Storm,Waller,1,2606
+2000,TX,Coastal Storm,Galveston,2,2059
+2000,TX,Coastal Storm,Hardin,1,2142
+2000,TX,Coastal Storm,Harris,1,2149
+2000,TX,Coastal Storm,Houston,1,2228
+2000,TX,Coastal Storm,Jasper,1,2271
+2000,TX,Coastal Storm,Fort Bend,1,2009
+2000,TX,Coastal Storm,Jefferson,1,2285
+2000,TX,Coastal Storm,Leon,1,2402
+2000,TX,Coastal Storm,Liberty,1,2404
+2000,TX,Coastal Storm,Madison,1,2526
+2000,TX,Coastal Storm,Montgomery,1,2682
+2000,TX,Coastal Storm,Nacogdoches,1,2701
+2000,TX,Coastal Storm,Newton,1,2711
+2000,TX,Coastal Storm,Orange,1,2214
+2000,TX,Coastal Storm,Polk,1,2243
+2000,TX,Coastal Storm,Sabine,1,2370
+2000,TX,Coastal Storm,San Augustine,1,2380
+2000,TX,Coastal Storm,Shelby,1,2448
+2000,TX,Coastal Storm,Smith,1,2465
+2000,TX,Coastal Storm,San Jacinto,1,2387
+2000,TX,Coastal Storm,Trinity,1,2553
+2000,TX,Coastal Storm,Tyler,1,2560
+2000,TX,Coastal Storm,Walker,1,2603
+2000,LA,Coastal Storm,Pointe Coupee,1,1431
+2000,LA,Coastal Storm,West Feliciana,1,1524
+2000,LA,Coastal Storm,St. Helena,1,1467
+2000,LA,Coastal Storm,Beauregard,1,1066
+2000,LA,Coastal Storm,West Baton Rouge,1,1520
+2000,LA,Coastal Storm,East Feliciana,1,1115
+2000,LA,Coastal Storm,Iberia,1,1133
+2000,LA,Coastal Storm,Jefferson,1,1147
+2000,LA,Coastal Storm,Orleans,1,1304
+2000,LA,Coastal Storm,St. Bernard,1,1463
+2000,LA,Coastal Storm,St. Charles,1,1466
+2000,LA,Coastal Storm,St. John the Baptist,1,1469
+2000,LA,Coastal Storm,St. James,1,1468
+2000,LA,Coastal Storm,St. Mary,1,1474
+2000,LA,Coastal Storm,St. Tammany,1,1475
+2000,LA,Coastal Storm,Tangipahoa,1,1476
+2000,LA,Coastal Storm,Washington,1,1516
+2000,LA,Coastal Storm,Ascension,1,1055
+2000,LA,Coastal Storm,Assumption,1,1060
+2000,LA,Coastal Storm,East Baton Rouge,1,1108
+2000,LA,Coastal Storm,Iberville,1,1134
+2000,LA,Coastal Storm,Lafayette,1,1161
+2000,LA,Coastal Storm,Lafourche,1,1280
+2000,LA,Coastal Storm,Livingston,1,1295
+2000,LA,Coastal Storm,St. Martin,1,1473
+2000,LA,Coastal Storm,Vermilion,1,1510
+2000,LA,Coastal Storm,Terrebonne,1,1501
+2000,FL,Coastal Storm,Highlands,1,946
+2000,FL,Coastal Storm,Lee,1,954
+2000,FL,Coastal Storm,Collier,1,894
+2000,FL,Coastal Storm,Charlotte,1,743
+2000,FL,Coastal Storm,DeSoto,1,906
+2000,FL,Coastal Storm,Flagler,1,935
+2000,FL,Coastal Storm,Manatee,1,959
+2000,FL,Coastal Storm,Hardee,1,943
+2000,FL,Coastal Storm,St. Johns,1,974
+2000,FL,Coastal Storm,Putnam,1,973
+2000,FL,Coastal Storm,Sarasota,1,977
+2000,TX,Coastal Storm,Jim Wells,1,2294
+2000,TX,Coastal Storm,Webb,1,2616
+2000,TX,Coastal Storm,Frio,1,2028
+2000,TX,Coastal Storm,Live Oak,1,2416
+2000,TX,Coastal Storm,Matagorda,1,2637
+2000,TX,Coastal Storm,Nueces,1,2194
+2000,TX,Coastal Storm,San Patricio,1,2415
+2000,TX,Coastal Storm,La Salle,1,2388
+2000,TX,Coastal Storm,Wharton,1,2618
+2000,UT,Coastal Storm,Beaver,1,2653
+2000,UT,Coastal Storm,Cache,1,2661
+2000,UT,Coastal Storm,Carbon,1,2665
+2000,UT,Coastal Storm,Box Elder,1,2658
+2000,UT,Coastal Storm,Daggett,1,2668
+2000,UT,Coastal Storm,Davis,1,2671
+2000,UT,Coastal Storm,Duchesne,1,2672
+2000,UT,Coastal Storm,Emery,1,2673
+2000,UT,Coastal Storm,Garfield,1,2674
+2000,UT,Coastal Storm,Grand,1,2675
+2000,UT,Coastal Storm,Iron,1,2676
+2000,UT,Coastal Storm,Juab,1,2677
+2000,UT,Coastal Storm,Kane,1,2678
+2000,UT,Coastal Storm,Millard,1,2680
+2000,UT,Coastal Storm,Morgan,1,2681
+2000,UT,Coastal Storm,Piute,1,2685
+2000,UT,Coastal Storm,Rich,1,2687
+2000,UT,Coastal Storm,Salt Lake,1,2690
+2000,UT,Coastal Storm,Sanpete,1,2697
+2000,UT,Coastal Storm,San Juan,1,2694
+2000,UT,Coastal Storm,Sevier,1,2702
+2000,UT,Coastal Storm,Summit,1,2703
+2000,UT,Coastal Storm,Tooele,1,2707
+2000,UT,Coastal Storm,Uintah,1,2539
+2000,UT,Coastal Storm,Utah,1,2555
+2000,UT,Coastal Storm,Wasatch,1,2567
+2000,UT,Coastal Storm,Washington,1,2577
+2000,UT,Coastal Storm,Weber,1,2587
+2000,CO,Coastal Storm,Adams,1,545
+2000,CO,Coastal Storm,Alamosa,1,549
+2000,CO,Coastal Storm,Arapahoe,1,558
+2000,UT,Coastal Storm,Wayne,1,2580
+2000,CO,Coastal Storm,Baca,1,563
+2000,CO,Coastal Storm,Bent,1,564
+2000,CO,Coastal Storm,Boulder,1,570
+2000,CO,Coastal Storm,Broomfield,1,577
+2000,CO,Coastal Storm,Chaffee,1,582
+2000,CO,Coastal Storm,Archuleta,1,560
+2000,CO,Coastal Storm,Clear Creek,1,591
+2000,CO,Coastal Storm,Conejos,1,596
+2000,CO,Coastal Storm,Costilla,1,599
+2000,CO,Coastal Storm,Crowley,1,605
+2000,CO,Coastal Storm,Cheyenne,1,587
+2000,CO,Coastal Storm,Denver,1,628
+2000,CO,Coastal Storm,Dolores,1,636
+2000,CO,Coastal Storm,Custer,1,610
+2000,CO,Coastal Storm,Delta,1,617
+2000,CO,Coastal Storm,Eagle,1,648
+2000,CO,Coastal Storm,Douglas,1,644
+2000,CO,Coastal Storm,El Paso,1,661
+2000,CO,Coastal Storm,Elbert,1,655
+2000,CO,Coastal Storm,Garfield,1,667
+2000,CO,Coastal Storm,Gilpin,1,672
+2000,CO,Coastal Storm,Grand,1,677
+2000,CO,Coastal Storm,Fremont,1,664
+2000,CO,Coastal Storm,Gunnison,1,682
+2000,CO,Coastal Storm,Hinsdale,1,688
+2000,CO,Coastal Storm,Huerfano,1,693
+2000,CO,Coastal Storm,Jackson,1,701
+2000,CO,Coastal Storm,Jefferson,1,706
+2000,CO,Coastal Storm,Kiowa,1,711
+2000,CO,Coastal Storm,Lake,1,721
+2000,CO,Coastal Storm,La Plata,1,727
+2000,CO,Coastal Storm,Larimer,1,734
+2000,CO,Coastal Storm,Las Animas,1,741
+2000,CO,Coastal Storm,Kit Carson,1,716
+2000,CO,Coastal Storm,Lincoln,1,747
+2000,CO,Coastal Storm,Logan,1,749
+2000,CO,Coastal Storm,Mesa,1,751
+2000,CO,Coastal Storm,Mineral,1,757
+2000,CO,Coastal Storm,Moffat,1,758
+2000,CO,Coastal Storm,Montezuma,1,766
+2000,CO,Coastal Storm,Montrose,1,769
+2000,CO,Coastal Storm,Morgan,1,775
+2000,CO,Coastal Storm,Otero,1,777
+2000,CO,Coastal Storm,Ouray,1,780
+2000,CO,Coastal Storm,Park,1,782
+2000,CO,Coastal Storm,Phillips,1,785
+2000,CO,Coastal Storm,Pitkin,1,789
+2000,CO,Coastal Storm,Pueblo,1,795
+2000,CO,Coastal Storm,Rio Blanco,1,799
+2000,CO,Coastal Storm,Rio Grande,1,802
+2000,CO,Coastal Storm,Routt,1,809
+2000,CO,Coastal Storm,Saguache,1,811
+2000,CO,Coastal Storm,Prowers,1,792
+2000,CO,Coastal Storm,San Juan,1,347
+2000,CO,Coastal Storm,San Miguel,1,359
+2000,CO,Coastal Storm,Sedgwick,1,366
+2000,CO,Coastal Storm,Summit,1,373
+2000,CO,Coastal Storm,Teller,1,375
+2000,CO,Coastal Storm,Weld,1,382
+2000,CO,Coastal Storm,Yuma,1,385
+2000,CO,Coastal Storm,Washington,1,377
+2000,WA,Coastal Storm,Adams,1,2840
+2000,WA,Coastal Storm,Asotin,1,2845
+2000,WA,Coastal Storm,Benton,1,2847
+2000,WA,Coastal Storm,Chelan,1,2852
+2000,WA,Coastal Storm,Clallam,1,2861
+2000,WA,Coastal Storm,Clark,1,2865
+2000,WA,Coastal Storm,Columbia,1,2869
+2000,WA,Coastal Storm,Cowlitz,1,2871
+2000,WA,Coastal Storm,Douglas,1,2877
+2000,WA,Coastal Storm,Franklin,1,2884
+2000,WA,Coastal Storm,Garfield,1,2886
+2000,WA,Coastal Storm,Grant,1,2889
+2000,WA,Coastal Storm,Grays Harbor,1,2894
+2000,WA,Coastal Storm,Island,1,2898
+2000,WA,Coastal Storm,Jefferson,1,2905
+2000,WA,Coastal Storm,King,1,2913
+2000,WA,Coastal Storm,Ferry,1,2880
+2000,WA,Coastal Storm,Kittitas,1,2932
+2000,WA,Coastal Storm,Klickitat,1,2935
+2000,WA,Coastal Storm,Kitsap,1,2927
+2000,WA,Coastal Storm,Lincoln,1,2942
+2000,WA,Coastal Storm,Mason,1,2946
+2000,WA,Coastal Storm,Okanogan,1,2947
+2000,WA,Coastal Storm,Lewis,1,2940
+2000,WA,Coastal Storm,Pacific,1,2949
+2000,WA,Coastal Storm,Pend Oreille,1,2951
+2000,WA,Coastal Storm,San Juan,1,2957
+2000,WA,Coastal Storm,Skagit,1,2958
+2000,WA,Coastal Storm,Skamania,1,2959
+2000,WA,Coastal Storm,Snohomish,1,2960
+2000,WA,Coastal Storm,Spokane,1,2961
+2000,WA,Coastal Storm,Pierce,1,2956
+2000,WA,Coastal Storm,Stevens,1,2963
+2000,WA,Coastal Storm,Thurston,1,2967
+2000,WA,Coastal Storm,Wahkiakum,1,2969
+2000,WA,Coastal Storm,Walla Walla,1,2970
+2000,WA,Coastal Storm,Whatcom,1,2972
+2000,WA,Coastal Storm,Whitman,1,2973
+2000,WA,Coastal Storm,Yakima,1,2974
+2000,OR,Coastal Storm,Benton,1,2053
+2000,OR,Coastal Storm,Baker,1,2044
+2000,OR,Coastal Storm,Clackamas,1,2058
+2000,OR,Coastal Storm,Clatsop,1,2064
+2000,OR,Coastal Storm,Columbia,1,2070
+2000,OR,Coastal Storm,Coos,1,2083
+2000,OR,Coastal Storm,Crook,1,2092
+2000,OR,Coastal Storm,Curry,1,2098
+2000,OR,Coastal Storm,Deschutes,1,2109
+2000,OR,Coastal Storm,Douglas,1,2115
+2000,OR,Coastal Storm,Gilliam,1,2121
+2000,OR,Coastal Storm,Grant,1,2130
+2000,OR,Coastal Storm,Harney,1,2134
+2000,OR,Coastal Storm,Hood River,1,2138
+2000,OR,Coastal Storm,Jackson,1,2139
+2000,OR,Coastal Storm,Jefferson,1,2143
+2000,OR,Coastal Storm,Josephine,1,2152
+2000,OR,Coastal Storm,Klamath,1,2155
+2000,OR,Coastal Storm,Lake,1,2159
+2000,OR,Coastal Storm,Lane,1,2170
+2000,OR,Coastal Storm,Lincoln,1,2174
+2000,OR,Coastal Storm,Linn,1,2181
+2000,OR,Coastal Storm,Malheur,1,2185
+2000,OR,Coastal Storm,Marion,1,2200
+2000,OR,Coastal Storm,Morrow,1,2209
+2000,OR,Coastal Storm,Multnomah,1,2218
+2000,OR,Coastal Storm,Polk,1,2223
+2000,OR,Coastal Storm,Sherman,1,2232
+2000,OR,Coastal Storm,Tillamook,1,2242
+2000,OR,Coastal Storm,Wallowa,1,2263
+2000,OR,Coastal Storm,Wasco,1,2267
+2000,OR,Coastal Storm,Washington,1,2272
+2000,OR,Coastal Storm,Wheeler,1,2277
+2000,OR,Coastal Storm,Union,1,2257
+2000,OR,Coastal Storm,Umatilla,1,2251
+2000,OR,Coastal Storm,Yamhill,1,2284
+2000,SD,Coastal Storm,Aurora,1,2870
+2000,SD,Coastal Storm,Beadle,1,2874
+2000,SD,Coastal Storm,Bon Homme,1,2879
+2000,SD,Coastal Storm,Brookings,1,2882
+2000,SD,Coastal Storm,Brown,1,2885
+2000,SD,Coastal Storm,Brule,1,2888
+2000,SD,Coastal Storm,Buffalo,1,2891
+2000,SD,Coastal Storm,Bennett,1,2876
+2000,SD,Coastal Storm,Butte,1,2895
+2000,SD,Coastal Storm,Campbell,1,2897
+2000,SD,Coastal Storm,Charles Mix,1,2900
+2000,SD,Coastal Storm,Clark,1,2901
+2000,SD,Coastal Storm,Clay,1,2903
+2000,SD,Coastal Storm,Codington,1,2906
+2000,SD,Coastal Storm,Corson,1,2907
+2000,SD,Coastal Storm,Custer,1,2908
+2000,SD,Coastal Storm,Davison,1,2910
+2000,SD,Coastal Storm,Day,1,2911
+2000,SD,Coastal Storm,Deuel,1,2912
+2000,SD,Coastal Storm,Dewey,1,2914
+2000,SD,Coastal Storm,Douglas,1,2916
+2000,SD,Coastal Storm,Edmunds,1,2917
+2000,SD,Coastal Storm,Fall River,1,2919
+2000,SD,Coastal Storm,Faulk,1,2921
+2000,SD,Coastal Storm,Grant,1,2922
+2000,SD,Coastal Storm,Gregory,1,2923
+2000,SD,Coastal Storm,Haakon,1,2924
+2000,SD,Coastal Storm,Hand,1,2928
+2000,SD,Coastal Storm,Hanson,1,2929
+2000,SD,Coastal Storm,Harding,1,2931
+2000,SD,Coastal Storm,Hughes,1,2933
+2000,SD,Coastal Storm,Hamlin,1,2926
+2000,SD,Coastal Storm,Hyde,1,2937
+2000,SD,Coastal Storm,Jackson,1,2939
+2000,SD,Coastal Storm,Hutchinson,1,2934
+2000,SD,Coastal Storm,Jerauld,1,2941
+2000,SD,Coastal Storm,Jones,1,2944
+2000,SD,Coastal Storm,Kingsbury,1,2945
+2000,SD,Coastal Storm,Lake,1,2401
+2000,SD,Coastal Storm,Lawrence,1,2406
+2000,SD,Coastal Storm,Lincoln,1,2410
+2000,SD,Coastal Storm,Lyman,1,2417
+2000,SD,Coastal Storm,McCook,1,2422
+2000,SD,Coastal Storm,McPherson,1,2426
+2000,SD,Coastal Storm,Marshall,1,2430
+2000,SD,Coastal Storm,Meade,1,2442
+2000,SD,Coastal Storm,Mellette,1,2450
+2000,SD,Coastal Storm,Miner,1,2456
+2000,SD,Coastal Storm,Minnehaha,1,2467
+2000,SD,Coastal Storm,Moody,1,2485
+2000,SD,Coastal Storm,Pennington,1,2497
+2000,SD,Coastal Storm,Perkins,1,2502
+2000,SD,Coastal Storm,Potter,1,2506
+2000,SD,Coastal Storm,Roberts,1,2511
+2000,SD,Coastal Storm,Sanborn,1,2514
+2000,SD,Coastal Storm,Spink,1,2523
+2000,SD,Coastal Storm,Stanley,1,2530
+2000,SD,Coastal Storm,Sully,1,2535
+2000,SD,Coastal Storm,Todd,1,2540
+2000,SD,Coastal Storm,Tripp,1,2546
+2000,SD,Coastal Storm,Shannon,1,2519
+2000,SD,Coastal Storm,Turner,1,2550
+2000,SD,Coastal Storm,Union,1,2557
+2000,SD,Coastal Storm,Walworth,1,2561
+2000,SD,Coastal Storm,Yankton,1,2569
+2000,SD,Coastal Storm,Ziebach,1,2578
+2000,ND,Coastal Storm,Adams,1,1826
+2000,ND,Coastal Storm,Barnes,1,1828
+2000,ND,Coastal Storm,Benson,1,1831
+2000,ND,Coastal Storm,Bottineau,1,1836
+2000,ND,Coastal Storm,Bowman,1,1838
+2000,ND,Coastal Storm,Burke,1,1841
+2000,ND,Coastal Storm,Burleigh,1,1844
+2000,ND,Coastal Storm,Cass,1,1848
+2000,ND,Coastal Storm,Cavalier,1,1849
+2000,ND,Coastal Storm,Billings,1,1833
+2000,ND,Coastal Storm,Dickey,1,2004
+2000,ND,Coastal Storm,Divide,1,2007
+2000,ND,Coastal Storm,Eddy,1,2017
+2000,ND,Coastal Storm,Emmons,1,2021
+2000,ND,Coastal Storm,Foster,1,2026
+2000,ND,Coastal Storm,Golden Valley,1,2036
+2000,ND,Coastal Storm,Dunn,1,2013
+2000,ND,Coastal Storm,Grand Forks,1,2043
+2000,ND,Coastal Storm,Grant,1,2051
+2000,ND,Coastal Storm,Griggs,1,2056
+2000,ND,Coastal Storm,Hettinger,1,2063
+2000,ND,Coastal Storm,Kidder,1,2068
+2000,ND,Coastal Storm,Logan,1,2078
+2000,ND,Coastal Storm,LaMoure,1,2074
+2000,ND,Coastal Storm,McHenry,1,2082
+2000,ND,Coastal Storm,McIntosh,1,2090
+2000,ND,Coastal Storm,McKenzie,1,2097
+2000,ND,Coastal Storm,McLean,1,2103
+2000,ND,Coastal Storm,Mercer,1,2107
+2000,ND,Coastal Storm,Morton,1,2114
+2000,ND,Coastal Storm,Mountrail,1,2119
+2000,ND,Coastal Storm,Nelson,1,2122
+2000,ND,Coastal Storm,Oliver,1,2127
+2000,ND,Coastal Storm,Pierce,1,2136
+2000,ND,Coastal Storm,Ransom,1,2147
+2000,ND,Coastal Storm,Ramsey,1,2141
+2000,ND,Coastal Storm,Pembina,1,2131
+2000,ND,Coastal Storm,Rolette,1,2161
+2000,ND,Coastal Storm,Sargent,1,2164
+2000,ND,Coastal Storm,Sheridan,1,2169
+2000,ND,Coastal Storm,Sioux,1,2175
+2000,ND,Coastal Storm,Renville,1,2150
+2000,ND,Coastal Storm,Richland,1,2156
+2000,ND,Coastal Storm,Stark,1,2182
+2000,ND,Coastal Storm,Stutsman,1,2199
+2000,ND,Coastal Storm,Steele,1,2186
+2000,ND,Coastal Storm,Traill,1,2217
+2000,ND,Coastal Storm,Slope,1,2180
+2000,ND,Coastal Storm,Towner,1,2205
+2000,ND,Coastal Storm,Wells,1,2237
+2000,ND,Coastal Storm,Ward,1,2233
+2000,ND,Coastal Storm,Williams,1,2244
+2000,ND,Coastal Storm,Walsh,1,2225

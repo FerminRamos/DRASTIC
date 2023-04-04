@@ -1,0 +1,368 @@
+state,declarationDate,incidentType,designatedArea,FID
+TX,2001-06-09T11:00:00.000Z,Coastal Storm,Grimes,2108
+TX,2001-06-09T11:00:00.000Z,Coastal Storm,Harrison,2157
+TX,2001-06-09T11:00:00.000Z,Coastal Storm,Anderson,2113
+TX,2001-06-09T11:00:00.000Z,Coastal Storm,Angelina,2124
+TX,2001-06-09T11:00:00.000Z,Coastal Storm,Brazoria,2240
+TX,2001-06-09T11:00:00.000Z,Coastal Storm,Chambers,2395
+TX,2001-06-09T11:00:00.000Z,Coastal Storm,Cherokee,2400
+TX,2001-06-09T11:00:00.000Z,Coastal Storm,Waller,2606
+TX,2001-06-09T11:00:00.000Z,Coastal Storm,Galveston,2059
+TX,2001-06-09T11:00:00.000Z,Coastal Storm,Hardin,2142
+TX,2001-06-09T11:00:00.000Z,Coastal Storm,Harris,2149
+TX,2001-06-09T11:00:00.000Z,Coastal Storm,Houston,2228
+TX,2001-06-09T11:00:00.000Z,Coastal Storm,Jasper,2271
+TX,2001-06-09T11:00:00.000Z,Coastal Storm,Fort Bend,2009
+TX,2001-06-09T11:00:00.000Z,Coastal Storm,Jefferson,2285
+TX,2001-06-09T11:00:00.000Z,Coastal Storm,Leon,2402
+TX,2001-06-09T11:00:00.000Z,Coastal Storm,Liberty,2404
+TX,2001-06-09T11:00:00.000Z,Coastal Storm,Madison,2526
+TX,2001-06-09T11:00:00.000Z,Coastal Storm,Montgomery,2682
+TX,2001-06-09T11:00:00.000Z,Coastal Storm,Nacogdoches,2701
+TX,2001-06-09T11:00:00.000Z,Coastal Storm,Newton,2711
+TX,2001-06-09T11:00:00.000Z,Coastal Storm,Orange,2214
+TX,2001-06-09T11:00:00.000Z,Coastal Storm,Polk,2243
+TX,2001-06-09T11:00:00.000Z,Coastal Storm,Sabine,2370
+TX,2001-06-09T11:00:00.000Z,Coastal Storm,San Augustine,2380
+TX,2001-06-09T11:00:00.000Z,Coastal Storm,Shelby,2448
+TX,2001-06-09T11:00:00.000Z,Coastal Storm,Smith,2465
+TX,2001-06-09T11:00:00.000Z,Coastal Storm,San Jacinto,2387
+TX,2001-06-09T11:00:00.000Z,Coastal Storm,Trinity,2553
+TX,2001-06-09T11:00:00.000Z,Coastal Storm,Tyler,2560
+TX,2001-06-09T11:00:00.000Z,Coastal Storm,Walker,2603
+LA,2001-06-11T18:42:00.000Z,Coastal Storm,Pointe Coupee,1431
+LA,2001-06-11T18:42:00.000Z,Coastal Storm,West Feliciana,1524
+LA,2001-06-11T18:42:00.000Z,Coastal Storm,St. Helena,1467
+LA,2001-06-11T18:42:00.000Z,Coastal Storm,Beauregard,1066
+LA,2001-06-11T18:42:00.000Z,Coastal Storm,West Baton Rouge,1520
+LA,2001-06-11T18:42:00.000Z,Coastal Storm,East Feliciana,1115
+LA,2001-06-11T18:42:00.000Z,Coastal Storm,Iberia,1133
+LA,2001-06-11T18:42:00.000Z,Coastal Storm,Jefferson,1147
+LA,2001-06-11T18:42:00.000Z,Coastal Storm,Orleans,1304
+LA,2001-06-11T18:42:00.000Z,Coastal Storm,St. Bernard,1463
+LA,2001-06-11T18:42:00.000Z,Coastal Storm,St. Charles,1466
+LA,2001-06-11T18:42:00.000Z,Coastal Storm,St. John the Baptist,1469
+LA,2001-06-11T18:42:00.000Z,Coastal Storm,St. James,1468
+LA,2001-06-11T18:42:00.000Z,Coastal Storm,St. Mary,1474
+LA,2001-06-11T18:42:00.000Z,Coastal Storm,St. Tammany,1475
+LA,2001-06-11T18:42:00.000Z,Coastal Storm,Tangipahoa,1476
+LA,2001-06-11T18:42:00.000Z,Coastal Storm,Washington,1516
+LA,2001-06-11T18:42:00.000Z,Coastal Storm,Ascension,1055
+LA,2001-06-11T18:42:00.000Z,Coastal Storm,Assumption,1060
+LA,2001-06-11T18:42:00.000Z,Coastal Storm,East Baton Rouge,1108
+LA,2001-06-11T18:42:00.000Z,Coastal Storm,Iberville,1134
+LA,2001-06-11T18:42:00.000Z,Coastal Storm,Lafayette,1161
+LA,2001-06-11T18:42:00.000Z,Coastal Storm,Lafourche,1280
+LA,2001-06-11T18:42:00.000Z,Coastal Storm,Livingston,1295
+LA,2001-06-11T18:42:00.000Z,Coastal Storm,St. Martin,1473
+LA,2001-06-11T18:42:00.000Z,Coastal Storm,Vermilion,1510
+LA,2001-06-11T18:42:00.000Z,Coastal Storm,Terrebonne,1501
+FL,2001-09-28T11:30:00.000Z,Coastal Storm,Highlands,946
+FL,2001-09-28T11:30:00.000Z,Coastal Storm,Lee,954
+FL,2001-09-28T11:30:00.000Z,Coastal Storm,Collier,894
+FL,2001-09-28T11:30:00.000Z,Coastal Storm,Charlotte,743
+FL,2001-09-28T11:30:00.000Z,Coastal Storm,DeSoto,906
+FL,2001-09-28T11:30:00.000Z,Coastal Storm,Flagler,935
+FL,2001-09-28T11:30:00.000Z,Coastal Storm,Manatee,959
+FL,2001-09-28T11:30:00.000Z,Coastal Storm,Hardee,943
+FL,2001-09-28T11:30:00.000Z,Coastal Storm,St. Johns,974
+FL,2001-09-28T11:30:00.000Z,Coastal Storm,Putnam,973
+FL,2001-09-28T11:30:00.000Z,Coastal Storm,Sarasota,977
+TX,2002-09-26T15:00:00.000Z,Coastal Storm,Jim Wells,2294
+TX,2002-09-26T15:00:00.000Z,Coastal Storm,Webb,2616
+TX,2002-09-26T15:00:00.000Z,Coastal Storm,Brazoria,2240
+TX,2002-09-26T15:00:00.000Z,Coastal Storm,Frio,2028
+TX,2002-09-26T15:00:00.000Z,Coastal Storm,Galveston,2059
+TX,2002-09-26T15:00:00.000Z,Coastal Storm,Live Oak,2416
+TX,2002-09-26T15:00:00.000Z,Coastal Storm,Matagorda,2637
+TX,2002-09-26T15:00:00.000Z,Coastal Storm,Nueces,2194
+TX,2002-09-26T15:00:00.000Z,Coastal Storm,San Patricio,2415
+TX,2002-09-26T15:00:00.000Z,Coastal Storm,La Salle,2388
+TX,2002-09-26T15:00:00.000Z,Coastal Storm,Wharton,2618
+UT,2005-09-05T01:24:00.000Z,Coastal Storm,Beaver,2653
+UT,2005-09-05T01:24:00.000Z,Coastal Storm,Cache,2661
+UT,2005-09-05T01:24:00.000Z,Coastal Storm,Carbon,2665
+UT,2005-09-05T01:24:00.000Z,Coastal Storm,Box Elder,2658
+UT,2005-09-05T01:24:00.000Z,Coastal Storm,Daggett,2668
+UT,2005-09-05T01:24:00.000Z,Coastal Storm,Davis,2671
+UT,2005-09-05T01:24:00.000Z,Coastal Storm,Duchesne,2672
+UT,2005-09-05T01:24:00.000Z,Coastal Storm,Emery,2673
+UT,2005-09-05T01:24:00.000Z,Coastal Storm,Garfield,2674
+UT,2005-09-05T01:24:00.000Z,Coastal Storm,Grand,2675
+UT,2005-09-05T01:24:00.000Z,Coastal Storm,Iron,2676
+UT,2005-09-05T01:24:00.000Z,Coastal Storm,Juab,2677
+UT,2005-09-05T01:24:00.000Z,Coastal Storm,Kane,2678
+UT,2005-09-05T01:24:00.000Z,Coastal Storm,Millard,2680
+UT,2005-09-05T01:24:00.000Z,Coastal Storm,Morgan,2681
+UT,2005-09-05T01:24:00.000Z,Coastal Storm,Piute,2685
+UT,2005-09-05T01:24:00.000Z,Coastal Storm,Rich,2687
+UT,2005-09-05T01:24:00.000Z,Coastal Storm,Salt Lake,2690
+UT,2005-09-05T01:24:00.000Z,Coastal Storm,Sanpete,2697
+UT,2005-09-05T01:24:00.000Z,Coastal Storm,San Juan,2694
+UT,2005-09-05T01:24:00.000Z,Coastal Storm,Sevier,2702
+UT,2005-09-05T01:24:00.000Z,Coastal Storm,Summit,2703
+UT,2005-09-05T01:24:00.000Z,Coastal Storm,Tooele,2707
+UT,2005-09-05T01:24:00.000Z,Coastal Storm,Uintah,2539
+UT,2005-09-05T01:24:00.000Z,Coastal Storm,Utah,2555
+UT,2005-09-05T01:24:00.000Z,Coastal Storm,Wasatch,2567
+UT,2005-09-05T01:24:00.000Z,Coastal Storm,Washington,2577
+UT,2005-09-05T01:24:00.000Z,Coastal Storm,Weber,2587
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Adams,545
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Alamosa,549
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Arapahoe,558
+UT,2005-09-05T01:24:00.000Z,Coastal Storm,Wayne,2580
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Baca,563
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Bent,564
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Boulder,570
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Broomfield,577
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Chaffee,582
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Archuleta,560
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Clear Creek,591
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Conejos,596
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Costilla,599
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Crowley,605
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Cheyenne,587
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Denver,628
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Dolores,636
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Custer,610
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Delta,617
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Eagle,648
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Douglas,644
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,El Paso,661
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Elbert,655
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Garfield,667
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Gilpin,672
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Grand,677
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Fremont,664
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Gunnison,682
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Hinsdale,688
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Huerfano,693
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Jackson,701
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Jefferson,706
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Kiowa,711
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Lake,721
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,La Plata,727
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Larimer,734
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Las Animas,741
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Kit Carson,716
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Lincoln,747
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Logan,749
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Mesa,751
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Mineral,757
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Moffat,758
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Montezuma,766
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Montrose,769
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Morgan,775
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Otero,777
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Ouray,780
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Park,782
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Phillips,785
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Pitkin,789
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Pueblo,795
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Rio Blanco,799
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Rio Grande,802
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Routt,809
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Saguache,811
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Prowers,792
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,San Juan,347
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,San Miguel,359
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Sedgwick,366
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Summit,373
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Teller,375
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Weld,382
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Yuma,385
+CO,2005-09-05T13:11:00.000Z,Coastal Storm,Washington,377
+WA,2005-09-07T20:08:00.000Z,Coastal Storm,Adams,2840
+WA,2005-09-07T20:08:00.000Z,Coastal Storm,Asotin,2845
+WA,2005-09-07T20:08:00.000Z,Coastal Storm,Benton,2847
+WA,2005-09-07T20:08:00.000Z,Coastal Storm,Chelan,2852
+WA,2005-09-07T20:08:00.000Z,Coastal Storm,Clallam,2861
+WA,2005-09-07T20:08:00.000Z,Coastal Storm,Clark,2865
+WA,2005-09-07T20:08:00.000Z,Coastal Storm,Columbia,2869
+WA,2005-09-07T20:08:00.000Z,Coastal Storm,Cowlitz,2871
+WA,2005-09-07T20:08:00.000Z,Coastal Storm,Douglas,2877
+WA,2005-09-07T20:08:00.000Z,Coastal Storm,Franklin,2884
+WA,2005-09-07T20:08:00.000Z,Coastal Storm,Garfield,2886
+WA,2005-09-07T20:08:00.000Z,Coastal Storm,Grant,2889
+WA,2005-09-07T20:08:00.000Z,Coastal Storm,Grays Harbor,2894
+WA,2005-09-07T20:08:00.000Z,Coastal Storm,Island,2898
+WA,2005-09-07T20:08:00.000Z,Coastal Storm,Jefferson,2905
+WA,2005-09-07T20:08:00.000Z,Coastal Storm,King,2913
+WA,2005-09-07T20:08:00.000Z,Coastal Storm,Ferry,2880
+WA,2005-09-07T20:08:00.000Z,Coastal Storm,Kittitas,2932
+WA,2005-09-07T20:08:00.000Z,Coastal Storm,Klickitat,2935
+WA,2005-09-07T20:08:00.000Z,Coastal Storm,Kitsap,2927
+WA,2005-09-07T20:08:00.000Z,Coastal Storm,Lincoln,2942
+WA,2005-09-07T20:08:00.000Z,Coastal Storm,Mason,2946
+WA,2005-09-07T20:08:00.000Z,Coastal Storm,Okanogan,2947
+WA,2005-09-07T20:08:00.000Z,Coastal Storm,Lewis,2940
+WA,2005-09-07T20:08:00.000Z,Coastal Storm,Pacific,2949
+WA,2005-09-07T20:08:00.000Z,Coastal Storm,Pend Oreille,2951
+WA,2005-09-07T20:08:00.000Z,Coastal Storm,San Juan,2957
+WA,2005-09-07T20:08:00.000Z,Coastal Storm,Skagit,2958
+WA,2005-09-07T20:08:00.000Z,Coastal Storm,Skamania,2959
+WA,2005-09-07T20:08:00.000Z,Coastal Storm,Snohomish,2960
+WA,2005-09-07T20:08:00.000Z,Coastal Storm,Spokane,2961
+WA,2005-09-07T20:08:00.000Z,Coastal Storm,Pierce,2956
+WA,2005-09-07T20:08:00.000Z,Coastal Storm,Stevens,2963
+WA,2005-09-07T20:08:00.000Z,Coastal Storm,Thurston,2967
+WA,2005-09-07T20:08:00.000Z,Coastal Storm,Wahkiakum,2969
+WA,2005-09-07T20:08:00.000Z,Coastal Storm,Walla Walla,2970
+WA,2005-09-07T20:08:00.000Z,Coastal Storm,Whatcom,2972
+WA,2005-09-07T20:08:00.000Z,Coastal Storm,Whitman,2973
+WA,2005-09-07T20:08:00.000Z,Coastal Storm,Yakima,2974
+OR,2005-09-07T20:11:00.000Z,Coastal Storm,Benton,2053
+OR,2005-09-07T20:11:00.000Z,Coastal Storm,Baker,2044
+OR,2005-09-07T20:11:00.000Z,Coastal Storm,Clackamas,2058
+OR,2005-09-07T20:11:00.000Z,Coastal Storm,Clatsop,2064
+OR,2005-09-07T20:11:00.000Z,Coastal Storm,Columbia,2070
+OR,2005-09-07T20:11:00.000Z,Coastal Storm,Coos,2083
+OR,2005-09-07T20:11:00.000Z,Coastal Storm,Crook,2092
+OR,2005-09-07T20:11:00.000Z,Coastal Storm,Curry,2098
+OR,2005-09-07T20:11:00.000Z,Coastal Storm,Deschutes,2109
+OR,2005-09-07T20:11:00.000Z,Coastal Storm,Douglas,2115
+OR,2005-09-07T20:11:00.000Z,Coastal Storm,Gilliam,2121
+OR,2005-09-07T20:11:00.000Z,Coastal Storm,Grant,2130
+OR,2005-09-07T20:11:00.000Z,Coastal Storm,Harney,2134
+OR,2005-09-07T20:11:00.000Z,Coastal Storm,Hood River,2138
+OR,2005-09-07T20:11:00.000Z,Coastal Storm,Jackson,2139
+OR,2005-09-07T20:11:00.000Z,Coastal Storm,Jefferson,2143
+OR,2005-09-07T20:11:00.000Z,Coastal Storm,Josephine,2152
+OR,2005-09-07T20:11:00.000Z,Coastal Storm,Klamath,2155
+OR,2005-09-07T20:11:00.000Z,Coastal Storm,Lake,2159
+OR,2005-09-07T20:11:00.000Z,Coastal Storm,Lane,2170
+OR,2005-09-07T20:11:00.000Z,Coastal Storm,Lincoln,2174
+OR,2005-09-07T20:11:00.000Z,Coastal Storm,Linn,2181
+OR,2005-09-07T20:11:00.000Z,Coastal Storm,Malheur,2185
+OR,2005-09-07T20:11:00.000Z,Coastal Storm,Marion,2200
+OR,2005-09-07T20:11:00.000Z,Coastal Storm,Morrow,2209
+OR,2005-09-07T20:11:00.000Z,Coastal Storm,Multnomah,2218
+OR,2005-09-07T20:11:00.000Z,Coastal Storm,Polk,2223
+OR,2005-09-07T20:11:00.000Z,Coastal Storm,Sherman,2232
+OR,2005-09-07T20:11:00.000Z,Coastal Storm,Tillamook,2242
+OR,2005-09-07T20:11:00.000Z,Coastal Storm,Wallowa,2263
+OR,2005-09-07T20:11:00.000Z,Coastal Storm,Wasco,2267
+OR,2005-09-07T20:11:00.000Z,Coastal Storm,Washington,2272
+OR,2005-09-07T20:11:00.000Z,Coastal Storm,Wheeler,2277
+OR,2005-09-07T20:11:00.000Z,Coastal Storm,Union,2257
+OR,2005-09-07T20:11:00.000Z,Coastal Storm,Umatilla,2251
+OR,2005-09-07T20:11:00.000Z,Coastal Storm,Yamhill,2284
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Aurora,2870
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Beadle,2874
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Bon Homme,2879
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Brookings,2882
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Brown,2885
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Brule,2888
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Buffalo,2891
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Bennett,2876
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Butte,2895
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Campbell,2897
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Charles Mix,2900
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Clark,2901
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Clay,2903
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Codington,2906
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Corson,2907
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Custer,2908
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Davison,2910
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Day,2911
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Deuel,2912
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Dewey,2914
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Douglas,2916
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Edmunds,2917
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Fall River,2919
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Faulk,2921
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Grant,2922
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Gregory,2923
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Haakon,2924
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Hand,2928
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Hanson,2929
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Harding,2931
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Hughes,2933
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Hamlin,2926
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Hyde,2937
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Jackson,2939
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Hutchinson,2934
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Jerauld,2941
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Jones,2944
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Kingsbury,2945
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Lake,2401
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Lawrence,2406
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Lincoln,2410
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Lyman,2417
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,McCook,2422
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,McPherson,2426
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Marshall,2430
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Meade,2442
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Mellette,2450
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Miner,2456
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Minnehaha,2467
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Moody,2485
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Pennington,2497
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Perkins,2502
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Potter,2506
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Roberts,2511
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Sanborn,2514
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Spink,2523
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Stanley,2530
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Sully,2535
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Todd,2540
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Tripp,2546
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Shannon,2519
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Turner,2550
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Union,2557
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Walworth,2561
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Yankton,2569
+SD,2005-09-10T20:20:00.000Z,Coastal Storm,Ziebach,2578
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Adams,1826
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Barnes,1828
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Benson,1831
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Bottineau,1836
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Bowman,1838
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Burke,1841
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Burleigh,1844
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Cass,1848
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Cavalier,1849
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Billings,1833
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Dickey,2004
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Divide,2007
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Eddy,2017
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Emmons,2021
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Foster,2026
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Golden Valley,2036
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Dunn,2013
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Grand Forks,2043
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Grant,2051
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Griggs,2056
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Hettinger,2063
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Kidder,2068
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Logan,2078
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,LaMoure,2074
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,McHenry,2082
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,McIntosh,2090
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,McKenzie,2097
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,McLean,2103
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Mercer,2107
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Morton,2114
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Mountrail,2119
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Nelson,2122
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Oliver,2127
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Pierce,2136
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Ransom,2147
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Ramsey,2141
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Pembina,2131
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Rolette,2161
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Sargent,2164
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Sheridan,2169
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Sioux,2175
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Renville,2150
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Richland,2156
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Stark,2182
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Stutsman,2199
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Steele,2186
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Traill,2217
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Slope,2180
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Towner,2205
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Wells,2237
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Ward,2233
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Williams,2244
+ND,2005-09-13T13:34:00.000Z,Coastal Storm,Walsh,2225
