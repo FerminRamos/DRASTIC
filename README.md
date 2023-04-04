@@ -69,7 +69,7 @@
   
   - [ ] Map, all 19 disasters from group 2010-2019  ![](https://geps.dev/progress/50)
     
-  - [ ] Map, all 19 disasters from group 2020+  ![](https://geps.dev/progress/50)
+  - [X] Map, all 19 disasters from group 2020+  ![](https://geps.dev/progress/100)
 
 </br>
 
