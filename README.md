@@ -1,6 +1,6 @@
 # DRASTIC Database Repository
 
-###### :exclamation: Current Obj: Clean README, getting too messy. :exclamation:
+###### :exclamation: Current Obj: Sort FEMA Data into diff. group clusters. :exclamation:
 
 
 </br>
@@ -8,8 +8,6 @@
 
 #### :boom: Announcements :boom:
 📌 I pulled new datasets to fulfill the "7-Pillars", check them out and let me know what you think! (see 7-Pillars Folder above)
-
-📌 Nearly finished w/ everything FEMA-related :smiley: should I post a PowerPoint w/ new Maps once I'm done? Email me to let me know.
 
 </br>
 
