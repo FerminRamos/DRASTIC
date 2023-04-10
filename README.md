@@ -47,7 +47,7 @@
     
     - [X] Map, all 19 disasters from group 2020+  ![](https://geps.dev/progress/100)
 
-- [ ] Re-group FEMA Data into groups: 2000-2005, 2006-2014, 2015-2022  ![](https://geps.dev/progress/00)
+- [X] Re-group FEMA Data into groups: 2000-2005, 2006-2014, 2015-2022  ![](https://geps.dev/progress/100)
 
 - [ ] Map new re-grouped FEMA Data  ![](https://geps.dev/progress/00)
 
