@@ -1,0 +1,599 @@
+BaseYear,state,incidentType,designatedArea,Freq,FID
+2020,HI,Hurricane,Hawaii,1,198
+2020,HI,Hurricane,Honolulu,1,234
+2020,HI,Hurricane,Kauai,1,261
+2020,HI,Hurricane,Maui,1,323
+2020,TX,Hurricane,Aransas,2,2162
+2020,TX,Hurricane,Bee,1,2196
+2020,TX,Hurricane,Bexar,2,2203
+2020,TX,Hurricane,Brazoria,2,2240
+2020,TX,Hurricane,Calhoun,2,2327
+2020,TX,Hurricane,Cameron,2,2359
+2020,TX,Hurricane,Dimmit,1,2548
+2020,TX,Hurricane,Brooks,1,2279
+2020,TX,Hurricane,Goliad,1,2079
+2020,TX,Hurricane,Harris,2,2149
+2020,TX,Hurricane,Hidalgo,1,2188
+2020,TX,Hurricane,Fort Bend,2,2009
+2020,TX,Hurricane,Duval,1,2556
+2020,TX,Hurricane,Galveston,3,2059
+2020,TX,Hurricane,Jackson,2,2264
+2020,TX,Hurricane,Jim Hogg,1,2288
+2020,TX,Hurricane,Jim Wells,1,2294
+2020,TX,Hurricane,Kenedy,2,2330
+2020,TX,Hurricane,La Salle,1,2388
+2020,TX,Hurricane,Live Oak,1,2416
+2020,TX,Hurricane,McMullen,1,2494
+2020,TX,Hurricane,Kleberg,2,2358
+2020,TX,Hurricane,Matagorda,2,2637
+2020,TX,Hurricane,Nueces,2,2194
+2020,TX,Hurricane,Refugio,2,2334
+2020,TX,Hurricane,San Patricio,2,2415
+2020,TX,Hurricane,Starr,1,2474
+2020,TX,Hurricane,Victoria,2,2595
+2020,TX,Hurricane,Webb,1,2616
+2020,TX,Hurricane,Wharton,2,2618
+2020,TX,Hurricane,Willacy,2,2639
+2020,TX,Hurricane,Zapata,1,2650
+2020,PR,Hurricane,Adjuntas,2,3060
+2020,PR,Hurricane,Aguada,3,3062
+2020,PR,Hurricane,Aguadilla,2,3063
+2020,PR,Hurricane,Aibonito,2,3067
+2020,PR,Hurricane,Anasco,2,3069
+2020,PR,Hurricane,Arecibo,2,3071
+2020,PR,Hurricane,Arroyo,2,3072
+2020,PR,Hurricane,Barceloneta,2,3074
+2020,PR,Hurricane,Barranquitas,2,3076
+2020,PR,Hurricane,Aguas Buenas,2,3065
+2020,PR,Hurricane,Bayamon,2,3078
+2020,PR,Hurricane,Cabo Rojo,2,3081
+2020,PR,Hurricane,Caguas,2,3083
+2020,PR,Hurricane,Camuy,2,3086
+2020,PR,Hurricane,Canovanas,2,3088
+2020,PR,Hurricane,Carolina,2,3090
+2020,PR,Hurricane,Catano,2,3092
+2020,PR,Hurricane,Cayey,2,3094
+2020,PR,Hurricane,Ceiba,2,3096
+2020,PR,Hurricane,Ciales,2,3098
+2020,PR,Hurricane,Cidra,2,3100
+2020,PR,Hurricane,Coamo,2,3102
+2020,PR,Hurricane,Comerio,2,3103
+2020,PR,Hurricane,Corozal,2,3105
+2020,PR,Hurricane,Culebra,2,3107
+2020,PR,Hurricane,Dorado,2,3109
+2020,PR,Hurricane,Fajardo,2,3110
+2020,PR,Hurricane,Florida,2,3112
+2020,PR,Hurricane,Guanica,2,3114
+2020,PR,Hurricane,Guayama,2,3118
+2020,PR,Hurricane,Guayanilla,2,3121
+2020,PR,Hurricane,Gurabo,2,3125
+2020,PR,Hurricane,Hatillo,2,3127
+2020,PR,Hurricane,Hormigueros,3,3128
+2020,PR,Hurricane,Guaynabo,2,3123
+2020,PR,Hurricane,Humacao,2,3129
+2020,PR,Hurricane,Isabela,2,3130
+2020,PR,Hurricane,Jayuya,2,3132
+2020,PR,Hurricane,Juana Diaz,2,3133
+2020,PR,Hurricane,Juncos,2,3136
+2020,PR,Hurricane,Lajas,2,3139
+2020,PR,Hurricane,Lares,2,3142
+2020,PR,Hurricane,Luquillo,2,3150
+2020,PR,Hurricane,Las Piedras,2,3146
+2020,PR,Hurricane,Las Marias,2,3144
+2020,PR,Hurricane,Manati,2,3152
+2020,PR,Hurricane,Maricao,2,3155
+2020,PR,Hurricane,Maunabo,2,3157
+2020,PR,Hurricane,Loiza,2,3149
+2020,PR,Hurricane,Mayaguez,3,3159
+2020,PR,Hurricane,Moca,2,3162
+2020,PR,Hurricane,Morovis,2,3164
+2020,PR,Hurricane,Naguabo,2,3167
+2020,PR,Hurricane,Naranjito,2,3168
+2020,PR,Hurricane,Orocovis,2,3171
+2020,PR,Hurricane,Patillas,2,3173
+2020,PR,Hurricane,Penuelas,2,3176
+2020,PR,Hurricane,Ponce,2,3178
+2020,PR,Hurricane,Quebradillas,2,3180
+2020,PR,Hurricane,Rincon,3,3182
+2020,PR,Hurricane,Rio Grande,2,3184
+2020,PR,Hurricane,Sabana Grande,2,3187
+2020,PR,Hurricane,Salinas,2,3190
+2020,PR,Hurricane,San German,2,3193
+2020,PR,Hurricane,San Juan,2,3197
+2020,PR,Hurricane,San Lorenzo,2,3201
+2020,PR,Hurricane,San Sebastian,2,3204
+2020,PR,Hurricane,Trujillo Alto,2,3212
+2020,PR,Hurricane,Vega Alta,2,3215
+2020,PR,Hurricane,Utuado,2,3214
+2020,PR,Hurricane,Vega Baja,2,3216
+2020,PR,Hurricane,Santa Isabel,2,3206
+2020,PR,Hurricane,Vieques,2,3217
+2020,PR,Hurricane,Villalba,2,3218
+2020,PR,Hurricane,Yabucoa,2,3219
+2020,PR,Hurricane,Toa Alta,2,3209
+2020,PR,Hurricane,Toa Baja,2,3211
+2020,PR,Hurricane,Yauco,2,3220
+2020,FL,Hurricane,Brevard,1,686
+2020,FL,Hurricane,Broward,1,695
+2020,FL,Hurricane,Clay,1,852
+2020,FL,Hurricane,Duval,1,924
+2020,FL,Hurricane,Flagler,1,935
+2020,FL,Hurricane,Indian River,1,949
+2020,FL,Hurricane,Martin,1,961
+2020,FL,Hurricane,Miami-Dade,1,962
+2020,FL,Hurricane,Monroe,1,963
+2020,FL,Hurricane,Nassau,1,964
+2020,FL,Hurricane,Okeechobee,1,966
+2020,FL,Hurricane,Orange,1,967
+2020,FL,Hurricane,Osceola,1,968
+2020,FL,Hurricane,Palm Beach,1,969
+2020,FL,Hurricane,Putnam,1,973
+2020,FL,Hurricane,St. Johns,1,974
+2020,FL,Hurricane,St. Lucie,1,975
+2020,FL,Hurricane,Seminole,1,978
+2020,FL,Hurricane,Volusia,1,983
+2020,NC,Hurricane,Alamance,1,1967
+2020,NC,Hurricane,Alexander,1,1968
+2020,NC,Hurricane,Alleghany,1,1970
+2020,NC,Hurricane,Anson,1,1972
+2020,NC,Hurricane,Ashe,1,1975
+2020,NC,Hurricane,Avery,1,1977
+2020,NC,Hurricane,Beaufort,2,1981
+2020,NC,Hurricane,Bertie,2,1983
+2020,NC,Hurricane,Bladen,1,1986
+2020,NC,Hurricane,Brunswick,2,1995
+2020,NC,Hurricane,Buncombe,1,1422
+2020,NC,Hurricane,Burke,1,1424
+2020,NC,Hurricane,Cabarrus,1,1426
+2020,NC,Hurricane,Caldwell,1,1429
+2020,NC,Hurricane,Camden,1,1433
+2020,NC,Hurricane,Carteret,2,1447
+2020,NC,Hurricane,Catawba,1,1450
+2020,NC,Hurricane,Chatham,1,1451
+2020,NC,Hurricane,Cherokee,1,1452
+2020,NC,Hurricane,Chowan,2,1455
+2020,NC,Hurricane,Clay,1,1457
+2020,NC,Hurricane,Caswell,1,1449
+2020,NC,Hurricane,Cleveland,1,1458
+2020,NC,Hurricane,Columbus,2,1459
+2020,NC,Hurricane,Craven,2,1462
+2020,NC,Hurricane,Cumberland,1,1464
+2020,NC,Hurricane,Dare,1,1485
+2020,NC,Hurricane,Davidson,1,1489
+2020,NC,Hurricane,Davie,1,1490
+2020,NC,Hurricane,Currituck,1,1481
+2020,NC,Hurricane,Durham,1,1494
+2020,NC,Hurricane,Duplin,1,1492
+2020,NC,Hurricane,Forsyth,1,1496
+2020,NC,Hurricane,Edgecombe,1,1495
+2020,NC,Hurricane,Franklin,1,1498
+2020,NC,Hurricane,Gaston,1,1499
+2020,NC,Hurricane,Gates,1,1500
+2020,NC,Hurricane,Graham,1,1502
+2020,NC,Hurricane,Granville,1,1503
+2020,NC,Hurricane,Greene,1,1505
+2020,NC,Hurricane,Guilford,1,1506
+2020,NC,Hurricane,Halifax,1,1508
+2020,NC,Hurricane,Harnett,1,1509
+2020,NC,Hurricane,Haywood,1,1512
+2020,NC,Hurricane,Henderson,1,1514
+2020,NC,Hurricane,Hertford,2,1515
+2020,NC,Hurricane,Hoke,1,1517
+2020,NC,Hurricane,Hyde,2,1521
+2020,NC,Hurricane,Iredell,1,1525
+2020,NC,Hurricane,Johnston,1,1530
+2020,NC,Hurricane,Jones,2,1536
+2020,NC,Hurricane,Jackson,1,1528
+2020,NC,Hurricane,Lincoln,1,1545
+2020,NC,Hurricane,McDowell,1,1554
+2020,NC,Hurricane,Lenoir,2,1542
+2020,NC,Hurricane,Lee,1,1540
+2020,NC,Hurricane,Madison,1,1560
+2020,NC,Hurricane,Martin,1,1563
+2020,NC,Hurricane,Mecklenburg,1,1565
+2020,NC,Hurricane,Mitchell,1,1568
+2020,NC,Hurricane,Macon,1,1556
+2020,NC,Hurricane,Moore,1,1584
+2020,NC,Hurricane,Nash,1,1588
+2020,NC,Hurricane,New Hanover,2,1602
+2020,NC,Hurricane,Northampton,1,1606
+2020,NC,Hurricane,Montgomery,1,1573
+2020,NC,Hurricane,Orange,1,1630
+2020,NC,Hurricane,Pamlico,2,1703
+2020,NC,Hurricane,Pasquotank,1,1714
+2020,NC,Hurricane,Onslow,2,1625
+2020,NC,Hurricane,Perquimans,1,1724
+2020,NC,Hurricane,Person,1,1729
+2020,NC,Hurricane,Pitt,2,1733
+2020,NC,Hurricane,Polk,1,1738
+2020,NC,Hurricane,Randolph,1,1741
+2020,NC,Hurricane,Pender,2,1718
+2020,NC,Hurricane,Richmond,1,1744
+2020,NC,Hurricane,Robeson,1,1747
+2020,NC,Hurricane,Rockingham,1,1751
+2020,NC,Hurricane,Rowan,1,1754
+2020,NC,Hurricane,Rutherford,1,1764
+2020,NC,Hurricane,Scotland,1,1772
+2020,NC,Hurricane,Stanly,1,1775
+2020,NC,Hurricane,Stokes,1,1777
+2020,NC,Hurricane,Sampson,1,1769
+2020,NC,Hurricane,Swain,1,1784
+2020,NC,Hurricane,Transylvania,1,1786
+2020,NC,Hurricane,Tyrrell,1,1794
+2020,NC,Hurricane,Surry,1,1780
+2020,NC,Hurricane,Vance,1,1801
+2020,NC,Hurricane,Wake,1,1805
+2020,NC,Hurricane,Warren,1,1809
+2020,NC,Hurricane,Union,1,1798
+2020,NC,Hurricane,Watauga,1,1813
+2020,NC,Hurricane,Wayne,1,1814
+2020,NC,Hurricane,Wilkes,1,1817
+2020,NC,Hurricane,Washington,1,1811
+2020,NC,Hurricane,Yadkin,1,1821
+2020,NC,Hurricane,Yancey,1,1823
+2020,NC,Hurricane,Wilson,1,1819
+2020,CT,Hurricane,Fairfield,2,410
+2020,CT,Hurricane,Hartford,2,432
+2020,CT,Hurricane,Middlesex,2,450
+2020,CT,Hurricane,New Haven,2,466
+2020,CT,Hurricane,New London,2,517
+2020,CT,Hurricane,Tolland,2,524
+2020,CT,Hurricane,Windham,2,529
+2020,CT,Hurricane,Litchfield,2,443
+2020,LA,Hurricane,Acadia,7,1046
+2020,LA,Hurricane,Allen,7,1051
+2020,LA,Hurricane,Ascension,7,1055
+2020,LA,Hurricane,Avoyelles,6,1062
+2020,LA,Hurricane,Beauregard,7,1066
+2020,LA,Hurricane,Bienville,6,1069
+2020,LA,Hurricane,Bossier,6,1076
+2020,LA,Hurricane,Assumption,7,1060
+2020,LA,Hurricane,Caddo,6,1079
+2020,LA,Hurricane,Calcasieu,7,1081
+2020,LA,Hurricane,Caldwell,6,1084
+2020,LA,Hurricane,Cameron,7,1089
+2020,LA,Hurricane,Catahoula,6,1093
+2020,LA,Hurricane,Claiborne,6,1095
+2020,LA,Hurricane,Concordia,6,1098
+2020,LA,Hurricane,De Soto,6,1103
+2020,LA,Hurricane,East Baton Rouge,7,1108
+2020,LA,Hurricane,East Carroll,6,1111
+2020,LA,Hurricane,East Feliciana,7,1115
+2020,LA,Hurricane,Franklin,6,1123
+2020,LA,Hurricane,Evangeline,7,1118
+2020,LA,Hurricane,Grant,6,1127
+2020,LA,Hurricane,Iberia,7,1133
+2020,LA,Hurricane,Iberville,7,1134
+2020,LA,Hurricane,Jefferson,7,1147
+2020,LA,Hurricane,Jefferson Davis,7,1155
+2020,LA,Hurricane,Lafayette,7,1161
+2020,LA,Hurricane,Jackson,6,1138
+2020,LA,Hurricane,Lafourche,7,1280
+2020,LA,Hurricane,La Salle,6,1289
+2020,LA,Hurricane,Lincoln,6,1291
+2020,LA,Hurricane,Livingston,7,1295
+2020,LA,Hurricane,Madison,6,1297
+2020,LA,Hurricane,Natchitoches,6,1301
+2020,LA,Hurricane,Orleans,7,1304
+2020,LA,Hurricane,Ouachita,6,1306
+2020,LA,Hurricane,Plaquemines,7,1427
+2020,LA,Hurricane,Pointe Coupee,7,1431
+2020,LA,Hurricane,Morehouse,6,1299
+2020,LA,Hurricane,Rapides,6,1434
+2020,LA,Hurricane,Red River,6,1436
+2020,LA,Hurricane,Richland,6,1439
+2020,LA,Hurricane,Sabine,6,1441
+2020,LA,Hurricane,St. Bernard,7,1463
+2020,LA,Hurricane,St. Helena,7,1467
+2020,LA,Hurricane,St. James,7,1468
+2020,LA,Hurricane,St. Charles,7,1466
+2020,LA,Hurricane,St. John the Baptist,7,1469
+2020,LA,Hurricane,St. Landry,7,1471
+2020,LA,Hurricane,St. Martin,7,1473
+2020,LA,Hurricane,St. Mary,7,1474
+2020,LA,Hurricane,St. Tammany,7,1475
+2020,LA,Hurricane,Tangipahoa,7,1476
+2020,LA,Hurricane,Terrebonne,7,1501
+2020,LA,Hurricane,Union,6,1507
+2020,LA,Hurricane,Vermilion,7,1510
+2020,LA,Hurricane,Tensas,6,1479
+2020,LA,Hurricane,Vernon,6,1513
+2020,LA,Hurricane,Washington,7,1516
+2020,LA,Hurricane,Webster,6,1518
+2020,LA,Hurricane,West Baton Rouge,7,1520
+2020,LA,Hurricane,West Feliciana,7,1524
+2020,LA,Hurricane,Winn,6,1529
+2020,LA,Hurricane,West Carroll,6,1522
+2020,MS,Hurricane,Amite,3,1539
+2020,MS,Hurricane,Adams,3,1534
+2020,MS,Hurricane,Forrest,4,1572
+2020,MS,Hurricane,Franklin,3,1575
+2020,MS,Hurricane,George,5,1577
+2020,MS,Hurricane,Greene,4,1579
+2020,MS,Hurricane,Covington,2,1567
+2020,MS,Hurricane,Hancock,5,1583
+2020,MS,Hurricane,Harrison,5,1587
+2020,MS,Hurricane,Jefferson,3,1610
+2020,MS,Hurricane,Jones,3,1615
+2020,MS,Hurricane,Jefferson Davis,3,1612
+2020,MS,Hurricane,Lamar,3,1623
+2020,MS,Hurricane,Jackson,5,1605
+2020,MS,Hurricane,Lincoln,3,1645
+2020,MS,Hurricane,Lawrence,3,1632
+2020,MS,Hurricane,Marion,3,1653
+2020,MS,Hurricane,Perry,4,1679
+2020,MS,Hurricane,Pike,3,1680
+2020,MS,Hurricane,Stone,5,1712
+2020,MS,Hurricane,Walthall,3,1740
+2020,MS,Hurricane,Wayne,4,1753
+2020,MS,Hurricane,Wilkinson,3,1757
+2020,TX,Hurricane,Anderson,1,2113
+2020,MS,Hurricane,Pearl River,4,1676
+2020,TX,Hurricane,Angelina,1,2124
+2020,TX,Hurricane,Bowie,1,2224
+2020,TX,Hurricane,Cass,1,2382
+2020,TX,Hurricane,Camp,1,2373
+2020,TX,Hurricane,Chambers,1,2395
+2020,TX,Hurricane,Cherokee,1,2400
+2020,TX,Hurricane,Dallas,1,2507
+2020,TX,Hurricane,Ellis,1,2579
+2020,TX,Hurricane,Franklin,1,2016
+2020,TX,Hurricane,Gregg,1,2101
+2020,TX,Hurricane,Grimes,1,2108
+2020,TX,Hurricane,Hardin,1,2142
+2020,TX,Hurricane,Harrison,1,2157
+2020,TX,Hurricane,Houston,1,2228
+2020,TX,Hurricane,Jasper,2,2271
+2020,TX,Hurricane,Jefferson,2,2285
+2020,TX,Hurricane,Leon,1,2402
+2020,TX,Hurricane,Liberty,1,2404
+2020,TX,Hurricane,Marion,1,2547
+2020,TX,Hurricane,Montgomery,1,2682
+2020,TX,Hurricane,Panola,1,2227
+2020,TX,Hurricane,Morris,1,2688
+2020,TX,Hurricane,Polk,1,2243
+2020,TX,Hurricane,Madison,1,2526
+2020,TX,Hurricane,Nacogdoches,1,2701
+2020,TX,Hurricane,Orange,2,2214
+2020,TX,Hurricane,Rusk,1,2367
+2020,TX,Hurricane,Sabine,1,2370
+2020,TX,Hurricane,Red River,1,2295
+2020,TX,Hurricane,Newton,2,2711
+2020,TX,Hurricane,Shelby,1,2448
+2020,TX,Hurricane,Smith,1,2465
+2020,TX,Hurricane,San Jacinto,1,2387
+2020,TX,Hurricane,Travis,1,2543
+2020,TX,Hurricane,San Augustine,1,2380
+2020,TX,Hurricane,Tyler,1,2560
+2020,TX,Hurricane,Tarrant,1,2500
+2020,TX,Hurricane,Waller,1,2606
+2020,TX,Hurricane,Wood,1,2644
+2020,AR,Hurricane,Baxter,1,54
+2020,AR,Hurricane,Ashley,1,50
+2020,TX,Hurricane,Titus,1,2531
+2020,TX,Hurricane,Upshur,1,2566
+2020,AR,Hurricane,Boone,1,62
+2020,AR,Hurricane,Chicot,1,77
+2020,TX,Hurricane,Walker,1,2603
+2020,AR,Hurricane,Arkansas,1,46
+2020,TX,Hurricane,Trinity,1,2553
+2020,AR,Hurricane,Clark,1,86
+2020,AR,Hurricane,Cleburne,1,97
+2020,AR,Hurricane,Calhoun,1,72
+2020,AR,Hurricane,Bradley,1,68
+2020,AR,Hurricane,Benton,1,59
+2020,AR,Hurricane,Cleveland,1,103
+2020,AR,Hurricane,Carroll,1,74
+2020,AR,Hurricane,Clay,1,93
+2020,AR,Hurricane,Cross,1,124
+2020,AR,Hurricane,Desha,1,130
+2020,AR,Hurricane,Crittenden,1,119
+2020,AR,Hurricane,Faulkner,1,141
+2020,AR,Hurricane,Columbia,1,107
+2020,AR,Hurricane,Conway,1,109
+2020,AR,Hurricane,Crawford,1,115
+2020,AR,Hurricane,Dallas,1,128
+2020,AR,Hurricane,Craighead,1,114
+2020,AR,Hurricane,Fulton,1,146
+2020,AR,Hurricane,Drew,1,136
+2020,AR,Hurricane,Grant,1,155
+2020,AR,Hurricane,Hot Spring,1,184
+2020,AR,Hurricane,Franklin,1,144
+2020,AR,Hurricane,Independence,1,200
+2020,AR,Hurricane,Howard,1,191
+2020,AR,Hurricane,Jefferson,1,213
+2020,AR,Hurricane,Izard,1,203
+2020,AR,Hurricane,Garland,1,151
+2020,AR,Hurricane,Greene,1,162
+2020,AR,Hurricane,Hempstead,1,172
+2020,AR,Hurricane,Lee,1,237
+2020,AR,Hurricane,Lincoln,1,244
+2020,AR,Hurricane,Lafayette,1,222
+2020,AR,Hurricane,Little River,1,251
+2020,AR,Hurricane,Jackson,1,209
+2020,AR,Hurricane,Johnson,1,218
+2020,AR,Hurricane,Marion,1,282
+2020,AR,Hurricane,Miller,1,287
+2020,AR,Hurricane,Madison,1,277
+2020,AR,Hurricane,Monroe,1,300
+2020,AR,Hurricane,Lonoke,1,268
+2020,AR,Hurricane,Mississippi,1,294
+2020,AR,Hurricane,Newton,1,311
+2020,AR,Hurricane,Ouachita,1,316
+2020,AR,Hurricane,Logan,1,258
+2020,AR,Hurricane,Nevada,1,307
+2020,AR,Hurricane,Lawrence,1,230
+2020,AR,Hurricane,Perry,1,318
+2020,AR,Hurricane,Phillips,1,322
+2020,AR,Hurricane,Pike,1,327
+2020,AR,Hurricane,Poinsett,1,333
+2020,AR,Hurricane,Montgomery,1,304
+2020,AR,Hurricane,Polk,1,337
+2020,AR,Hurricane,Pope,1,340
+2020,AR,Hurricane,Pulaski,1,350
+2020,AR,Hurricane,Randolph,1,353
+2020,AR,Hurricane,St. Francis,1,357
+2020,AR,Hurricane,Prairie,1,345
+2020,AR,Hurricane,Scott,1,364
+2020,AR,Hurricane,Searcy,1,372
+2020,AR,Hurricane,Sebastian,1,378
+2020,AR,Hurricane,Saline,1,360
+2020,AR,Hurricane,Sharp,1,394
+2020,AR,Hurricane,Stone,1,399
+2020,AR,Hurricane,Union,1,403
+2020,AR,Hurricane,Sevier,1,390
+2020,AR,Hurricane,Van Buren,1,407
+2020,AR,Hurricane,Washington,1,417
+2020,AR,Hurricane,White,1,428
+2020,AR,Hurricane,Woodruff,1,435
+2020,AR,Hurricane,Yell,1,438
+2020,AL,Hurricane,Autauga,2,5
+2020,AL,Hurricane,Baldwin,2,20
+2020,AL,Hurricane,Barbour,2,25
+2020,AL,Hurricane,Bibb,1,29
+2020,AL,Hurricane,Blount,1,33
+2020,AL,Hurricane,Butler,3,39
+2020,AL,Hurricane,Calhoun,2,43
+2020,AL,Hurricane,Chambers,1,47
+2020,AL,Hurricane,Cherokee,2,51
+2020,AL,Hurricane,Chilton,2,56
+2020,AL,Hurricane,Choctaw,2,58
+2020,AL,Hurricane,Bullock,1,37
+2020,AL,Hurricane,Clay,2,65
+2020,AL,Hurricane,Cleburne,1,67
+2020,AL,Hurricane,Coffee,2,70
+2020,AL,Hurricane,Colbert,1,73
+2020,AL,Hurricane,Conecuh,2,80
+2020,AL,Hurricane,Clarke,3,61
+2020,AL,Hurricane,Coosa,2,82
+2020,AL,Hurricane,Covington,2,88
+2020,AL,Hurricane,Crenshaw,2,90
+2020,AL,Hurricane,Cullman,1,98
+2020,AL,Hurricane,Dale,1,101
+2020,AL,Hurricane,Dallas,2,110
+2020,AL,Hurricane,DeKalb,1,112
+2020,AL,Hurricane,Elmore,2,118
+2020,AL,Hurricane,Escambia,2,122
+2020,AL,Hurricane,Etowah,1,131
+2020,AL,Hurricane,Fayette,1,134
+2020,AL,Hurricane,Franklin,1,138
+2020,AL,Hurricane,Geneva,2,140
+2020,AL,Hurricane,Greene,1,148
+2020,AL,Hurricane,Hale,2,150
+2020,AL,Hurricane,Henry,1,158
+2020,AL,Hurricane,Houston,2,160
+2020,AL,Hurricane,Jackson,1,164
+2020,AL,Hurricane,Jefferson,1,171
+2020,AL,Hurricane,Lamar,1,174
+2020,AL,Hurricane,Lauderdale,1,176
+2020,AL,Hurricane,Lawrence,1,181
+2020,AL,Hurricane,Lee,1,187
+2020,AL,Hurricane,Limestone,1,197
+2020,AL,Hurricane,Lowndes,2,205
+2020,AL,Hurricane,Macon,1,210
+2020,AL,Hurricane,Madison,1,217
+2020,AL,Hurricane,Marengo,2,220
+2020,AL,Hurricane,Marion,1,224
+2020,AL,Hurricane,Marshall,1,231
+2020,AL,Hurricane,Mobile,3,240
+2020,AL,Hurricane,Monroe,3,250
+2020,AL,Hurricane,Montgomery,1,256
+2020,AL,Hurricane,Morgan,1,262
+2020,AL,Hurricane,Perry,2,264
+2020,AL,Hurricane,Pickens,1,273
+2020,AL,Hurricane,Pike,2,279
+2020,AL,Hurricane,Randolph,2,284
+2020,AL,Hurricane,Russell,1,288
+2020,AL,Hurricane,St. Clair,1,292
+2020,AL,Hurricane,Shelby,1,298
+2020,AL,Hurricane,Sumter,1,303
+2020,AL,Hurricane,Talladega,2,306
+2020,AL,Hurricane,Tallapoosa,1,308
+2020,AL,Hurricane,Tuscaloosa,1,313
+2020,AL,Hurricane,Walker,1,317
+2020,AL,Hurricane,Washington,2,319
+2020,AL,Hurricane,Wilcox,2,326
+2020,AL,Hurricane,Winston,1,332
+2020,FL,Hurricane,Bay,2,658
+2020,FL,Hurricane,Calhoun,2,699
+2020,FL,Hurricane,Escambia,2,931
+2020,FL,Hurricane,Franklin,2,937
+2020,FL,Hurricane,Gadsden,2,938
+2020,FL,Hurricane,Gulf,2,941
+2020,FL,Hurricane,Holmes,2,948
+2020,FL,Hurricane,Jackson,2,950
+2020,FL,Hurricane,Liberty,2,957
+2020,FL,Hurricane,Okaloosa,2,965
+2020,FL,Hurricane,Santa Rosa,2,976
+2020,FL,Hurricane,Walton,2,985
+2020,FL,Hurricane,Washington,2,986
+2020,MS,Hurricane,Claiborne,1,1555
+2020,MS,Hurricane,Copiah,1,1564
+2020,MS,Hurricane,Hinds,1,1591
+2020,MS,Hurricane,Issaquena,1,1598
+2020,MS,Hurricane,Humphreys,1,1596
+2020,MS,Hurricane,Madison,1,1651
+2020,MS,Hurricane,Sharkey,1,1695
+2020,MS,Hurricane,Simpson,1,1698
+2020,MS,Hurricane,Warren,1,1746
+2020,MS,Hurricane,Rankin,1,1690
+2020,MS,Hurricane,Yazoo,1,1760
+2020,MS,Hurricane,Clarke,1,1557
+2020,FL,Hurricane,Alachua,1,639
+2020,FL,Hurricane,Citrus,1,843
+2020,FL,Hurricane,Dixie,1,918
+2020,FL,Hurricane,Gilchrist,1,939
+2020,FL,Hurricane,Hernando,1,945
+2020,FL,Hurricane,Hillsborough,1,947
+2020,FL,Hurricane,Levy,1,956
+2020,FL,Hurricane,Manatee,1,959
+2020,FL,Hurricane,Marion,1,960
+2020,FL,Hurricane,Pasco,1,970
+2020,FL,Hurricane,Pinellas,1,971
+2020,FL,Hurricane,Sarasota,1,977
+2020,FL,Hurricane,Sumter,1,979
+2020,FL,Hurricane,Jefferson,1,951
+2020,DE,Hurricane,Kent,1,532
+2020,DE,Hurricane,New Castle,1,536
+2020,NY,Hurricane,Nassau,1,1839
+2020,NY,Hurricane,Putnam,1,1870
+2020,NY,Hurricane,Rockland,1,1879
+2020,NY,Hurricane,Suffolk,1,1924
+2020,NY,Hurricane,Westchester,1,1960
+2020,NY,Hurricane,Queens,1,1872
+2020,NY,Hurricane,Richmond,1,1876
+2020,NJ,Hurricane,Atlantic,1,1461
+2020,NJ,Hurricane,Burlington,1,1470
+2020,NJ,Hurricane,Cumberland,1,1482
+2020,NJ,Hurricane,Cape May,1,1477
+2020,NJ,Hurricane,Gloucester,1,1484
+2020,NJ,Hurricane,Essex,1,1483
+2020,NJ,Hurricane,Monmouth,1,1504
+2020,NJ,Hurricane,Bergen,1,1465
+2020,NJ,Hurricane,Salem,1,1553
+2020,NJ,Hurricane,Sussex,1,1561
+2020,NJ,Hurricane,Morris,1,1511
+2020,GA,Hurricane,Banks,1,992
+2020,GA,Hurricane,Fannin,1,755
+2020,GA,Hurricane,Dawson,1,713
+2020,GA,Hurricane,Forsyth,1,768
+2020,GA,Hurricane,Cherokee,1,662
+2020,GA,Hurricane,Carroll,1,620
+2020,GA,Hurricane,Douglas,1,731
+2020,GA,Hurricane,Hall,1,808
+2020,GA,Hurricane,Habersham,1,806
+2020,GA,Hurricane,Heard,1,817
+2020,GA,Hurricane,Haralson,1,813
+2020,GA,Hurricane,Stephens,1,45
+2020,GA,Hurricane,Paulding,1,908
+2020,GA,Hurricane,Towns,1,95
+2020,GA,Hurricane,Gilmer,1,781
+2020,GA,Hurricane,Rabun,1,18
+2020,GA,Hurricane,Union,1,120
+2020,GA,Hurricane,Lumpkin,1,865
+2020,GA,Hurricane,White,1,157
+2020,GA,Hurricane,Pickens,1,912
+2020,GA,Hurricane,Franklin,1,772
+2020,MD,Hurricane,Calvert,1,1946
+2020,MD,Hurricane,St. Mary's,1,1421
+2020,MD,Hurricane,Dorchester,1,1346
