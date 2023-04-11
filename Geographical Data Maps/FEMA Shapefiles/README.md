@@ -1,9 +1,10 @@
-### This is a visual overview of the file structure located (above)
-
-``` All "Clusters" contain the same datapoints, but grouped into diff. years. As diff. groupings alter the visual aspect of our maps.```
+### About these files (above)
 * Cluster v1 - Groups FEMA Data into years: 2000-2009, 2010-2019, 2020+
 * Cluster v2 - Groups FEMA Data into years: 2000-2005, 2006-2014, 2015-2022
 
+* ``` All "Clusters" contain the same datapoints, but grouped into diff. years. As diff. groupings alter the visual aspect of our maps.```
+
+</br>
 
 ```
 > FEMA Shapefiles
