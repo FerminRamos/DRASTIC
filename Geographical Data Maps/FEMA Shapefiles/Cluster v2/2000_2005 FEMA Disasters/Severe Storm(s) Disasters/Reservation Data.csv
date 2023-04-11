@@ -1,0 +1,24 @@
+state,declarationDate,incidentType,designatedArea,FID
+MN,2000-06-27T18:30:00.000Z,Severe Storm(s),White Earth,172
+ND,2000-06-27T20:54:32.000Z,Severe Storm(s),Fort Berthold,224
+ND,2000-06-27T20:54:32.000Z,Severe Storm(s),Turtle Mountain,159
+AZ,2000-10-27T18:00:00.000Z,Severe Storm(s),Gila River,233
+MT,2001-05-28T00:00:00.000Z,Severe Storm(s),Crow,34
+MT,2002-07-03T15:30:00.000Z,Severe Storm(s),Blackfeet,19
+ND,2002-09-10T00:00:00.000Z,Severe Storm(s),Fort Berthold,224
+AK,2002-12-04T16:40:00.000Z,Severe Storm(s),Chignik Lagoon,430
+AK,2002-12-04T16:40:00.000Z,Severe Storm(s),Chignik Lake,431
+ND,2004-05-05T06:00:00.000Z,Severe Storm(s),Standing Rock,324
+ND,2004-05-05T06:00:00.000Z,Severe Storm(s),Turtle Mountain,159
+ND,2004-05-05T06:00:00.000Z,Severe Storm(s),Spirit Lake,322
+SD,2004-07-20T20:45:00.000Z,Severe Storm(s),Rosebud,118
+AZ,2005-02-17T20:35:00.000Z,Severe Storm(s),Hopi,57
+AZ,2005-02-17T20:35:00.000Z,Severe Storm(s),Navajo Nation,93
+AZ,2005-04-14T20:26:00.000Z,Severe Storm(s),Gila River,233
+AZ,2005-04-14T20:26:00.000Z,Severe Storm(s),Havasupai,238
+AZ,2005-04-14T20:26:00.000Z,Severe Storm(s),Hopi,57
+AZ,2005-04-14T20:26:00.000Z,Severe Storm(s),Navajo Nation,93
+AZ,2005-04-14T20:26:00.000Z,Severe Storm(s),San Carlos,309
+ND,2005-07-22T18:51:00.000Z,Severe Storm(s),Fort Berthold,224
+ND,2005-07-22T18:51:00.000Z,Severe Storm(s),Turtle Mountain,159
+ND,2005-07-22T18:51:00.000Z,Severe Storm(s),Standing Rock,324

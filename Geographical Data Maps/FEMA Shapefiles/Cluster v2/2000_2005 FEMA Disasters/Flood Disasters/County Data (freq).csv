@@ -1,0 +1,293 @@
+BaseYear,state,incidentType,designatedArea,Freq,FID
+2000,WV,Flood,Barbour,1,2975
+2000,WV,Flood,Braxton,1,2978
+2000,WV,Flood,Cabell,1,2980
+2000,WV,Flood,Pocahontas,1,3066
+2000,WV,Flood,Calhoun,1,2981
+2000,WV,Flood,Doddridge,1,3002
+2000,WV,Flood,Gilmer,1,3008
+2000,WV,Flood,Jackson,1,3023
+2000,WV,Flood,Harrison,1,3021
+2000,WV,Flood,Kanawha,1,3027
+2000,WV,Flood,Lincoln,1,3031
+2000,WV,Flood,Marion,1,3039
+2000,WV,Flood,Monongalia,1,3050
+2000,WV,Flood,Mason,1,3042
+2000,WV,Flood,Preston,1,3068
+2000,WV,Flood,Putnam,1,3070
+2000,WV,Flood,Randolph,1,3075
+2000,WV,Flood,Ritchie,1,3077
+2000,WV,Flood,Lewis,1,3029
+2000,WV,Flood,Roane,1,3079
+2000,WV,Flood,Taylor,1,3082
+2000,WV,Flood,Tyler,1,3085
+2000,WV,Flood,Wirt,1,3095
+2000,WV,Flood,Upshur,1,3087
+2000,WV,Flood,Tucker,1,3084
+2000,WV,Flood,Wetzel,1,3093
+2000,MO,Flood,St. Charles,1,1205
+2000,MO,Flood,Ste. Genevieve,1,1209
+2000,MO,Flood,St. Francois,1,1212
+2000,MO,Flood,Crawford,1,1028
+2000,MO,Flood,St. Louis County,1,1216
+2000,MO,Flood,Warren,1,1251
+2000,MO,Flood,Washington,1,1253
+2000,MO,Flood,Franklin,1,1047
+2000,MO,Flood,Gasconade,1,1049
+2000,MO,Flood,Jefferson,1,1082
+2000,IL,Flood,Adams,1,650
+2000,IL,Flood,Calhoun,1,4
+2000,IL,Flood,Carroll,1,6
+2000,IL,Flood,Henderson,1,117
+2000,IL,Flood,Jo Daviess,1,145
+2000,IL,Flood,Mercer,1,216
+2000,IL,Flood,Pike,1,241
+2000,IL,Flood,Rock Island,1,265
+2000,IL,Flood,Whiteside,1,314
+2000,WI,Flood,Adams,1,3101
+2000,WI,Flood,Ashland,1,3104
+2000,IL,Flood,Hancock,1,111
+2000,WI,Flood,Clark,1,3119
+2000,WI,Flood,Dunn,1,3135
+2000,WI,Flood,Iron,1,3151
+2000,WI,Flood,Jackson,1,3153
+2000,WI,Flood,Juneau,1,3156
+2000,WI,Flood,Chippewa,1,3117
+2000,WI,Flood,Portage,1,3192
+2000,WI,Flood,Polk,1,3191
+2000,WI,Flood,Wood,1,3014
+2000,WI,Flood,Taylor,1,3208
+2000,WI,Flood,Waupaca,1,3009
+2000,WI,Flood,Waushara,1,3010
+2000,WI,Flood,Barron,1,3106
+2000,WI,Flood,Bayfield,1,3108
+2000,WI,Flood,Buffalo,1,3113
+2000,WI,Flood,Burnett,1,3115
+2000,WI,Flood,Calumet,1,3116
+2000,WI,Flood,Crawford,1,3122
+2000,WI,Flood,Douglas,1,3134
+2000,WI,Flood,Grant,1,3143
+2000,WI,Flood,La Crosse,1,3161
+2000,WI,Flood,Outagamie,1,3185
+2000,WI,Flood,Pepin,1,3188
+2000,WI,Flood,Pierce,1,3189
+2000,WI,Flood,Rusk,1,3199
+2000,WI,Flood,St. Croix,1,3200
+2000,WI,Flood,Vernon,1,3213
+2000,WI,Flood,Washburn,1,3004
+2000,WI,Flood,Winnebago,1,3012
+2000,WI,Flood,Trempealeau,1,3210
+2000,MN,Flood,Becker,1,1878
+2000,MN,Flood,Dodge,1,1906
+2000,MN,Flood,Faribault,1,1908
+2000,MN,Flood,Le Sueur,1,1929
+2000,MN,Flood,Marshall,1,1937
+2000,MN,Flood,Nobles,1,1950
+2000,MN,Flood,Isanti,1,1916
+2000,MN,Flood,Lake,1,1926
+2000,MN,Flood,Roseau,1,1976
+2000,MN,Flood,Anoka,1,1877
+2000,MN,Flood,Koochiching,1,1922
+2000,MN,Flood,Olmsted,1,1953
+2000,MN,Flood,Hennepin,1,1913
+2000,MN,Flood,Rice,1,1973
+2000,MN,Flood,Aitkin,1,1875
+2000,MN,Flood,Beltrami,1,1880
+2000,MN,Flood,Brown,1,1892
+2000,MN,Flood,Carlton,1,1893
+2000,MN,Flood,Clearwater,1,1899
+2000,MN,Flood,Crow Wing,1,1903
+2000,MN,Flood,Douglas,1,1907
+2000,MN,Flood,Kanabec,1,1919
+2000,MN,Flood,Kandiyohi,1,1920
+2000,MN,Flood,Kittson,1,1921
+2000,MN,Flood,Lake of the Woods,1,1927
+2000,MN,Flood,Mille Lacs,1,1943
+2000,MN,Flood,Mower,1,1945
+2000,MN,Flood,Nicollet,1,1948
+2000,MN,Flood,Otter Tail,1,1954
+2000,MN,Flood,Pine,1,1957
+2000,MN,Flood,Pope,1,1961
+2000,MN,Flood,Sibley,1,1982
+2000,MN,Flood,Stearns,1,1984
+2000,MN,Flood,Wright,1,1999
+2000,MN,Flood,Scott,1,1979
+2000,MN,Flood,Benton,1,1881
+2000,MN,Flood,Big Stone,1,1882
+2000,MN,Flood,Carver,1,1894
+2000,MN,Flood,Chippewa,1,1896
+2000,MN,Flood,Chisago,1,1897
+2000,MN,Flood,Clay,1,1898
+2000,MN,Flood,Dakota,1,1904
+2000,MN,Flood,Goodhue,1,1911
+2000,MN,Flood,Grant,1,1912
+2000,MN,Flood,Houston,1,1914
+2000,MN,Flood,Lac qui Parle,1,1923
+2000,MN,Flood,McLeod,1,1934
+2000,MN,Flood,Meeker,1,1941
+2000,MN,Flood,Freeborn,1,1910
+2000,MN,Flood,Norman,1,1951
+2000,MN,Flood,Polk,1,1959
+2000,MN,Flood,Ramsey,1,1964
+2000,MN,Flood,Morrison,1,1944
+2000,MN,Flood,Redwood,1,1969
+2000,MN,Flood,Renville,1,1971
+2000,MN,Flood,St. Louis,1,1978
+2000,MN,Flood,Stevens,1,1987
+2000,MN,Flood,Todd,1,1989
+2000,MN,Flood,Swift,1,1988
+2000,MN,Flood,Red Lake,1,1966
+2000,MN,Flood,Wabasha,1,1991
+2000,MN,Flood,Washington,1,1994
+2000,MN,Flood,Wilkin,1,1997
+2000,MN,Flood,Winona,1,1998
+2000,MN,Flood,Yellow Medicine,1,1531
+2000,MN,Flood,Traverse,1,1990
+2000,SD,Flood,Brown,1,2885
+2000,SD,Flood,Buffalo,1,2891
+2000,SD,Flood,Deuel,1,2912
+2000,SD,Flood,Edmunds,1,2917
+2000,SD,Flood,Gregory,1,2923
+2000,SD,Flood,Day,1,2911
+2000,SD,Flood,Hanson,1,2929
+2000,SD,Flood,Jerauld,1,2941
+2000,SD,Flood,Marshall,1,2430
+2000,SD,Flood,Moody,1,2485
+2000,SD,Flood,Todd,1,2540
+2000,SD,Flood,Turner,1,2550
+2000,SD,Flood,Tripp,1,2546
+2000,SD,Flood,Beadle,1,2874
+2000,SD,Flood,Clark,1,2901
+2000,SD,Flood,Codington,1,2906
+2000,SD,Flood,Hamlin,1,2926
+2000,SD,Flood,Grant,1,2922
+2000,SD,Flood,Brookings,1,2882
+2000,SD,Flood,Kingsbury,1,2945
+2000,SD,Flood,Roberts,1,2511
+2000,SD,Flood,Sanborn,1,2514
+2000,SD,Flood,Mellette,1,2450
+2000,ND,Flood,LaMoure,1,2074
+2000,ND,Flood,Logan,1,2078
+2000,ND,Flood,Morton,1,2114
+2000,ND,Flood,Mountrail,1,2119
+2000,ND,Flood,Burleigh,1,1844
+2000,SD,Flood,Spink,1,2523
+2000,ND,Flood,Adams,1,1826
+2000,ND,Flood,Barnes,1,1828
+2000,ND,Flood,Benson,1,1831
+2000,ND,Flood,Bottineau,1,1836
+2000,ND,Flood,Sargent,1,2164
+2000,ND,Flood,Cavalier,1,1849
+2000,ND,Flood,Dickey,1,2004
+2000,ND,Flood,Eddy,1,2017
+2000,ND,Flood,Foster,1,2026
+2000,ND,Flood,Golden Valley,1,2036
+2000,ND,Flood,Cass,1,1848
+2000,ND,Flood,Griggs,1,2056
+2000,ND,Flood,Kidder,1,2068
+2000,ND,Flood,McHenry,1,2082
+2000,ND,Flood,McLean,1,2103
+2000,ND,Flood,Grand Forks,1,2043
+2000,ND,Flood,Grant,1,2051
+2000,ND,Flood,Nelson,1,2122
+2000,ND,Flood,Pembina,1,2131
+2000,ND,Flood,Pierce,1,2136
+2000,ND,Flood,Ramsey,1,2141
+2000,ND,Flood,Ransom,1,2147
+2000,ND,Flood,Richland,1,2156
+2000,ND,Flood,Rolette,1,2161
+2000,ND,Flood,Sheridan,1,2169
+2000,ND,Flood,Steele,1,2186
+2000,ND,Flood,Stutsman,1,2199
+2000,ND,Flood,Towner,1,2205
+2000,ND,Flood,Traill,1,2217
+2000,ND,Flood,Walsh,1,2225
+2000,ND,Flood,Wells,1,2237
+2000,MI,Flood,Iron,1,1716
+2000,MI,Flood,Baraga,1,1624
+2000,MI,Flood,Gogebic,1,1693
+2000,MI,Flood,Houghton,1,1705
+2000,MI,Flood,Marquette,1,1793
+2000,MI,Flood,Ontonagon,1,1829
+2000,IA,Flood,Allamakee,1,608
+2000,IA,Flood,Benton,1,619
+2000,IA,Flood,Buchanan,1,632
+2000,IA,Flood,Cedar,1,379
+2000,IA,Flood,Des Moines,1,424
+2000,IA,Flood,Fayette,1,442
+2000,IA,Flood,Henry,1,479
+2000,IA,Flood,Iowa,1,495
+2000,IA,Flood,Johnson,1,508
+2000,IA,Flood,Lee,1,531
+2000,IA,Flood,Louisa,1,539
+2000,IA,Flood,Muscatine,1,600
+2000,IA,Flood,Winneshiek,1,698
+2000,IA,Flood,Clayton,1,402
+2000,IA,Flood,Clinton,1,404
+2000,IA,Flood,Delaware,1,421
+2000,IA,Flood,Dubuque,1,434
+2000,IA,Flood,Scott,1,657
+2000,IA,Flood,Jackson,1,499
+2000,IA,Flood,Jones,1,516
+2000,IA,Flood,Linn,1,535
+2000,AK,Flood,Matanuska-Susitna,1,556
+2000,AK,Flood,Wade Hampton,1,725
+2000,AK,Flood,Bethel,1,411
+2000,AK,Flood,Dillingham,1,445
+2000,AK,Flood,Fairbanks North Star,1,454
+2000,AK,Flood,Yukon-Koyukuk,1,753
+2000,TX,Flood,Jones,1,2301
+2000,TX,Flood,San Saba,1,2435
+2000,TX,Flood,Bee,1,2196
+2000,TX,Flood,Caldwell,1,2320
+2000,TX,Flood,Calhoun,1,2327
+2000,TX,Flood,DeWitt,1,2538
+2000,TX,Flood,Nueces,1,2194
+2000,TX,Flood,Travis,1,2543
+2000,TX,Flood,Atascosa,1,2173
+2000,TX,Flood,Bandera,1,2183
+2000,TX,Flood,Bexar,1,2203
+2000,TX,Flood,Blanco,1,2207
+2000,TX,Flood,Brown,1,2296
+2000,TX,Flood,Burnet,1,2312
+2000,TX,Flood,Callahan,1,2331
+2000,TX,Flood,Victoria,1,2595
+2000,TX,Flood,Coleman,1,2423
+2000,TX,Flood,Comal,1,2449
+2000,TX,Flood,Dimmit,1,2548
+2000,TX,Flood,Duval,1,2556
+2000,TX,Flood,Eastland,1,2562
+2000,TX,Flood,Frio,1,2028
+2000,TX,Flood,Gillespie,1,2066
+2000,TX,Flood,Goliad,1,2079
+2000,TX,Flood,Gonzales,1,2086
+2000,TX,Flood,Guadalupe,1,2116
+2000,TX,Flood,Hays,1,2166
+2000,TX,Flood,Jim Wells,1,2294
+2000,TX,Flood,Karnes,1,2307
+2000,TX,Flood,Kendall,1,2319
+2000,TX,Flood,Kerr,1,2337
+2000,TX,Flood,La Salle,1,2388
+2000,TX,Flood,McMullen,1,2494
+2000,TX,Flood,Medina,1,2652
+2000,TX,Flood,Live Oak,1,2416
+2000,TX,Flood,Real,1,2283
+2000,TX,Flood,Taylor,1,2508
+2000,TX,Flood,San Patricio,1,2415
+2000,TX,Flood,Uvalde,1,2576
+2000,TX,Flood,Wilson,1,2641
+2000,TX,Flood,Zavala,1,2651
+2000,MA,Flood,Essex,1,1519
+2000,MA,Flood,Middlesex,1,1533
+2000,MA,Flood,Nofolk,1,1543
+2000,MA,Flood,Suffolk,1,1585
+2000,MA,Flood,Worcester,1,1599
+2000,ID,Flood,Nez Perce,1,589
+2000,UT,Flood,Beaver,1,2653
+2000,UT,Flood,Box Elder,1,2658
+2000,UT,Flood,Iron,1,2676
+2000,UT,Flood,Kane,1,2678
+2000,UT,Flood,Sevier,1,2702
+2000,UT,Flood,Tooele,1,2707
+2000,UT,Flood,Wasatch,1,2567
+2000,UT,Flood,Uintah,1,2539

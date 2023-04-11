@@ -1,0 +1,14 @@
+state,declarationDate,incidentType,designatedArea,FID
+MN,2001-05-16T11:00:00.000Z,Flood,Mille Lacs,86
+MN,2001-05-16T11:00:00.000Z,Flood,Fond du Lac,39
+MN,2001-05-16T11:00:00.000Z,Flood,White Earth,172
+MN,2001-05-16T11:00:00.000Z,Flood,Red Lake,302
+MN,2001-05-16T11:00:00.000Z,Flood,Prairie Island,110
+MN,2001-05-16T11:00:00.000Z,Flood,Upper Sioux,165
+ND,2001-05-28T00:00:00.000Z,Flood,Turtle Mountain,159
+AK,2002-06-26T20:00:00.000Z,Flood,Crooked Creek,442
+AK,2002-06-26T20:00:00.000Z,Flood,Lime Village,511
+AK,2002-06-26T20:00:00.000Z,Flood,Red Devil,566
+AK,2002-06-26T20:00:00.000Z,Flood,Sleetmute,582
+ID,2005-07-06T13:47:00.000Z,Flood,Nez Perce,275
+UT,2005-08-01T13:13:00.000Z,Flood,Uintah and Ouray,162
