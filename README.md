@@ -1,6 +1,6 @@
 # DRASTIC Database Repository
 
-###### :exclamation: Current Obj: Sort FEMA Data into diff. group clusters. :exclamation:
+###### :exclamation: Current Obj: Add README to FEMA-related folders + Mapping New FEMA Data (yet another 114 Datasets)... :exclamation:
 
 
 </br>
