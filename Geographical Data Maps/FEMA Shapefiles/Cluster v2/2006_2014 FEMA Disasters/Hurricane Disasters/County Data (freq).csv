@@ -1,0 +1,903 @@
+BaseYear,state,incidentType,designatedArea,Freq,FID
+2006,TX,Hurricane,Aransas,6,2162
+2006,TX,Hurricane,Bexar,5,2203
+2006,TX,Hurricane,Brooks,5,2279
+2006,TX,Hurricane,Calhoun,6,2327
+2006,TX,Hurricane,Jim Hogg,5,2288
+2006,TX,Hurricane,Jim Wells,6,2294
+2006,TX,Hurricane,Kenedy,5,2330
+2006,TX,Hurricane,Kleberg,5,2358
+2006,TX,Hurricane,Nueces,6,2194
+2006,TX,Hurricane,Refugio,5,2334
+2006,TX,Hurricane,San Patricio,6,2415
+2006,TX,Hurricane,Starr,5,2474
+2006,TX,Hurricane,Victoria,4,2595
+2006,TX,Hurricane,Cameron,6,2359
+2006,TX,Hurricane,Hidalgo,6,2188
+2006,TX,Hurricane,Willacy,6,2639
+2006,LA,Hurricane,Bossier,3,1076
+2006,LA,Hurricane,Claiborne,3,1095
+2006,LA,Hurricane,Caddo,3,1079
+2006,LA,Hurricane,Bienville,3,1069
+2006,LA,Hurricane,Caldwell,3,1084
+2006,LA,Hurricane,Jackson,3,1138
+2006,LA,Hurricane,Lincoln,3,1291
+2006,LA,Hurricane,Natchitoches,5,1301
+2006,LA,Hurricane,De Soto,3,1103
+2006,LA,Hurricane,Webster,2,1518
+2006,LA,Hurricane,Acadia,5,1046
+2006,LA,Hurricane,Allen,5,1051
+2006,LA,Hurricane,Ascension,4,1055
+2006,LA,Hurricane,Red River,3,1436
+2006,LA,Hurricane,Assumption,4,1060
+2006,LA,Hurricane,Avoyelles,4,1062
+2006,LA,Hurricane,Beauregard,4,1066
+2006,LA,Hurricane,Calcasieu,4,1081
+2006,LA,Hurricane,Catahoula,3,1093
+2006,LA,Hurricane,Concordia,4,1098
+2006,LA,Hurricane,East Baton Rouge,4,1108
+2006,LA,Hurricane,East Carroll,3,1111
+2006,LA,Hurricane,East Feliciana,4,1115
+2006,LA,Hurricane,Cameron,6,1089
+2006,LA,Hurricane,Evangeline,3,1118
+2006,LA,Hurricane,Franklin,4,1123
+2006,LA,Hurricane,Grant,2,1127
+2006,LA,Hurricane,Iberia,5,1133
+2006,LA,Hurricane,Iberville,4,1134
+2006,LA,Hurricane,Jefferson,5,1147
+2006,LA,Hurricane,Jefferson Davis,6,1155
+2006,LA,Hurricane,Lafayette,3,1161
+2006,LA,Hurricane,Lafourche,5,1280
+2006,LA,Hurricane,La Salle,3,1289
+2006,LA,Hurricane,Livingston,5,1295
+2006,LA,Hurricane,Madison,3,1297
+2006,LA,Hurricane,Morehouse,4,1299
+2006,LA,Hurricane,Orleans,5,1304
+2006,LA,Hurricane,Ouachita,4,1306
+2006,LA,Hurricane,Plaquemines,5,1427
+2006,LA,Hurricane,Rapides,4,1434
+2006,LA,Hurricane,Richland,3,1439
+2006,LA,Hurricane,Sabine,3,1441
+2006,LA,Hurricane,Pointe Coupee,4,1431
+2006,LA,Hurricane,St. Bernard,5,1463
+2006,LA,Hurricane,St. Charles,5,1466
+2006,LA,Hurricane,St. John the Baptist,5,1469
+2006,LA,Hurricane,St. Landry,3,1471
+2006,LA,Hurricane,St. Martin,5,1473
+2006,LA,Hurricane,St. Mary,5,1474
+2006,LA,Hurricane,St. Tammany,5,1475
+2006,LA,Hurricane,Tangipahoa,5,1476
+2006,LA,Hurricane,St. Helena,4,1467
+2006,LA,Hurricane,St. James,4,1468
+2006,LA,Hurricane,Tensas,3,1479
+2006,LA,Hurricane,Terrebonne,5,1501
+2006,LA,Hurricane,Union,4,1507
+2006,LA,Hurricane,Vernon,3,1513
+2006,LA,Hurricane,Washington,4,1516
+2006,LA,Hurricane,West Baton Rouge,4,1520
+2006,LA,Hurricane,West Carroll,3,1522
+2006,LA,Hurricane,Vermilion,5,1510
+2006,LA,Hurricane,West Feliciana,3,1524
+2006,LA,Hurricane,Winn,2,1529
+2006,AL,Hurricane,Baldwin,4,20
+2006,AL,Hurricane,Mobile,4,240
+2006,TX,Hurricane,Anderson,2,2113
+2006,TX,Hurricane,Bowie,3,2224
+2006,TX,Hurricane,Brazos,3,2253
+2006,TX,Hurricane,Burleson,1,2304
+2006,TX,Hurricane,Cass,2,2382
+2006,TX,Hurricane,Leon,1,2402
+2006,TX,Hurricane,Marion,1,2547
+2006,TX,Hurricane,Milam,1,2659
+2006,TX,Hurricane,Morris,1,2688
+2006,TX,Hurricane,Panola,2,2227
+2006,TX,Hurricane,Robertson,1,2353
+2006,TX,Hurricane,Upshur,1,2566
+2006,TX,Hurricane,Wharton,4,2618
+2006,TX,Hurricane,Smith,4,2465
+2006,TX,Hurricane,Angelina,3,2124
+2006,TX,Hurricane,Austin,3,2177
+2006,TX,Hurricane,Brazoria,4,2240
+2006,TX,Hurricane,Chambers,4,2395
+2006,TX,Hurricane,Cherokee,2,2400
+2006,TX,Hurricane,Fort Bend,4,2009
+2006,TX,Hurricane,Galveston,4,2059
+2006,TX,Hurricane,Gregg,2,2101
+2006,TX,Hurricane,Grimes,1,2108
+2006,TX,Hurricane,Hardin,3,2142
+2006,TX,Hurricane,Harris,4,2149
+2006,TX,Hurricane,Harrison,2,2157
+2006,TX,Hurricane,Houston,1,2228
+2006,TX,Hurricane,Jasper,3,2271
+2006,TX,Hurricane,Jefferson,3,2285
+2006,TX,Hurricane,Liberty,3,2404
+2006,TX,Hurricane,Madison,1,2526
+2006,TX,Hurricane,Matagorda,4,2637
+2006,TX,Hurricane,Montgomery,3,2682
+2006,TX,Hurricane,Nacogdoches,4,2701
+2006,TX,Hurricane,Newton,3,2711
+2006,TX,Hurricane,Orange,3,2214
+2006,TX,Hurricane,Rusk,1,2367
+2006,TX,Hurricane,Sabine,3,2370
+2006,TX,Hurricane,San Augustine,2,2380
+2006,TX,Hurricane,Polk,3,2243
+2006,TX,Hurricane,Shelby,3,2448
+2006,TX,Hurricane,Trinity,3,2553
+2006,TX,Hurricane,Tyler,3,2560
+2006,TX,Hurricane,Walker,4,2603
+2006,TX,Hurricane,Waller,3,2606
+2006,TX,Hurricane,San Jacinto,3,2387
+2006,TX,Hurricane,Washington,1,2613
+2006,AR,Hurricane,Ashley,1,50
+2006,AR,Hurricane,Bradley,1,68
+2006,AR,Hurricane,Calhoun,1,72
+2006,AR,Hurricane,Chicot,1,77
+2006,AR,Hurricane,Cleveland,1,103
+2006,AR,Hurricane,Clark,1,86
+2006,AR,Hurricane,Conway,1,109
+2006,AR,Hurricane,Dallas,1,128
+2006,AR,Hurricane,Drew,1,136
+2006,AR,Hurricane,Garland,1,151
+2006,AR,Hurricane,Grant,1,155
+2006,AR,Hurricane,Hot Spring,1,184
+2006,AR,Hurricane,Lincoln,1,244
+2006,AR,Hurricane,Montgomery,1,304
+2006,AR,Hurricane,Perry,1,318
+2006,AR,Hurricane,Prairie,1,345
+2006,AR,Hurricane,Saline,1,360
+2006,AR,Hurricane,Van Buren,1,407
+2006,MS,Hurricane,Amite,4,1539
+2006,MS,Hurricane,Claiborne,3,1555
+2006,MS,Hurricane,Copiah,4,1564
+2006,MS,Hurricane,Forrest,4,1572
+2006,MS,Hurricane,Franklin,3,1575
+2006,MS,Hurricane,George,4,1577
+2006,MS,Hurricane,Issaquena,2,1598
+2006,MS,Hurricane,Jackson,4,1605
+2006,MS,Hurricane,Jefferson,3,1610
+2006,MS,Hurricane,Jefferson Davis,4,1612
+2006,MS,Hurricane,Lawrence,4,1632
+2006,MS,Hurricane,Lincoln,4,1645
+2006,MS,Hurricane,Marion,4,1653
+2006,MS,Hurricane,Pearl River,4,1676
+2006,MS,Hurricane,Pike,4,1680
+2006,MS,Hurricane,Stone,4,1712
+2006,MS,Hurricane,Walthall,4,1740
+2006,MS,Hurricane,Adams,3,1534
+2006,MS,Hurricane,Hancock,4,1583
+2006,MS,Hurricane,Harrison,4,1587
+2006,MS,Hurricane,Washington,2,1750
+2006,MS,Hurricane,Wilkinson,4,1757
+2006,FL,Hurricane,Bay,2,658
+2006,FL,Hurricane,Franklin,2,937
+2006,FL,Hurricane,Gulf,2,941
+2006,FL,Hurricane,Santa Rosa,2,976
+2006,FL,Hurricane,Escambia,2,931
+2006,FL,Hurricane,Okaloosa,2,965
+2006,TX,Hurricane,Bee,4,2196
+2006,TX,Hurricane,Dallas,3,2507
+2006,TX,Hurricane,Goliad,3,2079
+2006,TX,Hurricane,Live Oak,2,2416
+2006,TX,Hurricane,Jackson,3,2264
+2006,TX,Hurricane,McLennan,2,2477
+2006,TX,Hurricane,Tarrant,3,2500
+2006,TX,Hurricane,Travis,3,2543
+2006,TX,Hurricane,Collin,2,2429
+2006,TX,Hurricane,Colorado,2,2441
+2006,TX,Hurricane,Denton,2,2532
+2006,TX,Hurricane,DeWitt,2,2538
+2006,TX,Hurricane,El Paso,2,2588
+2006,TX,Hurricane,Lavaca,2,2392
+2006,TX,Hurricane,Lubbock,3,2428
+2006,TX,Hurricane,Navarro,2,2706
+2006,TX,Hurricane,Potter,2,2247
+2006,TX,Hurricane,Tom Green,2,2536
+2006,TX,Hurricane,Webb,4,2616
+2006,MS,Hurricane,Attala,3,1541
+2006,MS,Hurricane,Benton,1,1544
+2006,MS,Hurricane,Alcorn,1,1538
+2006,MS,Hurricane,Bolivar,1,1547
+2006,MS,Hurricane,Chickasaw,1,1550
+2006,MS,Hurricane,Choctaw,1,1552
+2006,MS,Hurricane,Clay,1,1559
+2006,MS,Hurricane,Coahoma,1,1562
+2006,MS,Hurricane,Clarke,3,1557
+2006,MS,Hurricane,DeSoto,1,1571
+2006,MS,Hurricane,Covington,3,1567
+2006,MS,Hurricane,Carroll,3,1549
+2006,MS,Hurricane,Calhoun,1,1548
+2006,MS,Hurricane,Greene,3,1579
+2006,MS,Hurricane,Hinds,3,1591
+2006,MS,Hurricane,Holmes,3,1593
+2006,MS,Hurricane,Grenada,3,1581
+2006,MS,Hurricane,Itawamba,1,1601
+2006,MS,Hurricane,Humphreys,1,1596
+2006,MS,Hurricane,Jones,3,1615
+2006,MS,Hurricane,Kemper,2,1616
+2006,MS,Hurricane,Lafayette,1,1620
+2006,MS,Hurricane,Jasper,3,1607
+2006,MS,Hurricane,Lamar,3,1623
+2006,MS,Hurricane,Lauderdale,3,1628
+2006,MS,Hurricane,Leake,2,1636
+2006,MS,Hurricane,Leflore,1,1643
+2006,MS,Hurricane,Lowndes,1,1647
+2006,MS,Hurricane,Lee,1,1638
+2006,MS,Hurricane,Madison,3,1651
+2006,MS,Hurricane,Marshall,1,1655
+2006,MS,Hurricane,Monroe,1,1656
+2006,MS,Hurricane,Neshoba,2,1661
+2006,MS,Hurricane,Newton,2,1663
+2006,MS,Hurricane,Noxubee,2,1666
+2006,MS,Hurricane,Oktibbeha,1,1668
+2006,MS,Hurricane,Montgomery,3,1658
+2006,MS,Hurricane,Panola,1,1671
+2006,MS,Hurricane,Perry,3,1679
+2006,MS,Hurricane,Pontotoc,1,1682
+2006,MS,Hurricane,Prentiss,1,1684
+2006,MS,Hurricane,Rankin,3,1690
+2006,MS,Hurricane,Scott,2,1692
+2006,MS,Hurricane,Sharkey,1,1695
+2006,MS,Hurricane,Simpson,2,1698
+2006,MS,Hurricane,Quitman,1,1685
+2006,MS,Hurricane,Smith,2,1709
+2006,MS,Hurricane,Sunflower,1,1721
+2006,MS,Hurricane,Tallahatchie,1,1725
+2006,MS,Hurricane,Tate,1,1727
+2006,MS,Hurricane,Tippah,1,1730
+2006,MS,Hurricane,Tishomingo,1,1732
+2006,MS,Hurricane,Tunica,1,1735
+2006,MS,Hurricane,Union,1,1737
+2006,MS,Hurricane,Warren,2,1746
+2006,MS,Hurricane,Wayne,3,1753
+2006,MS,Hurricane,Webster,1,1756
+2006,MS,Hurricane,Winston,2,1758
+2006,MS,Hurricane,Yalobusha,1,1759
+2006,MS,Hurricane,Yazoo,3,1760
+2006,AL,Hurricane,Autauga,1,5
+2006,AL,Hurricane,Bibb,1,29
+2006,AL,Hurricane,Blount,1,33
+2006,AL,Hurricane,Bullock,1,37
+2006,AL,Hurricane,Butler,1,39
+2006,AL,Hurricane,Calhoun,1,43
+2006,AL,Hurricane,Chambers,1,47
+2006,AL,Hurricane,Barbour,1,25
+2006,AL,Hurricane,Cherokee,1,51
+2006,AL,Hurricane,Chilton,1,56
+2006,AL,Hurricane,Choctaw,1,58
+2006,AL,Hurricane,Clarke,1,61
+2006,AL,Hurricane,Clay,1,65
+2006,AL,Hurricane,Cleburne,1,67
+2006,AL,Hurricane,Coffee,1,70
+2006,AL,Hurricane,Colbert,1,73
+2006,AL,Hurricane,Conecuh,1,80
+2006,AL,Hurricane,Coosa,1,82
+2006,AL,Hurricane,Covington,2,88
+2006,AL,Hurricane,Crenshaw,1,90
+2006,AL,Hurricane,Dale,1,101
+2006,AL,Hurricane,Dallas,2,110
+2006,AL,Hurricane,DeKalb,1,112
+2006,AL,Hurricane,Elmore,1,118
+2006,AL,Hurricane,Cullman,1,98
+2006,AL,Hurricane,Escambia,1,122
+2006,AL,Hurricane,Etowah,1,131
+2006,AL,Hurricane,Fayette,1,134
+2006,AL,Hurricane,Franklin,1,138
+2006,AL,Hurricane,Geneva,2,140
+2006,AL,Hurricane,Greene,1,148
+2006,AL,Hurricane,Hale,1,150
+2006,AL,Hurricane,Henry,1,158
+2006,AL,Hurricane,Jackson,1,164
+2006,AL,Hurricane,Houston,1,160
+2006,AL,Hurricane,Lamar,1,174
+2006,AL,Hurricane,Lauderdale,1,176
+2006,AL,Hurricane,Lawrence,1,181
+2006,AL,Hurricane,Lee,1,187
+2006,AL,Hurricane,Limestone,1,197
+2006,AL,Hurricane,Madison,1,217
+2006,AL,Hurricane,Lowndes,1,205
+2006,AL,Hurricane,Macon,1,210
+2006,AL,Hurricane,Marengo,1,220
+2006,AL,Hurricane,Jefferson,1,171
+2006,AL,Hurricane,Marion,1,224
+2006,AL,Hurricane,Marshall,1,231
+2006,AL,Hurricane,Monroe,2,250
+2006,AL,Hurricane,Montgomery,1,256
+2006,AL,Hurricane,Morgan,1,262
+2006,AL,Hurricane,Pickens,2,273
+2006,AL,Hurricane,Perry,2,264
+2006,AL,Hurricane,Randolph,1,284
+2006,AL,Hurricane,St. Clair,1,292
+2006,AL,Hurricane,Shelby,1,298
+2006,AL,Hurricane,Russell,1,288
+2006,AL,Hurricane,Pike,1,279
+2006,AL,Hurricane,Tallapoosa,1,308
+2006,AL,Hurricane,Sumter,1,303
+2006,AL,Hurricane,Walker,1,317
+2006,AL,Hurricane,Tuscaloosa,1,313
+2006,AL,Hurricane,Wilcox,1,326
+2006,AL,Hurricane,Winston,1,332
+2006,AL,Hurricane,Talladega,1,306
+2006,AL,Hurricane,Washington,1,319
+2006,FL,Hurricane,Monroe,2,963
+2006,TX,Hurricane,Archer,1,2168
+2006,TX,Hurricane,Bell,1,2198
+2006,TX,Hurricane,Ellis,1,2579
+2006,TX,Hurricane,Franklin,1,2016
+2006,TX,Hurricane,Comal,2,2449
+2006,TX,Hurricane,Hill,1,2201
+2006,TX,Hurricane,Hopkins,1,2221
+2006,TX,Hurricane,Hunt,1,2246
+2006,TX,Hurricane,Henderson,1,2178
+2006,TX,Hurricane,Grayson,1,2094
+2006,TX,Hurricane,Kaufman,1,2314
+2006,TX,Hurricane,Lamar,1,2371
+2006,TX,Hurricane,Parker,1,2229
+2006,TX,Hurricane,Randall,1,2274
+2006,TX,Hurricane,Titus,1,2531
+2006,TX,Hurricane,Williamson,1,2640
+2006,TX,Hurricane,Wise,1,2643
+2006,TX,Hurricane,Wood,1,2644
+2006,TX,Hurricane,Van Zandt,1,2586
+2006,TX,Hurricane,Cottle,1,2473
+2006,TX,Hurricane,Floyd,1,2630
+2006,TX,Hurricane,Foard,1,2002
+2006,TX,Hurricane,Garza,1,2060
+2006,TX,Hurricane,Dawson,1,2512
+2006,TX,Hurricane,Lamb,1,2376
+2006,TX,Hurricane,Lynn,1,2438
+2006,TX,Hurricane,Terry,1,2522
+2006,TX,Hurricane,Val Verde,1,2582
+2006,TX,Hurricane,Motley,1,2692
+2006,TX,Hurricane,Maverick,1,2649
+2006,TX,Hurricane,Zapata,2,2650
+2006,TX,Hurricane,Duval,1,2556
+2006,TX,Hurricane,Guadalupe,1,2116
+2006,TX,Hurricane,Atascosa,1,2173
+2006,TX,Hurricane,McMullen,1,2494
+2006,TX,Hurricane,Medina,1,2652
+2006,TX,Hurricane,Wilson,1,2641
+2006,NC,Hurricane,Camden,3,1433
+2006,NC,Hurricane,Bertie,3,1983
+2006,NC,Hurricane,Beaufort,3,1981
+2006,NC,Hurricane,Craven,3,1462
+2006,NC,Hurricane,Currituck,3,1481
+2006,NC,Hurricane,Carteret,3,1447
+2006,NC,Hurricane,Greene,3,1505
+2006,NC,Hurricane,Chowan,3,1455
+2006,NC,Hurricane,Halifax,3,1508
+2006,NC,Hurricane,Columbus,3,1459
+2006,NC,Hurricane,Jones,3,1536
+2006,NC,Hurricane,Brunswick,3,1995
+2006,NC,Hurricane,Hyde,3,1521
+2006,NC,Hurricane,Gates,3,1500
+2006,NC,Hurricane,Hertford,3,1515
+2006,NC,Hurricane,Martin,3,1563
+2006,NC,Hurricane,Dare,3,1485
+2006,NC,Hurricane,Edgecombe,3,1495
+2006,NC,Hurricane,Onslow,3,1625
+2006,NC,Hurricane,Duplin,3,1492
+2006,NC,Hurricane,Northampton,3,1606
+2006,NC,Hurricane,Lenoir,3,1542
+2006,NC,Hurricane,Pender,3,1718
+2006,NC,Hurricane,Perquimans,3,1724
+2006,NC,Hurricane,Pitt,3,1733
+2006,NC,Hurricane,Pasquotank,3,1714
+2006,NC,Hurricane,Washington,3,1811
+2006,MA,Hurricane,Bristol,5,1486
+2006,NC,Hurricane,Pamlico,3,1703
+2006,NC,Hurricane,New Hanover,3,1602
+2006,NC,Hurricane,Tyrrell,3,1794
+2006,MA,Hurricane,Dukes,5,1491
+2006,MA,Hurricane,Nofolk,4,1543
+2006,MA,Hurricane,Nantucket,4,1537
+2006,MA,Hurricane,Barnstable,5,1478
+2006,MA,Hurricane,Suffolk,4,1585
+2006,MA,Hurricane,Worcester,3,1599
+2006,MA,Hurricane,Middlesex,3,1533
+2006,MA,Hurricane,Plymouth,5,1569
+2006,MA,Hurricane,Essex,3,1519
+2006,PR,Hurricane,Adjuntas,2,3060
+2006,PR,Hurricane,Aguas Buenas,2,3065
+2006,PR,Hurricane,Anasco,2,3069
+2006,PR,Hurricane,Arecibo,2,3071
+2006,PR,Hurricane,Aguadilla,1,3063
+2006,PR,Hurricane,Aibonito,2,3067
+2006,PR,Hurricane,Barceloneta,1,3074
+2006,PR,Hurricane,Aguada,2,3062
+2006,PR,Hurricane,Barranquitas,2,3076
+2006,PR,Hurricane,Arroyo,2,3072
+2006,PR,Hurricane,Bayamon,2,3078
+2006,PR,Hurricane,Camuy,1,3086
+2006,PR,Hurricane,Caguas,2,3083
+2006,PR,Hurricane,Cabo Rojo,1,3081
+2006,PR,Hurricane,Ceiba,2,3096
+2006,PR,Hurricane,Canovanas,2,3088
+2006,PR,Hurricane,Ciales,2,3098
+2006,PR,Hurricane,Cidra,2,3100
+2006,PR,Hurricane,Coamo,2,3102
+2006,PR,Hurricane,Carolina,2,3090
+2006,PR,Hurricane,Cayey,2,3094
+2006,PR,Hurricane,Corozal,2,3105
+2006,PR,Hurricane,Comerio,2,3103
+2006,PR,Hurricane,Catano,2,3092
+2006,PR,Hurricane,Fajardo,2,3110
+2006,PR,Hurricane,Culebra,2,3107
+2006,PR,Hurricane,Dorado,1,3109
+2006,PR,Hurricane,Guanica,1,3114
+2006,PR,Hurricane,Hatillo,1,3127
+2006,PR,Hurricane,Hormigueros,1,3128
+2006,PR,Hurricane,Guayanilla,1,3121
+2006,PR,Hurricane,Florida,1,3112
+2006,PR,Hurricane,Guayama,2,3118
+2006,PR,Hurricane,Guaynabo,2,3123
+2006,PR,Hurricane,Isabela,1,3130
+2006,PR,Hurricane,Juana Diaz,3,3133
+2006,PR,Hurricane,Juncos,2,3136
+2006,PR,Hurricane,Humacao,2,3129
+2006,PR,Hurricane,Lajas,1,3139
+2006,PR,Hurricane,Lares,1,3142
+2006,PR,Hurricane,Gurabo,2,3125
+2006,PR,Hurricane,Jayuya,2,3132
+2006,PR,Hurricane,Las Piedras,2,3146
+2006,PR,Hurricane,Loiza,2,3149
+2006,PR,Hurricane,Las Marias,2,3144
+2006,PR,Hurricane,Maricao,2,3155
+2006,PR,Hurricane,Morovis,2,3164
+2006,PR,Hurricane,Naranjito,2,3168
+2006,PR,Hurricane,Luquillo,2,3150
+2006,PR,Hurricane,Patillas,2,3173
+2006,PR,Hurricane,Manati,1,3152
+2006,PR,Hurricane,Penuelas,2,3176
+2006,PR,Hurricane,Ponce,2,3178
+2006,PR,Hurricane,Orocovis,2,3171
+2006,PR,Hurricane,Maunabo,2,3157
+2006,PR,Hurricane,Naguabo,3,3167
+2006,PR,Hurricane,Rio Grande,2,3184
+2006,PR,Hurricane,Quebradillas,1,3180
+2006,PR,Hurricane,Sabana Grande,2,3187
+2006,PR,Hurricane,Rincon,2,3182
+2006,PR,Hurricane,Moca,1,3162
+2006,PR,Hurricane,Mayaguez,1,3159
+2006,PR,Hurricane,San German,1,3193
+2006,PR,Hurricane,San Sebastian,1,3204
+2006,PR,Hurricane,Santa Isabel,2,3206
+2006,PR,Hurricane,San Lorenzo,2,3201
+2006,PR,Hurricane,Trujillo Alto,2,3212
+2006,PR,Hurricane,Utuado,2,3214
+2006,PR,Hurricane,San Juan,2,3197
+2006,PR,Hurricane,Toa Alta,1,3209
+2006,PR,Hurricane,Vega Alta,1,3215
+2006,PR,Hurricane,Vega Baja,2,3216
+2006,PR,Hurricane,Salinas,2,3190
+2006,PR,Hurricane,Villalba,2,3218
+2006,PR,Hurricane,Toa Baja,1,3211
+2006,PR,Hurricane,Yabucoa,3,3219
+2006,PR,Hurricane,Vieques,2,3217
+2006,PR,Hurricane,Yauco,2,3220
+2006,NC,Hurricane,Johnston,2,1530
+2006,NC,Hurricane,Nash,2,1588
+2006,NC,Hurricane,Wayne,2,1814
+2006,NY,Hurricane,Bronx,4,1681
+2006,NC,Hurricane,Wilson,2,1819
+2006,NY,Hurricane,Delaware,3,1707
+2006,NY,Hurricane,Greene,4,1739
+2006,NY,Hurricane,Kings,4,1788
+2006,NY,Hurricane,Nassau,4,1839
+2006,NY,Hurricane,New York,4,1847
+2006,NY,Hurricane,Orange,4,1859
+2006,NY,Hurricane,Queens,4,1872
+2006,NY,Hurricane,Richmond,4,1876
+2006,NY,Hurricane,Putnam,4,1870
+2006,NY,Hurricane,Columbia,3,1704
+2006,NY,Hurricane,Rockland,4,1879
+2006,NY,Hurricane,Suffolk,4,1924
+2006,NY,Hurricane,Sullivan,4,1928
+2006,NY,Hurricane,Ulster,4,1935
+2006,NY,Hurricane,Westchester,4,1960
+2006,NY,Hurricane,Schoharie,3,1888
+2006,VA,Hurricane,Accomack,4,2719
+2006,VA,Hurricane,Gloucester,2,2887
+2006,VA,Hurricane,Henrico,3,2915
+2006,VA,Hurricane,Isle of Wight,3,2925
+2006,VA,Hurricane,James City,3,2930
+2006,VA,Hurricane,King George,3,2938
+2006,VA,Hurricane,Lancaster,4,2948
+2006,VA,Hurricane,Louisa,2,2953
+2006,VA,Hurricane,Mathews,4,2962
+2006,VA,Hurricane,Middlesex,4,2965
+2006,VA,Hurricane,King and Queen,4,2936
+2006,VA,Hurricane,Essex,4,2842
+2006,VA,Hurricane,New Kent,4,2971
+2006,VA,Hurricane,Northampton,4,2982
+2006,VA,Hurricane,Richmond County,3,2995
+2006,VA,Hurricane,Surry,4,2636
+2006,VA,Hurricane,Sussex,3,2647
+2006,VA,Hurricane,Northumberland,4,2983
+2006,VA,Hurricane,York,3,2709
+2006,VA,Hurricane,Chesapeake,3,2724
+2006,VA,Hurricane,Hampton,3,2751
+2006,VA,Hurricane,Newport News,3,2775
+2006,VA,Hurricane,Westmoreland,4,2684
+2006,VA,Hurricane,Norfolk,3,2778
+2006,VA,Hurricane,Poquoson,3,2791
+2006,VA,Hurricane,Portsmouth,3,2795
+2006,VA,Hurricane,Richmond City,3,2802
+2006,VA,Hurricane,Williamsburg,3,2835
+2006,VA,Hurricane,Virginia Beach,3,2826
+2006,VA,Hurricane,Suffolk,3,2815
+2006,MA,Hurricane,Berkshire,3,1480
+2006,MA,Hurricane,Franklin,3,1523
+2006,MA,Hurricane,Hampden,3,1526
+2006,MA,Hurricane,Hampshire,3,1527
+2006,CT,Hurricane,Fairfield,4,410
+2006,CT,Hurricane,Hartford,3,432
+2006,CT,Hurricane,Litchfield,4,443
+2006,CT,Hurricane,Middlesex,4,450
+2006,CT,Hurricane,New Haven,4,466
+2006,CT,Hurricane,New London,4,517
+2006,CT,Hurricane,Tolland,4,524
+2006,CT,Hurricane,Windham,4,529
+2006,NJ,Hurricane,Atlantic,4,1461
+2006,NJ,Hurricane,Bergen,4,1465
+2006,NJ,Hurricane,Burlington,4,1470
+2006,NJ,Hurricane,Camden,4,1472
+2006,NJ,Hurricane,Cape May,4,1477
+2006,NJ,Hurricane,Cumberland,4,1482
+2006,NJ,Hurricane,Essex,4,1483
+2006,NJ,Hurricane,Gloucester,4,1484
+2006,NJ,Hurricane,Hudson,4,1487
+2006,NJ,Hurricane,Hunterdon,4,1488
+2006,NJ,Hurricane,Mercer,4,1493
+2006,NJ,Hurricane,Middlesex,4,1497
+2006,NJ,Hurricane,Monmouth,4,1504
+2006,NJ,Hurricane,Morris,4,1511
+2006,NJ,Hurricane,Ocean,4,1546
+2006,NJ,Hurricane,Passaic,4,1551
+2006,NJ,Hurricane,Salem,4,1553
+2006,NJ,Hurricane,Sussex,4,1561
+2006,NJ,Hurricane,Union,4,1566
+2006,NJ,Hurricane,Warren,4,1570
+2006,NH,Hurricane,Belknap,4,1432
+2006,NJ,Hurricane,Somerset,4,1558
+2006,NH,Hurricane,Carroll,4,1435
+2006,NH,Hurricane,Cheshire,2,1437
+2006,NH,Hurricane,Coos,4,1440
+2006,NH,Hurricane,Hillsborough,2,1443
+2006,NH,Hurricane,Merrimack,3,1444
+2006,NH,Hurricane,Rockingham,3,1448
+2006,NH,Hurricane,Strafford,3,1453
+2006,NH,Hurricane,Sullivan,4,1454
+2006,RI,Hurricane,Bristol,5,2433
+2006,NH,Hurricane,Grafton,4,1442
+2006,RI,Hurricane,Kent,5,2444
+2006,RI,Hurricane,Newport,5,2460
+2006,RI,Hurricane,Providence,4,2475
+2006,RI,Hurricane,Washington,5,2484
+2006,MD,Hurricane,Anne Arundel,3,1925
+2006,MD,Hurricane,Baltimore County,4,1939
+2006,MD,Hurricane,Allegany,3,1905
+2006,MD,Hurricane,Calvert,4,1946
+2006,MD,Hurricane,Caroline,4,1949
+2006,MD,Hurricane,Dorchester,4,1346
+2006,MD,Hurricane,Charles,4,1294
+2006,MD,Hurricane,Frederick,3,1357
+2006,MD,Hurricane,Harford,4,1372
+2006,MD,Hurricane,Howard,3,1379
+2006,MD,Hurricane,Kent,4,1394
+2006,MD,Hurricane,Carroll,3,1955
+2006,MD,Hurricane,Cecil,4,1963
+2006,MD,Hurricane,Montgomery,3,1398
+2006,MD,Hurricane,Prince George's,3,1403
+2006,MD,Hurricane,Queen Anne's,4,1413
+2006,MD,Hurricane,St. Mary's,4,1421
+2006,MD,Hurricane,Somerset,4,1430
+2006,MD,Hurricane,Talbot,4,1438
+2006,MD,Hurricane,Washington,3,1445
+2006,MD,Hurricane,Wicomico,4,1446
+2006,MD,Hurricane,Worcester,4,1456
+2006,DE,Hurricane,New Castle,3,536
+2006,MD,Hurricane,Baltimore City,4,1460
+2006,DE,Hurricane,Sussex,4,609
+2006,DC,Hurricane,District of Columbia,4,630
+2006,DE,Hurricane,Kent,4,532
+2006,VT,Hurricane,Addison,2,2590
+2006,VT,Hurricane,Bennington,2,2591
+2006,VT,Hurricane,Chittenden,2,2599
+2006,VT,Hurricane,Essex,2,2604
+2006,VT,Hurricane,Franklin,2,2607
+2006,VT,Hurricane,Grand Isle,2,2609
+2006,VT,Hurricane,Caledonia,2,2596
+2006,VT,Hurricane,Orange,2,2612
+2006,VT,Hurricane,Orleans,2,2614
+2006,VT,Hurricane,Rutland,2,2615
+2006,VT,Hurricane,Washington,2,2617
+2006,VT,Hurricane,Windsor,2,2625
+2006,VT,Hurricane,Lamoille,2,2611
+2006,PA,Hurricane,Bucks,5,2336
+2006,PA,Hurricane,Chester,4,2360
+2006,VT,Hurricane,Windham,2,2620
+2006,PA,Hurricane,Delaware,4,2414
+2006,PA,Hurricane,Lehigh,4,2496
+2006,PA,Hurricane,Luzerne,4,2501
+2006,PA,Hurricane,Monroe,5,2521
+2006,PA,Hurricane,Montgomery,5,2528
+2006,PA,Hurricane,Northampton,5,2537
+2006,PA,Hurricane,Philadelphia,5,2563
+2006,PA,Hurricane,Sullivan,5,2293
+2006,PA,Hurricane,Pike,5,2571
+2006,PA,Hurricane,Wayne,4,2363
+2006,PA,Hurricane,Wyoming,5,2407
+2006,MD,Hurricane,Garrett,2,1361
+2006,NY,Hurricane,Albany,2,1673
+2006,NY,Hurricane,Broome,1,1683
+2006,NY,Hurricane,Cattaraugus,1,1687
+2006,NY,Hurricane,Chautauqua,1,1694
+2006,NY,Hurricane,Chemung,1,1696
+2006,NY,Hurricane,Allegany,1,1674
+2006,NY,Hurricane,Chenango,1,1699
+2006,NY,Hurricane,Clinton,2,1702
+2006,NY,Hurricane,Cortland,1,1706
+2006,NY,Hurricane,Dutchess,2,1711
+2006,NY,Hurricane,Essex,2,1728
+2006,NY,Hurricane,Fulton,2,1734
+2006,NY,Hurricane,Hamilton,2,1742
+2006,NY,Hurricane,Erie,1,1723
+2006,NY,Hurricane,Franklin,2,1731
+2006,NY,Hurricane,Jefferson,1,1782
+2006,NY,Hurricane,Cayuga,1,1689
+2006,NY,Hurricane,Herkimer,2,1745
+2006,NY,Hurricane,Genesee,1,1736
+2006,NY,Hurricane,Lewis,1,1790
+2006,NY,Hurricane,Livingston,1,1791
+2006,NY,Hurricane,Madison,1,1796
+2006,NY,Hurricane,Monroe,1,1804
+2006,NY,Hurricane,Montgomery,2,1807
+2006,NY,Hurricane,Niagara,1,1850
+2006,NY,Hurricane,Oneida,1,1852
+2006,NY,Hurricane,Ontario,1,1856
+2006,NY,Hurricane,Orleans,1,1862
+2006,NY,Hurricane,Otsego,2,1868
+2006,NY,Hurricane,Oswego,1,1864
+2006,NY,Hurricane,Onondaga,1,1853
+2006,NY,Hurricane,Rensselaer,2,1874
+2006,NY,Hurricane,St. Lawrence,1,1883
+2006,NY,Hurricane,Saratoga,2,1885
+2006,NY,Hurricane,Schenectady,2,1887
+2006,NY,Hurricane,Schuyler,1,1889
+2006,NY,Hurricane,Seneca,1,1890
+2006,NY,Hurricane,Steuben,1,1891
+2006,NY,Hurricane,Tompkins,1,1933
+2006,NY,Hurricane,Warren,2,1938
+2006,NY,Hurricane,Wayne,1,1952
+2006,NY,Hurricane,Wyoming,1,1962
+2006,NY,Hurricane,Yates,1,1965
+2006,NY,Hurricane,Washington,2,1942
+2006,NY,Hurricane,Tioga,1,1930
+2006,PA,Hurricane,Adams,2,2292
+2006,PA,Hurricane,Beaver,2,2321
+2006,PA,Hurricane,Armstrong,2,2309
+2006,PA,Hurricane,Allegheny,2,2302
+2006,PA,Hurricane,Blair,2,2328
+2006,PA,Hurricane,Bedford,3,2324
+2006,PA,Hurricane,Cambria,2,2341
+2006,PA,Hurricane,Bradford,2,2333
+2006,PA,Hurricane,Berks,2,2326
+2006,PA,Hurricane,Butler,2,2338
+2006,PA,Hurricane,Cameron,3,2343
+2006,PA,Hurricane,Clearfield,2,2372
+2006,PA,Hurricane,Carbon,2,2349
+2006,PA,Hurricane,Crawford,2,2389
+2006,PA,Hurricane,Cumberland,2,2397
+2006,PA,Hurricane,Elk,2,2420
+2006,PA,Hurricane,Columbia,2,2385
+2006,PA,Hurricane,Centre,2,2354
+2006,PA,Hurricane,Clinton,2,2379
+2006,PA,Hurricane,Fayette,2,2431
+2006,PA,Hurricane,Clarion,2,2366
+2006,PA,Hurricane,Dauphin,3,2403
+2006,PA,Hurricane,Greene,2,2447
+2006,PA,Hurricane,Huntingdon,3,2454
+2006,PA,Hurricane,Indiana,2,2459
+2006,PA,Hurricane,Jefferson,2,2462
+2006,PA,Hurricane,Lawrence,2,2488
+2006,PA,Hurricane,Fulton,3,2446
+2006,PA,Hurricane,Juniata,3,2466
+2006,PA,Hurricane,Lackawanna,2,2471
+2006,PA,Hurricane,Forest,3,2436
+2006,PA,Hurricane,Erie,2,2425
+2006,PA,Hurricane,Mercer,2,2513
+2006,PA,Hurricane,Lancaster,2,2482
+2006,PA,Hurricane,Franklin,3,2439
+2006,PA,Hurricane,Lebanon,2,2492
+2006,PA,Hurricane,Mifflin,2,2517
+2006,PA,Hurricane,Montour,2,2533
+2006,PA,Hurricane,McKean,2,2509
+2006,PA,Hurricane,Lycoming,2,2505
+2006,PA,Hurricane,Perry,2,2554
+2006,PA,Hurricane,Northumberland,2,2544
+2006,PA,Hurricane,Potter,3,2575
+2006,PA,Hurricane,Snyder,2,2583
+2006,PA,Hurricane,Somerset,3,2589
+2006,PA,Hurricane,Tioga,2,2305
+2006,PA,Hurricane,Schuylkill,2,2581
+2006,PA,Hurricane,Union,2,2313
+2006,PA,Hurricane,Susquehanna,3,2298
+2006,PA,Hurricane,Warren,2,2322
+2006,PA,Hurricane,Venango,2,2316
+2006,PA,Hurricane,Washington,2,2346
+2006,PA,Hurricane,York,2,2419
+2006,PA,Hurricane,Westmoreland,2,2394
+2006,WV,Hurricane,Barbour,2,2975
+2006,WV,Hurricane,Berkeley,1,2976
+2006,WV,Hurricane,Boone,2,2977
+2006,WV,Hurricane,Calhoun,1,2981
+2006,WV,Hurricane,Cabell,1,2980
+2006,WV,Hurricane,Fayette,2,3006
+2006,WV,Hurricane,Greenbrier,1,3013
+2006,WV,Hurricane,Clay,2,3000
+2006,WV,Hurricane,Brooke,1,2979
+2006,WV,Hurricane,Hancock,1,3017
+2006,WV,Hurricane,Braxton,2,2978
+2006,WV,Hurricane,Harrison,1,3021
+2006,WV,Hurricane,Jackson,1,3023
+2006,WV,Hurricane,Hardy,1,3019
+2006,WV,Hurricane,Grant,1,3011
+2006,WV,Hurricane,Jefferson,1,3026
+2006,WV,Hurricane,Lewis,2,3029
+2006,WV,Hurricane,Hampshire,1,3016
+2006,WV,Hurricane,Gilmer,1,3008
+2006,WV,Hurricane,Doddridge,1,3002
+2006,WV,Hurricane,Logan,1,3034
+2006,WV,Hurricane,McDowell,1,3037
+2006,WV,Hurricane,Lincoln,1,3031
+2006,WV,Hurricane,Mercer,1,3044
+2006,WV,Hurricane,Mineral,1,3046
+2006,WV,Hurricane,Mingo,1,3048
+2006,WV,Hurricane,Marion,1,3039
+2006,WV,Hurricane,Mason,1,3042
+2006,WV,Hurricane,Monroe,1,3052
+2006,WV,Hurricane,Monongalia,1,3050
+2006,WV,Hurricane,Kanawha,2,3027
+2006,WV,Hurricane,Marshall,1,3041
+2006,WV,Hurricane,Ohio,1,3059
+2006,WV,Hurricane,Pendleton,2,3061
+2006,WV,Hurricane,Morgan,1,3054
+2006,WV,Hurricane,Nicholas,2,3057
+2006,WV,Hurricane,Pocahontas,2,3066
+2006,WV,Hurricane,Preston,2,3068
+2006,WV,Hurricane,Pleasants,1,3064
+2006,WV,Hurricane,Randolph,2,3075
+2006,WV,Hurricane,Putnam,1,3070
+2006,WV,Hurricane,Raleigh,2,3073
+2006,WV,Hurricane,Ritchie,1,3077
+2006,WV,Hurricane,Roane,1,3079
+2006,WV,Hurricane,Summers,1,3080
+2006,WV,Hurricane,Tucker,2,3084
+2006,WV,Hurricane,Tyler,1,3085
+2006,WV,Hurricane,Upshur,2,3087
+2006,WV,Hurricane,Taylor,2,3082
+2006,WV,Hurricane,Webster,2,3091
+2006,WV,Hurricane,Wetzel,1,3093
+2006,WV,Hurricane,Wirt,1,3095
+2006,WV,Hurricane,Wayne,1,3089
+2006,WV,Hurricane,Wood,1,3097
+2006,WV,Hurricane,Wyoming,2,3099
+2006,VA,Hurricane,Alleghany,1,2733
+2006,VA,Hurricane,Albemarle,1,2728
+2006,VA,Hurricane,Amherst,1,2746
+2006,VA,Hurricane,Appomattox,1,2749
+2006,VA,Hurricane,Amelia,2,2741
+2006,VA,Hurricane,Arlington,2,2753
+2006,VA,Hurricane,Augusta,1,2758
+2006,VA,Hurricane,Bath,1,2763
+2006,VA,Hurricane,Bedford County,1,2769
+2006,VA,Hurricane,Bland,1,2772
+2006,VA,Hurricane,Botetourt,1,2776
+2006,VA,Hurricane,Brunswick,2,2777
+2006,VA,Hurricane,Buchanan,1,2784
+2006,VA,Hurricane,Buckingham,1,2785
+2006,VA,Hurricane,Caroline,2,2793
+2006,VA,Hurricane,Carroll,1,2797
+2006,VA,Hurricane,Charles City,2,2806
+2006,VA,Hurricane,Charlotte,1,2810
+2006,VA,Hurricane,Chesterfield,2,2816
+2006,VA,Hurricane,Clarke,2,2819
+2006,VA,Hurricane,Craig,2,2820
+2006,VA,Hurricane,Culpeper,2,2824
+2006,VA,Hurricane,Campbell,1,2788
+2006,VA,Hurricane,Cumberland,1,2827
+2006,VA,Hurricane,Dickenson,1,2832
+2006,VA,Hurricane,Fairfax County,1,2849
+2006,VA,Hurricane,Fauquier,2,2853
+2006,VA,Hurricane,Floyd,1,2856
+2006,VA,Hurricane,Dinwiddie,2,2838
+2006,VA,Hurricane,Fluvanna,1,2858
+2006,VA,Hurricane,Franklin County,1,2862
+2006,VA,Hurricane,Frederick,2,2868
+2006,VA,Hurricane,Giles,1,2873
+2006,VA,Hurricane,Grayson,1,2896
+2006,VA,Hurricane,Greene,2,2899
+2006,VA,Hurricane,Greensville,2,2902
+2006,VA,Hurricane,Halifax,1,2904
+2006,VA,Hurricane,Goochland,1,2892
+2006,VA,Hurricane,Hanover,2,2909
+2006,VA,Hurricane,Henry,1,2918
+2006,VA,Hurricane,Highland,2,2920
+2006,VA,Hurricane,King William,2,2943
+2006,VA,Hurricane,Lee,1,2950
+2006,VA,Hurricane,Loudoun,2,2952
+2006,VA,Hurricane,Lunenburg,2,2954
+2006,VA,Hurricane,Madison,2,2955
+2006,VA,Hurricane,Mecklenburg,1,2964
+2006,VA,Hurricane,Montgomery,1,2966
+2006,VA,Hurricane,Nelson,2,2968
+2006,VA,Hurricane,Orange,1,2985
+2006,VA,Hurricane,Nottoway,2,2984
+2006,VA,Hurricane,Pittsylvania,1,2988
+2006,VA,Hurricane,Powhatan,2,2989
+2006,VA,Hurricane,Prince Edward,1,2990
+2006,VA,Hurricane,Prince George,2,2991
+2006,VA,Hurricane,Patrick,1,2987
+2006,VA,Hurricane,Page,1,2986
+2006,VA,Hurricane,Pulaski,1,2993
+2006,VA,Hurricane,Rappahannock,2,2994
+2006,VA,Hurricane,Roanoke County,1,2996
+2006,VA,Hurricane,Prince William,2,2992
+2006,VA,Hurricane,Rockingham,1,2998
+2006,VA,Hurricane,Russell,1,2999
+2006,VA,Hurricane,Scott,1,2585
+2006,VA,Hurricane,Rockbridge,1,2997
+2006,VA,Hurricane,Smyth,1,2600
+2006,VA,Hurricane,Southampton,2,2608
+2006,VA,Hurricane,Spotsylvania,1,2619
+2006,VA,Hurricane,Shenandoah,2,2594
+2006,VA,Hurricane,Stafford,1,2629
+2006,VA,Hurricane,Tazewell,1,2656
+2006,VA,Hurricane,Warren,2,2662
+2006,VA,Hurricane,Washington,1,2667
+2006,VA,Hurricane,Wise,1,2695
+2006,VA,Hurricane,Wythe,1,2699
+2006,VA,Hurricane,Alexandria,2,2712
+2006,VA,Hurricane,Bedford City,1,2713
+2006,VA,Hurricane,Bristol,1,2716
+2006,VA,Hurricane,Buena Vista,1,2720
+2006,VA,Hurricane,Charlottesville,1,2722
+2006,VA,Hurricane,Colonial Heights,2,2727
+2006,VA,Hurricane,Covington,1,2729
+2006,VA,Hurricane,Danville,1,2732
+2006,VA,Hurricane,Emporia,2,2736
+2006,VA,Hurricane,Fairfax City,2,2737
+2006,VA,Hurricane,Falls Church,2,2740
+2006,VA,Hurricane,Franklin City,2,2744
+2006,VA,Hurricane,Galax,1,2747
+2006,VA,Hurricane,Fredericksburg,1,2745
+2006,VA,Hurricane,Harrisonburg,1,2755
+2006,VA,Hurricane,Hopewell,2,2756
+2006,VA,Hurricane,Lexington,1,2760
+2006,VA,Hurricane,Lynchburg,1,2762
+2006,VA,Hurricane,Manassas,2,2765
+2006,VA,Hurricane,Manassas Park,1,2768
+2006,VA,Hurricane,Martinsville,1,2771
+2006,VA,Hurricane,Norton,1,2780
+2006,VA,Hurricane,Petersburg,2,2782
+2006,VA,Hurricane,Radford,1,2799
+2006,VA,Hurricane,Salem,1,2809
+2006,VA,Hurricane,Staunton,1,2812
+2006,VA,Hurricane,Waynesboro,1,2831
+2006,VA,Hurricane,Roanoke City,1,2805
+2006,VA,Hurricane,Winchester,1,2837
+2006,NC,Hurricane,Bladen,1,1986
+2006,NC,Hurricane,Sampson,1,1769
+2006,NC,Hurricane,Vance,1,1801
+2006,NC,Hurricane,Warren,1,1809
+2006,ME,Hurricane,Franklin,1,1619
+2006,ME,Hurricane,Lincoln,1,1835
+2006,ME,Hurricane,Oxford,1,1842
+2006,ME,Hurricane,York,1,1901
+2006,FL,Hurricane,Collier,1,894
+2006,FL,Hurricane,Glades,1,940
+2006,FL,Hurricane,Martin,1,961
+2006,FL,Hurricane,St. Lucie,1,975
+2006,FL,Hurricane,Palm Beach,1,969
+2006,OH,Hurricane,Ashtabula,1,2259
+2006,OH,Hurricane,Cuyahoga,1,2332

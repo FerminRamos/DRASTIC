@@ -1,0 +1,19 @@
+BaseYear,state,incidentType,designatedArea,Freq,FID
+2006,HI,Earthquake,Kauai,1,261
+2006,HI,Earthquake,Hawaii,1,198
+2006,HI,Earthquake,Maui,1,323
+2006,HI,Earthquake,Honolulu,1,234
+2006,CA,Earthquake,Imperial,1,557
+2006,VA,Earthquake,Northampton,1,2982
+2006,VA,Earthquake,Fluvanna,1,2858
+2006,VA,Earthquake,Goochland,1,2892
+2006,VA,Earthquake,King George,1,2938
+2006,VA,Earthquake,Albemarle,1,2728
+2006,VA,Earthquake,Culpeper,1,2824
+2006,VA,Earthquake,Louisa,1,2953
+2006,VA,Earthquake,Spotsylvania,1,2619
+2006,VA,Earthquake,Fredericksburg,1,2745
+2006,VA,Earthquake,Orange,1,2985
+2006,DC,Earthquake,District of Columbia,1,630
+2006,CA,Earthquake,Napa,1,236
+2006,CA,Earthquake,Solano,1,453
