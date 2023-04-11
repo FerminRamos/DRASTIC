@@ -1,3 +1,9 @@
+### About this Section...
+* Files (above) are the raw or manipulated datasets used to make our FEMA maps.
+* Below are detailed descriptions of each file.
+
+</br>
+
 ### "Raw Datasets" Folder
 | File Name                         | Purpose                                                    |
 |:----------------------------------|:-----------------------------------------------------------|
