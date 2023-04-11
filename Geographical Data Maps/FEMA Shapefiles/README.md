@@ -1,6 +1,10 @@
-### This section (all the folders on top) will undergo a MASSIVE reconstruction
+### This is a visual overview of the file structure located (above)
 
-Our goal is to create a file structue similar to this...a replica of how we want ArcGIS Pro to eventually store our data.
+``` All "Clusters" contain the same datapoints, but grouped into diff. years. As diff. groupings alter the visual aspect of our maps.```
+* Cluster v1 - Groups FEMA Data into years: 2000-2009, 2010-2019, 2020+
+* Cluster v2 - Groups FEMA Data into years: 2000-2005, 2006-2014, 2015-2022
+
+
 ```
 > FEMA Shapefiles
   > 2000-2009
@@ -31,6 +35,10 @@ Our goal is to create a file structue similar to this...a replica of how we want
       > Etc.
 ```
 
-for the meantime, pull files from this section if you please. But, note that files ***will*** be removed, alterned, and modified heavily.
-
-(See front page of DRASTIC repository for updates of this page...)
+#### File Types Located in our File Structure...
+| File Name                   | Purpose                                                                                                  |
+|:----------------------------|:---------------------------------------------------------------------------------------------------------|
+| County Data.csv             | Contains all "Counties" affected in a specific disaster.                                                 |
+| County Data (freq).csv      | Contains all "Counties" affected in a specific disaster. Eliminates Duplicates and counts Frequency.     |
+| Reservation Data.csv        | Contains all "Reservations" affected in a specific disaster.                                             |
+| Reservation Data (freq).csv | Contains all "Reservations" affected in a specific disaster. Eliminates Duplicates and counts Frequency. |
