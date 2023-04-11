@@ -1,0 +1,86 @@
+BaseYear,state,incidentType,designatedArea,Freq,FID
+2015,AK,Earthquake,Anchorage,2,400
+2015,AK,Earthquake,Kenai Peninsula,2,494
+2015,AK,Earthquake,Matanuska-Susitna,2,556
+2015,CA,Earthquake,San Bernardino,1,302
+2015,CA,Earthquake,Kern,1,84
+2015,PR,Earthquake,Adjuntas,2,3060
+2015,PR,Earthquake,Aguada,2,3062
+2015,PR,Earthquake,Aguadilla,1,3063
+2015,PR,Earthquake,Aguas Buenas,1,3065
+2015,PR,Earthquake,Aibonito,1,3067
+2015,PR,Earthquake,Anasco,2,3069
+2015,PR,Earthquake,Arecibo,2,3071
+2015,PR,Earthquake,Arroyo,1,3072
+2015,PR,Earthquake,Barceloneta,2,3074
+2015,PR,Earthquake,Barranquitas,1,3076
+2015,PR,Earthquake,Bayamon,1,3078
+2015,PR,Earthquake,Cabo Rojo,2,3081
+2015,PR,Earthquake,Caguas,1,3083
+2015,PR,Earthquake,Canovanas,1,3088
+2015,PR,Earthquake,Catano,1,3092
+2015,PR,Earthquake,Camuy,1,3086
+2015,PR,Earthquake,Carolina,1,3090
+2015,PR,Earthquake,Comerio,1,3103
+2015,PR,Earthquake,Corozal,2,3105
+2015,PR,Earthquake,Culebra,1,3107
+2015,PR,Earthquake,Dorado,1,3109
+2015,PR,Earthquake,Coamo,2,3102
+2015,PR,Earthquake,Ceiba,1,3096
+2015,PR,Earthquake,Cayey,1,3094
+2015,PR,Earthquake,Ciales,2,3098
+2015,PR,Earthquake,Cidra,1,3100
+2015,PR,Earthquake,Fajardo,1,3110
+2015,PR,Earthquake,Florida,1,3112
+2015,PR,Earthquake,Guanica,2,3114
+2015,PR,Earthquake,Guayama,1,3118
+2015,PR,Earthquake,Guayanilla,2,3121
+2015,PR,Earthquake,Guaynabo,1,3123
+2015,PR,Earthquake,Gurabo,1,3125
+2015,PR,Earthquake,Hatillo,1,3127
+2015,PR,Earthquake,Hormigueros,2,3128
+2015,PR,Earthquake,Humacao,1,3129
+2015,PR,Earthquake,Isabela,1,3130
+2015,PR,Earthquake,Jayuya,2,3132
+2015,PR,Earthquake,Juana Diaz,2,3133
+2015,PR,Earthquake,Juncos,1,3136
+2015,PR,Earthquake,Lares,2,3142
+2015,PR,Earthquake,Las Marias,2,3144
+2015,PR,Earthquake,Las Piedras,1,3146
+2015,PR,Earthquake,Loiza,1,3149
+2015,PR,Earthquake,Luquillo,1,3150
+2015,PR,Earthquake,Lajas,2,3139
+2015,PR,Earthquake,Maunabo,1,3157
+2015,PR,Earthquake,Mayaguez,2,3159
+2015,PR,Earthquake,Moca,2,3162
+2015,PR,Earthquake,Manati,1,3152
+2015,PR,Earthquake,Naranjito,2,3168
+2015,PR,Earthquake,Maricao,2,3155
+2015,PR,Earthquake,Naguabo,1,3167
+2015,PR,Earthquake,Orocovis,2,3171
+2015,PR,Earthquake,Morovis,2,3164
+2015,PR,Earthquake,Patillas,1,3173
+2015,PR,Earthquake,Penuelas,2,3176
+2015,PR,Earthquake,Ponce,2,3178
+2015,PR,Earthquake,Quebradillas,1,3180
+2015,PR,Earthquake,Rincon,2,3182
+2015,PR,Earthquake,Rio Grande,1,3184
+2015,PR,Earthquake,Sabana Grande,2,3187
+2015,PR,Earthquake,Salinas,2,3190
+2015,PR,Earthquake,San German,2,3193
+2015,PR,Earthquake,San Juan,1,3197
+2015,PR,Earthquake,San Lorenzo,1,3201
+2015,PR,Earthquake,San Sebastian,2,3204
+2015,PR,Earthquake,Santa Isabel,2,3206
+2015,PR,Earthquake,Toa Alta,1,3209
+2015,PR,Earthquake,Toa Baja,1,3211
+2015,PR,Earthquake,Trujillo Alto,1,3212
+2015,PR,Earthquake,Utuado,2,3214
+2015,PR,Earthquake,Vega Alta,1,3215
+2015,PR,Earthquake,Villalba,2,3218
+2015,PR,Earthquake,Yabucoa,1,3219
+2015,PR,Earthquake,Vega Baja,1,3216
+2015,PR,Earthquake,Vieques,1,3217
+2015,PR,Earthquake,Yauco,2,3220
+2015,UT,Earthquake,Salt Lake,1,2690
+2015,UT,Earthquake,Davis,1,2671

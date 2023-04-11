@@ -1,0 +1,26 @@
+BaseYear,state,incidentType,designatedArea,Freq,FID
+2015,CA,Flood,Soboba,1,135
+2015,CA,Flood,Tule River,1,156
+2015,ND,Flood,Turtle Mountain,1,159
+2015,NM,Flood,Acoma,1,8
+2015,WA,Flood,Colville,1,29
+2015,AZ,Flood,Havasupai,1,238
+2015,MN,Flood,Leech Lake,1,75
+2015,MN,Flood,White Earth,2,172
+2015,MN,Flood,Red Lake,2,302
+2015,NE,Flood,Omaha,1,281
+2015,NE,Flood,Ponca (NE),3,354
+2015,NE,Flood,Sac and Fox Nation,1,121
+2015,NE,Flood,Winnebago,1,175
+2015,NE,Flood,Santee,1,316
+2015,IA,Flood,Sac and Fox/Meskwaki,1,122
+2015,SD,Flood,Lake Traverse,1,74
+2015,SD,Flood,Pine Ridge,1,293
+2015,SD,Flood,Cheyenne River,2,27
+2015,SD,Flood,Rosebud,2,118
+2015,MN,Flood,Prairie Island,1,110
+2015,MN,Flood,Upper Sioux,1,165
+2015,ID,Flood,Nez Perce,1,275
+2015,WI,Flood,St. Croix,1,140
+2015,WI,Flood,Menominee,1,84
+2015,OR,Flood,Umatilla,1,163

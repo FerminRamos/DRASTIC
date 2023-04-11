@@ -1,0 +1,230 @@
+BaseYear,state,incidentType,designatedArea,Freq,FID
+2015,WA,Fire,Asotin,2,2845
+2015,WA,Fire,Chelan,10,2852
+2015,WA,Fire,Ferry,8,2880
+2015,WA,Fire,Klickitat,4,2935
+2015,WA,Fire,Okanogan,12,2947
+2015,WA,Fire,Pend Oreille,4,2951
+2015,WA,Fire,Douglas,8,2877
+2015,WA,Fire,Skamania,3,2959
+2015,WA,Fire,Spokane,7,2961
+2015,WA,Fire,Stevens,5,2963
+2015,WA,Fire,Yakima,8,2974
+2015,CA,Fire,Los Angeles,18,139
+2015,CA,Fire,San Diego,6,315
+2015,CA,Fire,Santa Barbara,5,391
+2015,CA,Fire,Ventura,10,521
+2015,CA,Fire,Riverside,9,281
+2015,CA,Fire,Shasta,6,431
+2015,CA,Fire,Butte,9,486
+2015,CA,Fire,Calaveras,2,489
+2015,CA,Fire,Lake,11,100
+2015,WA,Fire,Whatcom,3,2972
+2015,WA,Fire,Lincoln,4,2942
+2015,TN,Fire,Sevier,2,2030
+2015,CA,Fire,Solano,5,453
+2015,CA,Fire,Mendocino,5,190
+2015,CA,Fire,Napa,10,236
+2015,CA,Fire,Nevada,4,243
+2015,CA,Fire,Orange,6,257
+2015,CA,Fire,Yuba,5,541
+2015,CA,Fire,Sonoma,10,463
+2015,OK,Fire,Dewey,2,2158
+2015,OK,Fire,Harmon,1,2191
+2015,OK,Fire,Roger Mills,1,2369
+2015,OK,Fire,Woodward,5,2035
+2015,OK,Fire,Custer,1,2153
+2015,AZ,Fire,Pinal,4,26
+2015,ID,Fire,Kootenai,1,552
+2015,AK,Fire,Matanuska-Susitna,3,556
+2015,ID,Fire,Bonner,1,387
+2015,AK,Fire,Kenai Peninsula,1,494
+2015,CA,Fire,San Bernardino,8,302
+2015,WA,Fire,Walla Walla,2,2970
+2015,OR,Fire,Douglas,5,2115
+2015,CA,Fire,Yolo,3,525
+2015,AZ,Fire,Mohave,1,15
+2015,OR,Fire,Josephine,6,2152
+2015,OR,Fire,Baker,2,2044
+2015,ID,Fire,Idaho,2,528
+2015,ID,Fire,Lewis,1,574
+2015,ID,Fire,Clearwater,1,474
+2015,OR,Fire,Wallowa,1,2263
+2015,OR,Fire,Grant,1,2130
+2015,WA,Fire,Skagit,2,2958
+2015,CA,Fire,Amador,1,472
+2015,OK,Fire,Washington,1,2018
+2015,WY,Fire,Natrona,1,3038
+2015,TX,Fire,Bastrop,1,2190
+2015,OK,Fire,Nowata,1,2290
+2015,OK,Fire,Creek,1,2151
+2015,KS,Fire,Comanche,2,748
+2015,OK,Fire,Pawnee,1,2329
+2015,KS,Fire,Wabaunsee,1,920
+2015,KS,Fire,Barber,1,717
+2015,AZ,Fire,Yavapai,4,35
+2015,NH,Fire,Cheshire,1,1437
+2015,OR,Fire,Jefferson,5,2143
+2015,NM,Fire,Bernalillo,1,1574
+2015,NM,Fire,Torrance,1,1664
+2015,CA,Fire,Kern,2,84
+2015,NM,Fire,Otero,2,1633
+2015,UT,Fire,Washington,2,2577
+2015,CA,Fire,Monterey,4,228
+2015,WY,Fire,Uinta,1,3055
+2015,WY,Fire,Fremont,1,3028
+2015,MT,Fire,Ravalli,2,1268
+2015,CA,Fire,Fresno,3,527
+2015,NV,Fire,Washoe,11,1423
+2015,WA,Fire,Benton,2,2847
+2015,NV,Fire,Douglas,6,1400
+2015,CA,Fire,San Luis Obispo,1,351
+2015,CO,Fire,Pueblo,3,795
+2015,CA,Fire,Tulare,4,501
+2015,ID,Fire,Bonneville,1,395
+2015,TN,Fire,Bledsoe,1,2602
+2015,NC,Fire,Buncombe,1,1422
+2015,TN,Fire,Hamilton,2,2761
+2015,TN,Fire,Sequatchie,1,2025
+2015,CO,Fire,Custer,2,610
+2015,KY,Fire,Breathitt,1,1017
+2015,NC,Fire,Burke,1,1424
+2015,SC,Fire,Greenville,1,2759
+2015,NC,Fire,Rutherford,1,1764
+2015,TN,Fire,Blount,1,2622
+2015,SC,Fire,Pickens,1,2834
+2015,GA,Fire,Dade,1,708
+2015,NC,Fire,Henderson,1,1514
+2015,KY,Fire,Harlan,1,1114
+2015,KY,Fire,Knox,1,1159
+2015,KY,Fire,Pike,1,1267
+2015,KY,Fire,Letcher,1,1178
+2015,OK,Fire,Cleveland,1,2140
+2015,KS,Fire,McPherson,1,846
+2015,KS,Fire,Reno,1,882
+2015,KS,Fire,Rice,1,886
+2015,OK,Fire,Wagoner,1,2014
+2015,KS,Fire,Ellsworth,1,776
+2015,KS,Fire,Clark,1,738
+2015,KS,Fire,Russell,1,893
+2015,OK,Fire,Beaver,2,2104
+2015,KS,Fire,Ness,1,864
+2015,FL,Fire,Polk,1,972
+2015,KS,Fire,Rooks,1,889
+2015,KS,Fire,Ford,1,784
+2015,OK,Fire,Ellis,2,2165
+2015,GA,Fire,Clinch,1,676
+2015,GA,Fire,Charlton,1,635
+2015,OK,Fire,Harper,1,2193
+2015,OK,Fire,Woods,1,2029
+2015,FL,Fire,Collier,2,894
+2015,FL,Fire,Lee,1,954
+2015,GA,Fire,Ware,1,132
+2015,KS,Fire,Lincoln,1,838
+2015,UT,Fire,Iron,1,2676
+2015,AZ,Fire,Cochise,1,763
+2015,NM,Fire,Sandoval,1,1646
+2015,NV,Fire,Elko,1,1401
+2015,MT,Fire,Garfield,2,1182
+2015,CA,Fire,Mariposa,2,178
+2015,MT,Fire,Petroleum,1,1247
+2015,MT,Fire,Missoula,2,1239
+2015,WA,Fire,Kittitas,4,2932
+2015,OR,Fire,Klamath,5,2155
+2015,OR,Fire,Deschutes,3,2109
+2015,CA,Fire,Trinity,3,500
+2015,CA,Fire,Madera,4,153
+2015,OR,Fire,Hood River,1,2138
+2015,OR,Fire,Curry,1,2098
+2015,OR,Fire,Multnomah,2,2218
+2015,UT,Fire,Davis,2,2671
+2015,UT,Fire,Weber,1,2587
+2015,MT,Fire,Powell,1,1262
+2015,MT,Fire,Lewis and Clark,2,1211
+2015,MT,Fire,Lincoln,2,1219
+2015,MT,Fire,Pondera,1,1254
+2015,MT,Fire,Teton,1,1290
+2015,MT,Fire,Sanders,2,1278
+2015,SD,Fire,Custer,1,2908
+2015,OK,Fire,Pottawatomie,1,2356
+2015,TX,Fire,Hutchinson,1,2249
+2015,TX,Fire,Jones,1,2301
+2015,AZ,Fire,Coconino,2,771
+2015,NM,Fire,Colfax,1,1582
+2015,TX,Fire,Jeff Davis,1,2275
+2015,TX,Fire,Gray,1,2088
+2015,WY,Fire,Albany,2,3015
+2015,NV,Fire,Lyon,1,1412
+2015,CO,Fire,Huerfano,2,693
+2015,CO,Fire,Costilla,2,599
+2015,CO,Fire,Teller,2,375
+2015,UT,Fire,Wasatch,1,2567
+2015,UT,Fire,Duchesne,1,2672
+2015,CO,Fire,Eagle,3,648
+2015,CA,Fire,Siskiyou,4,446
+2015,OR,Fire,Sherman,1,2232
+2015,OR,Fire,Wasco,5,2267
+2015,TX,Fire,Brown,1,2296
+2015,OR,Fire,Jackson,6,2139
+2015,WA,Fire,Grant,3,2889
+2015,ID,Fire,Clark,1,464
+2015,TX,Fire,Burnet,1,2312
+2015,UT,Fire,Sanpete,1,2697
+2015,SD,Fire,Fall River,1,2919
+2015,WY,Fire,Sublette,1,3049
+2015,UT,Fire,Utah,3,2555
+2015,NM,Fire,Valencia,1,1670
+2015,AK,Fire,Fairbanks North Star,1,454
+2015,TX,Fire,Hardeman,1,2137
+2015,HI,Fire,Maui,1,323
+2015,OR,Fire,Clackamas,5,2058
+2015,OR,Fire,Lane,3,2170
+2015,OR,Fire,Lincoln,3,2174
+2015,OR,Fire,Marion,3,2200
+2015,OR,Fire,Linn,3,2181
+2015,OR,Fire,Tillamook,3,2242
+2015,OR,Fire,Washington,4,2272
+2015,CA,Fire,Plumas,3,275
+2015,CA,Fire,Sierra,1,439
+2015,CA,Fire,Tuolumne,1,513
+2015,CA,Fire,Santa Clara,2,406
+2015,CA,Fire,Santa Cruz,2,415
+2015,CA,Fire,Lassen,2,104
+2015,CA,Fire,Stanislaus,2,473
+2015,CA,Fire,San Mateo,2,368
+2015,OR,Fire,Benton,1,2053
+2015,OR,Fire,Columbia,1,2070
+2015,OR,Fire,Coos,1,2083
+2015,OR,Fire,Yamhill,2,2284
+2015,OR,Fire,Lake,3,2159
+2015,CA,Fire,Del Norte,1,511
+2015,CO,Fire,Grand,3,677
+2015,CO,Fire,Larimer,3,734
+2015,WA,Fire,Franklin,2,2884
+2015,WA,Fire,Whitman,3,2973
+2015,FL,Fire,Santa Rosa,1,976
+2015,FL,Fire,Walton,1,985
+2015,AZ,Fire,Gila,3,787
+2015,AZ,Fire,Maricopa,5,9
+2015,AZ,Fire,Pima,1,21
+2015,UT,Fire,Millard,1,2680
+2015,MT,Fire,Yellowstone,3,1302
+2015,MT,Fire,Stillwater,1,1286
+2015,CO,Fire,Garfield,3,667
+2015,CO,Fire,Mesa,2,751
+2015,WY,Fire,Carbon,2,3022
+2015,MT,Fire,Musselshell,1,1241
+2015,MT,Fire,Powder River,1,1259
+2015,MT,Fire,Gallatin,1,1177
+2015,MT,Fire,Rosebud,1,1277
+2015,MT,Fire,Custer,1,1153
+2015,WA,Fire,Thurston,2,2967
+2015,WA,Fire,Pierce,2,2956
+2015,NM,Fire,Lincoln,1,1613
+2015,SD,Fire,Pennington,1,2497
+2015,UT,Fire,San Juan,1,2694
+2015,UT,Fire,Garfield,1,2674
+2015,CO,Fire,Boulder,2,570
+2015,MT,Fire,Carbon,1,1137
+2015,MT,Fire,Big Horn,1,1274
+2015,HI,Fire,Hawaii,1,198

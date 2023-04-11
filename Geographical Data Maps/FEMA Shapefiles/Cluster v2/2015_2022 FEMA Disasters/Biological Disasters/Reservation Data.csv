@@ -1,0 +1,520 @@
+state,declarationDate,incidentType,designatedArea,FID
+NY,2020-03-13T16:00:00.000Z,Biological,Oneida,282
+CO,2020-03-13T16:00:00.000Z,Biological,Southern Ute,321
+CO,2020-03-13T16:00:00.000Z,Biological,Ute Mountain,167
+CT,2020-03-13T16:00:00.000Z,Biological,Mashantucket Pequot,82
+AZ,2020-03-13T16:00:00.000Z,Biological,Colorado River,206
+AZ,2020-03-13T16:00:00.000Z,Biological,Fort Apache,223
+AZ,2020-03-13T16:00:00.000Z,Biological,Fort McDowell Yavapai Nation,228
+AZ,2020-03-13T16:00:00.000Z,Biological,Fort Mojave,45
+AZ,2020-03-13T16:00:00.000Z,Biological,Fort Yuma,231
+AZ,2020-03-13T16:00:00.000Z,Biological,Cocopah,203
+AZ,2020-03-13T16:00:00.000Z,Biological,Havasupai,238
+AZ,2020-03-13T16:00:00.000Z,Biological,Hopi,57
+AZ,2020-03-13T16:00:00.000Z,Biological,Hualapai,59
+AZ,2020-03-13T16:00:00.000Z,Biological,Kaibab,250
+AZ,2020-03-13T16:00:00.000Z,Biological,Gila River,233
+AZ,2020-03-13T16:00:00.000Z,Biological,Maricopa (Ak Chin),81
+AZ,2020-03-13T16:00:00.000Z,Biological,Navajo Nation,93
+AZ,2020-03-13T16:00:00.000Z,Biological,Salt River,308
+AZ,2020-03-13T16:00:00.000Z,Biological,San Carlos,309
+AZ,2020-03-13T16:00:00.000Z,Biological,Tohono O'odham Nation,152
+AZ,2020-03-13T16:00:00.000Z,Biological,Tonto Apache,153
+AZ,2020-03-13T16:00:00.000Z,Biological,Pascua Pueblo Yaqui,101
+AZ,2020-03-13T16:00:00.000Z,Biological,Yavapai-Apache Nation,177
+AZ,2020-03-13T16:00:00.000Z,Biological,Yavapai-Prescott,342
+AZ,2020-03-13T16:00:00.000Z,Biological,Zuni,180
+NV,2020-03-13T16:00:00.000Z,Biological,Battle Mountain,13
+NV,2020-03-13T16:00:00.000Z,Biological,Campbell,195
+NV,2020-03-13T16:00:00.000Z,Biological,Carson,198
+NV,2020-03-13T16:00:00.000Z,Biological,Dresslerville,213
+NV,2020-03-13T16:00:00.000Z,Biological,Duck Valley,215
+NV,2020-03-13T16:00:00.000Z,Biological,Duckwater,216
+NV,2020-03-13T16:00:00.000Z,Biological,Ely,219
+NV,2020-03-13T16:00:00.000Z,Biological,Fallon Paiute-Shoshone,38
+NV,2020-03-13T16:00:00.000Z,Biological,Fort McDermitt,226
+NV,2020-03-13T16:00:00.000Z,Biological,Fort Mojave,47
+NV,2020-03-13T16:00:00.000Z,Biological,Goshute,234
+NV,2020-03-13T16:00:00.000Z,Biological,Elko,218
+NV,2020-03-13T16:00:00.000Z,Biological,Fallon Paiute-Shoshone,38
+NV,2020-03-13T16:00:00.000Z,Biological,Las Vegas,257
+NV,2020-03-13T16:00:00.000Z,Biological,Lovelock,263
+NV,2020-03-13T16:00:00.000Z,Biological,Moapa River,272
+NV,2020-03-13T16:00:00.000Z,Biological,Pyramid Lake Paiute,298
+NV,2020-03-13T16:00:00.000Z,Biological,Reno-Sparks,114
+NV,2020-03-13T16:00:00.000Z,Biological,South Fork,137
+NV,2020-03-13T16:00:00.000Z,Biological,Walker River,336
+NV,2020-03-13T16:00:00.000Z,Biological,Wells,337
+NV,2020-03-13T16:00:00.000Z,Biological,Winnemucca,338
+NV,2020-03-13T16:00:00.000Z,Biological,Yerington,343
+NV,2020-03-13T16:00:00.000Z,Biological,Stewart,326
+NV,2020-03-13T16:00:00.000Z,Biological,Summit Lake,144
+NV,2020-03-13T16:00:00.000Z,Biological,Yomba,344
+ME,2020-03-13T16:00:00.000Z,Biological,Aroostook Band of Micmac,346
+VA,2020-03-13T16:00:00.000Z,Biological,Pamunkey,364
+VA,2020-03-13T16:00:00.000Z,Biological,Mattaponi,362
+MN,2020-03-13T15:00:00.000Z,Biological,Fond du Lac,39
+MN,2020-03-13T15:00:00.000Z,Biological,Grand Portage,49
+MN,2020-03-13T15:00:00.000Z,Biological,Ho-Chunk Nation,54
+MN,2020-03-13T15:00:00.000Z,Biological,Leech Lake,75
+MN,2020-03-13T15:00:00.000Z,Biological,Bois Forte,21
+MN,2020-03-13T15:00:00.000Z,Biological,Mille Lacs,86
+MN,2020-03-13T15:00:00.000Z,Biological,Prairie Island,110
+MN,2020-03-13T15:00:00.000Z,Biological,Red Lake,302
+MN,2020-03-13T15:00:00.000Z,Biological,Shakopee Mdewakanton Sioux,128
+MN,2020-03-13T15:00:00.000Z,Biological,Upper Sioux,165
+MN,2020-03-13T15:00:00.000Z,Biological,Lower Sioux,264
+MN,2020-03-13T15:00:00.000Z,Biological,White Earth,172
+WI,2020-03-13T15:00:00.000Z,Biological,Bad River,186
+WI,2020-03-13T15:00:00.000Z,Biological,Forest County Potawatomi,41
+WI,2020-03-13T15:00:00.000Z,Biological,Ho-Chunk Nation,55
+WI,2020-03-13T15:00:00.000Z,Biological,Lac Courte Oreilles,71
+WI,2020-03-13T15:00:00.000Z,Biological,Lac du Flambeau,255
+WI,2020-03-13T15:00:00.000Z,Biological,Menominee,84
+WI,2020-03-13T15:00:00.000Z,Biological,Oneida (WI),100
+WI,2020-03-13T15:00:00.000Z,Biological,Red Cliff,113
+WI,2020-03-13T15:00:00.000Z,Biological,St. Croix,140
+WI,2020-03-13T15:00:00.000Z,Biological,Sokaogon Chippewa,136
+WI,2020-03-13T15:00:00.000Z,Biological,Stockbridge Munsee,143
+MI,2020-03-13T15:00:00.000Z,Biological,Bay Mills,14
+MI,2020-03-13T15:00:00.000Z,Biological,Grand Traverse,51
+MI,2020-03-13T15:00:00.000Z,Biological,Hannahville,53
+MI,2020-03-13T15:00:00.000Z,Biological,Huron Potawatomi,60
+MI,2020-03-13T15:00:00.000Z,Biological,Isabella,63
+MI,2020-03-13T15:00:00.000Z,Biological,Little Traverse Bay,77
+MI,2020-03-13T15:00:00.000Z,Biological,Ontonagon,284
+MI,2020-03-13T15:00:00.000Z,Biological,Pokagon,108
+MI,2020-03-13T15:00:00.000Z,Biological,Sault Ste. Marie,127
+MI,2020-03-13T15:00:00.000Z,Biological,Lac Vieux Desert,256
+MI,2020-03-13T15:00:00.000Z,Biological,L'Anse,70
+TX,2020-03-13T16:00:00.000Z,Biological,Alabama-Coushatta,10
+TX,2020-03-13T16:00:00.000Z,Biological,Kickapoo (TX),68
+TX,2020-03-13T16:00:00.000Z,Biological,Ysleta del Sur,178
+LA,2020-03-13T16:00:00.000Z,Biological,Coushatta,32
+LA,2020-03-13T16:00:00.000Z,Biological,Jena Band of Choctaw,249
+LA,2020-03-13T16:00:00.000Z,Biological,Tunica-Biloxi,157
+LA,2020-03-13T16:00:00.000Z,Biological,Chitimacha,201
+NM,2020-03-13T16:00:00.000Z,Biological,Acoma,8
+NM,2020-03-13T16:00:00.000Z,Biological,Cochiti,202
+NM,2020-03-13T16:00:00.000Z,Biological,Isleta,245
+NM,2020-03-13T16:00:00.000Z,Biological,Jemez,248
+NM,2020-03-13T16:00:00.000Z,Biological,Jicarilla Apache Nation,65
+NM,2020-03-13T16:00:00.000Z,Biological,Laguna,72
+NM,2020-03-13T16:00:00.000Z,Biological,Mescalero,270
+NM,2020-03-13T16:00:00.000Z,Biological,Nambe,92
+NM,2020-03-13T16:00:00.000Z,Biological,Navajo Nation Reservation,94
+NM,2020-03-13T16:00:00.000Z,Biological,Jemez,248
+NM,2020-03-13T16:00:00.000Z,Biological,Picuris,291
+NM,2020-03-13T16:00:00.000Z,Biological,Pojoaque,106
+NM,2020-03-13T16:00:00.000Z,Biological,Sandia,311
+NM,2020-03-13T16:00:00.000Z,Biological,San Felipe,310
+NM,2020-03-13T16:00:00.000Z,Biological,San Felipe Pueblo/Santa Ana Pueblo,6
+NM,2020-03-13T16:00:00.000Z,Biological,San Felipe Pueblo/Santo Domingo Pueblo,7
+NM,2020-03-13T16:00:00.000Z,Biological,San Ildefonso,123
+NM,2020-03-13T16:00:00.000Z,Biological,Santa Ana,312
+NM,2020-03-13T16:00:00.000Z,Biological,San Felipe,310
+NM,2020-03-13T16:00:00.000Z,Biological,Santa Clara,126
+NM,2020-03-13T16:00:00.000Z,Biological,Santa Clara,126
+NM,2020-03-13T16:00:00.000Z,Biological,Santo Domingo,317
+NM,2020-03-13T16:00:00.000Z,Biological,Santo Domingo,317
+NM,2020-03-13T16:00:00.000Z,Biological,Ohkay Owingeh,278
+NM,2020-03-13T16:00:00.000Z,Biological,Santa Ana,312
+NM,2020-03-13T16:00:00.000Z,Biological,Taos,148
+NM,2020-03-13T16:00:00.000Z,Biological,Tesuque,149
+NM,2020-03-13T16:00:00.000Z,Biological,Zia,179
+NM,2020-03-13T16:00:00.000Z,Biological,Zia,179
+NM,2020-03-13T16:00:00.000Z,Biological,Zuni,181
+NM,2020-03-13T16:00:00.000Z,Biological,Zuni,181
+NM,2020-03-13T16:00:00.000Z,Biological,Ute Mountain,168
+OK,2020-03-13T16:00:00.000Z,Biological,Caddo-Wichita-Delaware,370
+OK,2020-03-13T16:00:00.000Z,Biological,Cherokee,371
+OK,2020-03-13T16:00:00.000Z,Biological,Chickasaw,373
+OK,2020-03-13T16:00:00.000Z,Biological,Cheyenne and Arapaho,372
+OK,2020-03-13T16:00:00.000Z,Biological,Choctaw,374
+OK,2020-03-13T16:00:00.000Z,Biological,Citizen Potawatomi Nation-Absentee Shawnee,375
+OK,2020-03-13T16:00:00.000Z,Biological,Cherokee,371
+OK,2020-03-13T16:00:00.000Z,Biological,Creek,376
+OK,2020-03-13T16:00:00.000Z,Biological,Creek/Seminole,1
+OK,2020-03-13T16:00:00.000Z,Biological,Eastern Shawnee,377
+OK,2020-03-13T16:00:00.000Z,Biological,Iowa,378
+OK,2020-03-13T16:00:00.000Z,Biological,Sac and Fox,390
+OK,2020-03-13T16:00:00.000Z,Biological,Kaw,379
+OK,2020-03-13T16:00:00.000Z,Biological,Kaw/Ponca,2
+OK,2020-03-13T16:00:00.000Z,Biological,Kickapoo,380
+OK,2020-03-13T16:00:00.000Z,Biological,Kiowa-Comanche-Apache-Fort Sill Apache,382
+OK,2020-03-13T16:00:00.000Z,Biological,Miami,382
+OK,2020-03-13T16:00:00.000Z,Biological,Kiowa-Comanche-Apache-Ft Sill Apache/Caddo-Wichita-Delaware,4
+OK,2020-03-13T16:00:00.000Z,Biological,Miami/Peoria,5
+OK,2020-03-13T16:00:00.000Z,Biological,Modoc,383
+OK,2020-03-13T16:00:00.000Z,Biological,Osage,285
+OK,2020-03-13T16:00:00.000Z,Biological,Otoe-Missouria,384
+OK,2020-03-13T16:00:00.000Z,Biological,Ottawa,385
+OK,2020-03-13T16:00:00.000Z,Biological,Pawnee,386
+OK,2020-03-13T16:00:00.000Z,Biological,Peoria,387
+OK,2020-03-13T16:00:00.000Z,Biological,Ponca,388
+OK,2020-03-13T16:00:00.000Z,Biological,Quapaw,390
+OK,2020-03-13T16:00:00.000Z,Biological,Sac and Fox,390
+OK,2020-03-13T16:00:00.000Z,Biological,Seminole,391
+OK,2020-03-13T16:00:00.000Z,Biological,Seneca-Cayuga,392
+OK,2020-03-13T16:00:00.000Z,Biological,Tonkawa,394
+OK,2020-03-13T16:00:00.000Z,Biological,Wyandotte,394
+GA,2020-03-13T00:00:00.000Z,Biological,Tama,369
+FL,2020-03-13T15:00:00.000Z,Biological,Big Cypress,188
+FL,2020-03-13T15:00:00.000Z,Biological,Brighton,192
+FL,2020-03-13T15:00:00.000Z,Biological,Hollywood,239
+FL,2020-03-13T15:00:00.000Z,Biological,Fort Pierce,229
+FL,2020-03-13T15:00:00.000Z,Biological,Immokalee,242
+FL,2020-03-13T15:00:00.000Z,Biological,Tampa,330
+SC,2020-03-13T15:00:00.000Z,Biological,Catawba,24
+NC,2020-03-13T16:00:00.000Z,Biological,Eastern Cherokee,217
+AL,2020-03-13T15:00:00.000Z,Biological,Poarch Creek,104
+MS,2020-03-13T16:00:00.000Z,Biological,Mississippi Choctaw,87
+SD,2020-03-13T16:00:00.000Z,Biological,Cheyenne River,27
+SD,2020-03-13T16:00:00.000Z,Biological,Crow Creek,212
+SD,2020-03-13T16:00:00.000Z,Biological,Flandreau,221
+SD,2020-03-13T16:00:00.000Z,Biological,Lake Traverse,74
+SD,2020-03-13T16:00:00.000Z,Biological,Lower Brule,78
+SD,2020-03-13T16:00:00.000Z,Biological,Northern Cheyenne,99
+SD,2020-03-13T16:00:00.000Z,Biological,Pine Ridge,293
+SD,2020-03-13T16:00:00.000Z,Biological,Rosebud,118
+SD,2020-03-13T16:00:00.000Z,Biological,Turtle Mountain,160
+SD,2020-03-13T16:00:00.000Z,Biological,Yankton,341
+SD,2020-03-13T16:00:00.000Z,Biological,Standing Rock,325
+MT,2020-03-13T16:00:00.000Z,Biological,Blackfeet,19
+MT,2020-03-13T16:00:00.000Z,Biological,Crow,34
+MT,2020-03-13T16:00:00.000Z,Biological,Fort Belknap,42
+MT,2020-03-13T16:00:00.000Z,Biological,Fort Peck,48
+MT,2020-03-13T16:00:00.000Z,Biological,Northern Cheyenne,98
+MT,2020-03-13T16:00:00.000Z,Biological,Rocky Boy's,117
+MT,2020-03-13T16:00:00.000Z,Biological,Flathead,222
+ND,2020-03-13T16:00:00.000Z,Biological,Fort Berthold,224
+ND,2020-03-13T16:00:00.000Z,Biological,Spirit Lake,322
+ND,2020-03-13T16:00:00.000Z,Biological,Standing Rock,324
+ND,2020-03-13T16:00:00.000Z,Biological,Turtle Mountain,159
+UT,2020-03-13T16:00:00.000Z,Biological,Goshute,235
+UT,2020-03-13T16:00:00.000Z,Biological,Navajo Nation,95
+UT,2020-03-13T16:00:00.000Z,Biological,Northwestern Shoshone,277
+UT,2020-03-13T16:00:00.000Z,Biological,Paiute (UT),286
+UT,2020-03-13T16:00:00.000Z,Biological,Skull Valley,319
+UT,2020-03-13T16:00:00.000Z,Biological,Uintah and Ouray,162
+UT,2020-03-13T16:00:00.000Z,Biological,Ute Mountain,169
+WY,2020-03-13T16:00:00.000Z,Biological,Wind River,173
+IA,2020-03-13T16:00:00.000Z,Biological,Omaha,280
+IA,2020-03-13T16:00:00.000Z,Biological,Sac and Fox/Meskwaki,122
+KS,2020-03-13T16:00:00.000Z,Biological,Kickapoo (KS),251
+KS,2020-03-13T16:00:00.000Z,Biological,Prairie Band of Potawatomi Nation,297
+KS,2020-03-13T16:00:00.000Z,Biological,Iowa (KS-NE),61
+KS,2020-03-13T16:00:00.000Z,Biological,Sac and Fox Nation,120
+NE,2020-03-13T16:00:00.000Z,Biological,Iowa (KS-NE),62
+NE,2020-03-13T16:00:00.000Z,Biological,Omaha,281
+NE,2020-03-13T16:00:00.000Z,Biological,Ponca (NE),354
+NE,2020-03-13T16:00:00.000Z,Biological,Sac and Fox Nation,121
+NE,2020-03-13T16:00:00.000Z,Biological,Winnebago,175
+NE,2020-03-13T16:00:00.000Z,Biological,Santee,316
+NM,2020-03-13T16:00:00.000Z,Biological,Santa Clara,126
+OK,2020-03-13T16:00:00.000Z,Biological,Quapaw,390
+NE,2020-03-13T16:00:00.000Z,Biological,Ponca (NE),354
+NE,2020-03-13T16:00:00.000Z,Biological,Ponca (NE),354
+NE,2020-03-13T16:00:00.000Z,Biological,Winnebago,175
+MA,2020-03-13T16:00:00.000Z,Biological,Mashpee Wampanoag,349
+KS,2020-03-13T16:00:00.000Z,Biological,Prairie Band of Potawatomi Nation,297
+KS,2020-03-13T16:00:00.000Z,Biological,Iowa (KS-NE),61
+KS,2020-03-13T16:00:00.000Z,Biological,Kickapoo (KS),251
+NE,2020-03-13T16:00:00.000Z,Biological,Omaha,281
+OK,2020-03-13T16:00:00.000Z,Biological,Citizen Potawatomi Nation-Absentee Shawnee,375
+OK,2020-03-13T16:00:00.000Z,Biological,Ponca,388
+NM,2020-03-13T16:00:00.000Z,Biological,Acoma,8
+MA,2020-03-13T16:00:00.000Z,Biological,Wampanoag-Aquinnah,357
+ME,2020-03-13T16:00:00.000Z,Biological,Passamaquoddy,351
+OK,2020-03-13T16:00:00.000Z,Biological,Cherokee,371
+NM,2020-03-13T16:00:00.000Z,Biological,Picuris,291
+TX,2020-03-13T16:00:00.000Z,Biological,Alabama-Coushatta,10
+OK,2020-03-13T16:00:00.000Z,Biological,Creek,376
+MN,2020-03-13T16:00:00.000Z,Biological,Upper Sioux,165
+NY,2020-03-13T16:00:00.000Z,Biological,St. Regis Mohawk,323
+NM,2020-03-13T16:00:00.000Z,Biological,Zuni,181
+WA,2020-03-13T16:00:00.000Z,Biological,Tulalip,155
+MN,2020-03-13T16:00:00.000Z,Biological,Shakopee Mdewakanton Sioux,128
+OK,2020-03-13T16:00:00.000Z,Biological,Peoria,387
+OK,2020-03-13T16:00:00.000Z,Biological,Caddo-Wichita-Delaware,370
+ND,2020-03-13T16:00:00.000Z,Biological,Fort Berthold,224
+SD,2020-03-13T16:00:00.000Z,Biological,Pine Ridge,293
+OK,2020-03-13T16:00:00.000Z,Biological,Osage,285
+RI,2020-03-13T16:00:00.000Z,Biological,Narragansett,274
+MT,2020-03-13T16:00:00.000Z,Biological,Fort Peck,48
+OK,2020-03-13T16:00:00.000Z,Biological,Kaw,379
+OK,2020-03-13T16:00:00.000Z,Biological,Chickasaw,373
+NM,2020-03-13T16:00:00.000Z,Biological,Isleta,245
+NM,2020-03-13T16:00:00.000Z,Biological,Sandia,311
+NM,2020-03-13T16:00:00.000Z,Biological,San Felipe,310
+LA,2020-03-13T16:00:00.000Z,Biological,Coushatta,32
+NE,2020-03-13T16:00:00.000Z,Biological,Santee,316
+IA,2020-03-13T16:00:00.000Z,Biological,Sac and Fox/Meskwaki,122
+SD,2020-03-13T16:00:00.000Z,Biological,Lake Traverse,74
+AL,2020-03-13T16:00:00.000Z,Biological,Poarch Creek,104
+SD,2020-03-13T16:00:00.000Z,Biological,Cheyenne River,27
+NY,2020-03-13T16:00:00.000Z,Biological,Oneida,282
+NM,2020-03-13T16:00:00.000Z,Biological,Santa Ana,312
+NM,2020-03-13T16:00:00.000Z,Biological,Santo Domingo,317
+NM,2020-03-13T16:00:00.000Z,Biological,Santo Domingo,317
+NM,2020-03-13T16:00:00.000Z,Biological,Santa Ana,312
+NY,2020-03-20T17:11:00.000Z,Biological,Oneida,282
+IA,2020-03-23T20:20:00.000Z,Biological,Omaha,280
+IA,2020-03-23T20:20:00.000Z,Biological,Sac and Fox/Meskwaki,122
+LA,2020-03-24T21:47:00.000Z,Biological,Coushatta,32
+LA,2020-03-24T21:47:00.000Z,Biological,Tunica-Biloxi,157
+LA,2020-03-24T21:47:00.000Z,Biological,Chitimacha,201
+LA,2020-03-24T21:47:00.000Z,Biological,Jena Band of Choctaw,249
+TX,2020-03-25T12:10:00.000Z,Biological,Alabama-Coushatta,10
+TX,2020-03-25T12:10:00.000Z,Biological,Ysleta del Sur,178
+TX,2020-03-25T12:10:00.000Z,Biological,Kickapoo (TX),68
+FL,2020-03-25T12:45:00.000Z,Biological,Miccosukee,85
+FL,2020-03-25T12:45:00.000Z,Biological,Poarch Creek,105
+NC,2020-03-25T19:30:00.000Z,Biological,Eastern Cherokee,217
+SC,2020-03-27T16:00:00.000Z,Biological,Catawba,24
+MI,2020-03-27T22:10:00.000Z,Biological,Bay Mills,14
+MI,2020-03-27T22:10:00.000Z,Biological,Isabella,63
+MI,2020-03-27T22:10:00.000Z,Biological,L'Anse,70
+MI,2020-03-27T22:10:00.000Z,Biological,Huron Potawatomi,60
+MI,2020-03-27T22:10:00.000Z,Biological,Ontonagon,284
+MI,2020-03-27T22:10:00.000Z,Biological,Pokagon,108
+MI,2020-03-27T22:10:00.000Z,Biological,Little Traverse Bay,77
+MI,2020-03-27T22:10:00.000Z,Biological,Grand Traverse,51
+MI,2020-03-27T22:10:00.000Z,Biological,Hannahville,53
+MI,2020-03-27T22:10:00.000Z,Biological,Lac Vieux Desert,256
+MI,2020-03-27T22:10:00.000Z,Biological,Sault Ste. Marie,127
+CO,2020-03-28T18:10:00.000Z,Biological,Southern Ute,321
+CO,2020-03-28T18:10:00.000Z,Biological,Ute Mountain,167
+CT,2020-03-28T21:25:00.000Z,Biological,Golden Hill Paugussett,360
+CT,2020-03-28T21:25:00.000Z,Biological,Paucatuck Eastern Pequot,365
+CT,2020-03-28T21:25:00.000Z,Biological,Mashantucket Pequot,82
+CT,2020-03-28T21:25:00.000Z,Biological,Schaghticoke,367
+GA,2020-03-29T09:40:00.000Z,Biological,Tama,369
+AL,2020-03-29T20:35:00.000Z,Biological,Mobile and Washington Counties Choctaw,363
+AL,2020-03-29T20:35:00.000Z,Biological,Poarch Creek,104
+KS,2020-03-29T20:40:00.000Z,Biological,Sac and Fox Nation,120
+RI,2020-03-30T18:05:00.000Z,Biological,Narragansett,274
+MT,2020-03-31T19:10:00.000Z,Biological,Blackfeet,19
+MT,2020-03-31T19:10:00.000Z,Biological,Crow,34
+MT,2020-03-31T19:10:00.000Z,Biological,Flathead,222
+MT,2020-03-31T19:10:00.000Z,Biological,Fort Belknap,42
+MT,2020-03-31T19:10:00.000Z,Biological,Fort Peck,48
+MT,2020-03-31T19:10:00.000Z,Biological,Northern Cheyenne,98
+MT,2020-03-31T19:10:00.000Z,Biological,Rocky Boy's,117
+ND,2020-04-01T12:35:00.000Z,Biological,Spirit Lake,322
+ND,2020-04-01T12:35:00.000Z,Biological,Fort Berthold,224
+ND,2020-04-01T12:35:00.000Z,Biological,Standing Rock,324
+ND,2020-04-01T12:35:00.000Z,Biological,Turtle Mountain,159
+VA,2020-04-02T10:35:00.000Z,Biological,Mattaponi,362
+VA,2020-04-02T10:35:00.000Z,Biological,Pamunkey,364
+IN,2020-04-03T13:00:00.000Z,Biological,Pokagon,107
+WI,2020-04-04T12:35:00.000Z,Biological,Bad River,186
+WI,2020-04-04T12:35:00.000Z,Biological,Lac Courte Oreilles,71
+WI,2020-04-04T12:35:00.000Z,Biological,Forest County Potawatomi,41
+WI,2020-04-04T12:35:00.000Z,Biological,Ho-Chunk Nation,55
+WI,2020-04-04T12:35:00.000Z,Biological,Menominee,84
+WI,2020-04-04T12:35:00.000Z,Biological,St. Croix,140
+WI,2020-04-04T12:35:00.000Z,Biological,Sokaogon Chippewa,136
+WI,2020-04-04T12:35:00.000Z,Biological,Stockbridge Munsee,143
+WI,2020-04-04T12:35:00.000Z,Biological,Lac du Flambeau,255
+WI,2020-04-04T12:35:00.000Z,Biological,Red Cliff,113
+WI,2020-04-04T12:35:00.000Z,Biological,Oneida (WI),100
+NE,2020-04-04T12:55:00.000Z,Biological,Iowa (KS-NE),62
+NE,2020-04-04T12:55:00.000Z,Biological,Omaha,281
+NE,2020-04-04T12:55:00.000Z,Biological,Sac and Fox Nation,121
+NE,2020-04-04T12:55:00.000Z,Biological,Santee,316
+NE,2020-04-04T12:55:00.000Z,Biological,Ponca (NE),354
+NE,2020-04-04T12:55:00.000Z,Biological,Winnebago,175
+NE,2020-04-04T12:55:00.000Z,Biological,Ponca (NE),354
+NE,2020-04-04T12:55:00.000Z,Biological,Pine Ridge,292
+ME,2020-04-04T13:15:00.000Z,Biological,Indian Township,244
+ME,2020-04-04T13:15:00.000Z,Biological,Passamaquoddy,351
+ME,2020-04-04T13:15:00.000Z,Biological,Penobscot,102
+ME,2020-04-04T13:15:00.000Z,Biological,Penobscot,102
+ME,2020-04-04T13:15:00.000Z,Biological,Pleasant Point,295
+ME,2020-04-04T13:15:00.000Z,Biological,Passamaquoddy,351
+ME,2020-04-04T13:15:00.000Z,Biological,Houlton Maliseet,58
+ME,2020-04-04T13:15:00.000Z,Biological,Aroostook Band of Micmac,346
+ME,2020-04-04T13:15:00.000Z,Biological,Passamaquoddy,351
+NV,2020-04-04T13:20:00.000Z,Biological,Battle Mountain,13
+NV,2020-04-04T13:20:00.000Z,Biological,Campbell,195
+NV,2020-04-04T13:20:00.000Z,Biological,Carson,198
+NV,2020-04-04T13:20:00.000Z,Biological,Dresslerville,213
+NV,2020-04-04T13:20:00.000Z,Biological,Duckwater,216
+NV,2020-04-04T13:20:00.000Z,Biological,Duck Valley,215
+NV,2020-04-04T13:20:00.000Z,Biological,Ely,219
+NV,2020-04-04T13:20:00.000Z,Biological,Fallon Paiute-Shoshone,38
+NV,2020-04-04T13:20:00.000Z,Biological,Fallon Paiute-Shoshone,38
+NV,2020-04-04T13:20:00.000Z,Biological,Fort McDermitt,226
+NV,2020-04-04T13:20:00.000Z,Biological,Fort Mojave,47
+NV,2020-04-04T13:20:00.000Z,Biological,Goshute,234
+NV,2020-04-04T13:20:00.000Z,Biological,Elko,218
+NV,2020-04-04T13:20:00.000Z,Biological,Lovelock,263
+NV,2020-04-04T13:20:00.000Z,Biological,Moapa River,272
+NV,2020-04-04T13:20:00.000Z,Biological,Pyramid Lake Paiute,298
+NV,2020-04-04T13:20:00.000Z,Biological,Las Vegas,257
+NV,2020-04-04T13:20:00.000Z,Biological,Reno-Sparks,114
+NV,2020-04-04T13:20:00.000Z,Biological,South Fork,137
+NV,2020-04-04T13:20:00.000Z,Biological,Stewart,326
+NV,2020-04-04T13:20:00.000Z,Biological,Summit Lake,144
+NV,2020-04-04T13:20:00.000Z,Biological,Walker River,336
+NV,2020-04-04T13:20:00.000Z,Biological,Winnemucca,338
+NV,2020-04-04T13:20:00.000Z,Biological,Yerington,343
+NV,2020-04-04T13:20:00.000Z,Biological,Yomba,344
+NV,2020-04-04T13:20:00.000Z,Biological,Wells,337
+AZ,2020-04-04T15:50:00.000Z,Biological,Cocopah,203
+AZ,2020-04-04T15:50:00.000Z,Biological,Colorado River,206
+AZ,2020-04-04T15:50:00.000Z,Biological,Fort Apache,223
+AZ,2020-04-04T15:50:00.000Z,Biological,Fort McDowell Yavapai Nation,228
+AZ,2020-04-04T15:50:00.000Z,Biological,Fort Mojave,45
+AZ,2020-04-04T15:50:00.000Z,Biological,Fort Yuma,231
+AZ,2020-04-04T15:50:00.000Z,Biological,Gila River,233
+AZ,2020-04-04T15:50:00.000Z,Biological,Havasupai,238
+AZ,2020-04-04T15:50:00.000Z,Biological,Hopi,57
+AZ,2020-04-04T15:50:00.000Z,Biological,Hualapai,59
+AZ,2020-04-04T15:50:00.000Z,Biological,Kaibab,250
+AZ,2020-04-04T15:50:00.000Z,Biological,Maricopa (Ak Chin),81
+AZ,2020-04-04T15:50:00.000Z,Biological,Navajo Nation,93
+AZ,2020-04-04T15:50:00.000Z,Biological,Pascua Pueblo Yaqui,101
+AZ,2020-04-04T15:50:00.000Z,Biological,Salt River,308
+AZ,2020-04-04T15:50:00.000Z,Biological,San Carlos,309
+AZ,2020-04-04T15:50:00.000Z,Biological,Tohono O'odham Nation,152
+AZ,2020-04-04T15:50:00.000Z,Biological,Yavapai-Prescott,342
+AZ,2020-04-04T15:50:00.000Z,Biological,Yavapai-Apache Nation,177
+AZ,2020-04-04T15:50:00.000Z,Biological,Tonto Apache,153
+AZ,2020-04-04T15:50:00.000Z,Biological,Zuni,180
+UT,2020-04-04T15:45:00.000Z,Biological,Goshute,235
+UT,2020-04-04T15:45:00.000Z,Biological,Navajo Nation,95
+UT,2020-04-04T15:45:00.000Z,Biological,Northwestern Shoshone,277
+UT,2020-04-04T15:45:00.000Z,Biological,Skull Valley,319
+UT,2020-04-04T15:45:00.000Z,Biological,Uintah and Ouray,162
+UT,2020-04-04T15:45:00.000Z,Biological,Ute Mountain,169
+UT,2020-04-04T15:45:00.000Z,Biological,Paiute (UT),286
+SD,2020-04-05T10:05:00.000Z,Biological,Cheyenne River,27
+SD,2020-04-05T10:05:00.000Z,Biological,Flandreau,221
+SD,2020-04-05T10:05:00.000Z,Biological,Northern Cheyenne,99
+SD,2020-04-05T10:05:00.000Z,Biological,Crow Creek,212
+SD,2020-04-05T10:05:00.000Z,Biological,Lake Traverse,74
+SD,2020-04-05T10:05:00.000Z,Biological,Lower Brule,78
+SD,2020-04-05T10:05:00.000Z,Biological,Rosebud,118
+SD,2020-04-05T10:05:00.000Z,Biological,Standing Rock,325
+SD,2020-04-05T10:05:00.000Z,Biological,Turtle Mountain,160
+SD,2020-04-05T10:05:00.000Z,Biological,Pine Ridge,293
+SD,2020-04-05T10:05:00.000Z,Biological,Yankton,341
+MS,2020-04-05T12:30:00.000Z,Biological,Mississippi Choctaw,87
+NM,2020-04-05T12:30:00.000Z,Biological,Acoma,8
+NM,2020-04-05T12:30:00.000Z,Biological,Cochiti,202
+NM,2020-04-05T12:30:00.000Z,Biological,Isleta,245
+NM,2020-04-05T12:30:00.000Z,Biological,Jemez,248
+NM,2020-04-05T12:30:00.000Z,Biological,Jemez,248
+NM,2020-04-05T12:30:00.000Z,Biological,Jicarilla Apache Nation,65
+NM,2020-04-05T12:30:00.000Z,Biological,Mescalero,270
+NM,2020-04-05T12:30:00.000Z,Biological,Nambe,92
+NM,2020-04-05T12:30:00.000Z,Biological,Navajo Nation Reservation,94
+NM,2020-04-05T12:30:00.000Z,Biological,Laguna,72
+NM,2020-04-05T12:30:00.000Z,Biological,Picuris,291
+NM,2020-04-05T12:30:00.000Z,Biological,Pojoaque,106
+NM,2020-04-05T12:30:00.000Z,Biological,Sandia,311
+NM,2020-04-05T12:30:00.000Z,Biological,San Felipe,310
+NM,2020-04-05T12:30:00.000Z,Biological,San Felipe Pueblo/Santa Ana Pueblo,6
+NM,2020-04-05T12:30:00.000Z,Biological,San Ildefonso,123
+NM,2020-04-05T12:30:00.000Z,Biological,Ohkay Owingeh,278
+NM,2020-04-05T12:30:00.000Z,Biological,San Felipe Pueblo/Santo Domingo Pueblo,7
+NM,2020-04-05T12:30:00.000Z,Biological,San Felipe,310
+NM,2020-04-05T12:30:00.000Z,Biological,Santa Ana,312
+NM,2020-04-05T12:30:00.000Z,Biological,Santa Ana,312
+NM,2020-04-05T12:30:00.000Z,Biological,Santa Clara,126
+NM,2020-04-05T12:30:00.000Z,Biological,Santa Clara,126
+NM,2020-04-05T12:30:00.000Z,Biological,Santo Domingo,317
+NM,2020-04-05T12:30:00.000Z,Biological,Tesuque,149
+NM,2020-04-05T12:30:00.000Z,Biological,Ute Mountain,168
+NM,2020-04-05T12:30:00.000Z,Biological,Zia,179
+NM,2020-04-05T12:30:00.000Z,Biological,Santo Domingo,317
+NM,2020-04-05T12:30:00.000Z,Biological,Zuni,181
+NM,2020-04-05T12:30:00.000Z,Biological,Zuni,181
+NM,2020-04-05T12:30:00.000Z,Biological,Taos,148
+NM,2020-04-05T12:30:00.000Z,Biological,Zia,179
+OK,2020-04-05T13:10:00.000Z,Biological,Caddo-Wichita-Delaware,370
+OK,2020-04-05T13:10:00.000Z,Biological,Cherokee,371
+OK,2020-04-05T13:10:00.000Z,Biological,Cheyenne and Arapaho,372
+OK,2020-04-05T13:10:00.000Z,Biological,Chickasaw,373
+OK,2020-04-05T13:10:00.000Z,Biological,Choctaw,374
+OK,2020-04-05T13:10:00.000Z,Biological,Cherokee,371
+OK,2020-04-05T13:10:00.000Z,Biological,Creek,376
+OK,2020-04-05T13:10:00.000Z,Biological,Eastern Shawnee,377
+OK,2020-04-05T13:10:00.000Z,Biological,Citizen Potawatomi Nation-Absentee Shawnee,375
+OK,2020-04-05T13:10:00.000Z,Biological,Kiowa-Comanche-Apache-Fort Sill Apache,382
+OK,2020-04-05T13:10:00.000Z,Biological,Iowa,378
+OK,2020-04-05T13:10:00.000Z,Biological,Kiowa-Comanche-Apache-Ft Sill Apache/Caddo-Wichita-Delaware,4
+OK,2020-04-05T13:10:00.000Z,Biological,Miami,382
+OK,2020-04-05T13:10:00.000Z,Biological,Creek/Seminole,1
+OK,2020-04-05T13:10:00.000Z,Biological,Ottawa,385
+OK,2020-04-05T13:10:00.000Z,Biological,Kickapoo,380
+OK,2020-04-05T13:10:00.000Z,Biological,Modoc,383
+OK,2020-04-05T13:10:00.000Z,Biological,Ponca,388
+OK,2020-04-05T13:10:00.000Z,Biological,Sac and Fox,390
+OK,2020-04-05T13:10:00.000Z,Biological,Miami/Peoria,5
+OK,2020-04-05T13:10:00.000Z,Biological,Sac and Fox,390
+OK,2020-04-05T13:10:00.000Z,Biological,Seminole,391
+OK,2020-04-05T13:10:00.000Z,Biological,Kaw/Ponca,2
+OK,2020-04-05T13:10:00.000Z,Biological,Osage,285
+OK,2020-04-05T13:10:00.000Z,Biological,Kaw,379
+OK,2020-04-05T13:10:00.000Z,Biological,Tonkawa,394
+OK,2020-04-05T13:10:00.000Z,Biological,Wyandotte,394
+OK,2020-04-05T13:10:00.000Z,Biological,Quapaw,390
+OK,2020-04-05T13:10:00.000Z,Biological,Seneca-Cayuga,392
+OK,2020-04-05T13:10:00.000Z,Biological,Otoe-Missouria,384
+OK,2020-04-05T13:10:00.000Z,Biological,Pawnee,386
+OK,2020-04-05T13:10:00.000Z,Biological,Peoria,387
+MN,2020-04-07T13:35:00.000Z,Biological,Bois Forte,21
+MN,2020-04-07T13:35:00.000Z,Biological,Fond du Lac,39
+MN,2020-04-07T13:35:00.000Z,Biological,Grand Portage,49
+MN,2020-04-07T13:35:00.000Z,Biological,Ho-Chunk Nation,54
+MN,2020-04-07T13:35:00.000Z,Biological,Leech Lake,75
+MN,2020-04-07T13:35:00.000Z,Biological,Lower Sioux,264
+MN,2020-04-07T13:35:00.000Z,Biological,Mille Lacs,86
+MN,2020-04-07T13:35:00.000Z,Biological,Minnesota Chippewa,350
+MN,2020-04-07T13:35:00.000Z,Biological,Prairie Island,110
+MN,2020-04-07T13:35:00.000Z,Biological,Red Lake,302
+MN,2020-04-07T13:35:00.000Z,Biological,Shakopee Mdewakanton Sioux,128
+MN,2020-04-07T13:35:00.000Z,Biological,Upper Sioux,165
+MN,2020-04-07T13:35:00.000Z,Biological,White Earth,172
+AK,2020-04-09T13:55:00.000Z,Biological,Stebbins,588
+AK,2020-04-09T13:55:00.000Z,Biological,Stevens Village,589
+AK,2020-04-09T13:55:00.000Z,Biological,Stony River,590
+AK,2020-04-09T13:55:00.000Z,Biological,Takotna,591
+AK,2020-04-09T13:55:00.000Z,Biological,Tanacross,592
+AK,2020-04-09T13:55:00.000Z,Biological,Tanana,593
+AK,2020-04-09T13:55:00.000Z,Biological,Tatitlek,594
+AK,2020-04-09T13:55:00.000Z,Biological,Teller,597
+AK,2020-04-09T13:55:00.000Z,Biological,Tetlin,598
+AK,2020-04-09T13:55:00.000Z,Biological,Tetlin,598
+AK,2020-04-09T13:55:00.000Z,Biological,Togiak,599
+AK,2020-04-09T13:55:00.000Z,Biological,Toksook Bay,600
+AK,2020-04-09T13:55:00.000Z,Biological,Tuluksak,601
+AK,2020-04-09T13:55:00.000Z,Biological,Tuntutuliak,602
+AK,2020-04-09T13:55:00.000Z,Biological,Tununak,603
+AK,2020-04-09T13:55:00.000Z,Biological,Twin Hills,604
+AK,2020-04-09T13:55:00.000Z,Biological,Tyonek,605
+AK,2020-04-09T13:55:00.000Z,Biological,Unalakleet,607
+AK,2020-04-09T13:55:00.000Z,Biological,Unalaska,608
+AK,2020-04-09T13:55:00.000Z,Biological,Venetie,609
+AK,2020-04-09T13:55:00.000Z,Biological,Wainwright,610
+AK,2020-04-09T13:55:00.000Z,Biological,Wales,611
+AK,2020-04-09T13:55:00.000Z,Biological,White Mountain,612
+AK,2020-04-09T13:55:00.000Z,Biological,Yakutat,614
+ID,2020-04-09T13:55:00.000Z,Biological,Coeur d'Alene,204
+ID,2020-04-09T13:55:00.000Z,Biological,Kootenai,69
+ID,2020-04-09T13:55:00.000Z,Biological,Fort Hall,44
+ID,2020-04-09T13:55:00.000Z,Biological,Duck Valley,214
+ID,2020-04-09T13:55:00.000Z,Biological,Nez Perce,275
+WY,2020-04-11T12:35:00.000Z,Biological,Wind River,173
+FL,2020-05-08T15:36:00.000Z,Biological,Big Cypress,188
+FL,2020-05-08T15:36:00.000Z,Biological,Brighton,192
+FL,2020-05-08T15:36:00.000Z,Biological,Fort Pierce,229
+FL,2020-05-08T15:36:00.000Z,Biological,Hollywood,239
+FL,2020-05-08T15:36:00.000Z,Biological,Immokalee,242
+FL,2020-05-08T15:36:00.000Z,Biological,Seminole (FL),356
+FL,2020-05-08T15:36:00.000Z,Biological,Tampa,330
+AZ,2021-02-02T11:39:00.000Z,Biological,Navajo Nation,93
+AL,2021-03-28T11:51:00.000Z,Biological,Poarch Creek,104

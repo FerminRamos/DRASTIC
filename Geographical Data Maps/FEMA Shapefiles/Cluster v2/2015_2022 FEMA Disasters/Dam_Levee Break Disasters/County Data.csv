@@ -1,0 +1,11 @@
+state,declarationDate,incidentType,designatedArea,FID
+CA,2017-02-14T19:20:00.000Z,Dam/Levee Break,Butte,486
+CA,2017-02-14T19:20:00.000Z,Dam/Levee Break,Sutter,483
+CA,2017-02-14T19:20:00.000Z,Dam/Levee Break,Yuba,541
+MI,2020-05-21T14:10:00.000Z,Dam/Levee Break,Gladwin,1691
+MI,2020-05-21T14:10:00.000Z,Dam/Levee Break,Midland,1806
+MI,2020-07-09T18:45:00.000Z,Dam/Levee Break,Midland,1806
+MI,2020-07-09T18:45:00.000Z,Dam/Levee Break,Saginaw,1845
+MI,2020-07-09T18:45:00.000Z,Dam/Levee Break,Gladwin,1691
+MI,2020-07-09T18:45:00.000Z,Dam/Levee Break,Arenac,1621
+MI,2020-07-09T18:45:00.000Z,Dam/Levee Break,Iosco,1715
