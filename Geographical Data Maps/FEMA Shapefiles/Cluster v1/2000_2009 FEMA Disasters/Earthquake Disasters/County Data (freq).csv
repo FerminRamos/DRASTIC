@@ -1,0 +1,44 @@
+BaseYear,state,incidentType,designatedArea,Freq,FID
+2000,CA,Earthquake,Napa,1,236
+2000,WA,Earthquake,Douglas,1,2877
+2000,WA,Earthquake,Walla Walla,1,2970
+2000,WA,Earthquake,Clark,1,2865
+2000,WA,Earthquake,Island,1,2898
+2000,WA,Earthquake,Benton,1,2847
+2000,WA,Earthquake,Chelan,1,2852
+2000,WA,Earthquake,Jefferson,1,2905
+2000,WA,Earthquake,Kittitas,1,2932
+2000,WA,Earthquake,Skamania,1,2959
+2000,WA,Earthquake,Wahkiakum,1,2969
+2000,WA,Earthquake,Yakima,1,2974
+2000,WA,Earthquake,Cowlitz,1,2871
+2000,WA,Earthquake,Grays Harbor,1,2894
+2000,WA,Earthquake,Kitsap,1,2927
+2000,WA,Earthquake,Lewis,1,2940
+2000,WA,Earthquake,Mason,1,2946
+2000,WA,Earthquake,Pacific,1,2949
+2000,WA,Earthquake,Skagit,1,2958
+2000,WA,Earthquake,Snohomish,1,2960
+2000,WA,Earthquake,Pierce,1,2956
+2000,WA,Earthquake,Thurston,1,2967
+2000,WA,Earthquake,Clallam,1,2861
+2000,WA,Earthquake,King,1,2913
+2000,WA,Earthquake,Whatcom,1,2972
+2000,NY,Earthquake,Clinton,1,1702
+2000,NY,Earthquake,Essex,1,1728
+2000,NY,Earthquake,Hamilton,1,1742
+2000,NY,Earthquake,Franklin,1,1731
+2000,NY,Earthquake,Warren,1,1938
+2000,NY,Earthquake,Washington,1,1942
+2000,AK,Earthquake,Matanuska-Susitna,1,556
+2000,AK,Earthquake,Southeast Fairbanks,1,690
+2000,AK,Earthquake,Valdez-Cordova,1,710
+2000,AK,Earthquake,Yukon-Koyukuk,1,753
+2000,AK,Earthquake,Fairbanks North Star,1,454
+2000,AK,Earthquake,Denali,1,426
+2000,CA,Earthquake,Santa Barbara,1,391
+2000,CA,Earthquake,San Luis Obispo,1,351
+2000,HI,Earthquake,Kauai,1,261
+2000,HI,Earthquake,Hawaii,1,198
+2000,HI,Earthquake,Maui,1,323
+2000,HI,Earthquake,Honolulu,1,234

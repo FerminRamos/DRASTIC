@@ -1,0 +1,50 @@
+state,declarationDate,incidentType,designatedArea,FID
+MN,2000-06-27T18:30:00.000Z,Severe Storm(s),White Earth,172
+ND,2000-06-27T20:54:32.000Z,Severe Storm(s),Fort Berthold,224
+ND,2000-06-27T20:54:32.000Z,Severe Storm(s),Turtle Mountain,159
+AZ,2000-10-27T18:00:00.000Z,Severe Storm(s),Gila River,233
+MT,2001-05-28T00:00:00.000Z,Severe Storm(s),Crow,34
+MT,2002-07-03T15:30:00.000Z,Severe Storm(s),Blackfeet,19
+ND,2002-09-10T00:00:00.000Z,Severe Storm(s),Fort Berthold,224
+AK,2002-12-04T16:40:00.000Z,Severe Storm(s),Chignik Lagoon,430
+AK,2002-12-04T16:40:00.000Z,Severe Storm(s),Chignik Lake,431
+ND,2004-05-05T06:00:00.000Z,Severe Storm(s),Standing Rock,324
+ND,2004-05-05T06:00:00.000Z,Severe Storm(s),Turtle Mountain,159
+ND,2004-05-05T06:00:00.000Z,Severe Storm(s),Spirit Lake,322
+SD,2004-07-20T20:45:00.000Z,Severe Storm(s),Rosebud,118
+AZ,2005-02-17T20:35:00.000Z,Severe Storm(s),Hopi,57
+AZ,2005-02-17T20:35:00.000Z,Severe Storm(s),Navajo Nation,93
+AZ,2005-04-14T20:26:00.000Z,Severe Storm(s),Gila River,233
+AZ,2005-04-14T20:26:00.000Z,Severe Storm(s),Havasupai,238
+AZ,2005-04-14T20:26:00.000Z,Severe Storm(s),Hopi,57
+AZ,2005-04-14T20:26:00.000Z,Severe Storm(s),Navajo Nation,93
+AZ,2005-04-14T20:26:00.000Z,Severe Storm(s),San Carlos,309
+ND,2005-07-22T18:51:00.000Z,Severe Storm(s),Fort Berthold,224
+ND,2005-07-22T18:51:00.000Z,Severe Storm(s),Turtle Mountain,159
+ND,2005-07-22T18:51:00.000Z,Severe Storm(s),Standing Rock,324
+NV,2006-02-03T15:55:00.000Z,Severe Storm(s),Pyramid Lake Paiute,298
+OR,2006-03-20T14:24:00.000Z,Severe Storm(s),Warm Springs,171
+ND,2006-06-05T19:15:00.000Z,Severe Storm(s),Turtle Mountain,159
+NM,2006-08-30T17:22:00.000Z,Severe Storm(s),Navajo Nation Reservation,94
+AZ,2006-09-07T19:51:00.000Z,Severe Storm(s),Gila River,233
+AZ,2006-09-07T19:51:00.000Z,Severe Storm(s),Hopi,57
+AZ,2006-09-07T19:51:00.000Z,Severe Storm(s),Navajo Nation,93
+AZ,2006-09-07T19:51:00.000Z,Severe Storm(s),San Carlos,309
+AZ,2006-09-07T19:51:00.000Z,Severe Storm(s),Tohono O'odham Nation,152
+OR,2007-02-22T17:49:00.000Z,Severe Storm(s),Siletz,132
+SD,2007-05-22T19:18:00.000Z,Severe Storm(s),Crow Creek,212
+SD,2007-05-22T19:18:00.000Z,Severe Storm(s),Lake Traverse,74
+SD,2007-05-22T19:18:00.000Z,Severe Storm(s),Pine Ridge,293
+OR,2007-12-08T15:00:00.000Z,Severe Storm(s),"Coos, Lower Umpqua,and Siuslaw",30
+OR,2007-12-08T15:00:00.000Z,Severe Storm(s),Grand Ronde,50
+OR,2007-12-08T15:00:00.000Z,Severe Storm(s),Siletz,132
+SD,2008-07-09T13:30:00.000Z,Severe Storm(s),Cheyenne River,27
+SD,2008-07-09T13:30:00.000Z,Severe Storm(s),Crow Creek,212
+SD,2008-07-09T13:30:00.000Z,Severe Storm(s),Lower Brule,78
+ND,2009-03-24T22:30:00.000Z,Severe Storm(s),Spirit Lake,322
+ND,2009-03-24T22:30:00.000Z,Severe Storm(s),Standing Rock,324
+ND,2009-03-24T22:30:00.000Z,Severe Storm(s),Turtle Mountain,159
+MN,2009-04-09T01:22:00.000Z,Severe Storm(s),Red Lake,302
+MN,2009-04-09T01:22:00.000Z,Severe Storm(s),White Earth,172
+SD,2009-06-16T18:30:00.000Z,Severe Storm(s),Standing Rock,325
+SD,2009-06-16T18:30:00.000Z,Severe Storm(s),Cheyenne River,27

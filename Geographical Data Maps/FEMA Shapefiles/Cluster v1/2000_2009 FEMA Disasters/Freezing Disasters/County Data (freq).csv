@@ -1,0 +1,77 @@
+BaseYear,state,incidentType,designatedArea,Freq,FID
+2000,FL,Freezing,Baker,1,641
+2000,FL,Freezing,Bradford,1,665
+2000,FL,Freezing,Brevard,1,686
+2000,FL,Freezing,Broward,1,695
+2000,FL,Freezing,Charlotte,1,743
+2000,FL,Freezing,Citrus,1,843
+2000,FL,Freezing,Clay,1,852
+2000,FL,Freezing,Collier,1,894
+2000,FL,Freezing,Columbia,1,903
+2000,FL,Freezing,DeSoto,1,906
+2000,FL,Freezing,Dixie,1,918
+2000,FL,Freezing,Duval,1,924
+2000,FL,Freezing,Flagler,1,935
+2000,FL,Freezing,Gilchrist,1,939
+2000,FL,Freezing,Glades,1,940
+2000,FL,Freezing,Hamilton,1,942
+2000,FL,Freezing,Hardee,1,943
+2000,FL,Freezing,Hendry,1,944
+2000,FL,Freezing,Hernando,1,945
+2000,FL,Freezing,Highlands,1,946
+2000,FL,Freezing,Hillsborough,1,947
+2000,FL,Freezing,Indian River,1,949
+2000,FL,Freezing,Lafayette,1,952
+2000,FL,Freezing,Lake,1,953
+2000,FL,Freezing,Lee,1,954
+2000,FL,Freezing,Levy,1,956
+2000,FL,Freezing,Manatee,1,959
+2000,FL,Freezing,Marion,1,960
+2000,FL,Freezing,Martin,1,961
+2000,FL,Freezing,Maimi-Dade,1,962
+2000,FL,Freezing,Nassau,1,964
+2000,FL,Freezing,Monroe,1,963
+2000,FL,Freezing,Okeechobee,1,966
+2000,FL,Freezing,Orange,1,967
+2000,FL,Freezing,Osceola,1,968
+2000,FL,Freezing,Palm Beach,1,969
+2000,FL,Freezing,Pasco,1,970
+2000,FL,Freezing,Pinellas,1,971
+2000,FL,Freezing,Polk,1,972
+2000,FL,Freezing,Putnam,1,973
+2000,FL,Freezing,St. Johns,1,974
+2000,FL,Freezing,St. Lucie,1,975
+2000,FL,Freezing,Sarasota,1,977
+2000,FL,Freezing,Seminole,1,978
+2000,FL,Freezing,Sumter,1,979
+2000,FL,Freezing,Suwannee,1,980
+2000,FL,Freezing,Union,1,982
+2000,FL,Freezing,Volusia,1,983
+2000,FL,Freezing,Alachua,1,639
+2000,ME,Freezing,Aroostook,1,1535
+2000,ME,Freezing,Franklin,1,1619
+2000,ME,Freezing,Cumberland,1,1608
+2000,ME,Freezing,Hancock,1,1748
+2000,ME,Freezing,Kennebec,1,1755
+2000,ME,Freezing,Androscoggin,1,1532
+2000,ME,Freezing,Lincoln,1,1835
+2000,ME,Freezing,Oxford,1,1842
+2000,ME,Freezing,Piscataquis,1,1851
+2000,ME,Freezing,Washington,1,1884
+2000,ME,Freezing,Penobscot,1,1846
+2000,CA,Freezing,Fresno,1,527
+2000,CA,Freezing,Imperial,1,557
+2000,CA,Freezing,Kern,1,84
+2000,CA,Freezing,Kings,1,94
+2000,CA,Freezing,Madera,1,153
+2000,CA,Freezing,Los Angeles,1,139
+2000,CA,Freezing,Merced,1,204
+2000,CA,Freezing,Monterey,1,228
+2000,CA,Freezing,San Bernardino,1,302
+2000,CA,Freezing,San Diego,1,315
+2000,CA,Freezing,San Luis Obispo,1,351
+2000,CA,Freezing,Stanislaus,1,473
+2000,CA,Freezing,Santa Barbara,1,391
+2000,CA,Freezing,Riverside,1,281
+2000,CA,Freezing,Ventura,1,521
+2000,CA,Freezing,Tulare,1,501

@@ -1,0 +1,44 @@
+state,declarationDate,incidentType,designatedArea,FID
+CA,2000-09-14T18:00:00.000Z,Earthquake,Napa,236
+WA,2001-03-01T20:30:00.000Z,Earthquake,Douglas,2877
+WA,2001-03-01T20:30:00.000Z,Earthquake,Walla Walla,2970
+WA,2001-03-01T20:30:00.000Z,Earthquake,Clark,2865
+WA,2001-03-01T20:30:00.000Z,Earthquake,Island,2898
+WA,2001-03-01T20:30:00.000Z,Earthquake,Benton,2847
+WA,2001-03-01T20:30:00.000Z,Earthquake,Chelan,2852
+WA,2001-03-01T20:30:00.000Z,Earthquake,Jefferson,2905
+WA,2001-03-01T20:30:00.000Z,Earthquake,Kittitas,2932
+WA,2001-03-01T20:30:00.000Z,Earthquake,Skamania,2959
+WA,2001-03-01T20:30:00.000Z,Earthquake,Wahkiakum,2969
+WA,2001-03-01T20:30:00.000Z,Earthquake,Yakima,2974
+WA,2001-03-01T20:30:00.000Z,Earthquake,Cowlitz,2871
+WA,2001-03-01T20:30:00.000Z,Earthquake,Grays Harbor,2894
+WA,2001-03-01T20:30:00.000Z,Earthquake,Kitsap,2927
+WA,2001-03-01T20:30:00.000Z,Earthquake,Lewis,2940
+WA,2001-03-01T20:30:00.000Z,Earthquake,Mason,2946
+WA,2001-03-01T20:30:00.000Z,Earthquake,Pacific,2949
+WA,2001-03-01T20:30:00.000Z,Earthquake,Skagit,2958
+WA,2001-03-01T20:30:00.000Z,Earthquake,Snohomish,2960
+WA,2001-03-01T20:30:00.000Z,Earthquake,Pierce,2956
+WA,2001-03-01T20:30:00.000Z,Earthquake,Thurston,2967
+WA,2001-03-01T20:30:00.000Z,Earthquake,Clallam,2861
+WA,2001-03-01T20:30:00.000Z,Earthquake,King,2913
+WA,2001-03-01T20:30:00.000Z,Earthquake,Whatcom,2972
+NY,2002-05-16T12:00:00.000Z,Earthquake,Clinton,1702
+NY,2002-05-16T12:00:00.000Z,Earthquake,Essex,1728
+NY,2002-05-16T12:00:00.000Z,Earthquake,Hamilton,1742
+NY,2002-05-16T12:00:00.000Z,Earthquake,Franklin,1731
+NY,2002-05-16T12:00:00.000Z,Earthquake,Warren,1938
+NY,2002-05-16T12:00:00.000Z,Earthquake,Washington,1942
+AK,2002-11-08T19:25:00.000Z,Earthquake,Matanuska-Susitna,556
+AK,2002-11-08T19:25:00.000Z,Earthquake,Southeast Fairbanks,690
+AK,2002-11-08T19:25:00.000Z,Earthquake,Valdez-Cordova,710
+AK,2002-11-08T19:25:00.000Z,Earthquake,Yukon-Koyukuk,753
+AK,2002-11-08T19:25:00.000Z,Earthquake,Fairbanks North Star,454
+AK,2002-11-08T19:25:00.000Z,Earthquake,Denali,426
+CA,2004-01-13T00:00:00.000Z,Earthquake,Santa Barbara,391
+CA,2004-01-13T00:00:00.000Z,Earthquake,San Luis Obispo,351
+HI,2006-10-17T16:48:00.000Z,Earthquake,Kauai,261
+HI,2006-10-17T16:48:00.000Z,Earthquake,Hawaii,198
+HI,2006-10-17T16:48:00.000Z,Earthquake,Maui,323
+HI,2006-10-17T16:48:00.000Z,Earthquake,Honolulu,234
