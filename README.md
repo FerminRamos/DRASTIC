@@ -1,6 +1,6 @@
 # DRASTIC Database Repository
 
-###### :exclamation: Current Obj: Add README to FEMA-related folders + Mapping New FEMA Data (yet another 114 Datasets)... :exclamation:
+###### :exclamation: Current Obj: Mapping New FEMA Data & re-mapping old FEMA Data (source connection lost) (total of 228 Datasets)... :exclamation:
 
 
 </br>
@@ -8,6 +8,8 @@
 
 #### :boom: Announcements :boom:
 📌 I pulled new datasets to fulfill the "7-Pillars", check them out and let me know what you think! (see 7-Pillars Folder above)
+
+📌 ArcGIS lost source connection to all previous FEMA data sources when moving them to new folders. Need to redirect and/or remap them? Data is safe, maps are non-existent. Not sure how significant the impact is yet. Stay tuned. 
 
 </br>
 
@@ -41,9 +43,9 @@
   
     - [X] Build a Frequency Counter to count how many of each type of disaster (19 types) occurred, per county (per reservation), and per group year.  ![](https://geps.dev/progress/100)
   
-    - [X] Map, all 19 disasters from group 2000-2009  ![](https://geps.dev/progress/100)
+    - [X] Map, all 19 disasters from group 2000-2009  ![](https://geps.dev/progress/00)
   
-    - [X] Map, all 19 disasters from group 2010-2019  ![](https://geps.dev/progress/100)
+    - [X] Map, all 19 disasters from group 2010-2019  ![](https://geps.dev/progress/00)
     
     - [X] Map, all 19 disasters from group 2020+  ![](https://geps.dev/progress/100)
 
@@ -51,7 +53,7 @@
 
 - [X] Upload new re-grouped FEMA Data  ![](https://geps.dev/progress/100)
 
-- [ ] Map new re-grouped FEMA Data  ![](https://geps.dev/progress/10)
+- [ ] Map new re-grouped FEMA Data  ![](https://geps.dev/progress/35)
 
 </br>
 
