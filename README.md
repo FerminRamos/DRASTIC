@@ -1,6 +1,6 @@
 # DRASTIC Database Repository
 
-###### :exclamation: Current Obj: Finish Census data ("insurance"), for 2000 & 2010 :exclamation:
+###### :exclamation: Current Obj: Finding Bugs in Census Data :exclamation:
 
 
 </br>
@@ -9,7 +9,7 @@
 #### :boom: Announcements :boom:
 📌 I pulled new datasets to fulfill the "7-Pillars", check them out and let me know what you think! (see 7-Pillars Folder above)
 
-📌 ArcGIS lost source connection to all previous FEMA data sources when moving them to new folders. Need to redirect and/or remap them? Data is safe, maps are non-existent. Not sure how significant the impact is yet. Stay tuned. 
+📌 Census Percentages are wrong. Income-% derived from total population, should be from total households (since this excludes children). Need to pull more data. Looking into other potential bugs. 
 
 </br>
 
