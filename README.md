@@ -1,6 +1,6 @@
 # DRASTIC Database Repository
 
-###### :exclamation: Current Obj: Mapping New FEMA Data & re-mapping old FEMA Data (source connection lost) (total of 228 Datasets)... :exclamation:
+###### :exclamation: Current Obj: Finish Census data ("insurance"), for 2000 & 2010 :exclamation:
 
 
 </br>
@@ -59,7 +59,7 @@
 
 
 ✨ ***Census*** 
-- [X] Map 2020 Census (w/ %-Values)  ![](https://geps.dev/progress/100)
+- [X] 2020 Census (w/ %-Values)  ![](https://geps.dev/progress/100)
 
     - [X] Assign IDs to all 3,000+ U.S. Counties + Find any missing counties  ![](https://geps.dev/progress/100)
   
@@ -68,6 +68,20 @@
     - [X] Convert whole values -> percent  ![](https://geps.dev/progress/100)
   
     - [X] Map all 30 Census Database Attributes  ![](https://geps.dev/progress/100)
+
+- [ ] 2010 Census (w/ %-Values)  ![](https://geps.dev/progress/88)
+
+    - [ ] Find + manually add Puerto Rico "Insurance" figures  ![](https://geps.dev/progress/00)
+    
+    - [X] Convert Estimates -> Percents  ![](https://geps.dev/progress/100)
+    
+- [ ] 2000 Census (w/ %-Values)  ![](https://geps.dev/progress/70)
+
+    - [ ] Find "Insurance" figures, for all counties.  ![](https://geps.dev/progress/00)
+    
+    - [ ] Add "Insurance" figures, for all counties.  ![](https://geps.dev/progress/00)
+    
+    - [ ] Convert Estimates -> Percents  ![](https://geps.dev/progress/00)
 
 </br>
 
