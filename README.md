@@ -1,6 +1,6 @@
 # DRASTIC Database Repository
 
-###### :exclamation: Current Obj: Finding Bugs in Census Data :exclamation:
+###### :exclamation: Current Obj: Found all bugs in Census. Pulling new needed data + recalculating totals. :exclamation:
 
 
 </br>
