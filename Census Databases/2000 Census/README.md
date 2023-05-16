@@ -1,1 +1,4 @@
-notes & comments go here...
+### File Descriptions
+* ***2000 Census Database.csv*** - Contains whole numbers, as well as extra columns required to accurately calculate percentages for the "2000 Census Database_PI.csv" file.
+
+* ***2000 Census Database_PI.csv*** - Contains percentages. Some columns removed.
