@@ -3,5 +3,5 @@
 
 * ***2000 Census Database_PI.csv*** - Contains percentages. Some columns removed.
 
-#### TODOs
+note...
 1. Employment & Insurance Rates missing from dataset(s)
