@@ -7,7 +7,7 @@
 
 ### Source(s) Used in this Repository:
 1. U.S. DEPARTMENT OF AGRICULTURE (USDA) - [www.ers.usda.gov/atlas/data-access-and-documentation-downloads](https://www.ers.usda.gov/data-products/food-environment-atlas/data-access-and-documentation-downloads/)
-    * In website, select "Current Version > Food Environment Atlas Data Download" for access to datasets.
+    * In website, select "Current Version > Food Environment Atlas Data Download" for access to full list of raw datasets.
 
 ### Miscellaneous
 * Most USDA Datasets have an Interractive Map. Feel free to check it out here - [www.ers.usda.gov/data/map](https://www.ers.usda.gov/data-products/food-environment-atlas/go-to-the-atlas/)
