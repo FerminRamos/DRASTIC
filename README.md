@@ -1,17 +1,14 @@
 # DRASTIC Database Repository
 
-###### :exclamation: Current Obj: Recompiling Census Figures + Pulling Data for 7-Pillars :exclamation:
+###### :exclamation: Current Obj: Pulling Data for 7-Pillars :exclamation:
 
 
 </br>
 
 
 #### :boom: Announcements :boom:
-📌 I pulled new datasets to fulfill the "7-Pillars", check them out and let me know what you think! (see 7-Pillars Folder above)
-
-📌 Census Percentages are wrong. Income-% derived from total population, should be from total households (since this excludes children). Need to pull more data. Looking into other potential bugs. 
-
 </br>
+
 
 
 #### 👉 Pipeline of Current Objectives 👈
@@ -69,42 +66,38 @@
   
     - [X] Map all 30 Census Database Attributes  ![](https://geps.dev/progress/100)
 
-- [ ] 2010 Census (w/ %-Values)  ![](https://geps.dev/progress/88)
+- [x] 2010 Census (w/ %-Values)  ![](https://geps.dev/progress/100)
+    - [ ] Find & Add "Employment" figures, for all counties.  ![](https://geps.dev/progress/00)
 
-    - [ ] Find + manually add Puerto Rico "Insurance" figures  ![](https://geps.dev/progress/00)
+    - [ ] Find & Add "Insurance" figures, for all counties.  ![](https://geps.dev/progress/00)
     
     - [X] Convert Estimates -> Percents  ![](https://geps.dev/progress/100)
     
-- [ ] 2000 Census (w/ %-Values)  ![](https://geps.dev/progress/70)
+- [X] 2000 Census (w/ %-Values)  ![](https://geps.dev/progress/100)
+    - [ ] Find & Add "Employment" figures, for all counties.  ![](https://geps.dev/progress/00)
 
-    - [ ] Find "Insurance" figures, for all counties.  ![](https://geps.dev/progress/00)
+    - [ ] Find & Add "Insurance" figures, for all counties.  ![](https://geps.dev/progress/00)
     
-    - [ ] Add "Insurance" figures, for all counties.  ![](https://geps.dev/progress/00)
-    
-    - [ ] Convert Estimates -> Percents  ![](https://geps.dev/progress/00)
+    - [X] Convert Estimates -> Percents  ![](https://geps.dev/progress/100)
 
 </br>
 
 
 ✨***7 Pillars of Health and Well-Being***
-- [ ] Compile a list of sources for the 7 Pillars for Health and Well-Being  ![](https://geps.dev/progress/88)
+- [ ] Compile a list of sources for the 7 Pillars for Health and Well-Being  ![](https://geps.dev/progress/90)
+
+    - [ ] Still need data for "Thriving and Natural World"...suggestions welcomed! 
 
 - [ ] Find new poss. datasets for Transportation, Education Rates, Etc. ![](https://geps.dev/progress/75)
 
-- [ ] Pull new 7-Pillars Datasets  ![](https://geps.dev/progress/00)
-
-  - [ ] 2000s Dataset Pulled  ![](https://geps.dev/progress/00)
-
-  - [ ] 2010s Dataset Pulled  ![](https://geps.dev/progress/00)
-
-  - [ ] 2020s Dataset Pulled  ![](https://geps.dev/progress/00)
+- [ ] Pull new 7-Pillars Datasets  ![](https://geps.dev/progress/35)
 
 
 </br>
 
 
 ✨***Miscellaneous***
-- [ ] Upload Census Datasets (2000, 2010, 2020) as both Estimates & Whole Values.  ![](https://geps.dev/progress/33)
+- [X] Upload Census Datasets (2000, 2010, 2020) as both Estimates & Whole Values.  ![](https://geps.dev/progress/100)
 
 
 </br></br>
