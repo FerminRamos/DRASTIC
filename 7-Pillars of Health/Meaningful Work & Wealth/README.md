@@ -6,7 +6,11 @@
     * See DRASTIC homepage for updates regarding status of this Repository.
 
 ### Source(s) Used in this Repository:
-1. S2404 INDUSTRY BY SEX AND MEDIAN EARNINGS - 2010: ACS 5-Year Estimates Subject Tables [https://data.census.gov/table?q=jobs+by+industry](https://data.census.gov/table?q=jobs+by+industry&g=010XX00US$0500000&tid=ACSST5Y2010.S2404)
-    * (Original) ACS S2404 INDUSTRY BY SEX AND MEDIAN EARNINGS 2010.csv
+1. S1701 POVERTY STATUS - 2012: ACS 5-Year Estimates Subject Tables [https://data.census.gov/table?q=poverty&g=010XX00US$0500000&tid=ACSST5Y2012.S1701](https://data.census.gov/table?q=poverty&g=010XX00US$0500000&tid=ACSST5Y2012.S1701)
+    * (Original)
+    * (Modified) 
+2. S1701 POVERTY STATUS - 2020: ACS 5-Year Estimates Subject Tables [https://data.census.gov/table?q=poverty&g=010XX00US$0500000&tid=ACSST5Y2020.S1701](https://data.census.gov/table?q=poverty&g=010XX00US$0500000&tid=ACSST5Y2020.S1701)
+    * (Original)
+    * (Modified) 
 
 ### Miscellaneous
