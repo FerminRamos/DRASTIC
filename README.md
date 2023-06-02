@@ -7,6 +7,9 @@
 
 
 #### :boom: Announcements :boom:
+✔️ We have 121 ***NEW*** 7-Pillars variables! Go check them out. Located in "7-Pillars of Health" Folder. ***Newer simplified README's coming soon.***
+
+</br>
 </br>
 
 
@@ -88,9 +91,9 @@
 
     - [ ] Still need data for "Thriving and Natural World"...suggestions welcomed! 
 
-- [ ] Find new poss. datasets for Transportation, Education Rates, Etc. ![](https://geps.dev/progress/75)
+- [X] Pull new 7-Pillars Datasets  ![](https://geps.dev/progress/100)
 
-- [ ] Pull new 7-Pillars Datasets  ![](https://geps.dev/progress/35)
+- [ ] Some datasets given in Whole Numbers, need conversion to Percentages  ![](https://geps.dev/progress/00)
 
 
 </br>
@@ -108,3 +111,5 @@
   - Quick Reference: <https://www.markdownguide.org/cheat-sheet/>
 - GitHub Emojis: <https://gist.github.com/rxaviers/7360908>
 - Progress Bars: <https://github.com/gepser/markdown-progress>
+- Link to Zip any folder from this Repository: <https://kinolien.github.io/gitzip/>
+    * *Just open link, copy/paste URL into "GitHub repo root URL or sub-folder URL", & press "Download"*
