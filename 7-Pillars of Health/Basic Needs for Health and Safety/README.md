@@ -2,7 +2,7 @@
 
 ### About This Repository
 * Pulled and filtered data from USDA to aide our current DRASTIC model. Lots of remaining data not pulled.
-* Datasets in this Repository are ***NOT*** currently standardized w/ all our other datasets.
+* Datasets are currently standardized w/ all our other datasets.
     * See DRASTIC homepage for updates regarding status of this Repository.
 
 ### Source(s) Used in this Repository:
