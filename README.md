@@ -93,7 +93,7 @@
 
 - [X] Pull new 7-Pillars Datasets  ![](https://geps.dev/progress/100)
 
-- [ ] Some datasets given in Whole Numbers, need conversion to Percentages  ![](https://geps.dev/progress/00)
+- [X] Some datasets given in Whole Numbers, need conversion to Percentages  ![](https://geps.dev/progress/100)
 
 
 </br>
