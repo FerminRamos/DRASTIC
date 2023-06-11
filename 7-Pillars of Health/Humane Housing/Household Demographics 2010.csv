@@ -1194,6 +1194,7 @@ Maine,Washington,27.2%,42.8%,74.4%,11.1%,14.5%,1884
 Maine,York,31.5%,35.1%,71.4%,21.3%,7.3%,1901
 Maryland,Allegany,26.2%,42.1%,78.5%,18.2%,3.3%,1905
 Maryland,Anne Arundel,34.8%,31.3%,81.7%,16.4%,2.0%,1925
+Maryland,Baltimore County,32.1%,34.8%,71.7%,27.4%,0.9%,1939
 Maryland,Calvert,41.8%,30.9%,92.6%,5.8%,1.5%,1946
 Maryland,Caroline,36.3%,34.6%,81.5%,8.1%,10.4%,1949
 Maryland,Carroll,38.5%,33.2%,87.3%,11.3%,1.4%,1955
@@ -1214,6 +1215,7 @@ Maryland,Talbot,26.1%,48.2%,85.7%,12.0%,2.4%,1438
 Maryland,Washington,33.9%,33.1%,76.1%,19.8%,4.1%,1445
 Maryland,Wicomico,33.6%,33.3%,74.7%,19.3%,6.0%,1446
 Maryland,Worcester,25.6%,47.3%,78.9%,15.2%,5.9%,1456
+Maryland,Baltimore city,29.2%,31.6%,66.8%,33.0%,0.2%,
 Massachusetts,Barnstable,22.9%,48.1%,85.9%,13.7%,0.4%,1478
 Massachusetts,Berkshire,26.7%,41.0%,65.9%,31.3%,2.7%,1480
 Massachusetts,Bristol,33.9%,34.2%,59.0%,39.7%,1.4%,1486
@@ -1575,6 +1577,7 @@ Missouri,St. Charles,37.8%,28.1%,82.8%,14.0%,3.2%,1205
 Missouri,St. Clair,25.6%,47.5%,76.4%,4.4%,19.2%,1208
 Missouri,Ste. Genevieve,30.4%,33.8%,81.7%,5.3%,12.9%,1209
 Missouri,St. Francois,32.7%,35.0%,73.1%,13.3%,13.7%,1212
+Missouri,St. Louis County,32.0%,33.5%,77.6%,22.0%,0.3%,1216
 Missouri,Saline,30.6%,37.4%,82.2%,12.5%,5.3%,1218
 Missouri,Schuyler,26.0%,43.7%,75.0%,9.7%,15.4%,1221
 Missouri,Scotland,27.5%,36.1%,82.9%,7.9%,9.2%,1224
@@ -1593,6 +1596,7 @@ Missouri,Wayne,25.5%,46.7%,70.9%,5.0%,24.2%,1256
 Missouri,Webster,39.4%,34.5%,81.6%,6.1%,12.4%,1258
 Missouri,Worth,24.9%,34.1%,83.7%,9.8%,6.4%,1261
 Missouri,Wright,33.4%,40.7%,78.0%,7.1%,14.9%,1263
+Missouri,St. Louis City,26.8%,27.0%,50.1%,49.6%,0.3%,1266
 Montana,Beaverhead,27.5%,37.4%,72.9%,8.5%,18.6%,1269
 Montana,Big Horn,40.4%,36.4%,77.4%,8.1%,14.5%,1274
 Montana,Blaine,39.6%,32.6%,81.6%,8.9%,9.5%,1124
@@ -1797,6 +1801,7 @@ New Mexico,Cibola,35.7%,38.2%,70.9%,9.2%,19.9%,1580
 New Mexico,Colfax,27.8%,42.6%,71.0%,7.9%,21.1%,1582
 New Mexico,Curry,38.1%,28.7%,76.9%,14.0%,9.1%,1586
 New Mexico,De Baca,19.1%,47.3%,70.4%,8.4%,21.2%,1589
+New Mexico,Do�a Ana,36.9%,32.3%,60.6%,17.1%,22.3%,
 New Mexico,Eddy,35.9%,36.3%,74.2%,9.4%,16.4%,1592
 New Mexico,Grant,28.3%,45.7%,63.4%,7.3%,29.3%,1594
 New Mexico,Guadalupe,26.7%,44.3%,64.1%,7.4%,28.6%,1595
@@ -2823,6 +2828,7 @@ Virginia,Appomattox,37.3%,41.1%,74.9%,4.7%,20.4%,2749
 Virginia,Arlington,20.4%,20.7%,40.8%,59.0%,0.3%,2753
 Virginia,Augusta,31.0%,38.6%,81.8%,6.7%,11.5%,2758
 Virginia,Bath,27.0%,42.2%,84.4%,1.4%,14.1%,2763
+Virginia,Bedford County,31.3%,36.1%,79.7%,4.0%,16.3%,2769
 Virginia,Bland,27.0%,46.4%,70.6%,1.9%,27.5%,2772
 Virginia,Botetourt,30.9%,39.6%,88.3%,3.5%,8.2%,2776
 Virginia,Brunswick,27.5%,43.8%,71.4%,4.2%,24.4%,2777
@@ -2841,9 +2847,11 @@ Virginia,Cumberland,29.5%,43.2%,75.9%,5.7%,18.5%,2827
 Virginia,Dickenson,25.2%,40.2%,62.2%,4.9%,32.8%,2832
 Virginia,Dinwiddie,33.5%,35.5%,84.0%,2.7%,13.3%,2838
 Virginia,Essex,33.5%,40.8%,78.6%,8.8%,12.5%,2842
+Virginia,Fairfax County,36.5%,27.8%,73.5%,25.8%,0.6%,2849
 Virginia,Fauquier,35.7%,33.5%,92.8%,5.8%,1.4%,2853
 Virginia,Floyd,28.5%,42.4%,77.4%,3.4%,19.2%,2856
 Virginia,Fluvanna,30.1%,37.1%,94.6%,2.1%,3.4%,2858
+Virginia,Franklin County,30.3%,38.4%,78.3%,5.1%,16.6%,2862
 Virginia,Frederick,37.9%,31.6%,85.0%,5.7%,9.2%,2868
 Virginia,Giles,32.0%,40.6%,77.5%,6.5%,15.9%,2873
 Virginia,Gloucester,34.2%,35.1%,83.0%,5.7%,11.3%,2887
@@ -2886,6 +2894,8 @@ Virginia,Prince George,38.5%,30.3%,84.2%,6.2%,9.6%,2991
 Virginia,Prince William,46.6%,21.8%,83.6%,15.4%,1.0%,2992
 Virginia,Pulaski,26.5%,40.4%,74.3%,12.6%,13.1%,2993
 Virginia,Rappahannock,31.7%,41.8%,95.6%,1.1%,3.3%,2994
+Virginia,Richmond County,28.7%,51.1%,83.9%,6.2%,9.9%,2995
+Virginia,Roanoke County,31.4%,37.0%,80.9%,17.6%,1.5%,2996
 Virginia,Rockbridge,29.2%,42.9%,82.2%,4.6%,13.2%,2997
 Virginia,Rockingham,34.3%,36.1%,80.3%,8.7%,11.0%,2998
 Virginia,Russell,33.9%,40.3%,65.8%,5.9%,28.4%,2999
@@ -2904,6 +2914,45 @@ Virginia,Westmoreland,25.2%,48.9%,85.1%,4.5%,10.4%,2684
 Virginia,Wise,30.8%,36.2%,68.7%,8.0%,23.3%,2695
 Virginia,Wythe,27.0%,40.0%,71.1%,6.6%,22.3%,2699
 Virginia,York,40.2%,31.6%,84.4%,14.3%,1.3%,2709
+Virginia,Alexandria,20.1%,22.0%,38.8%,60.9%,0.3%,2712
+Virginia,Bedford City,31.1%,34.6%,72.4%,23.7%,3.9%,2713
+Virginia,Bristol,27.1%,40.6%,71.1%,25.9%,3.0%,2716
+Virginia,Buena Vista,29.5%,41.3%,81.7%,15.0%,3.3%,2720
+Virginia,Charlottesville,20.9%,25.0%,57.5%,41.7%,0.8%,2722
+Virginia,Chesapeake,41.5%,29.1%,81.4%,16.3%,2.3%,2724
+Virginia,Colonial Heights,28.9%,41.8%,82.7%,17.1%,0.2%,2727
+Virginia,Covington,25.0%,39.9%,83.1%,8.7%,8.2%,2729
+Virginia,Danville,29.5%,39.5%,72.8%,23.6%,3.7%,2732
+Virginia,Emporia,27.3%,39.7%,72.4%,23.2%,4.4%,2736
+Virginia,Fairfax City,29.1%,30.9%,74.8%,24.6%,0.6%,2737
+Virginia,Falls Church,36.4%,31.2%,65.1%,34.9%,0.0%,2740
+Virginia,Franklin City,33.9%,38.8%,70.3%,29.1%,0.6%,2744
+Virginia,Fredericksburg,24.8%,30.2%,53.2%,46.3%,0.5%,2745
+Virginia,Galax,24.6%,40.5%,64.0%,16.5%,19.5%,2747
+Virginia,Hampton,31.9%,29.2%,72.6%,26.3%,1.1%,2751
+Virginia,Harrisonburg,24.3%,23.5%,55.2%,42.9%,1.9%,2755
+Virginia,Hopewell,28.8%,34.7%,75.1%,23.1%,1.8%,2756
+Virginia,Lexington,21.3%,48.0%,65.8%,30.8%,3.4%,2760
+Virginia,Lynchburg,27.8%,34.5%,69.9%,28.8%,1.3%,2762
+Virginia,Manassas,45.9%,22.8%,75.0%,23.0%,2.0%,2765
+Virginia,Manassas Park,44.6%,21.4%,83.9%,15.9%,0.1%,2768
+Virginia,Martinsville,33.2%,38.8%,76.1%,23.7%,0.2%,2771
+Virginia,Newport News,34.8%,27.2%,61.8%,35.4%,2.9%,2775
+Virginia,Norfolk,32.3%,26.3%,57.8%,41.4%,0.7%,2778
+Virginia,Norton,27.2%,31.9%,53.3%,30.9%,15.8%,2780
+Virginia,Petersburg,25.2%,36.9%,72.8%,25.0%,2.3%,2782
+Virginia,Poquoson,40.9%,39.3%,89.7%,6.3%,4.0%,2791
+Virginia,Portsmouth,33.2%,32.5%,71.9%,27.3%,0.8%,2795
+Virginia,Radford,20.8%,26.6%,62.0%,35.2%,2.8%,2799
+Virginia,Richmond City,25.4%,28.7%,56.7%,42.5%,0.8%,2802
+Virginia,Roanoke City,25.8%,32.8%,66.6%,32.8%,0.6%,2805
+Virginia,Salem,29.6%,40.6%,74.4%,20.6%,5.0%,2809
+Virginia,Staunton,23.8%,36.2%,72.2%,27.5%,0.4%,2812
+Virginia,Suffolk,40.3%,30.4%,83.4%,13.4%,3.3%,2815
+Virginia,Virginia Beach,36.4%,27.2%,77.5%,21.4%,1.0%,2826
+Virginia,Waynesboro,29.5%,35.5%,72.7%,25.0%,2.3%,2831
+Virginia,Williamsburg,17.4%,42.6%,64.8%,35.2%,0.0%,2835
+Virginia,Winchester,28.6%,32.5%,71.8%,27.1%,1.0%,2837
 Washington,Adams,47.4%,29.1%,66.6%,12.7%,20.7%,2840
 Washington,Asotin,27.1%,41.3%,70.0%,15.9%,14.1%,2845
 Washington,Benton,36.7%,30.4%,68.8%,20.1%,11.2%,2847
@@ -3098,24 +3147,30 @@ Puerto Rico,Aguada,35.8%,37.7%,83.9%,16.0%,0.1%,3062
 Puerto Rico,Aguadilla,33.6%,43.6%,84.0%,15.9%,0.2%,3063
 Puerto Rico,Aguas Buenas,39.1%,40.7%,93.8%,5.7%,0.5%,3065
 Puerto Rico,Aibonito,37.7%,41.5%,94.8%,5.2%,0.0%,3067
+Puerto Rico,Anasco,36.6%,43.8%,95.1%,4.6%,0.2%,3069
 Puerto Rico,Arecibo,35.0%,43.4%,92.6%,7.3%,0.1%,3071
 Puerto Rico,Arroyo,38.3%,41.8%,91.3%,8.6%,0.2%,3072
 Puerto Rico,Barceloneta,42.6%,40.1%,95.9%,4.1%,0.0%,3074
 Puerto Rico,Barranquitas,48.2%,37.1%,94.9%,5.1%,0.0%,3076
+Puerto Rico,Bayamon,37.2%,42.3%,78.3%,21.6%,0.1%,3078
 Puerto Rico,Cabo Rojo,32.6%,48.0%,90.0%,10.0%,0.1%,3081
 Puerto Rico,Caguas,38.6%,40.3%,85.2%,14.6%,0.2%,3083
 Puerto Rico,Camuy,36.6%,40.9%,94.9%,5.0%,0.1%,3086
+Puerto Rico,Canovanas,41.5%,39.2%,95.1%,4.9%,0.0%,3088
 Puerto Rico,Carolina,36.1%,41.5%,72.5%,27.4%,0.1%,3090
+Puerto Rico,Catano,40.0%,38.4%,71.5%,28.1%,0.3%,3092
 Puerto Rico,Cayey,37.1%,42.8%,75.9%,24.1%,0.0%,3094
 Puerto Rico,Ceiba,36.4%,39.0%,89.6%,10.4%,0.0%,3096
 Puerto Rico,Ciales,41.9%,42.6%,93.2%,6.8%,0.0%,3098
 Puerto Rico,Cidra,42.1%,38.2%,77.5%,22.3%,0.2%,3100
 Puerto Rico,Coamo,41.0%,39.6%,94.1%,5.9%,0.0%,3102
+Puerto Rico,Comerio,41.7%,39.4%,93.8%,6.2%,0.0%,3103
 Puerto Rico,Corozal,39.8%,41.7%,96.2%,3.6%,0.2%,3105
 Puerto Rico,Culebra,27.3%,37.3%,89.3%,10.7%,0.0%,3107
 Puerto Rico,Dorado,41.3%,38.7%,87.4%,12.4%,0.2%,3109
 Puerto Rico,Fajardo,38.0%,42.8%,90.8%,9.0%,0.3%,3110
 Puerto Rico,Florida,40.2%,38.1%,94.8%,4.9%,0.2%,3112
+Puerto Rico,Guanica,37.4%,47.5%,95.0%,5.0%,0.0%,3114
 Puerto Rico,Guayama,40.5%,36.7%,92.4%,7.6%,0.0%,3118
 Puerto Rico,Guayanilla,41.8%,44.6%,96.0%,4.0%,0.0%,3121
 Puerto Rico,Guaynabo,33.3%,40.0%,60.0%,40.0%,0.1%,3123
@@ -3125,25 +3180,35 @@ Puerto Rico,Hormigueros,27.2%,47.8%,92.2%,7.0%,0.8%,3128
 Puerto Rico,Humacao,34.9%,42.4%,91.5%,8.5%,0.0%,3129
 Puerto Rico,Isabela,34.2%,40.8%,95.5%,4.4%,0.1%,3130
 Puerto Rico,Jayuya,42.2%,36.8%,89.6%,9.9%,0.5%,3132
+Puero Rico,Juana Diaz,43.6%,36.7%,96.4%,3.6%,0.1%,
 Puerto Rico,Juncos,41.3%,36.8%,93.8%,6.1%,0.1%,3136
 Puerto Rico,Lajas,35.0%,48.5%,94.7%,5.3%,0.0%,3139
 Puerto Rico,Lares,39.8%,41.2%,92.3%,7.7%,0.0%,3142
+Puerto Rico,Las Marias,42.9%,34.4%,96.2%,3.6%,0.2%,3144
 Puerto Rico,Las Piedras,37.6%,37.5%,96.1%,3.9%,0.0%,3146
+Puerto Rico,Loiza,43.3%,35.3%,95.6%,4.3%,0.1%,3149
 Puerto Rico,Luquillo,36.6%,41.1%,90.8%,8.9%,0.3%,3150
+Puerto Rico,Manati,35.9%,42.0%,89.7%,10.1%,0.3%,3152
 Puerto Rico,Maricao,39.6%,40.9%,96.2%,3.8%,0.0%,3155
 Puerto Rico,Maunabo,37.9%,42.9%,97.6%,2.2%,0.3%,3157
+Puerto Rico,Mayaguez,29.8%,44.0%,73.3%,26.7%,0.0%,3159
 Puerto Rico,Moca,37.5%,36.7%,94.6%,5.4%,0.0%,3162
 Puerto Rico,Morovis,46.7%,36.0%,94.5%,5.2%,0.3%,3164
 Puerto Rico,Naguabo,39.5%,40.3%,92.6%,7.1%,0.2%,3167
 Puerto Rico,Naranjito,42.2%,42.5%,96.3%,3.7%,0.0%,3168
 Puerto Rico,Orocovis,45.9%,35.7%,94.5%,5.5%,0.0%,3171
 Puerto Rico,Patillas,35.0%,43.6%,95.5%,4.5%,0.0%,3173
+Puerto Rico,Penuelas,49.1%,37.8%,98.8%,1.1%,0.1%,3176
 Puerto Rico,Ponce,38.0%,41.7%,84.1%,15.9%,0.0%,3178
 Puerto Rico,Quebradillas,37.1%,43.3%,90.3%,9.5%,0.2%,3180
+Puerto Rico,Rincon,32.5%,42.6%,75.9%,23.7%,0.4%,3182
+Puerto Rico,Rio Grande,40.0%,41.1%,95.2%,4.5%,0.3%,3184
 Puerto Rico,Sabana Grande,36.0%,44.6%,93.9%,6.0%,0.1%,3187
 Puerto Rico,Salinas,42.1%,38.6%,97.0%,3.0%,0.0%,3190
+Puerto Rico,San German,32.6%,48.2%,86.9%,13.1%,0.0%,3193
 Puerto Rico,San Juan,31.7%,40.1%,53.1%,46.8%,0.1%,3197
 Puerto Rico,San Lorenzo,37.9%,38.9%,95.7%,4.2%,0.1%,3201
+Puerto Rico,San Sebastian,33.6%,48.0%,93.2%,6.8%,0.0%,3204
 Puerto Rico,Santa Isabel,45.8%,36.1%,94.5%,5.5%,0.0%,3206
 Puerto Rico,Toa Alta,48.8%,31.6%,89.6%,10.2%,0.2%,3209
 Puerto Rico,Toa Baja,37.8%,38.7%,83.6%,16.4%,0.0%,3211
