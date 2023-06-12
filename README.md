@@ -1,6 +1,6 @@
 # DRASTIC Database Repository
 
-###### :exclamation: Current Obj: Pulling Data for 7-Pillars :exclamation:
+###### :exclamation: Current Obj: Organizing 7-Pillars Datasets + Figuring out other poss. datasets for DRASTIC :exclamation:
 
 
 </br>
