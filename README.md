@@ -91,10 +91,23 @@
 
     - [ ] Still need data for "Thriving and Natural World"...suggestions welcomed! 
 
-- [X] Pull new 7-Pillars Datasets  ![](https://geps.dev/progress/100)
+- [X] Pull all *possible* 7-Pillars Datasets  ![](https://geps.dev/progress/100)
 
-- [X] Some datasets given in Whole Numbers, need conversion to Percentages  ![](https://geps.dev/progress/100)
+- [ ] FBI Crime Statistics  ![](https://geps.dev/progress/00)
 
+    - [ ] 2000 FBI Statistics  ![](https://geps.dev/progress/00)
+
+    - [ ] 2010 FBI Statistics  ![](https://geps.dev/progress/00)
+     
+    - [ ] 2020 FBI Statistics  ![](https://geps.dev/progress/00)
+
+- [ ] Tobacco, Diet & Exercise, Alcohol & Drug, Sexual Activity  ![](https://geps.dev/progress/00)
+
+    - [ ] 2000 Health Activities  ![](https://geps.dev/progress/00)
+     
+    - [ ] 2010 Health Activities  ![](https://geps.dev/progress/00)
+     
+    - [ ] 2020 Health Activities  ![](https://geps.dev/progress/00)
 
 </br>
 
