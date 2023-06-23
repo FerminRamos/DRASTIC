@@ -1,0 +1,494 @@
+PWS ID,PWS Name,EPA Region,Primacy Agency,PWS Type,Population<br> Served Count,Cities Served,Counties Served,# of Facilities,# of Violations,# of Site Visits
+DE0002942,WHITE CLAY CREEK STATE PARK (SYSTEM 2),Region 3,Delaware,Transient non-community system,25,NEWARK,New Castle,5,10,1
+DE0000472,BRANDYWINE CREEK STATE PARK,Region 3,Delaware,Transient non-community system,200,WINTERTHUR,New Castle,4,8,1
+DE0000023,ST ANDREWS SCHOOL I,Region 3,Delaware,Non-Transient non-community system,200,MIDDLETOWN,New Castle,7,6,4
+DE00A0809,SIGNALS/ RT 13 OPERATIONS,Region 3,Delaware,Transient non-community system,100,SMYRNA,New Castle,3,8,1
+DE0000840,ANGOLA BEACH ESTS.,Region 3,Delaware,Community water system,1275,LEWES,Sussex,8,4,9
+DE0001942,WHITE CLAY CREEK STATE PARK (SYSTEM 1),Region 3,Delaware,Transient non-community system,100,NEWARK,New Castle,4,10,1
+DE0002023,ST ANDREWS SCHOOL II,Region 3,Delaware,Non-Transient non-community system,140,MIDDLETOWN,New Castle,7,10,1
+DE0000663,WILMINGTON WATER DEPARTMENT,Region 3,Delaware,Community water system,140000,WILMINGTON,New Castle,37,4,9
+DE0000523,"HOLIDAY ACRES, LLC",Region 3,Delaware,Community water system,132,DAGSBORO,Sussex,5,51,8
+DE0000068,KIMOTHYS PLACE,Region 3,Delaware,Transient non-community system,50,TOWNSEND,New Castle,4,7,3
+DE0000492,STRIMELS TRAILER PARK,Region 3,Delaware,Community water system,40,CHESWOLD,Kent,5,7,9
+DE00A0775,KRISTINS CARE AND LEARNING CENTER,Region 3,Delaware,Non-Transient non-community system,44,NASSAU,Sussex,3,1,1
+DE0000470,DELAWARE TURNPIKE ADMINISTRATION,Region 3,Delaware,Non-Transient non-community system,80,NEWARK,New Castle,7,8,1
+DE00A0312,SLAUGHTER NECK COMMUNITY ACTION AGENCY,Region 3,Delaware,Non-Transient non-community system,150,LINCOLN,Sussex,7,7,1
+DE0000342,BLUE COAST,Region 3,Delaware,Transient non-community system,200,BETHANY BEACH,Sussex,6,7,1
+DE0001589,HIGH POINT ASSOCIATES,Region 3,Delaware,Community water system,1230,FREDERICA,Kent,16,11,12
+DE00A0783,WOODSIDE CENTER,Region 3,Delaware,Transient non-community system,25,WOODSIDE,Kent,4,1,1
+DE00A0686,RAINBOW DAY CARE,Region 3,Delaware,Non-Transient non-community system,54,SEAFORD,Sussex,3,6,3
+DE00A0710,SHELLS LEARNING CENTER III,Region 3,Delaware,Non-Transient non-community system,83,HARRINGTON,Kent,4,2,0
+DE00A0169,MALLARD LAKES,Region 3,Delaware,Community water system,1500,FENWICK ISLAND,Sussex,10,0,5
+DE0001036,VIC MEAD HUNT CLUB,Region 3,Delaware,Transient non-community system,250,WILMINGTON,New Castle,7,6,2
+DE0000865,"BLADES, TOWN OF",Region 3,Delaware,Community water system,1200,SEAFORD,Sussex,5,4,10
+DE0000709,COLONIAL TENNIS CLUB,Region 3,Delaware,Transient non-community system,80,DOVER,Kent,4,2,4
+DE0020000,INTERCOLLEGIATE STUDIES INSTITUTE,Region 3,Delaware,Non-Transient non-community system,45,GREENVILLE,New Castle,6,0,0
+DE0000272,SHADY OAK TRAILER COURT,Region 3,Delaware,Community water system,108,ELLENDALE,Sussex,4,4,8
+DE0000086,BETHANY CLUB TENNIS,Region 3,Delaware,Transient non-community system,100,OCEAN VIEW,Sussex,4,11,5
+DE0000616,MILFORD WATER DEPARTMENT,Region 3,Delaware,Community water system,9800,MILFORD,Kent,21,2,10
+DE0001816,ASHLAND NATURE CENTER SYSTEM #1,Region 3,Delaware,Transient non-community system,200,HOCKESSIN,New Castle,4,0,2
+DE00A0685,JEFFERSON SCHOOL,Region 3,Delaware,Non-Transient non-community system,138,GEORGETOWN,Sussex,4,2,0
+DE0000982,SAND HILL MOBILE HOME PARK,Region 3,Delaware,Community water system,90,GEORGETOWN,Sussex,6,4,7
+DE0000223,CHILDRENS PLACE,Region 3,Delaware,Non-Transient non-community system,55,LAUREL,Sussex,4,8,1
+DE0000544,MOTHER GOOSE CHILDREN'S CENTER,Region 3,Delaware,Non-Transient non-community system,70,MILLSBORO,Sussex,4,4,2
+DE0001096,SMITH LANDING SYSTEM 1,Region 3,Delaware,Transient non-community system,150,MILTON,Sussex,4,5,4
+DE0000818,DELAWARE STATE FIRE SCHOOL,Region 3,Delaware,Transient non-community system,200,KENTON,Kent,6,6,2
+DE00A0382,INN AT MONTCHANIN,Region 3,Delaware,Transient non-community system,80,MONTCHANIN,New Castle,9,1,0
+DE00A0426,301 PLAZA,Region 3,Delaware,Transient non-community system,300,MIDDLETOWN,New Castle,5,1,0
+DE0020031,WATERMAX,Region 3,Delaware,Transient non-community system,25,NEW CASTLE,New Castle,6,0,0
+DE0000163,FAIRWAYS INN,Region 3,Delaware,Transient non-community system,150,SMYRNA,Kent,6,10,2
+DE0000301,SEAFORD ICE AND COLD STORAGE,Region 3,Delaware,Transient non-community system,25,SEAFORD,Sussex,4,2,1
+DE0001493,O A NEWTON AND SONS INC,Region 3,Delaware,Non-Transient non-community system,75,BRIDGEVILLE,Sussex,4,26,0
+DE0000200,SHOPPES AT MILLVILLE,Region 3,Delaware,Non-Transient non-community system,50,DAGSBORO,Sussex,5,2,1
+DE00A0842,ROYAL FARMS STORE 125 - SEAFORD,Region 3,Delaware,Transient non-community system,25,SEAFORD,Sussex,5,0,0
+DE00A0417,GROTTO PIZZA SOUTH BETHANY,Region 3,Delaware,Transient non-community system,150,BETHANY BEACH,Sussex,8,0,2
+DE0000603,DANIELS TRAILER PARK,Region 3,Delaware,Transient non-community system,54,LEWES,Sussex,4,2,2
+DE0000262,HOLIDAY ESTATES,Region 3,Delaware,Community water system,75,MILFORD,Sussex,4,25,8
+DE0002816,ASHLAND NATURE CENTER SYSTEM #2,Region 3,Delaware,Transient non-community system,125,HOCKESSIN,New Castle,5,12,2
+DE0000563,CAMDEN WYOMING SEWER AND WATER AUTHORITY,Region 3,Delaware,Community water system,3500,CAMDEN-WYOMING,Kent,9,3,9
+DE0002096,SMITH LANDING SYSTEM 2,Region 3,Delaware,Transient non-community system,114,MILTON,Sussex,5,8,2
+DE0000174,SAMBOS TAVERN,Region 3,Delaware,Transient non-community system,200,LEIPSIC,Kent,5,4,3
+DE00A0648,EMERGENCY OPERATIONS CENTER,Region 3,Delaware,Non-Transient non-community system,124,SMYRNA,New Castle,6,4,0
+DE00A0788,MARSH ISLAND GOLF CLUB,Region 3,Delaware,Transient non-community system,150,LEWES,Sussex,4,2,1
+DE0000841,PINNACLE REHABILITATION & HEALTH CENTER,Region 3,Delaware,Community water system,256,SMYRNA,Kent,6,5,12
+DE0001313,PINE TREE CAMPSITES,Region 3,Delaware,Transient non-community system,576,OCEAN VIEW,Sussex,8,0,3
+DE0000267,COLONIAL ESTATES MOBILE HOME PARK,Region 3,Delaware,Community water system,165,MILLSBORO,Sussex,6,9,10
+DE00A0377,VILLAGE OF COOL BRANCH,Region 3,Delaware,Community water system,654,SEAFORD,Sussex,7,0,1
+DE0000973,CARE-A-LOT,Region 3,Delaware,Non-Transient non-community system,92,WOODSIDE,Kent,5,5,5
+DE00A0808,CHILDREN AT WORK,Region 3,Delaware,Non-Transient non-community system,98,MT PLEASANT,New Castle,3,2,0
+DE0000130,LAKE FOREST ESTATES,Region 3,Delaware,Community water system,225,FELTON,Kent,6,2,13
+DE0000134,WILLOW TREE TRAILER AND MOBILE HOME PARK,Region 3,Delaware,Community water system,141,DOVER,Kent,5,3,11
+DE0000269,NEW MARKET VILLAGE,Region 3,Delaware,Community water system,321,ELLENDALE,Sussex,6,19,9
+DE0000878,SEAFORD SWIMMING POOL,Region 3,Delaware,Transient non-community system,200,SEAFORD,Sussex,4,0,2
+DE0020015,HERTRICH,Region 3,Delaware,Non-Transient non-community system,100,MILFORD,Kent,4,0,1
+DE0000561,LAW MOBILE HOME PARK,Region 3,Delaware,Community water system,50,CAMDEN-WYOMING,Kent,4,33,9
+DE0000129,COUNTRYSIDE ESTATES,Region 3,Delaware,Community water system,50,VIOLA,Kent,7,11,14
+DE0000217,SHULTIES GENERAL STORE,Region 3,Delaware,Transient non-community system,50,CAMDEN-WYOMING,Kent,3,2,2
+DE0000484,UNITED PARCEL SERVICES,Region 3,Delaware,Non-Transient non-community system,112,HARRINGTON,Kent,6,3,2
+DE00A0427,PRIMEHOOK NATIONAL WILDLIFE REFUGE,Region 3,Delaware,Transient non-community system,30,MILTON,Sussex,6,0,2
+DE00A0697,BRUMBLEYS FAMILY PARK,Region 3,Delaware,Community water system,48,MILTON,Sussex,10,5,1
+DE0020006,UNIVERSITY  DE CARVEL RESEARCH & ED CNTR,Region 3,Delaware,Non-Transient non-community system,60,GEORGETOWN,Sussex,3,1,0
+DE0000363,ROYAL FARMS - ELLENDALE - 141,Region 3,Delaware,Transient non-community system,657,ELLENDALE,Sussex,8,3,3
+DE0000587,FREDERICA WATER DEPARTMENT,Region 3,Delaware,Community water system,870,FREDERICA,Kent,8,18,9
+DE0000660,HEDGEROW HOLLOW TRAILER PARK,Region 3,Delaware,Community water system,147,SMYRNA,Kent,8,6,10
+DE0000623,COUNTRY LIVING MOBILE COURT,Region 3,Delaware,Community water system,250,MILLSBORO,Sussex,12,1,12
+DE0000183,CAMDEN WYOMING MOOSE,Region 3,Delaware,Transient non-community system,70,CAMDEN-WYOMING,Kent,4,5,3
+DE0000461,YORK BEACH MALL,Region 3,Delaware,Transient non-community system,25,BETHANY BEACH,Sussex,4,0,2
+DE00A0534,HOCKERS SUPER CENTER,Region 3,Delaware,Non-Transient non-community system,75,CLARKSVILLE,Sussex,6,15,1
+DE0000481,DELAWARE ELECTRIC CO-OP,Region 3,Delaware,Non-Transient non-community system,130,GREENWOOD,Sussex,5,2,1
+DE0000827,HOMESTEAD CAMPING,Region 3,Delaware,Transient non-community system,300,GEORGETOWN,Sussex,12,1,1
+DE0000246,SEAFORD WATER DEPARTMENT,Region 3,Delaware,Community water system,6699,SEAFORD,Sussex,14,6,9
+DE0000600,SHADY ACRES MOBILE HOME PARK,Region 3,Delaware,Community water system,381,LAUREL,Sussex,10,18,9
+DE0000610,MAGNOLIA WATER DEPARTMENT,Region 3,Delaware,Community water system,650,MAGNOLIA,Kent,8,3,9
+DE0000504,BIDERMAN GOLF COURSE,Region 3,Delaware,Transient non-community system,175,WILMINGTON,New Castle,10,5,2
+DE0000442,SUSSEX MANOR MOBILE HOME PARK,Region 3,Delaware,Community water system,279,SEAFORD,Sussex,5,10,10
+DE0000270,PINE RIDGE MOBILE HOME PARK,Region 3,Delaware,Community water system,222,SEAFORD,Sussex,5,28,9
+DE0000723,REHOBOTH BEACH WATER DEPARTMENT,Region 3,Delaware,Community water system,30000,REHOBOTH BEACH,Sussex,23,0,9
+DE0000713,CHESDEL RESTAURANT,Region 3,Delaware,Transient non-community system,50,ST. GEORGES,New Castle,5,4,2
+DE0000101,DELAWARE MUSEUM OF NATURAL HISTORY,Region 3,Delaware,Transient non-community system,700,GREENVILLE,New Castle,6,5,4
+DE00A0871,NORTH DOVER PLAZA - SYSTEM 2,Region 3,Delaware,Transient non-community system,25,DOVER,Kent,5,0,1
+DE0000590,FOREST PARK,Region 3,Delaware,Community water system,46,MILLSBORO,Sussex,4,47,9
+DE0000008,MT PLEASANT TRAILER PARK,Region 3,Delaware,Community water system,117,MIDDLETOWN,New Castle,9,19,7
+DE0020016,BRENFORD PLAZA BUSINESS CENTER,Region 3,Delaware,Transient non-community system,25,DOVER,Kent,3,1,1
+DE0000651,MOBILE GARDENS I,Region 3,Delaware,Community water system,476,SEAFORD,Sussex,6,2,9
+DE0000336,RED MILL INN,Region 3,Delaware,Transient non-community system,60,LEWES,Sussex,7,0,2
+DE00A0785,GUARDIAN ANGELS DAYCARE,Region 3,Delaware,Non-Transient non-community system,35,GEORGETOWN,Sussex,5,1,1
+DE00A0341,PERDUE FEED MILL,Region 3,Delaware,Non-Transient non-community system,37,BRIDGEVILLE,Sussex,5,5,1
+DE00A0694,CHILDRENS SECRET GARDEN,Region 3,Delaware,Non-Transient non-community system,60,DOVER,Kent,5,12,2
+DE0000220,HUNTER MILL ESTATES,Region 3,Delaware,Community water system,432,HARBESON,Sussex,5,5,2
+DE0000644,PINE VALLEY MOBILE HOME PARK,Region 3,Delaware,Transient non-community system,186,REHOBOTH BEACH,Sussex,6,3,5
+DE0000248,ANGOLA DISTRICT,Region 3,Delaware,Community water system,8500,LEWES,Sussex,25,1,12
+DE0000013,GOVERNOR BACON HEALTH CENTER,Region 3,Delaware,Community water system,525,DELAWARE CITY,New Castle,6,17,6
+DE0000140,SUMMIT POND,Region 3,Delaware,Community water system,177,MIDDLETOWN,New Castle,7,5,4
+DE0000205,OCEAN BAY PLAZA,Region 3,Delaware,Transient non-community system,100,FENWICK ISLAND,Sussex,5,4,2
+DE00A0868,KENTON DISTRICT,Region 3,Delaware,Community water system,189,KENTON,Kent,5,0,0
+DE00A0323,SOUTH BETHANY,Region 3,Delaware,Community water system,16119,BETHANY BEACH,Sussex,11,1,2
+DE0000583,GRAYS TRAILER PARK,Region 3,Delaware,Transient non-community system,30,FENWICK ISLAND,Sussex,6,0,3
+DE0000125,VOSHELLS COVE,Region 3,Delaware,Community water system,252,DOVER,Kent,8,3,12
+DE0000613,SOUTH WOOD ACRES,Region 3,Delaware,Community water system,456,MAGNOLIA,Kent,8,1,11
+DE0000546,LAKELAND MOBILE HOME PARK,Region 3,Delaware,Community water system,750,DOVER,Kent,9,3,13
+DE0000821,FENWICK ISLAND TRAILER PARK,Region 3,Delaware,Transient non-community system,30,FENWICK ISLAND,Sussex,5,0,2
+DE0000874,BOMBAY HOOK REFUGE,Region 3,Delaware,Transient non-community system,150,SMYRNA,Kent,8,21,3
+DE0020035,HOLLAND MILLS,Region 3,Delaware,Community water system,282,MILTON,Sussex,3,0,1
+DE0000712,HELENS SAUSAGE HOUSE,Region 3,Delaware,Transient non-community system,250,SMYRNA,New Castle,4,0,3
+DE0003801,HOLLY LAKE CAMPSITES SYSTEM 3,Region 3,Delaware,Transient non-community system,900,DEWEY BEACH,Sussex,12,2,1
+DE0000004,GARRISON LAKE DISTRICT,Region 3,Delaware,Community water system,6648,SMYRNA,Kent,22,6,6
+DE0000141,ILC DOVER,Region 3,Delaware,Non-Transient non-community system,300,FREDERICA,Kent,7,4,2
+DE0000614,MIDDLETOWN WATER DEPARTMENT,Region 3,Delaware,Community water system,16000,MIDDLETOWN,New Castle,17,7,10
+DE00A0159,WILD QUAIL DISTRICT,Region 3,Delaware,Community water system,801,CAMDEN-WYOMING,Kent,13,1,4
+DE00A0516,SEA WINDS,Region 3,Delaware,Community water system,141,DAGSBORO,Sussex,7,2,2
+DE00A0847,BEAVER CREEK,Region 3,Delaware,Community water system,750,MILTON,Sussex,6,0,1
+DE00A0673,WINDSONG FARMS,Region 3,Delaware,Community water system,1014,CLAYTON,Kent,13,1,0
+DE00A0787,DEER MEADOWS,Region 3,Delaware,Community water system,480,MILFORD,Kent,5,0,1
+DE00A0232,AUGUSTINE CREEK,Region 3,Delaware,Community water system,601,PORT PENN,New Castle,8,0,1
+DE0020028,ODESSA WOODS,Region 3,Delaware,Community water system,36,ODESSA,New Castle,5,1,1
+DE00A0334,EAST NCC DISTRICT,Region 3,Delaware,Community water system,1836,ODESSA,New Castle,19,2,1
+DE00A0347,NORTHWEST DISTRICT,Region 3,Delaware,Community water system,3729,MIDDLETOWN,New Castle,24,3,1
+DE00A0376,SOUTHEAST DISTRICT,Region 3,Delaware,Community water system,930,MIDDLETOWN,New Castle,8,2,1
+DE0000662,TOWNSEND WATER DEPARTMENT,Region 3,Delaware,Community water system,1995,TOWNSEND,New Castle,8,4,8
+DE00A0740,BURTONWOOD,Region 3,Delaware,Community water system,1509,CHESWOLD,Kent,5,1,0
+DE00A0837,BAYSIDE,Region 3,Delaware,Community water system,6500,FENWICK ISLAND,Sussex,7,0,1
+DE0000011,DELAWARE CORRECTIONAL CENTER,Region 3,Delaware,Community water system,2000,SMYRNA,New Castle,11,4,6
+DE0020003,HERON BAY,Region 3,Delaware,Community water system,2451,LEWES,Sussex,10,0,3
+DE00A0684,WEST DOVER DISTRICT,Region 3,Delaware,Community water system,1158,DOVER,Kent,4,0,0
+DE00A0770,GANDER WOODS,Region 3,Delaware,Community water system,42,DAGSBORO,Sussex,5,0,1
+DE00A0693,COZY CRITTERS DAYCARE,Region 3,Delaware,Non-Transient non-community system,120,FRANKFORD,Sussex,4,1,1
+DE00A0757,WILLOW LAKE,Region 3,Delaware,Community water system,117,GEORGETOWN,Sussex,5,0,1
+DE00A0699,SANDY RIDGE MOBILE HOME PARK,Region 3,Delaware,Community water system,180,LAUREL,Sussex,5,1,1
+DE0000007,FREDERICK LODGE AND MOBILE HOME PARK,Region 3,Delaware,Community water system,204,TOWNSEND,New Castle,5,3,5
+DE0020020,COUNTRY GROVE,Region 3,Delaware,Community water system,87,DELMAR,Sussex,6,0,1
+DE0020019,STOCKLEY MEDICAL CTR (MARYANN COVERDALE),Region 3,Delaware,Community water system,454,GEORGETOWN,Sussex,7,1,1
+DE0000271,MEADOWS DISTRICT,Region 3,Delaware,Community water system,14065,MILLSBORO,Sussex,24,9,10
+DE0000273,SWEET BRIAR MOBILE HOME PARK,Region 3,Delaware,Community water system,441,LEWES,Sussex,8,27,10
+DE0000104,HUNTERS POINTE,Region 3,Delaware,Community water system,261,DOVER,Kent,6,1,4
+DE0000469,FELTON DISTRICT,Region 3,Delaware,Community water system,1143,FELTON,Kent,10,2,10
+DE0000991,REHOBOTH DISTRICT,Region 3,Delaware,Community water system,40000,REHOBOTH BEACH,Sussex,54,2,7
+DE0000087,EAGLES NEST FAMILY CAMPGROUND,Region 3,Delaware,Transient non-community system,246,MILTON,Sussex,6,0,2
+DE0000155,BRIDGEVILLE MALL,Region 3,Delaware,Non-Transient non-community system,250,BRIDGEVILLE,Sussex,7,0,2
+DE0000999,ANGOLA CREST II,Region 3,Delaware,Community water system,159,LEWES,Sussex,5,6,7
+DE0000221,BETHANY BAY OCEAN VIEW,Region 3,Delaware,Community water system,30100,MILLVILLE,Sussex,39,5,2
+DE0000276,STOCKLEY CENTER,Region 3,Delaware,Community water system,295,GEORGETOWN,Sussex,6,6,10
+DE0000608,CHERRY CREEK VALLEY,Region 3,Delaware,Community water system,78,DEWEY BEACH,Sussex,5,20,7
+DE0020017,GLASGOW DELI,Region 3,Delaware,Transient non-community system,25,DOVER,Kent,4,3,0
+DE0000609,HAPPY GO LUCKY TRAILER COURT,Region 3,Delaware,Transient non-community system,81,LEWES,Sussex,4,1,3
+DE0000949,BRIDGEVILLE DISTRICT,Region 3,Delaware,Community water system,1425,BRIDGEVILLE,Sussex,10,3,8
+DE0000960,FOREST GROVE VILLAGE,Region 3,Delaware,Community water system,339,HARTLY,Kent,7,7,7
+DE0000118,COOPER FARMS,Region 3,Delaware,Community water system,204,LITTLE CREEK,Kent,6,1,9
+DE0000124,CAMDEN DISTRICT,Region 3,Delaware,Community water system,10973,CAMDEN-WYOMING,Kent,36,3,13
+DE0000885,AVALON WOODS OWNERS ASSOC INC,Region 3,Delaware,Community water system,306,GEORGETOWN,Sussex,8,7,4
+DE0000804,ANGOLA CREST I,Region 3,Delaware,Transient non-community system,170,LEWES,Sussex,5,0,3
+DE0020007,FREDERICA DISTRICT,Region 3,Delaware,Community water system,207,FREDERICA,Kent,10,0,1
+DE00A0522,GRANTS WAY,Region 3,Delaware,Community water system,237,MILTON,Sussex,5,1,1
+DE00A0279,WOODLANDS OF MILLSBORO,Region 3,Delaware,Community water system,174,MILLSBORO,Sussex,6,5,2
+DE00A0369,WEBBS LANDING,Region 3,Delaware,Community water system,105,LEWES,Sussex,5,3,2
+DE00A0401,VIOLA DISTRICT,Region 3,Delaware,Community water system,213,WOODSIDE,Kent,7,1,2
+DE00A0428,CHURCH CREEK,Region 3,Delaware,Community water system,5661,MAGNOLIA,Kent,18,1,1
+DE00A0682,COMMODORE ESTATES,Region 3,Delaware,Community water system,162,ODESSA,New Castle,5,0,0
+DE00A0683,THOMAS COVE,Region 3,Delaware,Community water system,5319,ODESSA,New Castle,13,0,0
+DE00A1745,PARADISE ESTATES,Region 3,Delaware,Community water system,153,FELTON,Kent,5,1,1
+DE00A0843,ROYAL FARMS - PEARSON CORNER,Region 3,Delaware,Transient non-community system,27,DOVER,Kent,4,1,0
+DE00A0689,SHINING TIME DAY CARE CENTER,Region 3,Delaware,Non-Transient non-community system,30,FELTON,Kent,4,3,1
+DE0000634,NEW CASTLE WATER DEPARTMENT,Region 3,Delaware,Community water system,6000,NEW CASTLE,New Castle,10,1,9
+DE00A0424,CEDAR LANDING,Region 3,Delaware,Community water system,420,OCEAN VIEW,Sussex,6,0,2
+DE0001801,HOLLY LAKE CAMPSITES SYSTEM 1,Region 3,Delaware,Transient non-community system,801,DEWEY BEACH,Sussex,8,2,8
+DE0000552,ARTESIAN WATER COMPANY,Region 3,Delaware,Community water system,211494,"BEAR, HOCKESSIN",New Castle,119,6,8
+DE0002801,HOLLY LAKE CAMPSITES SYSTEM 2,Region 3,Delaware,Transient non-community system,1644,DEWEY BEACH,Sussex,13,1,3
+DE00A0321,TEAL POINT,Region 3,Delaware,Community water system,96,MILTON,Sussex,6,10,2
+DE0000107,"CRODA UNIQEMA, INC",Region 3,Delaware,Non-Transient non-community system,200,NEW CASTLE,New Castle,12,4,2
+DE0020024,WEATHERSTONE CROSSING,Region 3,Delaware,Community water system,429,FREDERICA,Kent,5,0,1
+DE0000045,BUCKLEYS TAVERN COMPLEX,Region 3,Delaware,Transient non-community system,150,"GREENVILLE, WINTERTHUR",New Castle,6,2,5
+DE0000553,BAYVIEW IMPROVEMENT COMPANY,Region 3,Delaware,Community water system,141,PORT PENN,New Castle,6,2,5
+DE00A0349,FOX HUNTER CROSSING,Region 3,Delaware,Community water system,9588,MIDDLETOWN,New Castle,13,0,1
+DE00A0379,POINT FARM,Region 3,Delaware,Community water system,213,DAGSBORO,Sussex,5,0,2
+DE0020022,PONDS AT WILLOW GROVE,Region 3,Delaware,Community water system,39,CAMDEN-WYOMING,Kent,7,0,1
+DE00A0327,GREEN ACRES,Region 3,Delaware,Community water system,213,SEAFORD,Sussex,7,1,2
+DE00A0353,DRAWYERS CREEK,Region 3,Delaware,Community water system,192,ODESSA,New Castle,7,4,1
+DE00A0411,LONG FARM ESTATES,Region 3,Delaware,Community water system,123,MARYDEL,Kent,5,1,2
+DE00A0326,CLEARBROOKE ESTATES,Region 3,Delaware,Community water system,522,SEAFORD,Sussex,7,1,2
+DE00A0329,LOVE CREEK WOODS,Region 3,Delaware,Community water system,198,REHOBOTH BEACH,Sussex,5,2,2
+DE0000641,SILVER VIEW FARM,Region 3,Delaware,Community water system,400,REHOBOTH BEACH,Sussex,5,2,11
+DE00A0420,MISTY PINES,Region 3,Delaware,Community water system,168,MAGNOLIA,Kent,6,1,2
+DE00A0753,OAK CREST FARMS,Region 3,Delaware,Community water system,945,LEWES,Sussex,11,0,1
+DE0000238,BROADKILN BEACH WATER COMPANY,Region 3,Delaware,Community water system,1440,MILFORD,Sussex,11,8,10
+DE0000654,SELBYVILLE WATER DEPARTMENT,Region 3,Delaware,Community water system,4191,SELBYVILLE,Sussex,8,3,9
+DE0020001,WICKSFIELD,Region 3,Delaware,Community water system,981,CLAYTON,Kent,2,0,1
+DE00A0794,SUSSEX CENTRAL HIGH SCHOOL,Region 3,Delaware,Non-Transient non-community system,1450,GEORGETOWN,Sussex,5,3,1
+DE0000566,DELAWARE CITY WATER DEPARTMENT,Region 3,Delaware,Community water system,2220,DELAWARE CITY,New Castle,6,3,12
+DE00A0767,DOVER MEADOWS,Region 3,Delaware,Community water system,135,CHESWOLD,Kent,5,0,0
+DE00A0708,WAWA #828,Region 3,Delaware,Transient non-community system,250,NEW CASTLE,New Castle,5,0,0
+DE00A0575,LAUREL DISTRICT,Region 3,Delaware,Community water system,75,LAUREL,Sussex,6,1,1
+DE00A0234,AQUATIC RESOURCES EDUCATION CENTER,Region 3,Delaware,Transient non-community system,25,SMYRNA,Kent,5,8,0
+DE0000812,GREENVILLE COUNTRY CLUB,Region 3,Delaware,Transient non-community system,200,MONTCHANIN,New Castle,7,8,1
+DE0020030,THE STORE IN GUMBORO,Region 3,Delaware,Transient non-community system,25,GUMBORO,Sussex,4,1,1
+DE0000227,INDIAN RIVER ACRES,Region 3,Delaware,Community water system,211,DAGSBORO,Sussex,4,1,1
+DE0000260,FISH HOOK MOBILE HOME PARK,Region 3,Delaware,Community water system,72,GEORGETOWN,Sussex,7,35,12
+DE0000556,BETHANY BEACH WATER DEPARTMENT,Region 3,Delaware,Community water system,12000,BETHANY BEACH,Sussex,13,7,9
+DE0003002,PINE HAVEN MHP AND CAMPSITE SYSTEM #3,Region 3,Delaware,Transient non-community system,132,LINCOLN,Sussex,3,0,3
+DE0000630,NEWARK WATER DEPARTMENT,Region 3,Delaware,Community water system,36450,NEWARK,New Castle,30,6,11
+DE00A0348,CANTERBURY HOMES,Region 3,Delaware,Community water system,450,FELTON,Kent,6,2,2
+DE00A0400,LEWES CENTER,Region 3,Delaware,Transient non-community system,200,LEWES,Sussex,4,2,2
+DE0000196,HARRINGTON MOOSE LODGE 534,Region 3,Delaware,Transient non-community system,25,HARRINGTON,Kent,4,5,6
+DE0000433,HOLTS LANDING STATE PARK,Region 3,Delaware,Transient non-community system,50,MILLVILLE,Sussex,5,2,3
+DE0000715,FORT DELAWARE STATE PARK,Region 3,Delaware,Transient non-community system,700,DELAWARE CITY,New Castle,4,6,2
+DE00A0681,MT CUBA CENTER,Region 3,Delaware,Non-Transient non-community system,60,WILMINGTON,New Castle,8,0,0
+DE0001316,SUSSEX PINES COUNTRY CLUB,Region 3,Delaware,Transient non-community system,150,GEORGETOWN,Sussex,4,30,1
+DE0000365,PLAZA TAPATIA,Region 3,Delaware,Transient non-community system,450,SEAFORD,Sussex,5,11,2
+DE0003305,CAMP ARROWHEAD SYSTEM #3,Region 3,Delaware,Transient non-community system,150,DEWEY BEACH,Sussex,7,0,2
+DE00A0354,WAWA #830,Region 3,Delaware,Transient non-community system,1100,NEW CASTLE,New Castle,4,1,0
+DE0000147,ST GEORGES SHOPS,Region 3,Delaware,Transient non-community system,200,ODESSA,New Castle,4,0,1
+DE0000206,ROUTE 10 PLAZA,Region 3,Delaware,Transient non-community system,900,DOVER,Kent,10,2,2
+DE0002002,PINE HAVEN MHP AND CAMPSITE SYSTEM #2,Region 3,Delaware,Transient non-community system,135,LINCOLN,Sussex,4,2,1
+DE00A0799,DAGSBORO WATER DEPT,Region 3,Delaware,Community water system,900,DAGSBORO,Sussex,4,3,1
+DE0000172,CHILD CRAFT COMPANY,Region 3,Delaware,Non-Transient non-community system,60,SEAFORD,Sussex,5,6,1
+DE0000625,LONG NECK WATER COMPANY,Region 3,Delaware,Community water system,14820,MILLSBORO,Sussex,20,8,8
+DE0000067,CENTREVILLE SCHOOL,Region 3,Delaware,Non-Transient non-community system,170,CENTERVILLE,New Castle,6,11,3
+DE0000876,"GREEN STINGER, THE",Region 3,Delaware,Transient non-community system,145,WOODSIDE,Kent,4,5,5
+DE0001305,CAMP ARROWHEAD SYSTEM #1,Region 3,Delaware,Transient non-community system,100,DEWEY BEACH,Sussex,4,0,2
+DE0000511,BALTIMORE AIRCOIL,Region 3,Delaware,Non-Transient non-community system,450,MILFORD,Kent,5,5,3
+DE0000814,SIEMENS HEALTHCARE DIAGNOSTICS,Region 3,Delaware,Non-Transient non-community system,1500,NEWARK,New Castle,6,5,1
+DE00A0746,CENTRAL DELAWARE CHRISTIAN ACADEMY,Region 3,Delaware,Non-Transient non-community system,110,WOODSIDE,Kent,5,2,0
+DE00A0355,PANDA EARLY EDUCATION CENTER,Region 3,Delaware,Non-Transient non-community system,82,BEAR,New Castle,6,10,1
+DE00A0188,LONG NECK VILLAGE,Region 3,Delaware,Community water system,345,MILLSBORO,Sussex,5,8,5
+DE0000622,MILLSBORO WATER DEPARTMENT,Region 3,Delaware,Community water system,2300,MILLSBORO,Sussex,15,5,13
+DE0001311,JIMS HIDEAWAY I,Region 3,Delaware,Transient non-community system,90,MILLVILLE,Sussex,4,0,1
+DE0020039,CHILD'S PLAY BY THE BAY,Region 3,Delaware,Non-Transient non-community system,60,LEWES,Sussex,3,2,1
+DE00A0425,BAYWOOD GOLF AND RESIDENTIAL COMMUNITY,Region 3,Delaware,Community water system,1113,MILLSBORO,Sussex,6,0,1
+DE0002275,GREENWOOD COUNTRY RETIREMENT,Region 3,Delaware,Community water system,50,GREENWOOD,Sussex,3,6,1
+DE0000857,DE-LUX DAIRY MARKET - SEAFORD,Region 3,Delaware,Transient non-community system,916,SEAFORD,Sussex,4,7,1
+DE0000084,DELAWARE STATE POLICE TROOP 9,Region 3,Delaware,Transient non-community system,50,ODESSA,New Castle,6,2,0
+DE0000888,WHITE OAK SUBDIVISION,Region 3,Delaware,Community water system,30,KENTON,Kent,8,9,4
+DE0000835,"PICTSWEET COMPANY, THE",Region 3,Delaware,Transient non-community system,78,BRIDGEVILLE,Sussex,8,0,1
+DE0000225,SWANN ESTATES,Region 3,Delaware,Community water system,267,SELBYVILLE,Sussex,6,3,2
+DE0000093,SMYRNA REST AND INFORMATION CENTER,Region 3,Delaware,Transient non-community system,6000,SMYRNA,New Castle,5,4,2
+DE0000495,CRABBY DICKS,Region 3,Delaware,Transient non-community system,200,REHOBOTH BEACH,Sussex,4,0,2
+DE0020036,SUMMIT CENTER,Region 3,Delaware,Transient non-community system,25,MIDDLETOWN,New Castle,4,0,0
+DE0002311,JIMS HIDEAWAY II,Region 3,Delaware,Transient non-community system,210,MILLVILLE,Sussex,4,2,0
+DE0000275,COUNTRY REST HOME,Region 3,Delaware,Community water system,65,GREENWOOD,Sussex,8,9,10
+DE0000569,STAGE VILLAGE MHC,Region 3,Delaware,Community water system,93,DELMAR,Sussex,4,4,8
+DE0000468,HARTLY TRAILER PARK,Region 3,Delaware,Community water system,90,HARTLY,Kent,4,12,9
+DE0000987,AUTUMN WOODS MOBILE HOME PARK,Region 3,Delaware,Community water system,75,CHESWOLD,Kent,6,20,9
+DE0000521,"CAREY ESTATES, LLC",Region 3,Delaware,Community water system,312,MILLSBORO,Sussex,6,3,9
+DE00A0750,LA QUETZALTECA MEXICAN RESTAURANT,Region 3,Delaware,Transient non-community system,74,MILLSBORO,Sussex,4,6,1
+DE0000560,HILLTOP TRAILER PARK,Region 3,Delaware,Community water system,135,RISING SUN,Kent,5,24,13
+DE0000580,FELTON WATER DEPARTMENT,Region 3,Delaware,Community water system,1591,FELTON,Kent,10,12,8
+DE0000253,TODDS MOBILE COURT,Region 3,Delaware,Community water system,189,SEAFORD,Sussex,6,14,9
+DE0000592,GEORGETOWN WATER DEPARTMENT,Region 3,Delaware,Community water system,6000,GEORGETOWN,Sussex,15,0,11
+DE0000549,WOODS EDGE MOBILE HOME PARK,Region 3,Delaware,Community water system,45,CAMDEN-WYOMING,Kent,6,11,11
+DE0000015,METHODIST COUNTRY HOUSE,Region 3,Delaware,Community water system,425,WINTERTHUR,New Castle,8,16,10
+DE00A0415,FIRST STEP PRESCHOOL,Region 3,Delaware,Non-Transient non-community system,50,LINCOLN,Sussex,6,11,4
+DE00A0527,EAGLES NEST FELLOWSHIP CHURCH,Region 3,Delaware,Non-Transient non-community system,400,MILTON,Sussex,5,5,1
+DE00A0761,PUMPKIN PATCH DAY CARE,Region 3,Delaware,Non-Transient non-community system,94,HARTLY,Kent,5,6,1
+DE0003581,FLYING DUTCHMAN MOBILE HOME PARK 3,Region 3,Delaware,Community water system,81,FELTON,Kent,4,11,3
+DE0000399,CARPENTERS ROW,Region 3,Delaware,Community water system,60,MONTCHANIN,New Castle,6,6,0
+DE0000619,WHITE OAK MOBILE HOME PARK,Region 3,Delaware,Community water system,78,MILFORD,Sussex,5,12,11
+DE0000230,HANOVER FOODS CORPORATION,Region 3,Delaware,Non-Transient non-community system,160,CLAYTON,Kent,6,3,1
+DE0000296,INVISTA SEAFORD SITE,Region 3,Delaware,Non-Transient non-community system,80,SEAFORD,Sussex,7,3,2
+DE0000019,LITTLE HEARTS LEARNING CENTER II,Region 3,Delaware,Non-Transient non-community system,50,MILLVILLE,Sussex,4,7,3
+DE0000285,EVELYN MORRIS ELEMENTARY SCHOOL,Region 3,Delaware,Non-Transient non-community system,780,LINCOLN,Sussex,5,0,1
+DE00A0350,ARBYS - LEWES,Region 3,Delaware,Transient non-community system,675,LEWES,Sussex,4,0,1
+DE00A0779,G AND R CAMPGROUND II,Region 3,Delaware,Transient non-community system,100,HOUSTON,Kent,3,0,0
+DE0020033,DELICIOSO'S,Region 3,Delaware,Transient non-community system,25,CHESWOLD,Kent,4,1,4
+DE0000862,RISING SUN PLAZA,Region 3,Delaware,Transient non-community system,122,DOVER,Kent,5,14,2
+DE0020029,BOARDWALK POPCORN,Region 3,Delaware,Transient non-community system,300,FENWICK ISLAND,Sussex,5,0,1
+DE0003318,TRAP POND STATE PARK SYSTEM 3,Region 3,Delaware,Transient non-community system,1000,LAUREL,Sussex,7,2,1
+DE0004318,TRAP POND STATE PARK SYSTEM 4,Region 3,Delaware,Transient non-community system,300,LAUREL,Sussex,4,0,1
+DE00A0756,SAVANNAH RD. CENTER,Region 3,Delaware,Transient non-community system,150,LEWES,Sussex,4,3,1
+DE00A0733,BEACH BABIES DAY CARE,Region 3,Delaware,Non-Transient non-community system,180,LEWES,Sussex,4,4,1
+DE0020005,WILLIAMSVILLE COUNTRY VILLAGE,Region 3,Delaware,Transient non-community system,50,FENWICK ISLAND,Sussex,3,9,1
+DE0001605,TALL PINES RESORT COMMUNITY SYS1,Region 3,Delaware,Community water system,1538,LEWES,Sussex,14,10,12
+DE0001646,SHAWNS HIDEAWAY SYSTEM #1,Region 3,Delaware,Community water system,336,MILLSBORO,Sussex,5,0,3
+DE0003525,ROKERY NORTH (SYSTEM #3),Region 3,Delaware,Transient non-community system,222,MILFORD,Sussex,6,2,3
+DE0001525,ROKERY NORTH (SYSTEM #1),Region 3,Delaware,Transient non-community system,150,MILFORD,Sussex,4,5,3
+DE0004570,KILLENS POND STATE PARK SYSTEM #4,Region 3,Delaware,Transient non-community system,25,FELTON,Kent,4,0,1
+DE0005570,KILLENS POND STATE PARK SYSTEM #5,Region 3,Delaware,Transient non-community system,26,FELTON,Kent,5,0,0
+DE0002318,TRAP POND STATE PARK SYSTEM 2,Region 3,Delaware,Transient non-community system,1500,LAUREL,Sussex,4,0,5
+DE0000917,MCKINNEYS PUBLIC WATER SUPPLY,Region 3,Delaware,Transient non-community system,120,DOVER,Kent,4,0,5
+DE0000324,LAUREL OASIS RESTAURANT,Region 3,Delaware,Transient non-community system,300,LAUREL,Sussex,4,0,2
+DE0002570,KILLENS POND STATE PARK SYSTEM #2,Region 3,Delaware,Transient non-community system,200,FELTON,Kent,4,0,1
+DE0002605,TALL PINES RESORT COMMUNITY SYS2,Region 3,Delaware,Community water system,69,LEWES,Sussex,6,3,8
+DE0003605,TALL PINES RESORT COMMUNITY SYS3,Region 3,Delaware,Community water system,400,LEWES,Sussex,5,7,2
+DE00A0407,BRAFMAN FAMILY DENTISTRY,Region 3,Delaware,Transient non-community system,46,DAGSBORO,Sussex,9,24,4
+DE00A0751,CROSSROAD CHRISTIAN CHURCH ACADEMY,Region 3,Delaware,Non-Transient non-community system,50,DOVER,Kent,4,3,1
+DE00A0854,DOWNING'S LOVING & LEARNING CENTER,Region 3,Delaware,Non-Transient non-community system,25,ELLENDALE,Sussex,3,2,1
+DE00A0778,G AND R CAMPGROUND,Region 3,Delaware,Transient non-community system,145,HOUSTON,Kent,4,0,0
+DE0001581,FLYING DUTCHMAN MOBILE HOME PARK 1,Region 3,Delaware,Community water system,30,FELTON,Kent,4,20,8
+DE0002581,FLYING DUTCHMAN MOBILE HOME PARK 2,Region 3,Delaware,Community water system,30,FELTON,Kent,5,12,3
+DE0000291,SUSSEX TECHNICAL SCHOOL DISTRICT,Region 3,Delaware,Non-Transient non-community system,1800,GEORGETOWN,Sussex,5,3,2
+DE0000074,KENT COUNTY MOTOR SALES,Region 3,Delaware,Non-Transient non-community system,45,DOVER,Kent,4,0,1
+DE0000817,COUNTRYSIDE HAMLET,Region 3,Delaware,Community water system,66,FRANKFORD,Sussex,5,9,10
+DE00A0752,HISTORIC ODESSA FOUNDATION,Region 3,Delaware,Transient non-community system,100,ODESSA,New Castle,4,2,0
+DE0000213,PAPEN FARMS INC,Region 3,Delaware,Transient non-community system,55,CAMDEN-WYOMING,Kent,10,27,2
+DE0000121,WOODLAND MANOR ESTATES,Region 3,Delaware,Community water system,110,CANTEBURY,Kent,7,17,13
+DE0020012,"CHILDRENS CENTER, THE",Region 3,Delaware,Non-Transient non-community system,30,MILTON,Sussex,4,1,1
+DE0000133,J & J MOBILE HOME PARK,Region 3,Delaware,Community water system,84,FELTON,Kent,7,8,13
+DE0000288,PYLE SERVICE CENTER,Region 3,Delaware,Non-Transient non-community system,250,FRANKFORD,Sussex,4,0,3
+DE0000109,SUMMIT AVIATION,Region 3,Delaware,Non-Transient non-community system,50,MIDDLETOWN,New Castle,4,14,2
+DE0000136,HARTLY ELEMENTARY SCHOOL,Region 3,Delaware,Non-Transient non-community system,450,HARTLY,Kent,4,8,2
+DE00A0749,FELTON-GOOSE CREEK FOOD STORES,Region 3,Delaware,Transient non-community system,500,FELTON,Kent,4,6,0
+DE0000572,VILLAS OF GRANDVIEW,Region 3,Delaware,Community water system,108,DOVER,Kent,5,5,10
+DE0005318,TRAP POND STATE PARK SYSTEM 5,Region 3,Delaware,Transient non-community system,25,LAUREL,Sussex,5,3,0
+DE0020025,ONE STOP SHOP,Region 3,Delaware,Transient non-community system,25,HARTLY,Kent,7,0,1
+DE0000983,WOODSIDE GOOSE CREEK,Region 3,Delaware,Transient non-community system,100,WOODSIDE,Kent,4,3,1
+DE0004605,TALL PINES RESORT COMMUNITY SYS4,Region 3,Delaware,Transient non-community system,79,LEWES,Sussex,3,0,1
+DE0020027,OCEAN VIEW WATER DEPARTMENT,Region 3,Delaware,Community water system,2688,OCEAN VIEW,Sussex,2,0,1
+DE0003570,KILLENS POND STATE PARK SYSTEM #3,Region 3,Delaware,Transient non-community system,60,FELTON,Kent,4,0,1
+DE0003646,SHAWNS HIDEAWAY SYSTEM #3,Region 3,Delaware,Transient non-community system,150,MILLSBORO,Sussex,7,4,3
+DE0001570,KILLENS POND STATE PARK SYSTEM #1,Region 3,Delaware,Transient non-community system,180,FELTON,Kent,4,0,1
+DE0004646,SHAWNS HIDEAWAY SYSTEM #4,Region 3,Delaware,Transient non-community system,60,MILLSBORO,Sussex,6,8,3
+DE00A0754,SMYRNA CHRISTIAN SCHOOL & CHURCH,Region 3,Delaware,Non-Transient non-community system,67,SMYRNA,New Castle,4,0,0
+DE00A0233,GOOD BEGINNINGS,Region 3,Delaware,Non-Transient non-community system,60,LAUREL,Sussex,7,5,1
+DE0020047,CANTWELL'S TAVERN LLC,Region 3,Delaware,Transient non-community system,170,ODESSA,New Castle,3,0,1
+DE00A0772,HAND-N-HAND EARLY LEARNING CENTER,Region 3,Delaware,Non-Transient non-community system,41,ELLENDALE,Sussex,4,2,1
+DE0000282,GREENWOOD MENNONITE SCHOOL,Region 3,Delaware,Non-Transient non-community system,260,GREENWOOD,Sussex,4,1,1
+DE0000145,SUMMIT VILLAGE SHOPPING CENTER,Region 3,Delaware,Transient non-community system,250,MIDDLETOWN,New Castle,6,0,2
+DE0000901,COUNTY SEAT GARDENS,Region 3,Delaware,Community water system,297,GEORGETOWN,Sussex,8,16,8
+DE0000085,GREEN ACRES DAYCARE,Region 3,Delaware,Non-Transient non-community system,200,ODESSA,New Castle,4,5,1
+DE0000548,OAK GROVE ESTATES,Region 3,Delaware,Community water system,150,LITTLE CREEK,Kent,5,22,10
+DE00A0781,LIGHTHOUSE POINT,Region 3,Delaware,Non-Transient non-community system,36,MILLSBORO,Sussex,3,10,1
+DE0000645,REHOBOTH BAY COMMUNITY,Region 3,Delaware,Community water system,1575,REHOBOTH BEACH,Sussex,16,2,10
+DE0020053,WEST FENWICK STATION,Region 3,Delaware,Transient non-community system,120,SELBYVILLE,Sussex,2,1,0
+DE00A0696,FOX POINTE SUBDIVISION,Region 3,Delaware,Community water system,300,CHESWOLD,Kent,5,0,0
+DE0000252,BAYSHORE MOBILE HOME PARK,Region 3,Delaware,Transient non-community system,1608,OCEAN VIEW,Sussex,9,9,3
+DE0000439,CAPE WINDSOR COMMUNITY ASSOCIATION INC,Region 3,Delaware,Community water system,640,FENWICK ISLAND,Sussex,9,6,9
+DE0000711,DOVER INDOOR TENNIS,Region 3,Delaware,Transient non-community system,80,DOVER,Kent,5,4,3
+DE0000242,FRANKFORD WATER DEPARTMENT,Region 3,Delaware,Community water system,1014,FRANKFORD,Sussex,7,11,13
+DE0000567,DELMAR UTILITY COMM  (TN OF DELMAR),Region 3,Delaware,Community water system,3266,DELMAR,Sussex,7,3,9
+DE0000833,PERDUE INC,Region 3,Delaware,Non-Transient non-community system,1500,GEORGETOWN,Sussex,9,0,2
+DE0000959,STARGATE DINER,Region 3,Delaware,Transient non-community system,50,SEAFORD,Sussex,7,3,2
+DE0000964,GULLS WAY CAMPGROUND,Region 3,Delaware,Transient non-community system,1617,DAGSBORO,Sussex,5,3,2
+DE0000559,BRIDGEVILLE WATER DEPARTMENT,Region 3,Delaware,Community water system,1350,BRIDGEVILLE,Sussex,13,4,10
+DE0000254,CEDAR VILLAGE L.L.C.,Region 3,Delaware,Community water system,445,LINCOLN,Sussex,10,11,11
+DE0000595,DELAWARE STATE FAIR,Region 3,Delaware,Non-Transient non-community system,2952,HARRINGTON,Kent,8,24,9
+DE00A0582,LEWES SENIOR CITIZENS CENTER,Region 3,Delaware,Transient non-community system,50,NASSAU,Sussex,4,0,1
+DE00A0792,ROYAL FARMS - CHESWOLD,Region 3,Delaware,Transient non-community system,100,CHESWOLD,Kent,4,1,0
+DE0001618,SLAUGHTER BEACH WATER I,Region 3,Delaware,Transient non-community system,47,SLAUGHTER BEACH,Sussex,4,0,2
+DE0000629,MILTON WATER DEPARTMENT,Region 3,Delaware,Community water system,2400,MILTON,Sussex,10,2,9
+DE0000112,DOVE ESTATES,Region 3,Delaware,Community water system,111,SEAFORD,Sussex,9,2,4
+DE0000423,BIG OAK FAMILY CAMPING,Region 3,Delaware,Transient non-community system,300,LEWES,Sussex,7,0,3
+DE0000464,PEPPER RIDGE PARK,Region 3,Delaware,Community water system,209,FRANKFORD,Sussex,6,13,12
+DE0000187,DELAWARE STATE POLICE TROOP 3,Region 3,Delaware,Transient non-community system,39,CAMDEN-WYOMING,Kent,4,7,2
+DE0000102,UPCOUNTRY MANUFACTURED HOME COMMUNITY,Region 3,Delaware,Community water system,65,SEAFORD,Sussex,6,14,10
+DE0000298,ALLENS HARIM FOODS INC,Region 3,Delaware,Non-Transient non-community system,750,HARBESON,Sussex,11,2,3
+DE0000667,CENTRAL CHRISTIAN SCHOOL,Region 3,Delaware,Non-Transient non-community system,100,DOVER,Kent,4,13,2
+DE0000431,SUBURBAN PROPANE,Region 3,Delaware,Transient non-community system,25,MILLSBORO,Sussex,6,4,2
+DE0004618,SLAUGHTER BEACH WATER IV,Region 3,Delaware,Transient non-community system,88,SLAUGHTER BEACH,Sussex,4,0,1
+DE0003618,SLAUGHTER BEACH WATER III,Region 3,Delaware,Community water system,581,,Sussex,4,2,2
+DE00A0175,WILLIS AUTO MALL,Region 3,Delaware,Non-Transient non-community system,65,SMYRNA,Kent,6,11,2
+DE0000602,LEWES BOARD OF PUBLIC WORKS,Region 3,Delaware,Community water system,9200,LEWES,Sussex,9,3,9
+DE0000628,BETHANY CREST LLC,Region 3,Delaware,Community water system,60,MILLVILLE,Sussex,9,32,8
+DE0001254,HIDDEN HILLS MHP,Region 3,Delaware,Community water system,210,LINCOLN,Sussex,5,1,1
+DE0000528,BRIDGEVILLE COMMERCIAL PARK,Region 3,Delaware,Transient non-community system,44,BRIDGEVILLE,Sussex,5,31,2
+DE00A0773,WOODSIDE TRAILER PARK,Region 3,Delaware,Community water system,26,WOODSIDE,Kent,3,2,1
+DE0000558,GREENWOOD WATER DEPARTMENT,Region 3,Delaware,Community water system,800,GREENWOOD,Sussex,13,11,8
+DE0000638,CANTWELL WATER COMPANY,Region 3,Delaware,Community water system,108,ODESSA,New Castle,5,7,11
+DE00A0848,COUNTRY CENTER GIRL SCOUT CAMP,Region 3,Delaware,Transient non-community system,100,HOCKESSIN,New Castle,6,0,0
+DE0000564,UNITED WATER DELAWARE,Region 3,Delaware,Community water system,109000,"NEW CASTLE, WILMINGTON",New Castle,38,5,13
+DE0000103,COUNTRY ACRES MOBILE HOME PARK,Region 3,Delaware,Community water system,28,DOVER,Kent,6,12,6
+DE0000543,"NRG ENERGY, INC",Region 3,Delaware,Non-Transient non-community system,178,MILLSBORO,Sussex,7,27,3
+DE0000810,WOODSIDE INN,Region 3,Delaware,Transient non-community system,60,NEWARK,New Castle,5,26,2
+DE0020011,IRENE'S TRAILER COURT,Region 3,Delaware,Transient non-community system,28,MILFORD,Sussex,5,3,3
+DE0000306,CAMP BARNES INC,Region 3,Delaware,Transient non-community system,100,BETHANY BEACH,Sussex,6,0,3
+DE0000545,KITTS HUMMOCK IMPROVEMENT ASSOC,Region 3,Delaware,Community water system,252,DOVER,Kent,8,12,10
+DE00A3851,SPORTS AT THE BEACH SYSTEM 3,Region 3,Delaware,Transient non-community system,25,GEORGETOWN,Sussex,3,0,0
+DE0000958,MAMIE A WARREN CENTER,Region 3,Delaware,Non-Transient non-community system,120,SMYRNA,Kent,4,6,1
+DE00A2851,SPORTS AT THE BEACH SYSTEM 2,Region 3,Delaware,Transient non-community system,25,GEORGETOWN,Sussex,4,0,0
+DE00A0859,LYNCH HEIGHTS SUNOCO,Region 3,Delaware,Transient non-community system,100,MILFORD,Kent,5,2,1
+DE0000912,SANDS MOTEL,Region 3,Delaware,Transient non-community system,80,FENWICK ISLAND,Sussex,5,0,2
+DE0000984,EPWORTH CHRISTIAN SCHOOL,Region 3,Delaware,Non-Transient non-community system,400,LAUREL,Sussex,5,7,2
+DE0000716,OLD LANDING PUBLIC GOLF COURSE,Region 3,Delaware,Transient non-community system,120,DEWEY BEACH,Sussex,4,0,2
+DE0000557,SUSSEX SHORES WATER COMPANY,Region 3,Delaware,Community water system,12450,BETHANY BEACH,Sussex,14,2,11
+DE0000860,"FRUITBUD JUICE, LLC",Region 3,Delaware,Non-Transient non-community system,25,CAMDEN-WYOMING,Kent,6,4,1
+DE00A4851,SPORTS AT THE BEACH SYSTEM 4,Region 3,Delaware,Transient non-community system,25,GEORGETOWN,Sussex,5,2,0
+DE0000251,"HENLOPEN ACRES, TOWN OF",Region 3,Delaware,Community water system,999,REHOBOTH BEACH,Sussex,15,4,9
+DE0000264,HOMESTEAD PARK,Region 3,Delaware,Community water system,230,MILLSBORO,Sussex,6,9,7
+DE00A0705,CORBIT BUILDING,Region 3,Delaware,Non-Transient non-community system,60,ODESSA,New Castle,4,3,1
+DE00A0851,SPORTS AT THE BEACH SYSTEM 1,Region 3,Delaware,Transient non-community system,100,GEORGETOWN,Sussex,10,0,1
+DE0000226,HOLLY VIEW MOBILE HOME PARK,Region 3,Delaware,Community water system,207,SEAFORD,Sussex,5,2,2
+DE00A5851,SPORTS AT THE BEACH SYSTEM 5,Region 3,Delaware,Transient non-community system,25,GEORGETOWN,Sussex,3,0,0
+DE0000438,BRIARWOOD MANOR MHP,Region 3,Delaware,Community water system,296,LAUREL,Sussex,11,53,14
+DE0000599,SCOTTSDALE MOBILE HOME PARK,Region 3,Delaware,Community water system,300,SEAFORD,Sussex,5,5,10
+DE0000604,DONOVAN/SMITH MOBILE HOME PARK,Region 3,Delaware,Community water system,369,LEWES,Sussex,7,14,10
+DE0000661,WOODLAND TRAILER COURT,Region 3,Delaware,Community water system,41,SMYRNA,Kent,5,10,14
+DE0000615,EDS MOBILE HOME PARK,Region 3,Delaware,Community water system,66,LINCOLN,Sussex,4,10,10
+DE0000402,PORT DELMARVA INC,Region 3,Delaware,Transient non-community system,300,REHOBOTH BEACH,Sussex,4,0,3
+DE0000852,ABBOTTS MILL NATURE CENTER,Region 3,Delaware,Transient non-community system,60,MILFORD,Sussex,4,2,3
+DE0001303,MOUNTAIRE-MILLSBORO,Region 3,Delaware,Non-Transient non-community system,1200,MILLSBORO,Sussex,4,63,2
+DE0000430,"PLEASANT ACRES, LLC",Region 3,Delaware,Community water system,60,BRIDGEVILLE,Sussex,4,3,10
+DE0000360,FENWICK CENTER I,Region 3,Delaware,Transient non-community system,350,FENWICK ISLAND,Sussex,4,0,3
+DE0000573,DOVER AIR PARK,Region 3,Delaware,Community water system,252,DOVER,Kent,7,9,9
+DE00A0212,MEADOWS AT CUBBAGE POND,Region 3,Delaware,Community water system,201,LINCOLN,Sussex,7,7,4
+DE00A0679,COUNTRY CLUB VILLAGE,Region 3,Delaware,Community water system,72,GEORGETOWN,Sussex,5,6,1
+DE0000617,PRIMEHOOK WATER COMPANY,Region 3,Delaware,Community water system,441,MILFORD,Sussex,10,2,10
+DE0000126,HARRINGTON WATER DEPARTMENT,Region 3,Delaware,Community water system,3174,HARRINGTON,Kent,6,7,13
+DE0020023,SHORE STOP #231 RISING SUN,Region 3,Delaware,Transient non-community system,50,RISING SUN,Kent,4,2,0
+DE0000924,QUILLENS POINT,Region 3,Delaware,Community water system,150,OCEAN VIEW,Sussex,8,3,6
+DE0000880,SHORE STOP #236 CANTERBURY,Region 3,Delaware,Transient non-community system,600,CANTEBURY,Kent,4,2,3
+DE00A0790,VILLAGE AT FIVE POINTS CENTER,Region 3,Delaware,Transient non-community system,500,LEWES,Sussex,4,4,1
+DE0000003,POLYTECH HIGH SCHOOL,Region 3,Delaware,Non-Transient non-community system,1500,WOODSIDE,Kent,4,4,2
+DE0000813,FREDERICKS COUNTRY CENTER,Region 3,Delaware,Transient non-community system,30,MONTCHANIN,New Castle,6,4,4
+DE0000914,WARRENS STATION RESTAURANT,Region 3,Delaware,Transient non-community system,200,FENWICK ISLAND,Sussex,7,3,2
+DE0000657,SMYRNA WATER DEPARTMENT,Region 3,Delaware,Community water system,10001,SMYRNA,Kent,17,0,7
+DE0000565,CLAYTON WATER DEPARTMENT,Region 3,Delaware,Community water system,2250,CLAYTON,Kent,14,1,10
+DE0004319,TREASURE BEACH CAMPGROUND SYSTEM 4,Region 3,Delaware,Transient non-community system,699,SELBYVILLE,Sussex,3,0,0
+DE00A0670,LOST LANDS RV PARK,Region 3,Delaware,Transient non-community system,198,SELBYVILLE,Sussex,5,0,1
+DE0000918,CAPTAIN PETES,Region 3,Delaware,Transient non-community system,250,FENWICK ISLAND,Sussex,4,0,5
+DE00A0394,LITTLE EINSTEINS PRESCHOOL,Region 3,Delaware,Non-Transient non-community system,33,GEORGETOWN,Sussex,7,9,0
+DE0000719,BOAT HOLE MARINA,Region 3,Delaware,Transient non-community system,70,REHOBOTH BEACH,Sussex,5,0,3
+DE0002319,TREASURE BEACH CAMPGROUND SYSTEM 2,Region 3,Delaware,Transient non-community system,411,SELBYVILLE,Sussex,6,0,0
+DE0020037,ANYO PROPERTIES,Region 3,Delaware,Transient non-community system,52,SEAFORD,Sussex,4,0,0
+DE0003319,TREASURE BEACH CAMPGROUND SYSTEM 3,Region 3,Delaware,Transient non-community system,786,SELBYVILLE,Sussex,3,0,0
+DE0007319,TREASURE BEACH CAMPGROUND SYSTEM 7,Region 3,Delaware,Transient non-community system,115,SELBYVILLE,Sussex,3,0,0
+DE0000503,WINTERTHUR,Region 3,Delaware,Community water system,687,WINTERTHUR,New Castle,16,3,9
+DE0005319,TREASURE BEACH CAMPGROUND SYSTEM 5,Region 3,Delaware,Transient non-community system,771,SELBYVILLE,Sussex,5,0,0
+DE0000649,GLEN ACRES,Region 3,Delaware,Community water system,72,SEAFORD,Sussex,8,22,12
+DE0000429,INDIAN RIVER YACHT CLUB,Region 3,Delaware,Transient non-community system,60,MILLSBORO,Sussex,4,3,2
+DE0006319,TREASURE BEACH CAMPGROUND SYSTEM 6,Region 3,Delaware,Transient non-community system,396,SELBYVILLE,Sussex,3,0,0
+DE0001652,TUCKAHOE ACRES SYSTEM #1,Region 3,Delaware,Transient non-community system,750,MILLVILLE,Sussex,6,18,1
+DE0000939,HOLLY HILL ESTATES,Region 3,Delaware,Community water system,831,SMYRNA,Kent,21,2,8
+DE0002652,TUCKAHOE ACRES SYSTEM #2,Region 3,Delaware,Transient non-community system,900,MILLVILLE,Sussex,6,4,0
+DE0000825,DEWEY BEACH WATER DEPARTMENT,Region 3,Delaware,Community water system,22400,DEWEY BEACH,Sussex,4,1,11
+DE0000877,BURGER KING - REHOBOTH,Region 3,Delaware,Transient non-community system,730,REHOBOTH BEACH,Sussex,5,1,3
+DE0000596,TWIN MAPLES TRAILER PARK,Region 3,Delaware,Community water system,123,KENTON,Kent,8,17,13
+DE0002459,WOODS EDGE II,Region 3,Delaware,Transient non-community system,36,LEWES,Sussex,4,0,2
+DE00A0440,BARKERS LANDING,Region 3,Delaware,Community water system,498,MAGNOLIA,Kent,3,0,2
+DE00A0743,SHOPPES OF MT PLEASANT,Region 3,Delaware,Transient non-community system,200,MIDDLETOWN,New Castle,7,5,1
+DE0000579,DOVER AIR FORCE BASE,Region 3,Delaware,Community water system,5000,DOVER AFB,Kent,14,4,8
+DE0000568,HOLLY OAK MOBILE HOME PARK,Region 3,Delaware,Community water system,210,DELMAR,Sussex,8,5,8
+DE0000807,NORTH GATE SHOPPING CENTER,Region 3,Delaware,Transient non-community system,50,DOVER,Kent,6,9,2
+DE0000263,HOLIDAY PINES,Region 3,Delaware,Community water system,210,MILLSBORO,Sussex,6,67,8
+DE0020038,SURFING CRAB,Region 3,Delaware,Transient non-community system,160,LEWES,Sussex,4,1,0
+DE0000537,SUSSEX COUNTY INDUSTRIAL AIRPARK,Region 3,Delaware,Non-Transient non-community system,450,GEORGETOWN,Sussex,7,4,1
+DE0000954,FARMINGTON MINI MART,Region 3,Delaware,Transient non-community system,433,FARMINGTON,Kent,7,12,2
+DE0001315,STEAMBOAT LANDING SYSTEM 1,Region 3,Delaware,Transient non-community system,1172,LEWES,Sussex,4,0,2
+DE0001459,WOODS EDGE I,Region 3,Delaware,Transient non-community system,60,LEWES,Sussex,4,1,2
+DE0000955,LITTLE SCHOLARS CENTER I,Region 3,Delaware,Non-Transient non-community system,134,MIDDLETOWN,New Castle,4,16,4
+DE0000606,LOVE CREEK PARK,Region 3,Delaware,Community water system,210,LEWES,Sussex,8,4,13
+DE0000115,SAND HILL ACRES,Region 3,Delaware,Community water system,384,GEORGETOWN,Sussex,7,6,6
+DE0000870,WASTE WATER TREATMENT FACILITY,Region 3,Delaware,Non-Transient non-community system,52,FREDERICA,Kent,5,0,3
+DE00A0774,SPLASH BAY SHORE DAY SCHOOL,Region 3,Delaware,Non-Transient non-community system,115,GUMBORO,Sussex,3,0,1
+DE0020051,SOUTHERN GRILL OF ELLENDALE,Region 3,Delaware,Transient non-community system,50,ELLENDALE,Sussex,3,0,0
+DE0000261,CAPES COVE,Region 3,Delaware,Transient non-community system,40,LEWES,Sussex,4,0,2
+DE0000597,LAUREL WATER DEPARTMENT,Region 3,Delaware,Community water system,3668,LAUREL,Sussex,9,4,12
+DE0000547,PINEWOOD ACRES,Region 3,Delaware,Community water system,1200,CHESWOLD,Kent,11,9,9
+DE0000826,BURGER KING - SEAFORD,Region 3,Delaware,Transient non-community system,525,SEAFORD,Sussex,5,2,1
+DE0000465,SWANN KEYS,Region 3,Delaware,Community water system,1764,FENWICK ISLAND,Sussex,7,2,9
+DE0000436,PICKERING BEACH COMPANY,Region 3,Delaware,Transient non-community system,109,LITTLE CREEK,Kent,7,2,4
+DE0002315,STEAMBOAT LANDING SYSTEM 2,Region 3,Delaware,Transient non-community system,566,LEWES,Sussex,4,0,3
+DE0000259,ENCHANTED ACRES,Region 3,Delaware,Community water system,225,MILLSBORO,Sussex,7,4,9
+DE0000574,MARANATHA COURT,Region 3,Delaware,Community water system,54,LEBANON,Kent,6,15,11
+DE0000001,PEDDLERS VILLAGE SHOPPING CENTER,Region 3,Delaware,Non-Transient non-community system,165,REHOBOTH BEACH,Sussex,5,4,4
+DE0000895,VALERIES BAR & GRILL,Region 3,Delaware,Transient non-community system,25,DOVER,Kent,4,9,1
+DE0000057,HEARTH RESTAURANT,Region 3,Delaware,Transient non-community system,100,ODESSA,New Castle,4,0,2
+DE00A0734,SHORE STOP #227 TOWNSEND,Region 3,Delaware,Transient non-community system,800,TOWNSEND,New Castle,4,6,0
+DE0020050,SHORE STOP #253 NEW CASTLE,Region 3,Delaware,Transient non-community system,50,NEW CASTLE,New Castle,4,0,0
+DE0000473,CEDAR SHORES CONDO ASSOCIATION,Region 3,Delaware,Transient non-community system,300,OCEAN VIEW,Sussex,10,2,3
+DE0000167,CENTER FOR THE CREATIVE ARTS,Region 3,Delaware,Non-Transient non-community system,115,YORKLYN,New Castle,5,5,0
+DE0000100,LYNCHS MOBILE HOME PARK,Region 3,Delaware,Community water system,54,MILFORD,Kent,6,11,11
+DE00A0856,SHORE STOP #296 MILLSBORO,Region 3,Delaware,Transient non-community system,25,MILLSBORO,Sussex,4,0,1
+DE0020049,SHORE STOP #279 GREENWOOD,Region 3,Delaware,Transient non-community system,50,GREENWOOD,Sussex,4,0,0
+DE00A0404,SOUTH SHORES,Region 3,Delaware,Community water system,540,MILFORD,Sussex,9,6,3
+DE00A0690,FIRST STATE EQUIPMENT,Region 3,Delaware,Transient non-community system,164,FELTON,Kent,4,3,2
+DE0000309,FISHERMANS VILLAGE,Region 3,Delaware,Community water system,40,BOWERS BEACH,Kent,5,5,1
+DE00A0782,SHORE STOP #281 BRIDGEVILLE,Region 3,Delaware,Transient non-community system,50,BRIDGEVILLE,Sussex,3,1,0
+DE00A0845,LAUREL JUNCTION,Region 3,Delaware,Transient non-community system,25,LAUREL,Sussex,5,3,0
+DE00A0680,BLUE HERON ESTATES,Region 3,Delaware,Community water system,90,GEORGETOWN,Sussex,5,0,1
+DE0020008,DELAWARE BEACHES JELLYSTONE PARK,Region 3,Delaware,Transient non-community system,412,LINCOLN,Sussex,20,0,1
+DE0000063,KELLYS TAVERN,Region 3,Delaware,Transient non-community system,50,PORT PENN,New Castle,4,5,3
+DE00A0863,SHORE STOP #256 MILFORD,Region 3,Delaware,Transient non-community system,150,MILFORD,Kent,4,12,1
+DE00A0858,SHORE STOP #270 MILTON,Region 3,Delaware,Transient non-community system,25,MILTON,Sussex,5,3,1
+DE0000265,LAUREL VILLAGE MOBILE HOME PARK,Region 3,Delaware,Community water system,918,LAUREL,Sussex,10,4,12
+DE0002639,REHOBOTH BEACH COUNTRY CLUB,Region 3,Delaware,Transient non-community system,25,REHOBOTH BEACH,Sussex,4,2,2
+DE0000873,MILLS BROTHERS MARKET,Region 3,Delaware,Transient non-community system,200,MILFORD,Kent,6,45,3
+DE0003593,NANTICOKE BUSINESS PARK,Region 3,Delaware,Non-Transient non-community system,50,GREENWOOD,Sussex,5,2,1
+DE00A0624,ODESSA A PLUS SUNOCO,Region 3,Delaware,Transient non-community system,350,ODESSA,New Castle,4,2,0
+DE0000065,RIDGEWOOD MANOR II INC,Region 3,Delaware,Community water system,310,SMYRNA,Kent,5,3,4
+DE00A0793,BLUE DIAMOND MX,Region 3,Delaware,Transient non-community system,100,NEW CASTLE,New Castle,4,1,1
+DE0000416,TASTEE FREEZ,Region 3,Delaware,Transient non-community system,100,LAUREL,Sussex,5,30,1
+DE0000571,DOVER WATER DEPARTMENT,Region 3,Delaware,Community water system,38000,DOVER,Kent,50,13,9
+DE0000501,DOVER SKATING CENTER,Region 3,Delaware,Transient non-community system,500,CAMDEN-WYOMING,Kent,4,3,3
+DE0000611,GRANADA MOBILE HOME COURT,Region 3,Delaware,Community water system,138,MAGNOLIA,Kent,7,34,10
+DE00A0498,CRYSTAL STEEL FABRICATORS,Region 3,Delaware,Non-Transient non-community system,40,DELMAR,Sussex,6,3,1
+DE00A0769,ROYAL FARMS 114 - LAUREL,Region 3,Delaware,Transient non-community system,130,LAUREL,Sussex,6,3,1
+DE0000916,HY-POINT DAIRY FARMS,Region 3,Delaware,Non-Transient non-community system,43,ROCKLAND,New Castle,6,17,3
+DE0000477,DELAWARE STATE POLICE TROOP 4,Region 3,Delaware,Transient non-community system,35,GEORGETOWN,Sussex,5,4,1
+DE0000157,BOONDOCKS RESTAURANT,Region 3,Delaware,Transient non-community system,450,SMYRNA,Kent,4,15,2

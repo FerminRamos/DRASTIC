@@ -1,0 +1,1349 @@
+PWS ID,PWS Name,EPA Region,Primacy Agency,PWS Type,Population<br> Served Count,Cities Served,Counties Served,# of Facilities,# of Violations,# of Site Visits
+VT0021377,HUBBARD STORE,Region 1,Vermont,Transient non-community system,25,HANCOCK,Addison,2,1,1
+VT0021403,NORWICH COMMERCE PARK,Region 1,Vermont,Transient non-community system,47,NORWICH,Windsor,2,0,0
+VT0005617,DAIRY CENTER,Region 1,Vermont,Community water system,109,ENOSBURG,Franklin,11,12,16
+VT0020800,100 MOUNTAIN VIEW ROAD PARK,Region 1,Vermont,Community water system,290,BENNINGTON,Bennington,3,7,4
+VT0020831,VALLEY CENTER COMPLEX,Region 1,Vermont,Non-Transient non-community system,252,DOVER,Windham,6,78,4
+VT0000783,QUECHEE INN AT MARSHLAND,Region 1,Vermont,Transient non-community system,144,HARTFORD,Windsor,4,6,2
+VT0006674,ORANGE CENTER SCHOOL,Region 1,Vermont,Non-Transient non-community system,183,ORANGE,Orange,7,8,10
+VT0020999,DELTA INDUSTRIES LLC,Region 1,Vermont,Non-Transient non-community system,120,BRATTLEBORO,Windham,7,44,3
+VT0005471,GORE ROAD MHP,Region 1,Vermont,Community water system,100,BENNINGTON,Bennington,5,38,9
+VT0020080,SOUTH HERO FIRE DISTRICT 4,Region 1,Vermont,Community water system,760,SOUTH HERO,Grand Isle,8,15,10
+VT0005248,GRANITEVILLE FIRE DISTRICT 4,Region 1,Vermont,Community water system,700,BARRE TOWN,Washington,48,2,13
+VT0021095,STONES LODGE,Region 1,Vermont,Transient non-community system,350,WINHALL,Bennington,2,8,3
+VT0005057,HILLCREST MHP INC,Region 1,Vermont,Community water system,615,COLCHESTER,Chittenden,8,9,10
+VT0020361,KIDS IN THE COUNTRY,Region 1,Vermont,Non-Transient non-community system,30,DOVER,Windham,6,3,17
+VT0006702,NEWTON ELEMENTARY SCHOOL,Region 1,Vermont,Non-Transient non-community system,170,STRAFFORD,Orange,9,19,11
+VT0021199,NOTCHBROOK III,Region 1,Vermont,Community water system,39,STOWE,Lamoille,5,24,2
+VT0002042,PINE CONE SNACK BAR,Region 1,Vermont,Transient non-community system,33,BERKSHIRE,Franklin,2,22,3
+VT0021139,GUERRIERI SYSTEM,Region 1,Vermont,Non-Transient non-community system,51,WILLISTON,Chittenden,5,21,2
+VT0021349,802 TOYOTA,Region 1,Vermont,Non-Transient non-community system,51,BERLIN,Washington,2,35,1
+VT0021365,CAPITOL CITY AUTO MART GMC,Region 1,Vermont,Transient non-community system,49,BERLIN,Washington,2,0,1
+VT0006714,POMFRET SCHOOL,Region 1,Vermont,Non-Transient non-community system,154,POMFRET,Windsor,6,13,7
+VT0006696,WAITS RIVER VALLEY SCHOOL,Region 1,Vermont,Non-Transient non-community system,280,CORINTH,Orange,5,15,9
+VT0006655,JAY WESTFIELD ELEMENTARY SCHOOL,Region 1,Vermont,Non-Transient non-community system,90,JAY,Orleans,5,15,6
+VT0004413,VINTAGE MOTEL,Region 1,Vermont,Transient non-community system,62,WILMINGTON,Windham,6,22,2
+VT0006720,WOLCOTT ELEMENTARY SCHOOL,Region 1,Vermont,Non-Transient non-community system,168,WOLCOTT,Lamoille,5,94,7
+VT0005306,WESTMINSTER AQUEDUCT SOCIETY,Region 1,Vermont,Community water system,150,WESTMINSTER,Windham,4,23,16
+VT0006605,MT SCHOOL  AT WINHALL COMMUNITY CTR,Region 1,Vermont,Non-Transient non-community system,84,WINHALL,Bennington,6,36,8
+VT0021247,REDEEMING GRACE CHURCH,Region 1,Vermont,Transient non-community system,140,FAIRFAX,Franklin,3,0,2
+VT0020731,MOUNTAIN PARK,Region 1,Vermont,Non-Transient non-community system,679,DOVER,Windham,8,348,6
+VT0021057,OUTLOOK AT MT SNOW,Region 1,Vermont,Community water system,96,DOVER,Windham,5,5,1
+VT0020703,MAD RIVER GREEN SHOPPING CENTER,Region 1,Vermont,Non-Transient non-community system,152,WAITSFIELD,Washington,12,191,4
+VT0020584,BUBBLE AND SQUEAK RESTAURANT,Region 1,Vermont,Transient non-community system,70,WINHALL,Bennington,2,19,1
+VT0005573,SPRING LAKE RANCH INC,Region 1,Vermont,Community water system,70,SHREWSBURY,Rutland,17,16,11
+VT0005575,MOON RIDGE CONDOMINIUM,Region 1,Vermont,Community water system,94,KILLINGTON,Rutland,5,38,9
+VT0005043,RYEGATE FIRE DISTRICT 2,Region 1,Vermont,Community water system,131,RYEGATE,Caledonia,4,20,17
+VT0020475,BLUE CROSS BLUE SHIELD OF VERMONT,Region 1,Vermont,Non-Transient non-community system,350,BERLIN,Washington,11,7,9
+VT0021386,WEST ENOSBURG COUNTRY STORE,Region 1,Vermont,Transient non-community system,25,ENOSBURG,Franklin,2,1,0
+VT0005638,CHELSEA WATER SYSTEM,Region 1,Vermont,Community water system,450,CHELSEA,Orange,14,10,13
+VT0020649,GREEN MOUNTAIN NATIONAL GOLF COURSE,Region 1,Vermont,Transient non-community system,200,KILLINGTON,Rutland,3,24,6
+VT0005117,FAIRFAX WATER DEPT,Region 1,Vermont,Community water system,1550,FAIRFAX,Franklin,11,8,12
+VT0005341,WINDSOR WATER DEPT,Region 1,Vermont,Community water system,3300,WINDSOR,Windsor,11,6,15
+VT0005218,FAIR HAVEN WATER DEPT,Region 1,Vermont,Community water system,3076,FAIR HAVEN,Rutland,8,3,19
+VT0008167,RUNNING BEAR CAMPING AREA,Region 1,Vermont,Transient non-community system,428,WEATHERSFIELD,Windsor,6,4,1
+VT0021078,HYDE PARK VFW,Region 1,Vermont,Transient non-community system,175,HYDE PARK,Lamoille,3,5,2
+VT0002393,HORIZON INN,Region 1,Vermont,Transient non-community system,157,WILMINGTON,Windham,3,7,2
+VT0004072,HIGHLANDER AT NOTCH GLEN,Region 1,Vermont,Transient non-community system,25,CAMBRIDGE,Lamoille,6,12,1
+VT0020789,SLEEPY HOLLOW SKI AND BIKE CENTER,Region 1,Vermont,Transient non-community system,53,HUNTINGTON,Chittenden,3,13,1
+VT0021061,CHRIST CHURCH,Region 1,Vermont,Transient non-community system,30,ROCKINGHAM,Windham,2,3,1
+VT0020844,BARREWOOD CAMPGROUND,Region 1,Vermont,Transient non-community system,102,WESTFIELD,Orleans,3,24,2
+VT0021151,COUNTRY VILLAGE CAMPGROUND,Region 1,Vermont,Transient non-community system,78,LEICESTER,Addison,3,5,1
+VT0005018,WEST ROAD MHP,Region 1,Vermont,Community water system,105,BENNINGTON,Bennington,3,26,11
+VT0005303,VERMONT ACADEMY,Region 1,Vermont,Community water system,305,ROCKINGHAM,Windham,8,78,12
+VT0020706,WHISTLE STOP,Region 1,Vermont,Transient non-community system,48,CLARENDON,Rutland,3,22,1
+VT0001260,MCKEE`S ISLAND PUB AND PIZZA,Region 1,Vermont,Transient non-community system,59,SOUTH HERO,Grand Isle,2,14,2
+VT0005648,PITTSFORD FIRE DISTRICT 1,Region 1,Vermont,Community water system,69,PITTSFORD,Rutland,5,20,8
+VT0000621,WINDHAM HILL INN,Region 1,Vermont,Transient non-community system,86,TOWNSHEND,Windham,5,9,2
+VT0002695,AUSTRIAN HAUS,Region 1,Vermont,Transient non-community system,168,DOVER,Windham,2,7,2
+VT0005607,MAPLE LANE NURSING HOME,Region 1,Vermont,Community water system,181,BARTON,Orleans,7,16,14
+VT0008318,JK ADAMS CO,Region 1,Vermont,Non-Transient non-community system,30,DORSET,Bennington,4,1,7
+VT0006697,MILLERS RUN SCHOOL USD 37,Region 1,Vermont,Non-Transient non-community system,250,SHEFFIELD,Caledonia,6,50,5
+VT0008136,ONION RIVER CAMP,Region 1,Vermont,Transient non-community system,102,MARSHFIELD,Washington,4,11,3
+VT0008343,CARLOS OTIS HEALTH CARE CENTER,Region 1,Vermont,Non-Transient non-community system,254,TOWNSHEND,Windham,9,27,9
+VT0020509,DUNKIN DONUTS,Region 1,Vermont,Transient non-community system,31,MORRISTOWN,Lamoille,2,5,1
+VT0021244,CARLOS OTIS HEINES WELLNESS CENTER,Region 1,Vermont,Transient non-community system,60,TOWNSHEND,Windham,2,0,1
+VT0020482,NORTH HARTLAND LAKE,Region 1,Vermont,Transient non-community system,350,HARTLAND,Windsor,5,7,2
+VT0020363,SHAWS WAITSFIELD,Region 1,Vermont,Non-Transient non-community system,75,WAITSFIELD,Washington,6,2,2
+VT0005650,BIRCH HILL WATER SYSTEM,Region 1,Vermont,Community water system,45,STOWE,Lamoille,6,9,10
+VT0020477,APPLE ISLAND RESORT,Region 1,Vermont,Transient non-community system,906,SOUTH HERO,Grand Isle,8,19,6
+VT0006085,WEYBRIDGE ELEMENTARY SCHOOL,Region 1,Vermont,Non-Transient non-community system,136,WEYBRIDGE,Addison,6,16,11
+VT0005092,CHAMPLAIN WATER DISTRICT,Region 1,Vermont,Community water system,1,SOUTH BURLINGTON,Chittenden,32,0,15
+VT0005324,OKEMO VILLAGE CONDOMINIUMS,Region 1,Vermont,Community water system,180,LUDLOW,Windsor,8,26,11
+VT0006708,MONKTON CENTRAL SCHOOL,Region 1,Vermont,Non-Transient non-community system,230,MONKTON,Addison,5,39,13
+VT0005094,ST GEORGE FIRE DISTRICT #2,Region 1,Vermont,Community water system,72,ST. GEORGE,Chittenden,5,20,10
+VT0005385,MANSFIELD VIEW WATER CORP,Region 1,Vermont,Community water system,237,STOWE,Lamoille,10,11,14
+VT0020913,NORTH BRANCH SCHOOL,Region 1,Vermont,Non-Transient non-community system,31,RIPTON,Addison,4,14,7
+VT0021233,WINHALL MARKET,Region 1,Vermont,Transient non-community system,30,WINHALL,Bennington,4,0,1
+VT0008250,UNION VILLAGE DAM,Region 1,Vermont,Transient non-community system,25,THETFORD,Orange,10,5,1
+VT0008139,BALD MOUNTAIN CAMPGROUND,Region 1,Vermont,Transient non-community system,784,TOWNSHEND,Windham,5,6,2
+VT0005021,EAST DORSET FIRE DISTRICT 1,Region 1,Vermont,Community water system,192,DORSET,Bennington,10,25,18
+VT0006457,HOSMER POINT OUTDOOR CAMP,Region 1,Vermont,Transient non-community system,110,CRAFTSBURY,Orleans,9,3,2
+VT0020392,1859 MOUNTAIN ROAD LLC (CROP BISTRO),Region 1,Vermont,Non-Transient non-community system,273,STOWE,Lamoille,4,84,6
+VT0008006,CARMI LAKE STATE PARK,Region 1,Vermont,Transient non-community system,177,ENOSBURG,Franklin,7,0,1
+VT0001339,TUCKER HILL INN,Region 1,Vermont,Transient non-community system,122,FAYSTON,Washington,8,7,5
+VT0005563,BEAR CREEK CONDOMINIUM,Region 1,Vermont,Community water system,116,JAMAICA,Windham,5,11,9
+VT0005599,SUMMIT WATER CO INC,Region 1,Vermont,Community water system,750,WINDSOR,Windsor,10,8,10
+VT0005359,ALPEN MEADOWS,Region 1,Vermont,Community water system,112,LUDLOW,Windsor,6,13,10
+VT0006725,MIDDLESEX RUMNEY SCHOOL,Region 1,Vermont,Non-Transient non-community system,200,MIDDLESEX,Washington,6,4,12
+VT0008043,BURTON ISLAND STATE PARK,Region 1,Vermont,Transient non-community system,248,ST. ALBANS TOWN,Franklin,4,0,3
+VT0020854,GREEN MOUNTAIN HORSE ASSN INC,Region 1,Vermont,Transient non-community system,150,WOODSTOCK,Windsor,8,8,3
+VT0020873,CAMERON PROPERTY,Region 1,Vermont,Non-Transient non-community system,155,FERRISBURG,Addison,3,88,4
+VT0020892,EVERGREEN PLACE,Region 1,Vermont,Transient non-community system,74,WAITSFIELD,Washington,10,1,3
+VT0000458,GREY BONNET INN,Region 1,Vermont,Transient non-community system,129,KILLINGTON,Rutland,6,8,2
+VT0005100,WILLISTON FIRE DISTRICT 1,Region 1,Vermont,Community water system,212,WILLISTON,Chittenden,5,3,10
+VT0005641,WOODLAND APARTMENTS,Region 1,Vermont,Community water system,85,BRISTOL,Addison,6,33,11
+VT0005229,RUTLAND CITY WATER DEPT,Region 1,Vermont,Community water system,18500,RUTLAND CITY,Rutland,10,25,15
+VT0006623,GRAMMAR SCHOOL INC,Region 1,Vermont,Non-Transient non-community system,126,PUTNEY,Windham,5,84,13
+VT0006092,GLOVER COMMUNITY SCHOOL,Region 1,Vermont,Non-Transient non-community system,150,GLOVER,Orleans,5,62,13
+VT0005096,JERICHO UNDERHILL WATER,Region 1,Vermont,Community water system,825,UNDERHILL,Chittenden,22,3,11
+VT0021008,INN AT ROUND BARN,Region 1,Vermont,Transient non-community system,68,WAITSFIELD,Washington,8,6,2
+VT0006671,CALAIS ELEMENTARY SCHOOL,Region 1,Vermont,Non-Transient non-community system,165,CALAIS,Washington,6,4,8
+VT0005076,HUNTINGTON FIRE DISTRICT 1,Region 1,Vermont,Community water system,123,HUNTINGTON,Chittenden,6,30,10
+VT0005630,GREENSPRINGS,Region 1,Vermont,Community water system,485,DOVER,Windham,12,4,9
+VT0004524,STAMFORD MOTEL,Region 1,Vermont,Transient non-community system,43,MANCHESTER,Bennington,7,21,4
+VT0000004,BIG PICTURE,Region 1,Vermont,Transient non-community system,212,WAITSFIELD,Washington,3,19,3
+VT0005535,SUNNY ACRES DEVELOPMENT WATER ASSOC INC,Region 1,Vermont,Community water system,50,MILTON,Chittenden,6,46,9
+VT0006602,GREEN MOUNTAIN CAMP INC,Region 1,Vermont,Transient non-community system,75,DUMMERSTON,Windham,9,17,6
+VT0006089,READING ELEMENTARY SCHOOL,Region 1,Vermont,Non-Transient non-community system,47,READING,Windsor,5,20,8
+VT0005645,EVERGREEN MHP,Region 1,Vermont,Community water system,50,POWNAL,Bennington,4,3,8
+VT0000585,HEARTHSTONE LTD,Region 1,Vermont,Transient non-community system,48,LONDONDERRY,Windham,4,8,2
+VT0000487,INN AT LONG TRAIL,Region 1,Vermont,Transient non-community system,69,KILLINGTON,Rutland,3,8,2
+VT0021129,VERMONT COUNTRY STORE - ROCKINGHAM,Region 1,Vermont,Transient non-community system,30,ROCKINGHAM,Windham,3,2,1
+VT0008018,UNDERHILL RECREATION AREA,Region 1,Vermont,Transient non-community system,64,UNDERHILL,Chittenden,7,1,4
+VT0008019,SAND BAR STATE PARK,Region 1,Vermont,Transient non-community system,528,MILTON,Chittenden,10,0,4
+VT0005637,TUCKERVILLE MHP,Region 1,Vermont,Community water system,60,LUDLOW,Windsor,5,33,10
+VT0020675,SHAWS BERLIN CORNERS,Region 1,Vermont,Non-Transient non-community system,150,BERLIN,Washington,8,134,4
+VT0020891,STOWE PROFESSIONAL CENTER,Region 1,Vermont,Non-Transient non-community system,25,STOWE,Lamoille,5,8,4
+VT0006640,WHITINGHAM SCHOOL,Region 1,Vermont,Non-Transient non-community system,300,WHITINGHAM,Windham,6,23,12
+VT0000146,COLONEL WILLIAMS INN,Region 1,Vermont,Transient non-community system,106,MARLBORO,Windham,3,3,2
+VT0001702,CHANTECLEER RESTAURANT,Region 1,Vermont,Transient non-community system,90,DORSET,Bennington,3,12,4
+VT0005066,ESSEX JCT WATER DEPT,Region 1,Vermont,Community water system,9331,ESSEX,Chittenden,7,0,10
+VT0021216,EQUINOX RESORT LAKE HOUSE,Region 1,Vermont,Transient non-community system,30,MANCHESTER,Bennington,2,2,1
+VT0005602,SHELBURNE FARMS,Region 1,Vermont,Community water system,235,SHELBURNE,Chittenden,5,26,12
+VT0005104,BLOOMFIELD WATER SYSTEM,Region 1,Vermont,Community water system,50,BLOOMFIELD,Essex,6,20,16
+VT0005037,DANVILLE FIRE DISTRICT 1,Region 1,Vermont,Community water system,450,DANVILLE,Caledonia,10,15,13
+VT0020790,BIRCH LANDING CONDOMINIUM,Region 1,Vermont,Community water system,82,PLYMOUTH,Windsor,21,193,5
+VT0005531,MAPLE LANE COMMUNITY CARE HOME,Region 1,Vermont,Non-Transient non-community system,26,BARTON,Orleans,6,10,14
+VT0020210,WEST HARTFORD VILLAGE STORE,Region 1,Vermont,Transient non-community system,36,HARTFORD,Windsor,3,1,1
+VT0020460,STOUGHTON POND,Region 1,Vermont,Transient non-community system,100,SPRINGFIELD,Windsor,2,7,1
+VT0008044,KILL KARE AREA,Region 1,Vermont,Transient non-community system,109,ST. ALBANS TOWN,Franklin,6,0,2
+VT0003359,BAILEYS  BURKE PUB OUTBACK,Region 1,Vermont,Transient non-community system,170,BURKE,Caledonia,5,13,6
+VT0002327,THREE CORNERS PLAZA,Region 1,Vermont,Non-Transient non-community system,83,HARTLAND,Windsor,6,34,4
+VT0006679,LINCOLN COMMUNITY SCHOOL,Region 1,Vermont,Non-Transient non-community system,140,LINCOLN,Addison,6,14,8
+VT0006420,VERMONT STATE GRANGE CENTER,Region 1,Vermont,Transient non-community system,125,BROOKFIELD,Orange,2,7,1
+VT0020812,GRUNBERG HAUS,Region 1,Vermont,Transient non-community system,30,DUXBURY,Washington,4,6,3
+VT0020639,RUTLAND AIRPORT BUSINESS PARK ASSO.,Region 1,Vermont,Non-Transient non-community system,280,CLARENDON,Rutland,8,8,3
+VT0020986,VERNON SENIOR HOUSING,Region 1,Vermont,Community water system,49,VERNON,Windham,7,30,2
+VT0020454,GRAMMAR SCHOOL ANNEX,Region 1,Vermont,Non-Transient non-community system,38,PUTNEY,Windham,4,48,9
+VT0020687,WHITE PINE LODGE,Region 1,Vermont,Transient non-community system,31,LANDGROVE,Bennington,2,23,1
+VT0021146,NEWPORT CONGREGATION OF JEHOVAHS WITNESS,Region 1,Vermont,Transient non-community system,25,DERBY,Orleans,2,3,1
+VT0002309,KITCHEN TABLE BISTRO,Region 1,Vermont,Transient non-community system,2,RICHMOND,Chittenden,3,1,2
+VT0002159,RUTHCLIFFE LODGE RESORT,Region 1,Vermont,Transient non-community system,45,ISLE LA MOTTE,Grand Isle,5,18,7
+VT0002776,ROCKY RIDGE GOLF CLUB,Region 1,Vermont,Transient non-community system,60,ST. GEORGE,Chittenden,2,4,1
+VT0006685,DOVER ELEMENTARY SCHOOL,Region 1,Vermont,Non-Transient non-community system,150,DOVER,Windham,5,13,12
+VT0005539,MOUNTAIN GREEN CONDOMINIUM,Region 1,Vermont,Community water system,1300,KILLINGTON,Rutland,16,93,10
+VT0005005,STARKSBORO VILLAGE WATER COOP,Region 1,Vermont,Community water system,150,STARKSBORO,Addison,5,7,14
+VT0021187,SOUTH END CAFE,Region 1,Vermont,Transient non-community system,55,ISLE LA MOTTE,Grand Isle,3,3,1
+VT0020600,INJUN JOE COURT,Region 1,Vermont,Transient non-community system,115,DANVILLE,Caledonia,2,14,1
+VT0000226,CASEYS CABOOSE,Region 1,Vermont,Transient non-community system,144,KILLINGTON,Rutland,3,14,2
+VT0003173,DEERHILL INN,Region 1,Vermont,Transient non-community system,65,DOVER,Windham,4,9,3
+VT0008270,RIVERS BEND CAMPGROUND,Region 1,Vermont,Transient non-community system,220,NEW HAVEN,Addison,4,11,3
+VT0006212,CHILD CARE CENTER IN NORWICH,Region 1,Vermont,Non-Transient non-community system,65,NORWICH,Windsor,4,7,7
+VT0021350,CLOUDLAND FARM LLC,Region 1,Vermont,Transient non-community system,25,POMFRET,Windsor,4,1,1
+VT0021201,NEWFANE REDEVELOPMENT CORP,Region 1,Vermont,Transient non-community system,32,NEWFANE,Windham,4,2,1
+VT0020827,FERRISBURG ARTISANS GUILD,Region 1,Vermont,Transient non-community system,159,FERRISBURG,Addison,8,21,3
+VT0021318,LIQUID ART,Region 1,Vermont,Transient non-community system,25,KILLINGTON,Rutland,2,0,1
+VT0002218,INN AT WEATHERSFIELD,Region 1,Vermont,Transient non-community system,71,WEATHERSFIELD,Windsor,3,3,3
+VT0006690,E TAYLOR HATTON SCHOOL,Region 1,Vermont,Transient non-community system,25,MORGAN,Orleans,4,5,6
+VT0000211,ARLINGTON PLAZA WATER SYSTEM,Region 1,Vermont,Transient non-community system,48,ARLINGTON,Bennington,3,28,3
+VT0021110,WELCH PARK ASSOCIATION (FAIR POINT COMM),Region 1,Vermont,Non-Transient non-community system,60,MIDDLESEX,Washington,5,52,2
+VT0021167,HILLTOP MONTESSORI SCHOOL,Region 1,Vermont,Non-Transient non-community system,150,BRATTLEBORO,Windham,5,0,3
+VT0020516,MOOSELOOK RESTAURANT,Region 1,Vermont,Transient non-community system,45,CONCORD,Essex,2,7,2
+VT0006645,SHARON ELEMENTARY SCHOOL,Region 1,Vermont,Non-Transient non-community system,230,SHARON,Windsor,9,8,9
+VT0020656,JAY VILLAGE INN 242 TAP  GRILLE,Region 1,Vermont,Transient non-community system,80,JAY,Orleans,3,18,2
+VT0005134,HOMESTEAD ACRES MHP,Region 1,Vermont,Community water system,81,SWANTON,Franklin,5,20,13
+VT0005542,SNOWTREE CONDOMINIUM,Region 1,Vermont,Community water system,302,DOVER,Windham,6,7,8
+VT0001763,SWISS INN,Region 1,Vermont,Transient non-community system,114,LONDONDERRY,Windham,5,7,2
+VT0020402,VERMONT ELECTRIC POWER CO,Region 1,Vermont,Non-Transient non-community system,125,RUTLAND CITY,Rutland,10,3,6
+VT0020405,ARROWHEAD INDUSTRIAL PARK,Region 1,Vermont,Non-Transient non-community system,224,GEORGIA,Franklin,16,2,6
+VT0008321,CABOT FARMERS COOP,Region 1,Vermont,Non-Transient non-community system,325,CABOT,Washington,15,0,1
+VT0004819,GOLDEN LION INN,Region 1,Vermont,Transient non-community system,40,WARREN,Washington,5,1,2
+VT0001244,DOVER FORGE RESTAURANT,Region 1,Vermont,Transient non-community system,464,DOVER,Windham,6,18,2
+VT0004961,MAVERICK MOOSE LODGING,Region 1,Vermont,Transient non-community system,48,CANAAN,Essex,4,15,2
+VT0001436,SUMMIT LODGE AT KILLINGTON,Region 1,Vermont,Transient non-community system,180,KILLINGTON,Rutland,6,2,2
+VT0005290,BRATTLEBORO WATER DEPT,Region 1,Vermont,Community water system,12200,BRATTLEBORO,Windham,27,0,13
+VT0020478,KILLINGTON MALL,Region 1,Vermont,Transient non-community system,392,KILLINGTON,Rutland,5,22,1
+VT0020732,CW MULHOLLAND WELL 3,Region 1,Vermont,Transient non-community system,75,CASTLETON,Rutland,3,16,2
+VT0001566,JOHNNY SEESAWS,Region 1,Vermont,Transient non-community system,144,PERU,Bennington,6,16,2
+VT0004552,WEATHERVANE MOTEL,Region 1,Vermont,Transient non-community system,76,MANCHESTER,Bennington,5,17,2
+VT0021099,TONYS PIZZA,Region 1,Vermont,Transient non-community system,33,JAMAICA,Windham,3,5,2
+VT0021003,GROTON VILLAGE REVITALIZATION,Region 1,Vermont,Non-Transient non-community system,49,GROTON,Caledonia,4,12,2
+VT0006607,SHREWSBURY MOUNTAIN SCHOOL,Region 1,Vermont,Non-Transient non-community system,75,SHREWSBURY,Rutland,6,31,6
+VT0005629,WINHALL ACRES,Region 1,Vermont,Community water system,84,WINHALL,Bennington,10,54,7
+VT0006646,ROXBURY VILLAGE SCHOOL,Region 1,Vermont,Non-Transient non-community system,71,ROXBURY,Washington,5,1,7
+VT0005580,MERRIMAC MHP SYSTEM 2,Region 1,Vermont,Community water system,42,HARTFORD,Windsor,5,91,10
+VT0000722,BIG BEARS LODGE,Region 1,Vermont,Transient non-community system,50,DOVER,Windham,6,2,4
+VT0008138,CAMPERAMA,Region 1,Vermont,Transient non-community system,900,TOWNSHEND,Windham,3,15,1
+VT0005038,EAST HARDWICK FIRE DISTRICT 1,Region 1,Vermont,Community water system,350,HARDWICK,Caledonia,11,7,13
+VT0004934,OLD TOWN FARM INN,Region 1,Vermont,Transient non-community system,50,SPRINGFIELD,Windsor,4,4,2
+VT0020773,EDEN MINI MART/UNCLE BILLS DINER,Region 1,Vermont,Transient non-community system,40,EDEN,Lamoille,2,5,3
+VT0021394,LAMOILLE FAMILY CENTER,Region 1,Vermont,Non-Transient non-community system,56,MORRISTOWN,Lamoille,2,0,0
+VT0021295,BRATTLEBORO PROFESSIONAL CENTER,Region 1,Vermont,Non-Transient non-community system,60,BRATTLEBORO,Windham,2,23,1
+VT0001713,EASY STREET CAFEMARKET PURPLE MOON PUB,Region 1,Vermont,Transient non-community system,128,WAITSFIELD,Washington,4,13,4
+VT0005298,BELLOWS FALLS WATER DEPT,Region 1,Vermont,Community water system,3700,ROCKINGHAM,Windham,16,4,23
+VT0005174,FAIRLEE TOWN WATER,Region 1,Vermont,Community water system,967,FAIRLEE,Orange,5,2,11
+VT0020049,TRIFECTA LOUNGE,Region 1,Vermont,Transient non-community system,66,IRASBURG,Orleans,3,23,1
+VT0020586,HIGHRIDGE PROPERTIES,Region 1,Vermont,Transient non-community system,46,BURKE,Caledonia,3,2,2
+VT0020899,RUTLAND AOT DMV WELL,Region 1,Vermont,Non-Transient non-community system,35,RUTLAND TOWN,Rutland,3,100,4
+VT0021195,MTN VIEW SEVENTH DAY ADVENTIST CHURCH,Region 1,Vermont,Transient non-community system,269,VERNON,Windham,3,2,1
+VT0006070,JAMAICA VILLAGE SCHOOL,Region 1,Vermont,Non-Transient non-community system,110,JAMAICA,Windham,4,84,8
+VT0004318,NEW ENGLANDER MOTOR INN,Region 1,Vermont,Transient non-community system,178,BENNINGTON,Bennington,6,11,2
+VT0006721,CHARLOTTE CENTRAL SCHOOL,Region 1,Vermont,Non-Transient non-community system,550,CHARLOTTE,Chittenden,5,123,7
+VT0008115,KENOLIE VILLAGE,Region 1,Vermont,Transient non-community system,801,NEWFANE,Windham,6,0,1
+VT0005603,WINTERGREEN AT KILLINGTON,Region 1,Vermont,Community water system,50,PITTSFIELD,Rutland,5,103,10
+VT0021345,ADVANCED ILLUMINATION INC,Region 1,Vermont,Non-Transient non-community system,60,ROCHESTER,Windsor,2,37,2
+VT0006740,RIPTON ELEMENTARY SCHOOL,Region 1,Vermont,Non-Transient non-community system,75,RIPTON,Addison,5,30,14
+VT0005379,RHODESIDE ACRES,Region 1,Vermont,Community water system,65,GEORGIA,Franklin,7,110,10
+VT0006661,KINHAVEN MUSIC SCHOOL,Region 1,Vermont,Transient non-community system,120,WESTON,Windsor,5,12,2
+VT0020760,EAST MOUNTAIN MHP,Region 1,Vermont,Community water system,76,BENNINGTON,Bennington,5,60,5
+VT0020711,BRAINTREE ELEMENTARY SCHOOL,Region 1,Vermont,Non-Transient non-community system,155,BRAINTREE,Orange,6,76,11
+VT0005566,BARRE TOWN WATER SYSTEM,Region 1,Vermont,Community water system,1210,BARRE TOWN,Washington,10,2,11
+VT0000789,RED OAK INN,Region 1,Vermont,Transient non-community system,118,DOVER,Windham,4,6,2
+VT0004875,BRAESIDE MOTEL,Region 1,Vermont,Transient non-community system,25,WOODSTOCK,Windsor,4,6,2
+VT0021196,"STRIDER DEVELOPMENT, LLC",Region 1,Vermont,Transient non-community system,117,MIDDLESEX,Washington,3,0,2
+VT0006741,BROOKFIELD ELEMENTARY,Region 1,Vermont,Non-Transient non-community system,140,BROOKFIELD,Orange,4,7,8
+VT0008142,GOOSE POINT CAMPGROUND,Region 1,Vermont,Transient non-community system,630,ALBURG,Grand Isle,4,1,4
+VT0005012,WHITING WATER CORP,Region 1,Vermont,Community water system,61,WHITING,Addison,9,98,23
+VT0002232,19TH HOLE  WILLISTON COUNTRY CLUB,Region 1,Vermont,Transient non-community system,250,WILLISTON,Chittenden,3,4,2
+VT0000368,DEN (AKE`S),Region 1,Vermont,Transient non-community system,63,WAITSFIELD,Washington,6,5,3
+VT0021297,MEADOWCREST CAMPGROUND,Region 1,Vermont,Transient non-community system,58,MARSHFIELD,Washington,2,8,1
+VT0005177,RANDOLPH CENTER WATER SYSTEM,Region 1,Vermont,Community water system,1138,RANDOLPH,Orange,10,6,13
+VT0005105,BRIGHTON WATER SYSTEM,Region 1,Vermont,Community water system,2482,BRIGHTON,Essex,11,1,20
+VT0005102,WINOOSKI WATER DEPT,Region 1,Vermont,Community water system,6733,WINOOSKI,Chittenden,5,0,9
+VT0005327,HAWK PINE HILLS,Region 1,Vermont,Community water system,60,NORWICH,Windsor,5,6,13
+VT0005190,ORLEANS WATER SYSTEM,Region 1,Vermont,Community water system,846,BARTON,Orleans,7,6,11
+VT0006687,LAMOILLE UNION USD 18,Region 1,Vermont,Non-Transient non-community system,1400,HYDE PARK,Lamoille,7,5,7
+VT0008155,CATON PLACE CAMPGROUND,Region 1,Vermont,Transient non-community system,162,CAVENDISH,Windsor,3,4,2
+VT0020000,LYMAN MEADOWS,Region 1,Vermont,Community water system,212,HINESBURG,Chittenden,5,18,7
+VT0020092,STERLING VIEW SENIOR MHP,Region 1,Vermont,Community water system,290,HYDE PARK,Lamoille,7,27,8
+VT0005255,BERLIN WATER,Region 1,Vermont,Community water system,139,BERLIN,Washington,8,110,13
+VT0021056,VERMONT COUNTRY CORP RT 4 COUNTRY STORE,Region 1,Vermont,Transient non-community system,50,HARTFORD,Windsor,2,8,1
+VT0008140,LAKEWOOD CAMPGROUND,Region 1,Vermont,Transient non-community system,940,SWANTON,Franklin,4,11,4
+VT0005070,HINESBURG WATER DEPT,Region 1,Vermont,Community water system,2800,HINESBURG,Chittenden,9,29,10
+VT0006639,HARTLAND ELEMENTARY SCHOOL,Region 1,Vermont,Non-Transient non-community system,500,HARTLAND,Windsor,7,36,8
+VT0005404,WOODSIDE MANOR,Region 1,Vermont,Community water system,240,HARTFORD,Windsor,13,84,11
+VT0005424,MERRIMAC MANOR MHP,Region 1,Vermont,Community water system,80,HARTFORD,Windsor,6,120,9
+VT0021207,KILLINGTON GATEWAY I CONDO ASSOC INC,Region 1,Vermont,Community water system,68,KILLINGTON,Rutland,5,3,2
+VT0021302,HIGHGATE SPRINGS POE,Region 1,Vermont,Non-Transient non-community system,150,HIGHGATE,Franklin,6,2,1
+VT0021369,MAPLE CORNER STORE,Region 1,Vermont,Transient non-community system,31,CALAIS,Washington,3,1,1
+VT0020579,MCDONALDS RESTAURANT,Region 1,Vermont,Transient non-community system,72,RANDOLPH,Orange,3,6,3
+VT0020542,GETAWAY MOUNTAIN  CAMPGROUND,Region 1,Vermont,Transient non-community system,270,WEATHERSFIELD,Windsor,4,2,2
+VT0002190,VINNYS RESTAURANT CHANGING SEASON MOTE,Region 1,Vermont,Transient non-community system,120,LYNDON,Caledonia,3,11,3
+VT0020650,HAPPY TRAILS MOTEL,Region 1,Vermont,Transient non-community system,66,LUDLOW,Windsor,4,14,3
+VT0005162,PINECREST MOBILE HOME PARK,Region 1,Vermont,Community water system,139,MORRISTOWN,Lamoille,6,28,14
+VT0004115,ARCADY AT THE SUNDERLAND MOTOR LODGE,Region 1,Vermont,Transient non-community system,52,SUNDERLAND,Bennington,5,7,2
+VT0008220,WATERFORD WELCOME CENTER,Region 1,Vermont,Transient non-community system,800,WATERFORD,Caledonia,3,1,2
+VT0020752,BARRE MONTPELIER SDA CHURCH,Region 1,Vermont,Non-Transient non-community system,64,BERLIN,Washington,5,12,5
+VT0005115,EAST BERKSHIRE WATER COOP,Region 1,Vermont,Community water system,184,BERKSHIRE,Franklin,15,10,18
+VT0005571,TELEMARK VILLAGE,Region 1,Vermont,Community water system,82,KILLINGTON,Rutland,6,126,12
+VT0001880,PASTA POT,Region 1,Vermont,Transient non-community system,80,KILLINGTON,Rutland,3,13,1
+VT0005515,CASTLETON MEADOWS,Region 1,Vermont,Community water system,107,CASTLETON,Rutland,9,29,9
+VT0008119,LAKEVIEW CAMPING AREA,Region 1,Vermont,Transient non-community system,316,EDEN,Lamoille,5,2,1
+VT0020598,COMBES FAMILY INN,Region 1,Vermont,Transient non-community system,54,LUDLOW,Windsor,4,1,3
+VT0005293,WEST RIVER MHP,Region 1,Vermont,Transient non-community system,55,JAMAICA,Windham,3,1,9
+VT0002793,DINER SOAR RESTAURANT,Region 1,Vermont,Transient non-community system,26,WARREN,Washington,3,5,3
+VT0020877,M5 LEASING COMPANY,Region 1,Vermont,Non-Transient non-community system,73,WAITSFIELD,Washington,8,0,5
+VT0000173,CASCADES LODGE,Region 1,Vermont,Transient non-community system,304,KILLINGTON,Rutland,4,4,2
+VT0006709,DORSET ELEMENTARY SCHOOL,Region 1,Vermont,Non-Transient non-community system,148,DORSET,Bennington,4,3,5
+VT0005426,RICHMOND FIRE DISTRICT 1,Region 1,Vermont,Community water system,56,RICHMOND,Chittenden,7,32,16
+VT0020637,GRAND SUMMIT HOTEL,Region 1,Vermont,Non-Transient non-community system,800,DOVER,Windham,21,101,6
+VT0005189,BARTON WATER SYSTEM,Region 1,Vermont,Community water system,950,BARTON,Orleans,6,31,15
+VT0000756,KILLINGTON VILLAGE INN,Region 1,Vermont,Transient non-community system,200,KILLINGTON,Rutland,2,1,3
+VT0000849,MAD RIVER BARN,Region 1,Vermont,Transient non-community system,81,FAYSTON,Washington,6,16,2
+VT0000341,SUMMIT LODGE,Region 1,Vermont,Transient non-community system,100,DOVER,Windham,6,3,3
+VT0020835,GROTON FOREST ROAD CAMPGROUND,Region 1,Vermont,Transient non-community system,50,MARSHFIELD,Washington,4,13,2
+VT0020958,LINDALE MHP,Region 1,Vermont,Community water system,179,MIDDLEBURY,Addison,2,5,8
+VT0020613,OTTER CREEK MHP,Region 1,Vermont,Community water system,180,VERGENNES,Addison,2,9,7
+VT0005118,FAIRFAX HEIGHTS WATER CO,Region 1,Vermont,Community water system,100,FAIRFAX,Franklin,7,154,12
+VT0005028,READSBORO TOWN OF,Region 1,Vermont,Community water system,440,READSBORO,Bennington,6,56,22
+VT0020462,BERLIN MALL,Region 1,Vermont,Non-Transient non-community system,300,BERLIN,Washington,7,4,8
+VT0001124,MICHAELS ON THE HILL,Region 1,Vermont,Transient non-community system,90,WATERBURY,Washington,3,11,1
+VT0005136,ALBURGH VILLAGE WATER SYSTEM,Region 1,Vermont,Community water system,576,ALBURG,Grand Isle,8,19,16
+VT0006695,BERLIN ELEMENTARY SCHOOL,Region 1,Vermont,Non-Transient non-community system,305,BERLIN,Washington,5,1,11
+VT0005046,ST JOHNSBURY CENTER F D 1,Region 1,Vermont,Community water system,370,ST. JOHNSBURY,Caledonia,9,80,14
+VT0020429,PARADISE BAY ASSOCIATES,Region 1,Vermont,Transient non-community system,39,SOUTH HERO,Grand Isle,5,6,4
+VT0020766,BOBS DINER,Region 1,Vermont,Transient non-community system,55,MANCHESTER,Bennington,3,18,3
+VT0005170,BRADFORD VILLAGE WATER SYSTEM,Region 1,Vermont,Community water system,1512,BRADFORD,Orange,11,130,12
+VT0005344,R M C MOBILE HOME PARK,Region 1,Vermont,Community water system,40,BERLIN,Washington,6,24,10
+VT0000750,BASE LODGE,Region 1,Vermont,Transient non-community system,53,CAMBRIDGE,Lamoille,4,0,2
+VT0005294,MAGIC VILLAGE WATER COOP,Region 1,Vermont,Community water system,308,LONDONDERRY,Windham,7,38,14
+VT0005615,TIMBERCREEK CONDOMINIUM,Region 1,Vermont,Community water system,1116,DOVER,Windham,7,20,11
+VT0021169,CENTRAL VERMONT HOME HEALTH AND HOSPICE,Region 1,Vermont,Non-Transient non-community system,110,BERLIN,Washington,5,3,2
+VT0008239,LYNDON SB REST AREA,Region 1,Vermont,Transient non-community system,371,BARNET,Caledonia,4,23,1
+VT0005649,COLD BROOK FD BASE AREA,Region 1,Vermont,Community water system,761,WILMINGTON,Windham,8,2,10
+VT0001516,FOUR COLUMNS INN,Region 1,Vermont,Transient non-community system,75,NEWFANE,Windham,6,6,1
+VT0002051,LINCOLN INN  COVERED BRIDGE,Region 1,Vermont,Transient non-community system,87,WOODSTOCK,Windsor,2,6,3
+VT0002518,DOVEBERRY INN,Region 1,Vermont,Transient non-community system,59,DOVER,Windham,4,30,1
+VT0005125,MONTGOMERY CENTER WATER SYSTEM,Region 1,Vermont,Community water system,530,MONTGOMERY,Franklin,13,20,12
+VT0008322,HEB MANUFACTURING CO,Region 1,Vermont,Non-Transient non-community system,45,CHELSEA,Orange,4,2,5
+VT0001639,BELFRY,Region 1,Vermont,Transient non-community system,57,MONTGOMERY,Franklin,3,8,2
+VT0005256,BERLIN MOBILE HOME PARK,Region 1,Vermont,Community water system,70,BERLIN,Washington,4,20,12
+VT0008229,HARTFORD SB REST AREA,Region 1,Vermont,Transient non-community system,283,HARTFORD,Windsor,4,2,3
+VT0021128,INN AT MOUNTAIN VIEW FARMS,Region 1,Vermont,Transient non-community system,65,BURKE,Caledonia,5,8,1
+VT0021177,ORWELL GAS N GO,Region 1,Vermont,Transient non-community system,25,ORWELL,Addison,3,1,1
+VT0005151,SMUGGLERS NOTCH WATER SYSTEM,Region 1,Vermont,Community water system,2960,CAMBRIDGE,Lamoille,24,5,12
+VT0005313,COLD BROOK FIRE DISTRICT 1,Region 1,Vermont,Community water system,700,WILMINGTON,Windham,12,1,11
+VT0020771,SE VERMONT WELCOME CENTER,Region 1,Vermont,Transient non-community system,999,BRATTLEBORO,Windham,3,6,2
+VT0020570,SOUTHEAST STATE CORRECTIONAL FACILITY,Region 1,Vermont,Community water system,120,WINDSOR,Windsor,6,124,7
+VT0001056,FOXFIRE INN,Region 1,Vermont,Transient non-community system,115,STOWE,Lamoille,4,5,4
+VT0005431,TOPNOTCH,Region 1,Vermont,Community water system,250,STOWE,Lamoille,11,14,9
+VT0020153,LEDGEWOOD,Region 1,Vermont,Community water system,292,LUDLOW,Windsor,8,70,7
+VT0005195,DERBY CENTER WATER SYSTEM,Region 1,Vermont,Community water system,1100,DERBY,Orleans,12,8,18
+VT0005241,CUTTINGSVILLE FIRE DISTRICT,Region 1,Vermont,Community water system,108,SHREWSBURY,Rutland,6,5,17
+VT0008109,CHAMPLAIN VALLEY CAMPGROUND,Region 1,Vermont,Transient non-community system,25,SWANTON,Franklin,4,0,0
+VT0005053,BURLINGTON DEPT PUBLIC WORKS WATER DIV,Region 1,Vermont,Community water system,44000,BURLINGTON,Chittenden,16,1,18
+VT0001581,MOUNT SNOW COUNTRY CLUB,Region 1,Vermont,Transient non-community system,150,DOVER,Windham,5,2,4
+VT0006561,BUCK LAKE  GRN MTN CONSERVATION CAMP,Region 1,Vermont,Transient non-community system,70,WOODBURY,Washington,2,7,2
+VT0006508,KEHOE  GRN MTN CONSERVATION CAMP,Region 1,Vermont,Transient non-community system,66,CASTLETON,Rutland,3,5,2
+VT0001171,CARINTHIA BASE LODGE,Region 1,Vermont,Transient non-community system,400,DOVER,Windham,6,1,3
+VT0008106,CROWN POINT CAMPING,Region 1,Vermont,Transient non-community system,86,WEATHERSFIELD,Windsor,5,8,2
+VT0005304,NORTHSHORE MHP,Region 1,Vermont,Community water system,40,ROCKINGHAM,Windham,5,78,11
+VT0020612,KILBOURN MHP,Region 1,Vermont,Community water system,118,BRISTOL,Addison,2,13,7
+VT0021100,KUMIN HACHMAN REAL ESTATE,Region 1,Vermont,Transient non-community system,25,WATERBURY,Washington,3,6,1
+VT0020646,RYDER BROOK GOLF CLUB,Region 1,Vermont,Transient non-community system,25,MORRISTOWN,Lamoille,6,30,4
+VT0020521,AVALANCHE MOTEL,Region 1,Vermont,Transient non-community system,101,MANCHESTER,Bennington,4,11,3
+VT0021180,TOMMYS PIZZERIA,Region 1,Vermont,Transient non-community system,30,WILMINGTON,Windham,2,1,1
+VT0020779,IROQUOIS LAND FAMILY CAMPING,Region 1,Vermont,Transient non-community system,114,CLARENDON,Rutland,5,6,1
+VT0005502,WASHINGTON NORTH MHP,Region 1,Vermont,Community water system,63,WASHINGTON,Orange,6,39,12
+VT0001479,SUGARTREE INN,Region 1,Vermont,Transient non-community system,27,WARREN,Washington,6,9,5
+VT0005007,LAZY BROOK MHP,Region 1,Vermont,Community water system,205,STARKSBORO,Addison,10,19,14
+VT0021220,MIDSTATE REGIONAL LIBRARY,Region 1,Vermont,Transient non-community system,26,BERLIN,Washington,2,2,1
+VT0005107,CANAAN FD #2,Region 1,Vermont,Community water system,350,CANAAN,Essex,5,5,13
+VT0006683,BLUE MOUNTAIN  USD 21,Region 1,Vermont,Non-Transient non-community system,600,NEWBURY,Orange,5,44,14
+VT0000402,CHALET KILLINGTON,Region 1,Vermont,Transient non-community system,180,KILLINGTON,Rutland,4,0,3
+VT0005106,CANAAN FIRE DISTRICT 1,Region 1,Vermont,Community water system,970,CANAAN,Essex,16,43,18
+VT0008204,POINT BAY MARINA,Region 1,Vermont,Transient non-community system,200,CHARLOTTE,Chittenden,7,85,4
+VT0005006,BROOKSIDE MHP,Region 1,Vermont,Community water system,135,STARKSBORO,Addison,9,113,14
+VT0006624,PUTNEY SCHOOL,Region 1,Vermont,Community water system,310,PUTNEY,Windham,17,13,6
+VT0020898,VERMONT CASTINGS FOUNDRY WATER SYSTEM,Region 1,Vermont,Non-Transient non-community system,110,RANDOLPH,Orange,7,7,4
+VT0020791,APPLEGATE APARTMENTS,Region 1,Vermont,Community water system,273,BENNINGTON,Bennington,3,18,4
+VT0005570,BENSON HEIGHTS,Region 1,Vermont,Community water system,42,BENSON,Rutland,6,12,10
+VT0004697,HILLTOP INN,Region 1,Vermont,Transient non-community system,125,BERLIN,Washington,7,10,4
+VT0005114,BAKERSFIELD FIRE DISTRICT 1,Region 1,Vermont,Community water system,446,BAKERSFIELD,Franklin,4,18,11
+VT0021241,BRIERWOOD MHP,Region 1,Vermont,Community water system,85,ST. ALBANS CITY,Franklin,2,20,2
+VT0021291,CHITTENDEN GRANGE HALL,Region 1,Vermont,Transient non-community system,75,CHITTENDEN,Rutland,2,0,1
+VT0005095,ST GEORGE VILLAS,Region 1,Vermont,Community water system,420,ST. GEORGE,Chittenden,7,25,14
+VT0006643,LELAND  GRAY USD 34,Region 1,Vermont,Non-Transient non-community system,460,TOWNSHEND,Windham,5,34,7
+VT0005186,WILLIAMSTOWN WATER DEPT,Region 1,Vermont,Community water system,985,WILLIAMSTOWN,Orange,11,14,20
+VT0021339,SMUGGLERS OPERATIONS CENTER,Region 1,Vermont,Non-Transient non-community system,70,CAMBRIDGE,Lamoille,2,0,2
+VT0000258,JNDC PAWLET PROPERTY,Region 1,Vermont,Transient non-community system,54,PAWLET,Rutland,3,25,2
+VT0021037,VA MEDICAL CENTER,Region 1,Vermont,Non-Transient non-community system,875,HARTFORD,Windsor,5,4,5
+VT0002173,INN AT SAWMILL FARM,Region 1,Vermont,Transient non-community system,101,DOVER,Windham,4,5,2
+VT0008226,RANDOLPH SB REST AREA,Region 1,Vermont,Transient non-community system,783,RANDOLPH,Orange,3,3,1
+VT0008228,SHARON NB REST AREA,Region 1,Vermont,Transient non-community system,256,SHARON,Windsor,4,4,1
+VT0020002,NORTH HARBOR,Region 1,Vermont,Community water system,220,COLCHESTER,Chittenden,10,15,7
+VT0005205,NORTH TROY WATER SYSTEM,Region 1,Vermont,Community water system,860,TROY,Orleans,6,18,13
+VT0020527,LAKE MANSFIELD TROUT CLUB,Region 1,Vermont,Transient non-community system,100,STOWE,Lamoille,8,15,4
+VT0001649,EF KNAPP STATE AIRPORT  SAMBELS RESTAUR,Region 1,Vermont,Transient non-community system,111,BERLIN,Washington,3,1,2
+VT0005180,ARMSTRONGS MHP,Region 1,Vermont,Community water system,45,RANDOLPH,Orange,7,37,13
+VT0005181,THETFORD WATER COOP INC,Region 1,Vermont,Community water system,115,THETFORD,Orange,12,74,19
+VT0020390,LITTLE SCHOOL,Region 1,Vermont,Non-Transient non-community system,89,WESTON,Windsor,4,4,10
+VT0000064,OLD TAVERN AT GRAFTON  DANIELS CAFE,Region 1,Vermont,Transient non-community system,220,GRAFTON,Windham,9,6,4
+VT0008208,BENNINGTON STATE AIRPORT,Region 1,Vermont,Transient non-community system,39,BENNINGTON,Bennington,4,0,3
+VT0005045,ST JOHNSBURY WATER SYSTEM,Region 1,Vermont,Community water system,5000,ST. JOHNSBURY,Caledonia,18,18,18
+VT0020349,AUTOMOBILE INTERNATIONAL CORP,Region 1,Vermont,Transient non-community system,30,CLARENDON,Rutland,2,5,3
+VT0002230,TINMOUTH SNACK BAR,Region 1,Vermont,Transient non-community system,46,TINMOUTH,Rutland,3,3,2
+VT0021071,FARRINGTON MHP,Region 1,Vermont,Community water system,301,BURLINGTON,Chittenden,3,10,3
+VT0003064,BAKERSFIELD COUNTRY CLUB,Region 1,Vermont,Transient non-community system,165,BAKERSFIELD,Franklin,4,11,3
+VT0000408,CATTAILS RESTAURANT INC,Region 1,Vermont,Transient non-community system,80,BRANDON,Rutland,3,25,2
+VT0008207,CALEDONIA STATE AIRPORT,Region 1,Vermont,Transient non-community system,25,LYNDON,Caledonia,3,7,2
+VT0005049,WHEELOCK FIRE DISTRICT 1,Region 1,Vermont,Community water system,50,WHEELOCK,Caledonia,4,57,11
+VT0005475,NORWICH MEADOWS,Region 1,Vermont,Community water system,36,NORWICH,Windsor,5,31,6
+VT0021089,RINKERS MOBIL,Region 1,Vermont,Transient non-community system,40,RANDOLPH,Orange,3,6,3
+VT0002765,JERICHO EAST COMPLEX,Region 1,Vermont,Transient non-community system,56,JERICHO,Chittenden,2,2,3
+VT0021205,TANGUAY HOMES,Region 1,Vermont,Transient non-community system,25,COVENTRY,Orleans,3,2,1
+VT0006069,SUNNY LANE DAYCARE,Region 1,Vermont,Non-Transient non-community system,59,BROOKLINE,Windham,4,24,8
+VT0005611,NOTCHBROOK CONDOMINIUM,Region 1,Vermont,Community water system,201,STOWE,Lamoille,6,7,22
+VT0005220,EASTRIDGE ACRES ASSOCIATION,Region 1,Vermont,Community water system,95,MENDON,Rutland,11,16,14
+VT0005530,UNION HOUSE NURSING HOME,Region 1,Vermont,Community water system,56,GLOVER,Orleans,5,49,13
+VT0002386,CANDLELIGHT MOTEL,Region 1,Vermont,Transient non-community system,66,ARLINGTON,Bennington,3,12,4
+VT0005289,WORCESTER FIRE DISTRICT 1,Region 1,Vermont,Community water system,350,WORCESTER,Washington,6,3,11
+VT0005237,GRANDVIEW ACRES WATER COOP,Region 1,Vermont,Community water system,102,RUTLAND TOWN,Rutland,5,41,13
+VT0020510,RUTLAND STATE AIRPORT,Region 1,Vermont,Transient non-community system,200,RUTLAND TOWN,Rutland,3,9,1
+VT0020629,ISLE LAMOTTE SCHOOL,Region 1,Vermont,Non-Transient non-community system,40,ISLE LA MOTTE,Grand Isle,5,117,8
+VT0020513,WESTON PLAYHOUSE,Region 1,Vermont,Transient non-community system,60,WESTON,Windsor,2,9,1
+VT0020763,ST GEORGE TOWN CENTER ASSOC,Region 1,Vermont,Non-Transient non-community system,25,ST. GEORGE,Chittenden,4,2,4
+VT0020997,WAITSFIELD WATER SUPPLY,Region 1,Vermont,Community water system,223,WAITSFIELD,Washington,4,0,3
+VT0020982,DUMMERSTON HIGHWAY GARAGE AOT,Region 1,Vermont,Transient non-community system,80,DUMMERSTON,Windham,4,0,2
+VT0020391,EMERSON FALLS BUSINESS PARK,Region 1,Vermont,Non-Transient non-community system,131,ST. JOHNSBURY,Caledonia,11,7,7
+VT0005244,WEST RUTLAND TOWN,Region 1,Vermont,Community water system,1982,WEST RUTLAND,Rutland,12,2,9
+VT0006733,NEWBROOK SCHOOL,Region 1,Vermont,Non-Transient non-community system,159,NEWFANE,Windham,6,13,9
+VT0020690,BONGIORNOS,Region 1,Vermont,Transient non-community system,106,FAYSTON,Washington,4,12,4
+VT0020575,TWIN FARMS HOSPITALITY INC,Region 1,Vermont,Non-Transient non-community system,128,BARNARD,Windsor,10,6,4
+VT0020904,OAK HILL CHILDRENS CTRPOWNAL PRESCHOOL,Region 1,Vermont,Non-Transient non-community system,40,POWNAL,Bennington,4,22,5
+VT0001631,LODGE AT MOUNT SNOW,Region 1,Vermont,Transient non-community system,177,DOVER,Windham,3,25,1
+VT0008130,LAKE BOMOSEEN CAMPGROUND,Region 1,Vermont,Transient non-community system,500,HUBBARDTON,Rutland,3,8,2
+VT0005546,POWDERHOUND CONDOMINIUM,Region 1,Vermont,Transient non-community system,150,WARREN,Washington,9,21,8
+VT0021273,RUNAWAY CAFE,Region 1,Vermont,Transient non-community system,25,GLOVER,Orleans,2,2,1
+VT0005589,CHRISTMAS TREE - SUNDOWN CONDOMINIUM,Region 1,Vermont,Community water system,110,WARREN,Washington,7,15,10
+VT0004200,CAMP SKYLAND,Region 1,Vermont,Transient non-community system,188,SOUTH HERO,Grand Isle,4,15,2
+VT0005169,WATERVILLE FIRE DISTRICT 1,Region 1,Vermont,Community water system,84,WATERVILLE,Lamoille,6,59,27
+VT0005557,WEST WIND WATER SYSTEM,Region 1,Vermont,Community water system,60,CHARLOTTE,Chittenden,6,84,18
+VT0005280,BUTTERNUT HILL,Region 1,Vermont,Community water system,82,WAITSFIELD,Washington,7,12,11
+VT0000322,VERMONT COUNTRY STORE WESTON,Region 1,Vermont,Transient non-community system,49,WESTON,Windsor,5,2,1
+VT0000372,WHEEL INN RESTAURANT,Region 1,Vermont,Transient non-community system,35,BENSON,Rutland,5,3,2
+VT0005582,CHELSEA FAMILY HOUSING,Region 1,Vermont,Community water system,45,CHELSEA,Orange,5,70,15
+VT0004637,ADDISON COUNTY HOME HEALTH NEIGHBORS,Region 1,Vermont,Transient non-community system,25,NEW HAVEN,Addison,4,11,1
+VT0006750,HALIFAX WEST SCHOOL,Region 1,Vermont,Non-Transient non-community system,93,HALIFAX,Windham,5,30,15
+VT0005435,COMMONS,Region 1,Vermont,Community water system,79,MORETOWN,Washington,9,12,13
+VT0000160,INNSBRUCK MOTOR INN,Region 1,Vermont,Transient non-community system,83,STOWE,Lamoille,6,36,2
+VT0020003,MOUNTAINDALE,Region 1,Vermont,Community water system,48,DOVER,Windham,5,11,8
+VT0020100,VILLAGE AT SAWMILL FARMS,Region 1,Vermont,Community water system,40,DOVER,Windham,7,5,7
+VT0021079,NE WASTE SERVICES,Region 1,Vermont,Non-Transient non-community system,35,HARTLAND,Windsor,3,2,2
+VT0005647,FALL LINE TOWN HOUSES,Region 1,Vermont,Community water system,116,KILLINGTON,Rutland,7,58,8
+VT0020757,SUNSET LAKE VILLA MHP,Region 1,Vermont,Community water system,147,HINESBURG,Chittenden,3,4,4
+VT0020820,GREEN LANTERN MHP,Region 1,Vermont,Community water system,144,ST. JOHNSBURY,Caledonia,3,26,4
+VT0020907,LAKE CHAMPLAIN WALDORF SCHOOL,Region 1,Vermont,Non-Transient non-community system,32,CHARLOTTE,Chittenden,5,2,6
+VT0020641,ON THE ROCS - PHAT ITALIAN MARKET,Region 1,Vermont,Transient non-community system,132,KILLINGTON,Rutland,3,14,2
+VT0008129,BIG D CAMPGROUND,Region 1,Vermont,Transient non-community system,200,HUBBARDTON,Rutland,3,41,1
+VT0021045,KINGDOM HALL - ROCKINGHAM VT,Region 1,Vermont,Transient non-community system,175,ROCKINGHAM,Windham,3,9,3
+VT0000163,THE PUBLIC HOUSE,Region 1,Vermont,Transient non-community system,185,BENNINGTON,Bennington,4,28,3
+VT0005261,CABOT TOWN WATER SYSTEM,Region 1,Vermont,Community water system,250,CABOT,Washington,9,23,11
+VT0006568,DEERFIELD VALLEY ELEMENTARY SCHOOL,Region 1,Vermont,Non-Transient non-community system,230,WILMINGTON,Windham,7,23,17
+VT0005493,RIVERSIDE MHP,Region 1,Vermont,Community water system,30,MORETOWN,Washington,5,39,12
+VT0020866,MIDDLEBURY COLLEGE  BREADLOAF CAMPUS,Region 1,Vermont,Transient non-community system,365,MIDDLEBURY,Addison,7,1,2
+VT0005139,GRAND ISLE FIRE DISTRICT 4,Region 1,Vermont,Community water system,1063,GRAND ISLE,Grand Isle,6,2,15
+VT0000970,SLIDE BROOK INN AND TAVERN,Region 1,Vermont,Transient non-community system,88,WARREN,Washington,6,9,6
+VT0006718,WAITSFIELD ELEMENTARY SCHOOL,Region 1,Vermont,Non-Transient non-community system,190,WAITSFIELD,Washington,8,4,12
+VT0005287,EAST WIND,Region 1,Vermont,Community water system,74,WATERBURY,Washington,5,120,13
+VT0021311,NVRH WATER SYSTEM,Region 1,Vermont,Non-Transient non-community system,125,ST. JOHNSBURY,Caledonia,6,3,1
+VT0021282,DR RUHLS DENTISTRY OFFICE,Region 1,Vermont,Transient non-community system,50,WILMINGTON,Windham,3,0,1
+VT0005597,TRAIL CREEK CONDOMINIUM,Region 1,Vermont,Community water system,212,KILLINGTON,Rutland,7,54,9
+VT0005635,WINTERPLACE WATER SYSTEM,Region 1,Vermont,Community water system,745,LUDLOW,Windsor,11,20,12
+VT0000020,WEST MOUNTAIN INN,Region 1,Vermont,Transient non-community system,74,ARLINGTON,Bennington,5,15,2
+VT0008206,NEWPORT STATE AIRPORT TAIL DRAGGER CAFE,Region 1,Vermont,Transient non-community system,30,COVENTRY,Orleans,4,7,2
+VT0021020,EASTFIELD CONDOMINIUM ASSN INC,Region 1,Vermont,Community water system,63,FAIRFAX,Franklin,5,34,3
+VT0005031,PASSUMPSIC FIRE DISTRICT 1,Region 1,Vermont,Community water system,140,BARNET,Caledonia,4,53,12
+VT0005284,WATERBURY VILLAGE WATER,Region 1,Vermont,Community water system,6003,WATERBURY,Washington,23,48,23
+VT0005176,WELLS RIVER WATER SYSTEM,Region 1,Vermont,Community water system,490,NEWBURY,Orange,6,2,20
+VT0008293,MORRISVILLE STOWE AIRPORT,Region 1,Vermont,Transient non-community system,27,MORRISTOWN,Lamoille,3,2,2
+VT0005417,BRANDON FIRE DISTRICT 2,Region 1,Vermont,Community water system,98,BRANDON,Rutland,5,13,11
+VT0003059,CRAFTSBURY CENTER,Region 1,Vermont,Transient non-community system,90,CRAFTSBURY,Orleans,4,3,2
+VT0006606,WAUBANONG CAMP,Region 1,Vermont,Transient non-community system,35,BRATTLEBORO,Windham,2,14,1
+VT0001984,RICKS TAVERN,Region 1,Vermont,Transient non-community system,56,NEWFANE,Windham,3,4,2
+VT0008144,LAKEHURST CAMPGROUND,Region 1,Vermont,Transient non-community system,506,ISLE LA MOTTE,Grand Isle,9,1,3
+VT0005499,COLONIAL ESTATES WATER CORP,Region 1,Vermont,Community water system,200,RUTLAND TOWN,Rutland,5,90,8
+VT0006510,SANGAMON CAMP,Region 1,Vermont,Transient non-community system,35,PITTSFORD,Rutland,6,3,2
+VT0020562,NORTH HERO WATER SYSTEM,Region 1,Vermont,Community water system,1800,NORTH HERO,Grand Isle,7,73,11
+VT0020847,COBB HILL COHOUSING INC,Region 1,Vermont,Community water system,41,HARTLAND,Windsor,4,13,9
+VT0020610,SALISBURY SCHOOL,Region 1,Vermont,Non-Transient non-community system,125,SALISBURY,Addison,6,182,10
+VT0020826,KILLINGTON SNOWMOBILE TOURS,Region 1,Vermont,Transient non-community system,38,PLYMOUTH,Windsor,2,13,2
+VT0021336,DOCTOR`S PARK REALTY,Region 1,Vermont,Transient non-community system,80,STOWE,Lamoille,3,1,1
+VT0020031,VERNON HALL,Region 1,Vermont,Community water system,50,VERNON,Windham,5,21,9
+VT0021062,KNIGHTS OF COLUMBUS HALL,Region 1,Vermont,Transient non-community system,400,BARRE TOWN,Washington,3,1,1
+VT0002322,BRYANT HOUSE RESTAURANT,Region 1,Vermont,Transient non-community system,75,WESTON,Windsor,9,65,3
+VT0005163,STOWE WATER DEPT,Region 1,Vermont,Community water system,2620,STOWE,Lamoille,36,3,20
+VT0005578,BEARS CROSSING WATER SYSTEM,Region 1,Vermont,Community water system,333,DOVER,Windham,6,7,11
+VT0005556,GEORGIA STATION,Region 1,Vermont,Community water system,120,GEORGIA,Franklin,7,35,11
+VT0020802,HIDDEN ACRES CAMPGROUND,Region 1,Vermont,Transient non-community system,160,DUMMERSTON,Windham,6,9,3
+VT0021189,MIKES STORE AND COLLECTABLES INC,Region 1,Vermont,Transient non-community system,25,HARTLAND,Windsor,2,1,1
+VT0020855,COLONIAL ESTATES HOMEOWNERS ASSN,Region 1,Vermont,Community water system,79,FAIRFAX,Franklin,5,16,6
+VT0006722,SOAR LEARNING CENTER,Region 1,Vermont,Non-Transient non-community system,160,ST. ALBANS TOWN,Franklin,15,1,7
+VT0006735,WELLS VILLAGE SCHOOL,Region 1,Vermont,Non-Transient non-community system,93,WELLS,Rutland,4,1,7
+VT0020385,FORMULA FORD,Region 1,Vermont,Non-Transient non-community system,45,RUTLAND TOWN,Rutland,4,9,8
+VT0021101,WAITSFIELD AND CHAMPLAIN VALLEY TELECOM,Region 1,Vermont,Non-Transient non-community system,52,WAITSFIELD,Washington,4,8,3
+VT0020593,MISTRALS,Region 1,Vermont,Transient non-community system,101,WINHALL,Bennington,3,5,1
+VT0005581,CHELSEA ELDERLY HOUSING,Region 1,Vermont,Community water system,68,CHELSEA,Orange,5,54,14
+VT0008360,MAD TOM NOTCH,Region 1,Vermont,Transient non-community system,25,PERU,Bennington,2,0,3
+VT0005003,EAST MIDDLEBURY F D 1,Region 1,Vermont,Community water system,642,MIDDLEBURY,Addison,13,4,15
+VT0006680,BINGHAM MEMORIAL SCHOOL,Region 1,Vermont,Non-Transient non-community system,115,CORNWALL,Addison,6,52,12
+VT0008243,HAPGOOD POND CAMPGROUND,Region 1,Vermont,Transient non-community system,122,PERU,Bennington,4,4,2
+VT0005532,VERNON GREEN NURSING HOME,Region 1,Vermont,Community water system,125,VERNON,Windham,5,21,11
+VT0005004,MIDDLEBURY WATER DEPT,Region 1,Vermont,Community water system,5806,MIDDLEBURY,Addison,11,3,11
+VT0005020,DORSET FIRE DISTRICT 1,Region 1,Vermont,Community water system,600,DORSET,Bennington,12,33,9
+VT0005590,KILLINGTON  HIGH RIDGE CONDOMINIUM,Region 1,Vermont,Community water system,500,KILLINGTON,Rutland,7,4,8
+VT0020837,ORIGINAL  GENERAL STORE LLC,Region 1,Vermont,Transient non-community system,44,PITTSFIELD,Rutland,3,16,2
+VT0020857,KIRBY COUNTRY CLUB,Region 1,Vermont,Transient non-community system,103,KIRBY,Caledonia,3,23,3
+VT0021211,COCO NEW HAVEN,Region 1,Vermont,Transient non-community system,25,NEW HAVEN,Chittenden,3,4,1
+VT0020807,GODDARD COLLEGE,Region 1,Vermont,Community water system,369,PLAINFIELD,Washington,5,6,8
+VT0000637,SALT ASH INN,Region 1,Vermont,Transient non-community system,89,PLYMOUTH,Windsor,8,14,3
+VT0020606,MOTEL WESTMINSTER,Region 1,Vermont,Transient non-community system,36,WESTMINSTER,Windham,2,9,3
+VT0021009,7 ELEVEN STORE NO 32512,Region 1,Vermont,Transient non-community system,25,DOVER,Windham,3,0,2
+VT0020970,FERRISBURG SHORT STOP,Region 1,Vermont,Transient non-community system,900,FERRISBURG,Addison,2,2,1
+VT0005323,LUDLOW VILLAGE WATER DEPT,Region 1,Vermont,Community water system,2818,LUDLOW,Windsor,16,1,12
+VT0020953,NORTH COVE COTTAGES,Region 1,Vermont,Transient non-community system,48,SALISBURY,Addison,4,1,2
+VT0008170,HALF MOON STATE PARK,Region 1,Vermont,Transient non-community system,250,HUBBARDTON,Rutland,5,3,2
+VT0008200,BUOY 39,Region 1,Vermont,Transient non-community system,33,ORWELL,Addison,3,0,1
+VT0005041,LYN HAVEN FIRE DISTRICT 1,Region 1,Vermont,Community water system,100,LYNDON,Caledonia,5,17,13
+VT0006452,COUTTS MORIARTY 4H CAMP,Region 1,Vermont,Transient non-community system,96,DERBY,Orleans,2,9,3
+VT0008164,SMOKE RISE FAMILY CAMP,Region 1,Vermont,Transient non-community system,125,BRANDON,Rutland,2,31,1
+VT0020761,CHARLOTTE CHILDRENS CENTER,Region 1,Vermont,Non-Transient non-community system,42,CHARLOTTE,Chittenden,4,5,6
+VT0000779,TRAILSIDE INN,Region 1,Vermont,Transient non-community system,152,KILLINGTON,Rutland,5,12,2
+VT0008035,BRANBURY STATE PARK,Region 1,Vermont,Transient non-community system,51,SALISBURY,Addison,6,2,3
+VT0021298,WRIGHTSVILLE RECREATION DISTRICT BEACH,Region 1,Vermont,Transient non-community system,25,MIDDLESEX,Washington,2,0,1
+VT0008153,ABEL MOUNTAIN CAMPGROUND,Region 1,Vermont,Transient non-community system,232,BRAINTREE,Orange,2,11,1
+VT0004508,THE LODGE VERMONT,Region 1,Vermont,Transient non-community system,150,LONDONDERRY,Windham,7,15,2
+VT0008014,MOUNT PHILO STATE PARK,Region 1,Vermont,Transient non-community system,200,CHARLOTTE,Chittenden,4,6,2
+VT0021111,BRISTOL FAMILY CENTER,Region 1,Vermont,Non-Transient non-community system,59,BRISTOL,Addison,3,1,4
+VT0006078,BEEMAN ELEMENTARY SCHOOL,Region 1,Vermont,Non-Transient non-community system,193,NEW HAVEN,Addison,5,29,8
+VT0005429,RUTLAND TOWN FIRE DISTRICT  5,Region 1,Vermont,Community water system,110,RUTLAND TOWN,Rutland,7,14,9
+VT0001488,APPLE VALLEY INN  CAFE,Region 1,Vermont,Transient non-community system,71,BENNINGTON,Bennington,3,3,2
+VT0021104,MCNEIL ROAD COMMERCIAL COMPLEX,Region 1,Vermont,Non-Transient non-community system,239,WATERBURY,Washington,5,0,3
+VT0008008,SHAFTSBURY STATE PARK,Region 1,Vermont,Transient non-community system,50,SHAFTSBURY,Bennington,4,2,3
+VT0008042,LAKE ST CATHERINE STATE PARK,Region 1,Vermont,Transient non-community system,196,POULTNEY,Rutland,6,0,2
+VT0005217,DANBY MOUNT TABOR F D 1,Region 1,Vermont,Community water system,385,DANBY,Rutland,8,21,12
+VT0021122,IDLEWOOD RESTAURANT (THE),Region 1,Vermont,Transient non-community system,120,SHARON,Windsor,3,0,1
+VT0020595,EMERALD LAKE STATE PARK,Region 1,Vermont,Transient non-community system,420,DORSET,Bennington,7,1,2
+VT0001213,ABBEY PUB  RESTAURANT,Region 1,Vermont,Transient non-community system,180,SHELDON,Franklin,4,9,5
+VT0004547,SUNSET LODGE,Region 1,Vermont,Transient non-community system,70,SALISBURY,Addison,7,17,2
+VT0021125,DORSET RV PARK,Region 1,Vermont,Transient non-community system,35,DORSET,Bennington,2,3,1
+VT0006076,GRAFTON ELEMENTARY SCHOOL,Region 1,Vermont,Non-Transient non-community system,93,GRAFTON,Windham,5,22,6
+VT0005482,RUTLAND TOWN FIRE DISTRICT 10,Region 1,Vermont,Community water system,84,RUTLAND TOWN,Rutland,8,35,11
+VT0021292,AMEE FARM,Region 1,Vermont,Transient non-community system,68,PITTSFIELD,Rutland,7,3,1
+VT0008361,GROUT POND PICNIC AREA,Region 1,Vermont,Transient non-community system,78,STRATTON,Windham,2,0,2
+VT0006065,BREWSTER PIERCE SCHOOL,Region 1,Vermont,Non-Transient non-community system,149,HUNTINGTON,Chittenden,6,22,7
+VT0008249,WEST HILL RECREATION,Region 1,Vermont,Transient non-community system,50,LUDLOW,Windsor,3,0,2
+VT0008038,BOMOSEEN STATE PARK,Region 1,Vermont,Transient non-community system,225,HUBBARDTON,Rutland,7,0,2
+VT0008047,KINGSLAND BAY STATE PARK,Region 1,Vermont,Transient non-community system,119,FERRISBURG,Addison,2,6,4
+VT0005419,BRIDGEWATER MILL,Region 1,Vermont,Community water system,108,BRIDGEWATER,Windsor,4,11,11
+VT0005586,BLAKE HILL,Region 1,Vermont,Community water system,69,WOODSTOCK,Windsor,6,16,9
+VT0008152,PINE HOLLOW CAMPGROUND,Region 1,Vermont,Transient non-community system,200,POWNAL,Bennington,3,10,1
+VT0000662,COUNTRY MANS PLEASURE,Region 1,Vermont,Transient non-community system,113,MENDON,Rutland,3,11,2
+VT0005078,JERICHO HEIGHTS WATER COOP,Region 1,Vermont,Community water system,40,JERICHO,Chittenden,6,48,13
+VT0008020,WOODFORD STATE PARK,Region 1,Vermont,Transient non-community system,419,WOODFORD,Bennington,7,0,3
+VT0001626,VIKING NORDIC CENTER B & B,Region 1,Vermont,Transient non-community system,32,LONDONDERRY,Windham,2,15,1
+VT0001263,YANKEE VILLAGE MOTEL,Region 1,Vermont,Transient non-community system,41,WEATHERSFIELD,Windsor,5,12,1
+VT0005381,SHEFFIELD FIRE DISTRICT 1,Region 1,Vermont,Community water system,50,SHEFFIELD,Caledonia,4,73,13
+VT0006087,STOCKBRIDGE CENTRAL SCHOOL,Region 1,Vermont,Non-Transient non-community system,100,STOCKBRIDGE,Windsor,5,6,10
+VT0021184,RIVER VALLEY MARKET,Region 1,Vermont,Transient non-community system,25,WILMINGTON,Windham,2,1,1
+VT0020974,RUTLAND SHORT STOP,Region 1,Vermont,Transient non-community system,200,RUTLAND TOWN,Rutland,2,0,2
+VT0001991,ORLEANS COUNTRY CLUB,Region 1,Vermont,Transient non-community system,140,BARTON,Orleans,4,7,2
+VT0000448,RED FOX INN,Region 1,Vermont,Transient non-community system,104,WINHALL,Bennington,5,24,2
+VT0004608,SNOWED INN,Region 1,Vermont,Transient non-community system,42,KILLINGTON,Rutland,4,6,5
+VT0005523,STOWE FIRE DISTRICT 4,Region 1,Vermont,Community water system,120,STOWE,Lamoille,8,10,20
+VT0008149,GOLD BROOK CAMPGROUND,Region 1,Vermont,Transient non-community system,162,STOWE,Lamoille,6,6,2
+VT0001728,MANCHESTER COUNTRY CLUB,Region 1,Vermont,Transient non-community system,244,MANCHESTER,Bennington,3,12,2
+VT0020834,BREWSTER RIVER CAMPGROUND,Region 1,Vermont,Transient non-community system,60,CAMBRIDGE,Lamoille,3,6,3
+VT0006665,POWNAL ELEMENTARY SCHOOL,Region 1,Vermont,Non-Transient non-community system,368,POWNAL,Bennington,3,18,7
+VT0020973,BAY STORE,Region 1,Vermont,Transient non-community system,500,ST. ALBANS TOWN,Franklin,3,1,3
+VT0005191,COVENTRY FIRE DISTRICT 1,Region 1,Vermont,Community water system,251,COVENTRY,Orleans,7,49,9
+VT0021160,NULHEGAN BASIN DIVISION,Region 1,Vermont,Transient non-community system,25,BRUNSWICK,Essex,3,2,1
+VT0021131,CRAFTSBURY COMMUNITY CARE CENTER,Region 1,Vermont,Non-Transient non-community system,32,CRAFTSBURY,Orleans,5,14,3
+VT0020971,MORETOWN GENERAL STORE,Region 1,Vermont,Transient non-community system,55,MORETOWN,Washington,3,4,2
+VT0020972,ALBURG SHORT STOP MOBIL,Region 1,Vermont,Transient non-community system,25,ALBURG,Grand Isle,3,0,3
+VT0021231,BLAKE/RL VALLEE GEORGIA MOBIL,Region 1,Vermont,Transient non-community system,46,GEORGIA,Franklin,3,0,2
+VT0021133,BROWNINGTON CENTER CHURCH,Region 1,Vermont,Transient non-community system,53,BROWNINGTON,Orleans,2,2,1
+VT0020906,CRISANVER HOUSE,Region 1,Vermont,Transient non-community system,54,SHREWSBURY,Rutland,3,13,2
+VT0021188,DREAM CAMP,Region 1,Vermont,Transient non-community system,30,FLETCHER,Franklin,2,3,1
+VT0021275,MAPLE WOODS CAMPGROUND,Region 1,Vermont,Transient non-community system,260,JOHNSON,Lamoille,3,1,1
+VT0008128,WHITE CAPS CAMPGROUND,Region 1,Vermont,Transient non-community system,102,WESTMORE,Orleans,3,22,1
+VT0006677,MORETOWN ELEMENTARY SCHOOL,Region 1,Vermont,Non-Transient non-community system,214,MORETOWN,Washington,4,2,9
+VT0006658,BURKE TOWN SCHOOL,Region 1,Vermont,Non-Transient non-community system,225,BURKE,Caledonia,6,27,6
+VT0005452,KURN HATTIN BOYS SCHOOL,Region 1,Vermont,Community water system,200,WESTMINSTER,Windham,8,11,13
+VT0006765,EDEN CENTRAL SCHOOL,Region 1,Vermont,Non-Transient non-community system,190,EDEN,Lamoille,8,30,12
+VT0020308,STARLAKE VILLAGE LEASEHOLDERS ASSOCIATIO,Region 1,Vermont,Community water system,50,NORWICH,Windsor,5,64,7
+VT0005504,FIDDLEHEAD CONDOMINIUMS,Region 1,Vermont,Community water system,60,FAYSTON,Washington,5,21,10
+VT0006654,FLOOD BROOK USD 20,Region 1,Vermont,Non-Transient non-community system,400,LONDONDERRY,Windham,4,1,13
+VT0020622,LAKEHOUSE PUB AND GRILLE,Region 1,Vermont,Transient non-community system,101,CASTLETON,Rutland,4,74,5
+VT0021172,244 GRANGER ROAD,Region 1,Vermont,Non-Transient non-community system,72,BERLIN,Washington,6,1,3
+VT0020975,BARNARD GENERAL STORE,Region 1,Vermont,Transient non-community system,158,BARNARD,Windsor,3,14,3
+VT0021059,AMERICAN LEGION POST 90,Region 1,Vermont,Transient non-community system,201,POWNAL,Bennington,3,2,3
+VT0000488,OKEMO VALLEY GOLF CLUB,Region 1,Vermont,Transient non-community system,195,LUDLOW,Windsor,5,2,2
+VT0000600,KITZHOF LODGE,Region 1,Vermont,Transient non-community system,72,DOVER,Windham,2,12,1
+VT0006422,ALOHA MIDDLEBROOK CAMPUS,Region 1,Vermont,Transient non-community system,200,WEST FAIRLEE,Orange,7,2,3
+VT0006072,WARDSBORO ELEMENTARY SCHOOL,Region 1,Vermont,Non-Transient non-community system,100,WARDSBORO,Windham,5,9,10
+VT0005206,TROY WATER SYSTEM,Region 1,Vermont,Community water system,315,TROY,Orleans,5,31,13
+VT0020917,JACKSON GORE OKEMO,Region 1,Vermont,Community water system,1695,LUDLOW,Windsor,10,1,5
+VT0001127,NORTHERN LIGHTS LODGE,Region 1,Vermont,Transient non-community system,368,STOWE,Lamoille,5,19,2
+VT0002337,B  W SNACK BAR,Region 1,Vermont,Transient non-community system,40,BARTON,Orleans,4,6,2
+VT0004916,OTTAUQUECHEE MOTEL,Region 1,Vermont,Transient non-community system,39,WOODSTOCK,Windsor,7,6,2
+VT0021054,NORTHEAST KINGDOM MHP,Region 1,Vermont,Community water system,156,LYNDON,Caledonia,2,6,3
+VT0008163,WARNERS CAMPGROUND,Region 1,Vermont,Transient non-community system,125,RYEGATE,Caledonia,2,15,1
+VT0005024,BROMLEY WATER COMPANY,Region 1,Vermont,Community water system,4300,PERU,Bennington,14,13,9
+VT0005262,EAST CALAIS FIRE DISTRICT 1,Region 1,Vermont,Community water system,200,CALAIS,Washington,9,12,13
+VT0020508,OKEMO SOLITUDE,Region 1,Vermont,Community water system,976,LUDLOW,Windsor,10,4,8
+VT0020222,STELLA NOTTE RESTAURANT,Region 1,Vermont,Transient non-community system,87,CAMBRIDGE,Lamoille,2,14,3
+VT0009010,NORTH STAR LODGE,Region 1,Vermont,Transient non-community system,210,KILLINGTON,Rutland,7,20,2
+VT0005291,MOUNT SNOW VILLAGE ASSOCIATION,Region 1,Vermont,Community water system,123,DOVER,Windham,8,134,11
+VT0021245,PITTSFIELD PITT-STOP,Region 1,Vermont,Transient non-community system,25,PITTSFIELD,Rutland,3,2,1
+VT0020983,MAPLEWOOD CONVENIENCE STORE,Region 1,Vermont,Transient non-community system,27,BERLIN,Washington,3,0,2
+VT0008345,GEORGIA DAIRY INDUSTRIAL PARK,Region 1,Vermont,Non-Transient non-community system,340,GEORGIA,Franklin,10,7,6
+VT0021094,GRANGER ROAD INDUSTRIAL PARK,Region 1,Vermont,Non-Transient non-community system,41,BERLIN,Washington,15,0,4
+VT0005654,CHIMNEY HILL COLCHESTER,Region 1,Vermont,Community water system,42,COLCHESTER,Chittenden,6,9,9
+VT0005253,BIRCHWOOD PARK,Region 1,Vermont,Community water system,35,BARRE TOWN,Washington,4,45,12
+VT0002047,WILDFLOWER INN,Region 1,Vermont,Transient non-community system,100,LYNDON,Caledonia,4,16,3
+VT0005320,QUECHEE CENTRAL,Region 1,Vermont,Community water system,2262,HARTFORD,Windsor,10,0,12
+VT0005329,MOUNTAIN VIEW WATER ASSOC,Region 1,Vermont,Community water system,127,ROCHESTER,Windsor,7,33,13
+VT0005017,NORTH BENNINGTON WATER DEPT,Region 1,Vermont,Community water system,1700,BENNINGTON,Bennington,14,0,19
+VT0021317,FAIRFAX COMMONS,Region 1,Vermont,Transient non-community system,39,FAIRFAX,Franklin,3,1,1
+VT0010365,OKEMO SUMMIT LODGE,Region 1,Vermont,Transient non-community system,1000,LUDLOW,Windsor,5,2,2
+VT0005560,BEST WESTERN HOGGE PENNY INN,Region 1,Vermont,Non-Transient non-community system,137,RUTLAND TOWN,Rutland,5,27,8
+VT0005609,KETTLE BROOK CONDOMINIUM,Region 1,Vermont,Community water system,420,LUDLOW,Windsor,10,2,9
+VT0006731,HIGHGATE CENTER SCHOOL,Region 1,Vermont,Non-Transient non-community system,400,HIGHGATE,Franklin,7,28,8
+VT0001953,CLEAR RIVER INN  TAVERN,Region 1,Vermont,Transient non-community system,262,PITTSFIELD,Rutland,5,17,4
+VT0004531,FAIRLEE MOTEL,Region 1,Vermont,Transient non-community system,48,FAIRLEE,Orange,4,0,4
+VT0000131,NORTON RESTAURANT,Region 1,Vermont,Transient non-community system,86,NORTON,Essex,2,40,1
+VT0005111,GUILDHALL WATER SYSTEM,Region 1,Vermont,Community water system,136,GUILDHALL,Essex,10,173,9
+VT0005120,FRANKLIN FIRE DISTRICT 1,Region 1,Vermont,Community water system,400,FRANKLIN,Franklin,6,37,12
+VT0005207,WESTFIELD FIRE DISTRICT 1,Region 1,Vermont,Community water system,120,WESTFIELD,Orleans,7,102,13
+VT0005608,SOUTH FACE,Region 1,Vermont,Community water system,105,WARREN,Washington,8,25,11
+VT0005087,SHELBURNE WATER DEPT,Region 1,Vermont,Community water system,5764,SHELBURNE,Chittenden,9,0,10
+VT0008279,WILLOUGHBY WATER WORKS,Region 1,Vermont,Transient non-community system,41,BARTON,Orleans,2,34,2
+VT0001102,HYDE AWAY,Region 1,Vermont,Transient non-community system,108,FAYSTON,Washington,4,12,4
+VT0006681,BERKSHIRE ELEMENTARY SCHOOL,Region 1,Vermont,Non-Transient non-community system,250,BERKSHIRE,Franklin,4,4,8
+VT0004076,AMERICAS BEST VALUE INN - POWNAL,Region 1,Vermont,Transient non-community system,101,POWNAL,Bennington,6,31,6
+VT0021183,OHANA CAMP,Region 1,Vermont,Transient non-community system,25,FAIRLEE,Orange,4,1,1
+VT0021308,KEEPER`S RESTAURANT,Region 1,Vermont,Transient non-community system,50,READING,Windsor,2,1,1
+VT0006719,MARLBORO ELEMENTARY SCHOOL,Region 1,Vermont,Non-Transient non-community system,109,MARLBORO,Windham,4,55,11
+VT0005536,DOVER GREEN CONDOMINIUM,Region 1,Vermont,Community water system,157,DOVER,Windham,6,10,8
+VT0005051,CATAMOUNT BOLTON WATER AND SEWER,Region 1,Vermont,Community water system,1000,BOLTON,Chittenden,19,57,19
+VT0008154,WILLOWOOD CAMPGROUND,Region 1,Vermont,Transient non-community system,400,BARTON,Orleans,6,5,2
+VT0006402,ALOHA HIVE CAMP,Region 1,Vermont,Transient non-community system,250,WEST FAIRLEE,Orange,5,0,3
+VT0020723,GREEN MOUNTAIN MHP,Region 1,Vermont,Community water system,110,POWNAL,Bennington,3,36,4
+VT0005657,CLUB SUGARBUSH WATER SYSTEM,Region 1,Vermont,Community water system,245,WARREN,Washington,16,42,11
+VT0001128,FATHERS RESTAURANT,Region 1,Vermont,Transient non-community system,57,WESTMINSTER,Windham,6,7,2
+VT0001170,GLEN HOUSE,Region 1,Vermont,Transient non-community system,130,FAYSTON,Washington,7,4,4
+VT0002478,ALBURG GOLF LINKS,Region 1,Vermont,Transient non-community system,100,ALBURG,Grand Isle,6,15,3
+VT0020135,FARMS AT CLUB SUGARBUSH,Region 1,Vermont,Community water system,48,WARREN,Washington,7,52,10
+VT0004635,TURN OF RIVER LODGE,Region 1,Vermont,Transient non-community system,90,KILLINGTON,Rutland,4,17,1
+VT0005282,DRUMLEYS CONDOMINIUMS,Region 1,Vermont,Community water system,92,WARREN,Washington,8,6,12
+VT0006710,HOLLAND ELEMENTARY SCHOOL,Region 1,Vermont,Non-Transient non-community system,100,HOLLAND,Orleans,4,6,8
+VT0020585,PROSPECT POINT GOLF CLUB,Region 1,Vermont,Transient non-community system,25,CASTLETON,Rutland,3,27,2
+VT0020742,HARTLAND RECREATION CENTER,Region 1,Vermont,Non-Transient non-community system,104,HARTLAND,Windsor,5,115,6
+VT0020632,LONG TRAIL BREWING CO,Region 1,Vermont,Non-Transient non-community system,45,BRIDGEWATER,Windsor,7,8,5
+VT0005086,RIVERVIEW COMMONS,Region 1,Vermont,Community water system,388,RICHMOND,Chittenden,8,19,13
+VT0020345,SUGARBUSH RESORT ADMIN COMPLEX,Region 1,Vermont,Non-Transient non-community system,182,WARREN,Washington,4,99,7
+VT0005442,TIMBERLINE CONDOMINIUMS,Region 1,Vermont,Community water system,50,WARREN,Washington,13,19,15
+VT0005640,COUNTRY CLUB CONDOMINIUM,Region 1,Vermont,Community water system,80,BOLTON,Chittenden,8,98,8
+VT0020943,WILCOX COVE GOLF COURSE  CABINS,Region 1,Vermont,Transient non-community system,53,GRAND ISLE,Grand Isle,3,1,3
+VT0020989,MAD RIVER VALLEY HEALTH CENTER,Region 1,Vermont,Transient non-community system,76,WAITSFIELD,Washington,2,4,1
+VT0020965,ABBOTTS GLEN,Region 1,Vermont,Transient non-community system,46,WHITINGHAM,Windham,2,5,1
+VT0002060,SITZMARK LODGE,Region 1,Vermont,Transient non-community system,380,WILMINGTON,Windham,2,16,2
+VT0020738,VERMONT YANKEE NEOB,Region 1,Vermont,Non-Transient non-community system,150,VERNON,Windham,3,69,5
+VT0005315,BETHEL WATER DEPT,Region 1,Vermont,Community water system,915,BETHEL,Windsor,8,19,12
+VT0001745,ECHO LAKE INN,Region 1,Vermont,Transient non-community system,70,PLYMOUTH,Windsor,3,6,2
+VT0002974,GARLIC RESTAURANT,Region 1,Vermont,Transient non-community system,138,KILLINGTON,Rutland,3,20,2
+VT0020799,SOUTHERN VERMONT ARTS CENTER,Region 1,Vermont,Transient non-community system,400,MANCHESTER,Bennington,8,13,4
+VT0005185,WASHINGTON FIRE DISTRICT,Region 1,Vermont,Community water system,170,WASHINGTON,Orange,6,19,13
+VT0005384,WHIFFLETREE CONDOMINIUM,Region 1,Vermont,Community water system,189,KILLINGTON,Rutland,8,85,11
+VT0021303,KING ARTHUR FLOUR COMPANY,Region 1,Vermont,Non-Transient non-community system,84,NORWICH,Windsor,2,0,1
+VT0020344,PLAYCARE CENTER IN BERLIN,Region 1,Vermont,Non-Transient non-community system,65,BERLIN,Washington,4,7,5
+VT0004550,AMERICAS BEST VALUE INN,Region 1,Vermont,Transient non-community system,73,BENNINGTON,Bennington,12,4,2
+VT0005269,MARSHFIELD WATER SYSTEM,Region 1,Vermont,Community water system,350,MARSHFIELD,Washington,13,88,12
+VT0000165,BACK BEHIND STEAK SALOON,Region 1,Vermont,Transient non-community system,115,BRIDGEWATER,Windsor,2,11,2
+VT0005555,WEST BURKE HOUSING,Region 1,Vermont,Community water system,40,BURKE,Caledonia,5,20,11
+VT0004602,HONEYWOOD COUNTRY LODGE,Region 1,Vermont,Transient non-community system,47,STOWE,Lamoille,5,12,2
+VT0000931,THREE MOUNTAIN INN,Region 1,Vermont,Transient non-community system,75,JAMAICA,Windham,3,3,2
+VT0001838,GREENWOOD LODGE AND CAMPSITES,Region 1,Vermont,Transient non-community system,185,WOODFORD,Bennington,4,0,2
+VT0000994,PITCHER INN,Region 1,Vermont,Transient non-community system,88,WARREN,Washington,6,3,3
+VT0008332,VERMONT YANKEE PLANT  MAIN,Region 1,Vermont,Non-Transient non-community system,400,VERNON,Windham,9,8,7
+VT0008168,TREE FARM CAMPGROUND,Region 1,Vermont,Transient non-community system,240,SPRINGFIELD,Windsor,4,5,2
+VT0020691,AMERICAN FLAT BREAD LAREAU FARM INN,Region 1,Vermont,Transient non-community system,96,WAITSFIELD,Washington,3,11,2
+VT0020070,COMFORT INN APPLEBEES NEIGHBORHOOD GRIL,Region 1,Vermont,Non-Transient non-community system,143,BERLIN,Washington,13,74,3
+VT0020659,MENDON MOUNTAIN VIEW LODGE,Region 1,Vermont,Transient non-community system,145,MENDON,Rutland,5,18,3
+VT0000782,CREEK HOUSE,Region 1,Vermont,Transient non-community system,45,BETHEL,Windsor,3,6,2
+VT0002560,VERMONT INN,Region 1,Vermont,Transient non-community system,113,MENDON,Rutland,2,12,2
+VT0020229,BARTON GOLF CLUB,Region 1,Vermont,Transient non-community system,104,BARTON,Orleans,3,2,2
+VT0020894,LAKE CHAMPAGNE CAMPGROUND,Region 1,Vermont,Transient non-community system,317,RANDOLPH,Orange,5,0,3
+VT0002651,TATER HILL CLUBHOUSE RESTAURANT,Region 1,Vermont,Transient non-community system,104,WINDHAM,Windham,2,5,6
+VT0008112,LAKE DUNMORE KAMPERS,Region 1,Vermont,Transient non-community system,475,SALISBURY,Addison,7,26,2
+VT0021021,BERLIN PROFESSIONAL OFFICES,Region 1,Vermont,Non-Transient non-community system,140,BERLIN,Washington,6,25,4
+VT0005319,HARTFORD WATER DEPT,Region 1,Vermont,Community water system,7600,HARTFORD,Windsor,11,1,13
+VT0008358,OKEMO MOUNTAIN INC,Region 1,Vermont,Transient non-community system,3000,LUDLOW,Windsor,10,3,2
+VT0005593,SOUTH VILLAGE,Region 1,Vermont,Community water system,445,WARREN,Washington,13,33,10
+VT0020767,MOUNT ELLEN BASE LODGESUGARBUSH SKI RES,Region 1,Vermont,Transient non-community system,350,WARREN,Washington,2,1,3
+VT0006405,CAMP BILLINGS,Region 1,Vermont,Transient non-community system,177,THETFORD,Orange,7,6,2
+VT0005382,EDGEMONT CONDOMINIUMS,Region 1,Vermont,Community water system,108,KILLINGTON,Rutland,7,87,8
+VT0020397,CATAMOUNT CHARLOTTE,Region 1,Vermont,Non-Transient non-community system,74,CHARLOTTE,Chittenden,8,30,6
+VT0005513,WILDWOOD WEST,Region 1,Vermont,Community water system,65,CHARLOTTE,Chittenden,5,9,10
+VT0020132,LANAKILA HULBERT,Region 1,Vermont,Transient non-community system,250,FAIRLEE,Orange,18,1,5
+VT0020714,BIRCH RIDGE INN,Region 1,Vermont,Transient non-community system,30,KILLINGTON,Rutland,3,10,4
+VT0005281,MOUNTAIN WATER COMPANY,Region 1,Vermont,Community water system,2400,WARREN,Washington,29,19,19
+VT0004221,PINECREST MOTEL,Region 1,Vermont,Transient non-community system,27,HARTFORD,Windsor,5,7,3
+VT0006401,ALOHA GIRLS CAMP,Region 1,Vermont,Transient non-community system,250,FAIRLEE,Orange,6,1,6
+VT0020941,GREY FOX INN,Region 1,Vermont,Transient non-community system,30,STOWE,Lamoille,4,4,2
+VT0020945,GREEN MOUNTAIN FAMILY CAMPGROUND,Region 1,Vermont,Transient non-community system,194,BRISTOL,Addison,3,7,2
+VT0008291,INDIAN POINT,Region 1,Vermont,Transient non-community system,50,CASTLETON,Rutland,2,11,3
+VT0020063,SB GOLF COURSE/BEAVER POND B&B,Region 1,Vermont,Transient non-community system,118,WARREN,Washington,3,4,1
+VT0005503,BURKE MOUNTAIN WATER SYSTEM,Region 1,Vermont,Community water system,1058,BURKE,Caledonia,14,15,17
+VT0005213,FORT WARREN MHP,Region 1,Vermont,Community water system,129,CASTLETON,Rutland,11,5,13
+VT0005126,RICHFORD WATER SYSTEM,Region 1,Vermont,Community water system,1700,RICHFORD,Franklin,7,58,26
+VT0005524,SNOWSIDE CONDOMINIUM,Region 1,Vermont,Community water system,63,FAYSTON,Washington,6,15,9
+VT0005529,BERLIN HEALTH  REHABILITATION,Region 1,Vermont,Community water system,378,BERLIN,Washington,10,15,12
+VT0005171,MOBILE ACRES MHP,Region 1,Vermont,Community water system,252,BRAINTREE,Orange,9,189,12
+VT0005564,MAD RIVER MEADOWS,Region 1,Vermont,Community water system,92,WAITSFIELD,Washington,5,7,13
+VT0005098,WILLISTON WATER DEPT,Region 1,Vermont,Community water system,7690,WILLISTON,Chittenden,9,0,11
+VT0005330,ROYALTON FIRE DISTRICT 1,Region 1,Vermont,Community water system,1500,ROYALTON,Windsor,13,7,14
+VT0006077,ALBERT BRIDGE SCHOOL,Region 1,Vermont,Non-Transient non-community system,85,WINDSOR,Windsor,8,53,14
+VT0021015,CHAMPLAIN VALLEY CO HOUSING,Region 1,Vermont,Community water system,69,CHARLOTTE,Chittenden,5,4,2
+VT0021121,WHEELER BROOK HOUSING DEVELOPMENT,Region 1,Vermont,Community water system,47,WARREN,Washington,5,0,1
+VT0021373,HUNTINGTON LODGE,Region 1,Vermont,Transient non-community system,25,HUNTINGTON,Chittenden,4,0,1
+VT0021348,PARKER OFFICE BUILDING,Region 1,Vermont,Non-Transient non-community system,60,BERLIN,Washington,3,2,1
+VT0008025,GROTON NEW DISCOVERY,Region 1,Vermont,Transient non-community system,464,GROTON,Caledonia,5,5,3
+VT0008265,MAIDSTONE STATE PARK,Region 1,Vermont,Transient non-community system,27,MAIDSTONE,Essex,8,3,4
+VT0020734,POWNAL FIRE DISTRICT 2,Region 1,Vermont,Community water system,400,POWNAL,Bennington,5,55,7
+VT0020366,LIGHT LOGIC INC,Region 1,Vermont,Non-Transient non-community system,40,HYDE PARK,Lamoille,5,5,5
+VT0020642,COUNTRY CREEMEE,Region 1,Vermont,Transient non-community system,40,WEATHERSFIELD,Windsor,4,6,2
+VT0020774,HARTLAND TOWN ACTIVITY CENTER,Region 1,Vermont,Non-Transient non-community system,50,HARTLAND,Windsor,3,36,5
+VT0020594,POINT COMFORT COTTAGES,Region 1,Vermont,Transient non-community system,138,DANVILLE,Caledonia,2,10,3
+VT0021060,LAKE ST CATHERINE COUNTRY CLUB,Region 1,Vermont,Transient non-community system,60,POULTNEY,Rutland,2,6,1
+VT0002004,SUNSET GRILL,Region 1,Vermont,Transient non-community system,88,STOWE,Lamoille,4,24,4
+VT0001033,BASIN HARBOR CLUB,Region 1,Vermont,Transient non-community system,450,FERRISBURG,Addison,4,4,2
+VT0020670,CASA BELLA INN  RESTAURANT,Region 1,Vermont,Transient non-community system,60,PITTSFIELD,Rutland,2,12,4
+VT0005626,VALLEY PARK CONDOMINIUM,Region 1,Vermont,Community water system,42,KILLINGTON,Rutland,5,78,10
+VT0002760,WOODSTOCK INN & RESORT`S RACQUET & FITNE,Region 1,Vermont,Transient non-community system,100,WOODSTOCK,Windsor,4,11,3
+VT0005155,MOUNTAIN VIEW MHP,Region 1,Vermont,Community water system,75,JOHNSON,Lamoille,5,64,9
+VT0004708,VAL ROC MOTEL,Region 1,Vermont,Transient non-community system,96,KILLINGTON,Rutland,4,29,1
+VT0008137,BRATTLEBORO NORTH KOA,Region 1,Vermont,Transient non-community system,195,PUTNEY,Windham,7,1,2
+VT0004696,VERGENNES MOTOR INN,Region 1,Vermont,Transient non-community system,60,NEW HAVEN,Addison,4,9,2
+VT0021033,NEW HORIZONS CHILDREN CENTER,Region 1,Vermont,Non-Transient non-community system,61,FAIRFAX,Franklin,6,22,3
+VT0005393,CROSS COUNTRY,Region 1,Vermont,Transient non-community system,48,WILMINGTON,Windham,3,2,6
+VT0001511,SUICIDE SIX SKI AREA,Region 1,Vermont,Transient non-community system,339,POMFRET,Windsor,4,5,4
+VT0006555,WINDRIDGE AT TEELA WOOKET,Region 1,Vermont,Transient non-community system,220,ROXBURY,Washington,14,11,3
+VT0020592,CEDAR KNOLL COUNTRY CLUB,Region 1,Vermont,Transient non-community system,64,HINESBURG,Chittenden,3,0,2
+VT0020737,SHATTUCK HILL MHP,Region 1,Vermont,Community water system,129,DERBY,Orleans,3,5,4
+VT0005625,BEEBE PLAIN WATER SYSTEM,Region 1,Vermont,Community water system,142,DERBY,Orleans,15,23,11
+VT0005541,SUNTEC FOREST CONDOMINIUM,Region 1,Vermont,Community water system,105,DOVER,Windham,7,5,9
+VT0021237,7 ELEVEN STORE NO 32511,Region 1,Vermont,Transient non-community system,30,WINHALL,Bennington,3,5,0
+VT0020908,ADDISON COUNTY HOME HEALTH AND HOSPICE,Region 1,Vermont,Non-Transient non-community system,115,NEW HAVEN,Addison,6,150,3
+VT0020677,SILO,Region 1,Vermont,Transient non-community system,90,DOVER,Windham,3,7,2
+VT0020472,WALDEN SCHOOL,Region 1,Vermont,Non-Transient non-community system,125,WALDEN,Caledonia,4,32,7
+VT0021141,WOLCOTT GENERAL STORE,Region 1,Vermont,Transient non-community system,49,WOLCOTT,Lamoille,6,1,1
+VT0005596,FLY IN WATER SYSTEM,Region 1,Vermont,Community water system,37,WAITSFIELD,Washington,5,18,9
+VT0004434,WOODFORD MALL,Region 1,Vermont,Transient non-community system,28,WOODFORD,Bennington,4,34,1
+VT0002116,LANDGROVE INN,Region 1,Vermont,Transient non-community system,87,LANDGROVE,Bennington,5,18,3
+VT0020722,MOUNTAIN VIEW COURT,Region 1,Vermont,Community water system,53,BENNINGTON,Bennington,3,14,6
+VT0020091,ORMSBY HILL WATER SYSTEM,Region 1,Vermont,Community water system,52,MANCHESTER,Bennington,6,13,7
+VT0006061,OTTER VALLEY USD  8,Region 1,Vermont,Non-Transient non-community system,830,BRANDON,Rutland,5,14,11
+VT0020029,BARNET SCHOOL DISTRICT,Region 1,Vermont,Non-Transient non-community system,290,BARNET,Caledonia,7,5,7
+VT0006634,GUILFORD CENTRAL SCHOOL,Region 1,Vermont,Non-Transient non-community system,184,GUILFORD,Windham,5,27,11
+VT0006093,LAKE REGION UNION USD 24,Region 1,Vermont,Non-Transient non-community system,460,BARTON,Orleans,7,5,8
+VT0005628,ALTA GARDENS ESTATES,Region 1,Vermont,Community water system,147,POWNAL,Bennington,5,28,35
+VT0020776,WILD APPLE LIMITED PARTNERSHIP,Region 1,Vermont,Non-Transient non-community system,50,WOODSTOCK,Windsor,5,7,5
+VT0020804,COVENANT HILLS CHRISTIAN CAMP,Region 1,Vermont,Transient non-community system,54,CABOT,Washington,3,10,3
+VT0020520,SUGAR LODGE,Region 1,Vermont,Transient non-community system,95,WARREN,Washington,3,4,2
+VT0006672,CHARLESTON ELEMENTARY SCHOOL,Region 1,Vermont,Non-Transient non-community system,145,CHARLESTON,Orleans,5,40,9
+VT0005168,STOWE F D 2 GOLD BROOK CIRCLE,Region 1,Vermont,Community water system,86,STOWE,Lamoille,7,7,11
+VT0005562,EAGLES RESORT,Region 1,Vermont,Community water system,131,WAITSFIELD,Washington,7,23,8
+VT0005592,PIPER RIDGE CONDOMINIUM,Region 1,Vermont,Community water system,362,WINHALL,Bennington,10,24,9
+VT0020568,DERBY LINE VILLAGE WATER DISTRICT,Region 1,Vermont,Community water system,1630,DERBY,Orleans,10,2,6
+VT0020845,KILLINGTON CAMPUS INN,Region 1,Vermont,Transient non-community system,104,KILLINGTON,Rutland,3,9,1
+VT0005130,ST ALBANS WATER DEPT,Region 1,Vermont,Community water system,9956,ST. ALBANS CITY,Franklin,17,5,30
+VT0001805,WAITSFIELD INN,Region 1,Vermont,Transient non-community system,48,WAITSFIELD,Washington,4,4,5
+VT0000982,MISSISQUOI LANES,Region 1,Vermont,Transient non-community system,42,LOWELL,Orleans,2,17,3
+VT0001045,MATTERHORN INN,Region 1,Vermont,Transient non-community system,189,DOVER,Windham,4,26,2
+VT0021058,VYCC MONITOR BARN,Region 1,Vermont,Transient non-community system,80,RICHMOND,Chittenden,4,6,4
+VT0005339,COUNTRY ESTATES WATER CO INC,Region 1,Vermont,Community water system,485,WEATHERSFIELD,Windsor,8,26,15
+VT0021124,MILL POND CAMPGROUND,Region 1,Vermont,Transient non-community system,304,FRANKLIN,Franklin,6,4,1
+VT0006729,CONCORD SCHOOL,Region 1,Vermont,Non-Transient non-community system,300,CONCORD,Essex,5,8,12
+VT0005228,PROCTOR WATER DEPT,Region 1,Vermont,Community water system,2000,PROCTOR,Rutland,12,82,22
+VT0020424,JAY PEAK MOUNTAINSIDE CONDOS,Region 1,Vermont,Transient non-community system,57,JAY,Orleans,3,9,1
+VT0006073,WINDHAM ELEMENTARY SCHOOL,Region 1,Vermont,Non-Transient non-community system,60,WINDHAM,Windham,4,12,9
+VT0006009,CAMP THORPE,Region 1,Vermont,Transient non-community system,82,GOSHEN,Addison,3,14,2
+VT0020933,PRESIDENT CALVIN COOLIDGE HISTORIC SITE,Region 1,Vermont,Transient non-community system,90,PLYMOUTH,Windsor,10,3,2
+VT0008002,CHARLOTTE TOWN BEACH,Region 1,Vermont,Transient non-community system,25,CHARLOTTE,Chittenden,3,15,3
+VT0005310,WILMINGTON WATER DIST,Region 1,Vermont,Community water system,1400,WILMINGTON,Windham,12,29,10
+VT0020640,MOOSE HORN CAFE,Region 1,Vermont,Transient non-community system,40,HARDWICK,Caledonia,3,10,1
+VT0021364,YESTERMORROW DESIGN/BUILD SCHOOL,Region 1,Vermont,Transient non-community system,65,WARREN,Washington,2,0,1
+VT0021383,GREEN MOUNTAIN CLUB,Region 1,Vermont,Transient non-community system,25,WATERBURY,Washington,3,0,1
+VT0000059,VALHALLA MOTEL,Region 1,Vermont,Transient non-community system,54,ARLINGTON,Bennington,4,9,4
+VT0020638,GW PLASTICS INC,Region 1,Vermont,Non-Transient non-community system,50,ROYALTON,Windsor,6,28,6
+VT0005525,STERLING RIDGE WATER,Region 1,Vermont,Community water system,66,WARREN,Washington,7,5,12
+VT0008350,LONG POINT,Region 1,Vermont,Transient non-community system,300,FERRISBURG,Addison,11,28,4
+VT0020806,FLETCHER FARM SCHOOL FOR ARTS  CRAFTS,Region 1,Vermont,Transient non-community system,93,LUDLOW,Windsor,6,8,2
+VT0006501,CAMP BETSEY COX,Region 1,Vermont,Transient non-community system,115,PITTSFORD,Rutland,6,7,3
+VT0020439,COVERED BRIDGE HIGHLAND,Region 1,Vermont,Community water system,85,STOWE,Lamoille,8,9,7
+VT0005331,EATONS MHP,Region 1,Vermont,Community water system,60,ROYALTON,Windsor,4,144,18
+VT0000847,CHRISTMAS TREE INN,Region 1,Vermont,Transient non-community system,32,WARREN,Washington,3,7,5
+VT0001042,TERRA ROSSA RISTORANTE,Region 1,Vermont,Transient non-community system,100,WARREN,Washington,5,8,5
+VT0005540,PINNACLE CONDOMINIUM,Region 1,Vermont,Community water system,400,KILLINGTON,Rutland,5,6,9
+VT0008024,GROTON RICKER POND,Region 1,Vermont,Transient non-community system,448,GROTON,Caledonia,3,2,5
+VT0008029,ELMORE STATE PARK,Region 1,Vermont,Transient non-community system,368,ELMORE,Lamoille,2,2,1
+VT0020471,OLCOTT FALLS MANOR MHP,Region 1,Vermont,Community water system,104,HARTFORD,Windsor,3,10,6
+VT0020841,MOUNTAIN SCHOOL,Region 1,Vermont,Non-Transient non-community system,65,VERSHIRE,Orange,10,2,4
+VT0020551,WINDEMERE MHP,Region 1,Vermont,Community water system,199,COLCHESTER,Chittenden,4,5,6
+VT0006352,MOUNT NORRIS SCOUT RESERVATION,Region 1,Vermont,Transient non-community system,151,EDEN,Lamoille,6,0,2
+VT0006067,UNDERHILL CENTRAL SCHOOL,Region 1,Vermont,Non-Transient non-community system,165,UNDERHILL,Chittenden,5,6,7
+VT0020744,DERBY MHP,Region 1,Vermont,Community water system,265,DERBY,Orleans,4,2,3
+VT0020567,GENERAL SERVICES COMPLEX MIDDLESEX,Region 1,Vermont,Non-Transient non-community system,40,MIDDLESEX,Washington,7,45,7
+VT0001930,BLUSH HILL COUNTRY CLUB THE CLUB HOUSE,Region 1,Vermont,Transient non-community system,110,WATERBURY,Washington,7,12,3
+VT0005347,COBURN MHP,Region 1,Vermont,Community water system,126,CLARENDON,Rutland,6,8,11
+VT0021082,VILLAGE GROCERY,Region 1,Vermont,Transient non-community system,86,WAITSFIELD,Washington,5,1,2
+VT0001517,LAZY LIONS CAMPGROUND,Region 1,Vermont,Transient non-community system,124,BARRE TOWN,Washington,6,3,2
+VT0005026,LAMPMAN WATER SYSTEM,Region 1,Vermont,Community water system,133,POWNAL,Bennington,6,19,13
+VT0008254,LITTLE RIVER STATE PARK,Region 1,Vermont,Transient non-community system,806,WATERBURY,Washington,13,7,4
+VT0020455,DEEPWOOD PARK,Region 1,Vermont,Community water system,90,BRATTLEBORO,Windham,5,1,5
+VT0006608,CAMP NERINGA,Region 1,Vermont,Transient non-community system,147,MARLBORO,Windham,3,1,2
+VT0005399,WINDY HILL ACRES MHP,Region 1,Vermont,Community water system,139,SPRINGFIELD,Windsor,14,11,18
+VT0021000,UPPER VALLEY EVENTS CENTER,Region 1,Vermont,Transient non-community system,55,NORWICH,Windsor,4,2,2
+VT0002033,TOWNSHEND DAM DINER,Region 1,Vermont,Transient non-community system,59,TOWNSHEND,Windham,6,26,5
+VT0006669,WOODBURY ELEMENTARY WATER SYSTEM,Region 1,Vermont,Non-Transient non-community system,61,WOODBURY,Washington,5,11,7
+VT0008037,SEYON TROUT RANCH GROTON,Region 1,Vermont,Transient non-community system,52,GROTON,Caledonia,4,3,3
+VT0005621,CHARETTE WATER SYSTEM,Region 1,Vermont,Community water system,37,DUMMERSTON,Windham,18,49,13
+VT0005655,HOLBROOK BAY COMMONS,Region 1,Vermont,Community water system,95,NEWPORT TOWN,Orleans,5,80,9
+VT0005272,MONTPELIER WATER SYSTEM,Region 1,Vermont,Community water system,8700,MONTPELIER,Washington,14,8,21
+VT0008036,GROTON BOULDER BEACH,Region 1,Vermont,Transient non-community system,184,GROTON,Caledonia,9,4,6
+VT0001784,SOLO FARM AND TABLE,Region 1,Vermont,Transient non-community system,83,LONDONDERRY,Windham,3,18,1
+VT0005309,SHADY PINES MHP,Region 1,Vermont,Community water system,76,WESTMINSTER,Windham,4,13,9
+VT0006068,CRAFTSBURY ELEMENTARY SCHOOL,Region 1,Vermont,Non-Transient non-community system,75,CRAFTSBURY,Orleans,4,7,8
+VT0005080,BIRCHWOOD MANOR MHP,Region 1,Vermont,Community water system,454,MILTON,Chittenden,15,19,11
+VT0008026,GROTON OSMORE POND,Region 1,Vermont,Transient non-community system,50,GROTON,Caledonia,3,4,2
+VT0005279,VERD MONT MHP,Region 1,Vermont,Community water system,80,WAITSFIELD,Washington,10,16,15
+VT0000661,SNOWDON MOTEL,Region 1,Vermont,Transient non-community system,108,LONDONDERRY,Windham,2,39,2
+VT0008125,REST N NEST CAMPGROUND,Region 1,Vermont,Transient non-community system,92,THETFORD,Orange,2,6,2
+VT0005267,SANDY PINES MHP,Region 1,Vermont,Community water system,100,EAST MONTPELIER,Washington,8,3,16
+VT0008022,GROTON STILLWATER,Region 1,Vermont,Transient non-community system,328,GROTON,Caledonia,7,11,4
+VT0008023,GROTON BIG DEER,Region 1,Vermont,Transient non-community system,112,GROTON,Caledonia,8,4,5
+VT0005268,SUGAR RUN ASSOCIATION INC,Region 1,Vermont,Community water system,197,FAYSTON,Washington,8,70,12
+VT0006650,LOWELL GRADED SCHOOL,Region 1,Vermont,Non-Transient non-community system,120,LOWELL,Orleans,4,31,16
+VT0004212,NORTH SHIRE MOTEL,Region 1,Vermont,Transient non-community system,54,MANCHESTER,Bennington,5,0,3
+VT0005518,LIMEHURST MHP,Region 1,Vermont,Community water system,87,WILLIAMSTOWN,Orange,8,34,14
+VT0005052,FERNWOOD MANOR MHP,Region 1,Vermont,Community water system,250,BOLTON,Chittenden,6,46,13
+VT0021081,WESTMORE WATER WORKS,Region 1,Vermont,Transient non-community system,25,WESTMORE,Orleans,2,3,3
+VT0005534,RUTLAND TOWN FIRE DISTRICT 1,Region 1,Vermont,Community water system,401,RUTLAND TOWN,Rutland,7,95,12
+VT0006411,VERSHIRE RIDING SCHOOL,Region 1,Vermont,Transient non-community system,50,VERSHIRE,Orange,7,5,2
+VT0005039,HARDWICK TOWN WATER SYSTEM,Region 1,Vermont,Community water system,1900,HARDWICK,Caledonia,10,13,13
+VT0005212,CASTLETON FIRE DISTRICT 1,Region 1,Vermont,Community water system,1940,CASTLETON,Rutland,8,11,14
+VT0021055,HARMONYVILLE STORE,Region 1,Vermont,Transient non-community system,50,TOWNSHEND,Windham,3,3,3
+VT0020590,DISH ON MAIN,Region 1,Vermont,Transient non-community system,88,ROCKINGHAM,Windham,7,21,3
+VT0021098,STAMFORD VALLEY GOLF COURSE,Region 1,Vermont,Transient non-community system,130,STAMFORD,Bennington,2,10,2
+VT0002390,MOUNTAIN VIEW CAMPGROUND,Region 1,Vermont,Transient non-community system,168,MORRISTOWN,Lamoille,3,2,1
+VT0020524,COMMON ACRES CAMPGROUND,Region 1,Vermont,Transient non-community system,70,HYDE PARK,Lamoille,8,15,6
+VT0020885,RUTLAND TOWN FIRE DISTRICT 4,Region 1,Vermont,Community water system,136,RUTLAND TOWN,Rutland,7,34,4
+VT0020648,GARRISON,Region 1,Vermont,Transient non-community system,60,FAYSTON,Washington,7,6,4
+VT0005033,BURKE FIRE DISTRICT 1,Region 1,Vermont,Community water system,142,BURKE,Caledonia,6,33,12
+VT0020890,KILLINGTON VILLAGE PROPERTIES INC,Region 1,Vermont,Transient non-community system,30,KILLINGTON,Rutland,6,10,2
+VT0020689,BRATTLEBORO COUNTRY CLUB,Region 1,Vermont,Transient non-community system,228,BRATTLEBORO,Windham,5,4,3
+VT0020384,PUTNEY INTERSTATE 91,Region 1,Vermont,Non-Transient non-community system,30,PUTNEY,Windham,5,116,5
+VT0006694,GEORGIA ELEMENTARY SCHOOL,Region 1,Vermont,Non-Transient non-community system,850,GEORGIA,Franklin,7,2,6
+VT0021164,OUR LADY OF THE ANGELS CHURCH,Region 1,Vermont,Transient non-community system,250,RANDOLPH,Orange,2,0,2
+VT0006675,THETFORD ELEMENTARY SCHOOL,Region 1,Vermont,Non-Transient non-community system,300,THETFORD,Orange,6,3,6
+VT0001771,MOUNTAIN TOP INN AND RESORT,Region 1,Vermont,Transient non-community system,210,CHITTENDEN,Rutland,6,17,3
+VT0005201,JAY PEAK SUBDIVISION II,Region 1,Vermont,Community water system,66,JAY,Orleans,5,32,10
+VT0005565,JAY PEAK BASIN COMPLEX,Region 1,Vermont,Community water system,2436,JAY,Orleans,17,33,8
+VT0006689,BARNARD CENTRAL SCHOOL,Region 1,Vermont,Non-Transient non-community system,92,BARNARD,Windsor,5,9,7
+VT0005351,SORRELL MHP,Region 1,Vermont,Community water system,112,CONCORD,Essex,10,64,14
+VT0006736,FLETCHER ELEMENTARY SCHOOL,Region 1,Vermont,Non-Transient non-community system,165,FLETCHER,Franklin,5,8,6
+VT0008148,EDEN LAKE RECREATION,Region 1,Vermont,Transient non-community system,102,EDEN,Lamoille,3,22,3
+VT0020618,BLACK RIVER OVERLOOK,Region 1,Vermont,Community water system,66,LUDLOW,Windsor,5,68,7
+VT0006641,PUTNEY CENTRAL SCHOOL,Region 1,Vermont,Non-Transient non-community system,292,PUTNEY,Windham,5,2,8
+VT0006006,KILLOOLEET CAMP,Region 1,Vermont,Transient non-community system,100,HANCOCK,Addison,5,1,4
+VT0020466,WESTBURY PARK,Region 1,Vermont,Community water system,663,COLCHESTER,Chittenden,4,3,5
+VT0006629,SAXTONS RIVER SCHOOL,Region 1,Vermont,Non-Transient non-community system,120,ROCKINGHAM,Windham,5,51,9
+VT0006512,SUNRISE CAMP,Region 1,Vermont,Transient non-community system,110,BENSON,Rutland,2,7,1
+VT0005044,SOUTH RYEGATE WATER COOP,Region 1,Vermont,Community water system,25,RYEGATE,Caledonia,3,251,10
+VT0020875,MARLBORO COLLEGE CORP,Region 1,Vermont,Non-Transient non-community system,40,MARLBORO,Windham,7,2,4
+VT0020667,PEPPINOS RISTORANTE ITALIANO,Region 1,Vermont,Transient non-community system,88,KILLINGTON,Rutland,4,28,2
+VT0020801,WHITE BIRCHES MHP,Region 1,Vermont,Community water system,125,BENNINGTON,Bennington,4,20,5
+VT0005127,SHELDON WATER SYSTEM,Region 1,Vermont,Community water system,630,SHELDON,Franklin,5,65,11
+VT0020743,MARLBORO COLLEGE,Region 1,Vermont,Non-Transient non-community system,901,MARLBORO,Windham,7,114,5
+VT0004905,GOVERNORS ROCK MOTEL,Region 1,Vermont,Transient non-community system,32,SHAFTSBURY,Bennington,5,0,2
+VT0008205,FAIR HAVEN WELCOME AREA,Region 1,Vermont,Transient non-community system,303,FAIR HAVEN,Rutland,2,0,1
+VT0001285,TRAK IN RESTAURANT,Region 1,Vermont,Transient non-community system,140,CASTLETON,Rutland,11,7,2
+VT0005077,VILLAGE OF JERICHO WATER SYSTEM,Region 1,Vermont,Community water system,1410,JERICHO,Chittenden,7,1,8
+VT0006005,KEEWAYDIN CAMP,Region 1,Vermont,Transient non-community system,300,SALISBURY,Addison,5,4,1
+VT0000254,BARN RESTAURANT TAVERN,Region 1,Vermont,Transient non-community system,85,PAWLET,Rutland,3,26,1
+VT0020414,TRILLIUM WOODS WATER SYSTEM,Region 1,Vermont,Community water system,27,JAY,Orleans,6,8,7
+VT0005040,LYNDONVILLE WATER SYSTEM,Region 1,Vermont,Community water system,4500,LYNDON,Caledonia,14,1,19
+VT0005058,COLCHESTER FIRE DISTRICT 1,Region 1,Vermont,Community water system,2066,COLCHESTER,Chittenden,4,0,11
+VT0005552,COLCHESTER TOWN,Region 1,Vermont,Non-Transient non-community system,1500,COLCHESTER,Chittenden,5,0,8
+VT0021265,DUXBURY CAMPGROUND,Region 1,Vermont,Transient non-community system,64,DUXBURY,Washington,3,4,1
+VT0020399,ISOVOLTA INC,Region 1,Vermont,Non-Transient non-community system,55,RUTLAND TOWN,Rutland,5,12,4
+VT0006003,SONGADEEWIN OF KEEWAYDIN,Region 1,Vermont,Transient non-community system,120,SALISBURY,Addison,9,2,1
+VT0005200,IRASBURG FD #1,Region 1,Vermont,Community water system,200,IRASBURG,Orleans,12,64,24
+VT0005091,SOUTH BURLINGTON CITY WATER SYSTEM,Region 1,Vermont,Community water system,15296,SOUTH BURLINGTON,Chittenden,8,0,12
+VT0001334,HILL FARM INN,Region 1,Vermont,Transient non-community system,73,SUNDERLAND,Bennington,4,7,3
+VT0021347,CALVARY CHAPEL,Region 1,Vermont,Transient non-community system,25,TOWNSHEND,Windham,2,0,1
+VT0020456,KINGSWOOD AT MOUNT SNOW,Region 1,Vermont,Community water system,425,DOVER,Windham,8,6,7
+VT0006617,CLARENDON ELEMENTARY SCHOOL,Region 1,Vermont,Non-Transient non-community system,300,CLARENDON,Rutland,5,4,11
+VT0020333,MALLETTS BAY WATER CO,Region 1,Vermont,Community water system,533,COLCHESTER,Chittenden,3,0,8
+VT0006202,POKER HILL SCHOOL,Region 1,Vermont,Non-Transient non-community system,45,UNDERHILL,Chittenden,3,3,6
+VT0020098,ORCHARD COMMONS,Region 1,Vermont,Community water system,34,HINESBURG,Chittenden,5,23,9
+VT0008234,GEORGIA NB REST AREA,Region 1,Vermont,Transient non-community system,501,GEORGIA,Franklin,5,1,2
+VT0005194,CRAFTSBURY FIRE DISTRICT 2,Region 1,Vermont,Community water system,420,CRAFTSBURY,Orleans,9,17,13
+VT0005322,NORTH HARTLAND WATER COOP,Region 1,Vermont,Community water system,262,HARTLAND,Windsor,4,20,9
+VT0005325,OKEMO TRAILSIDE CONDOMINIUM,Region 1,Vermont,Community water system,540,LUDLOW,Windsor,19,30,12
+VT0004333,BRITTANY  MOTEL,Region 1,Vermont,Transient non-community system,60,MANCHESTER,Bennington,5,12,5
+VT0001756,WEST DOVER INN  GREGORYS RESTAURANT,Region 1,Vermont,Transient non-community system,99,DOVER,Windham,2,12,1
+VT0005333,SPRINGFIELD WATER DEPT,Region 1,Vermont,Community water system,9800,SPRINGFIELD,Windsor,19,1,16
+VT0006660,PEACHAM ELEMENTARY SCHOOL,Region 1,Vermont,Non-Transient non-community system,74,PEACHAM,Caledonia,4,41,9
+VT0001164,THAI STAR - BJARNS,Region 1,Vermont,Transient non-community system,188,MENDON,Rutland,2,21,2
+VT0001089,QUIMBY COUNTRY,Region 1,Vermont,Transient non-community system,135,AVERILL,Essex,5,9,3
+VT0001847,MOUNTAIN SPORTS INN,Region 1,Vermont,Transient non-community system,78,KILLINGTON,Rutland,4,1,1
+VT0006622,GREENWOOD SCHOOL,Region 1,Vermont,Non-Transient non-community system,60,PUTNEY,Windham,7,11,9
+VT0001761,MAPLE SUGAR & SPICE RESTAURANT,Region 1,Vermont,Transient non-community system,141,MENDON,Rutland,3,7,2
+VT0021360,DUXBURY COUNTRY STORE,Region 1,Vermont,Transient non-community system,25,DUXBURY,Washington,2,2,1
+VT0021155,1824 HOUSE,Region 1,Vermont,Transient non-community system,60,WAITSFIELD,Washington,5,3,2
+VT0021023,WINTERBERRY CONDOS,Region 1,Vermont,Community water system,31,KILLINGTON,Rutland,4,10,3
+VT0002312,INN AT MOUNT SNOW,Region 1,Vermont,Transient non-community system,49,DOVER,Windham,3,21,4
+VT0000268,BREWSKI  THE NOTCH,Region 1,Vermont,Transient non-community system,206,CAMBRIDGE,Lamoille,4,24,3
+VT0000170,SNOWS CREAMY,Region 1,Vermont,Transient non-community system,50,STOWE,Lamoille,3,7,1
+VT0000765,LOCALFOLK SMOKEHOUSE,Region 1,Vermont,Transient non-community system,109,WAITSFIELD,Washington,3,31,2
+VT0004652,SUN  SKI MOTOR INN - STOWE GOLF PARK,Region 1,Vermont,Transient non-community system,84,STOWE,Lamoille,4,18,3
+VT0005042,PEACHAM FIRE DISTRICT 1,Region 1,Vermont,Community water system,150,PEACHAM,Caledonia,7,34,11
+VT0005545,TARA TOWNHOUSES,Region 1,Vermont,Community water system,48,DOVER,Windham,6,12,9
+VT0021165,BROOKSIDE COUNTRY STORE,Region 1,Vermont,Transient non-community system,25,BARRE TOWN,Washington,3,3,1
+VT0000555,SHARI`S PLACE,Region 1,Vermont,Transient non-community system,44,BRIDGEWATER,Windsor,2,20,1
+VT0005160,MORRISVILLE WATER AND LIGHT,Region 1,Vermont,Community water system,2935,MORRISTOWN,Lamoille,11,20,13
+VT0000237,SANDYS DRIVE IN,Region 1,Vermont,Transient non-community system,30,SHARON,Windsor,3,4,3
+VT0008336,VILLAGE SQUARE,Region 1,Vermont,Non-Transient non-community system,112,WAITSFIELD,Washington,4,16,5
+VT0005065,ESSEX TOWN WATER SYSTEM,Region 1,Vermont,Community water system,9734,ESSEX,Chittenden,9,0,9
+VT0002963,MOUNT SNOW MARKET PLACE,Region 1,Vermont,Transient non-community system,25,DOVER,Windham,3,0,1
+VT0008233,FAIRFAX SB REST AREA,Region 1,Vermont,Transient non-community system,301,FAIRFAX,Franklin,3,0,2
+VT0002115,BAYSIDE PAVILION,Region 1,Vermont,Transient non-community system,74,ST. ALBANS TOWN,Franklin,2,20,1
+VT0001000,NORDIC HILLS LODGE,Region 1,Vermont,Transient non-community system,102,WILMINGTON,Windham,3,3,2
+VT0020919,ORCHARD VALLEY SCHOOL,Region 1,Vermont,Non-Transient non-community system,123,EAST MONTPELIER,Washington,4,53,4
+VT0021316,PIERCE`S STORE,Region 1,Vermont,Transient non-community system,25,SHREWSBURY,Rutland,3,1,1
+VT0005079,MILTON WATER DEPT,Region 1,Vermont,Community water system,5420,MILTON,Chittenden,9,1,19
+VT0008333,MAPLE LEAF FARM,Region 1,Vermont,Non-Transient non-community system,48,UNDERHILL,Chittenden,6,48,6
+VT0020415,FAIRFIELD FIRE DISTRICT 2,Region 1,Vermont,Community water system,126,FAIRFIELD,Franklin,6,16,7
+VT0004789,GREENBRIAR INN,Region 1,Vermont,Transient non-community system,50,KILLINGTON,Rutland,6,14,2
+VT0004985,LAKEVIEW CABINS  ROOMS,Region 1,Vermont,Transient non-community system,36,BARTON,Orleans,3,3,2
+VT0006013,SILVER TOWERS CAMP,Region 1,Vermont,Transient non-community system,85,RIPTON,Addison,8,11,2
+VT0005312,CHIMNEY HILL,Region 1,Vermont,Community water system,2580,WILMINGTON,Windham,36,5,11
+VT0001166,SKY HAUS,Region 1,Vermont,Transient non-community system,100,WESTFIELD,Orleans,3,7,1
+VT0005158,MORRISTOWN CORNER WATER CORP,Region 1,Vermont,Community water system,150,MORRISTOWN,Lamoille,12,49,15
+VT0000120,SNOWLINE,Region 1,Vermont,Transient non-community system,45,JAY,Orleans,3,5,4
+VT0020860,KINDLE FARM SCHOOL,Region 1,Vermont,Non-Transient non-community system,45,NEWFANE,Windham,4,18,5
+VT0020616,MENDON MOUNTAIN ORCHARDS INC,Region 1,Vermont,Transient non-community system,30,MENDON,Rutland,4,8,1
+VT0020842,HILAND HALL SCHOOL,Region 1,Vermont,Non-Transient non-community system,30,BENNINGTON,Bennington,3,11,7
+VT0021053,MEADOWS (THE),Region 1,Vermont,Community water system,65,RUTLAND TOWN,Rutland,4,23,3
+VT0021321,CAMP COMMON GROUND,Region 1,Vermont,Transient non-community system,122,STARKSBORO,Addison,4,1,0
+VT0000766,GOVE HILL CAMP  CONF CENTER,Region 1,Vermont,Transient non-community system,58,THETFORD,Orange,3,4,3
+VT0005517,POWNAL FIRE DISTRICT 3,Region 1,Vermont,Community water system,60,POWNAL,Bennington,3,17,10
+VT0005537,KARME CHOLING,Region 1,Vermont,Community water system,140,BARNET,Caledonia,7,19,13
+VT0005084,RICHMOND WATER DEPT,Region 1,Vermont,Community water system,1000,RICHMOND,Chittenden,6,11,19
+VT0002736,INN AT WESTON,Region 1,Vermont,Transient non-community system,68,WESTON,Windsor,7,16,2
+VT0008114,MILL BROOK CAMPGROUND,Region 1,Vermont,Transient non-community system,120,WESTFIELD,Orleans,4,4,2
+VT0006666,TAMARACK FARM,Region 1,Vermont,Transient non-community system,150,PLYMOUTH,Windsor,3,2,2
+VT0005631,WOODS,Region 1,Vermont,Community water system,280,KILLINGTON,Rutland,13,44,9
+VT0005618,SUNRISE COMMUNITY WATER SYSTEM,Region 1,Vermont,Community water system,829,KILLINGTON,Rutland,13,6,9
+VT0005633,INTERVALE AT STRATTON,Region 1,Vermont,Community water system,241,WINHALL,Bennington,8,78,7
+VT0005594,WINDY HOLLOW MHP,Region 1,Vermont,Community water system,118,CASTLETON,Rutland,6,30,9
+VT0006659,INDIAN BROOK,Region 1,Vermont,Transient non-community system,140,PLYMOUTH,Windsor,3,2,2
+VT0001359,QUECHEE GORGE VILLAGE,Region 1,Vermont,Transient non-community system,125,HARTFORD,Windsor,3,8,3
+VT0004132,MANCHESTER VIEW INC,Region 1,Vermont,Transient non-community system,45,MANCHESTER,Bennington,12,14,2
+VT0004560,GREYSTONE MOTEL,Region 1,Vermont,Transient non-community system,37,MIDDLEBURY,Addison,4,3,3
+VT0002697,MAGIC MOUNTAIN,Region 1,Vermont,Transient non-community system,502,LONDONDERRY,Windham,5,15,1
+VT0004644,INN AT WILLOW POND,Region 1,Vermont,Transient non-community system,130,MANCHESTER,Bennington,5,42,3
+VT0020614,GRAND ISLE CONSOLIDATED WATER DISTRICT,Region 1,Vermont,Community water system,1493,GRAND ISLE,Grand Isle,10,43,7
+VT0020704,SOUTHERN VERMONT COLLEGE,Region 1,Vermont,Non-Transient non-community system,560,BENNINGTON,Bennington,15,19,6
+VT0021019,TWIN CITY SUBARU,Region 1,Vermont,Transient non-community system,87,BERLIN,Washington,2,1,1
+VT0020878,MACK MOLDING COMPANY,Region 1,Vermont,Non-Transient non-community system,220,ARLINGTON,Bennington,8,19,4
+VT0020672,RED CLOVER INN,Region 1,Vermont,Transient non-community system,83,MENDON,Rutland,5,6,3
+VT0020658,MARYS AT BALDWIN CREEK,Region 1,Vermont,Transient non-community system,132,BRISTOL,Addison,3,11,2
+VT0005159,CADYS FALLS WATER COOP,Region 1,Vermont,Community water system,56,MORRISTOWN,Lamoille,7,89,14
+VT0000767,MAD RIVER GLEN COOP,Region 1,Vermont,Transient non-community system,225,FAYSTON,Washington,8,2,3
+VT0000319,ST ANNES SHRINE SNACK BAR,Region 1,Vermont,Transient non-community system,250,ISLE LA MOTTE,Grand Isle,5,7,7
+VT0020408,MARY MEYER CORP,Region 1,Vermont,Non-Transient non-community system,52,TOWNSHEND,Windham,7,113,9
+VT0000918,FOUNDRY,Region 1,Vermont,Transient non-community system,140,KILLINGTON,Rutland,5,17,3
+VT0005646,EAGLE RISE THE VILLAGE,Region 1,Vermont,Community water system,63,MANCHESTER,Bennington,6,9,8
+VT0001515,WOODBRIDGE COFFEE HOUSE,Region 1,Vermont,Transient non-community system,52,WOODSTOCK,Windsor,3,33,2
+VT0001082,EATONS SUGARHOUSE,Region 1,Vermont,Transient non-community system,70,ROYALTON,Windsor,4,7,2
+VT0005583,SMITH HAVEN CENTER,Region 1,Vermont,Community water system,41,LONDONDERRY,Windham,7,8,12
+VT0020990,DORSET COMMUNITY HOUSING,Region 1,Vermont,Community water system,50,DORSET,Bennington,5,77,3
+VT0021051,HERITAGE HILL ASSOCIATION,Region 1,Vermont,Community water system,39,RUTLAND TOWN,Rutland,3,25,3
+VT0020956,WASHINGTON COUNTY MENTAL HEALTH,Region 1,Vermont,Non-Transient non-community system,130,BERLIN,Washington,5,31,3
+VT0002696,MARBLEDGE LODGE,Region 1,Vermont,Transient non-community system,84,DORSET,Bennington,2,8,3
+VT0001699,MOUNTAIN MEADOWS LODGE,Region 1,Vermont,Transient non-community system,80,KILLINGTON,Rutland,2,10,2
+VT0005059,COLCHESTER FIRE DISTRICT 2,Region 1,Vermont,Community water system,8300,COLCHESTER,Chittenden,7,6,11
+VT0000473,CEDARWOOD RESORT,Region 1,Vermont,Transient non-community system,409,JAY,Orleans,6,24,4
+VT0004811,RED SLED MOTEL,Region 1,Vermont,Transient non-community system,65,MANCHESTER,Bennington,5,22,4
+VT0001600,WEST BOLTON GOLF CLUB,Region 1,Vermont,Transient non-community system,138,BOLTON,Chittenden,3,8,2
+VT0020447,HIDDEN PINES WATER SYSTEM,Region 1,Vermont,Transient non-community system,28,GEORGIA,Franklin,2,13,2
+VT0020348,QUADRA TEK,Region 1,Vermont,Non-Transient non-community system,35,ARLINGTON,Bennington,4,6,6
+VT0020897,DAKIN FARMS,Region 1,Vermont,Transient non-community system,400,FERRISBURG,Addison,4,4,3
+VT0020876,RIDGEVIEW 91  ROASTERS CAFE  DELI,Region 1,Vermont,Transient non-community system,25,NEWPORT TOWN,Orleans,2,5,2
+VT0020838,DEERFIELD VALLEY HEALTH CENTER,Region 1,Vermont,Non-Transient non-community system,85,WILMINGTON,Windham,4,7,4
+VT0021052,GABLES (THE),Region 1,Vermont,Community water system,80,RUTLAND TOWN,Rutland,4,14,3
+VT0002978,VERMONT HOME BAKERY  OLD HANCOCK HOTEL,Region 1,Vermont,Transient non-community system,33,HANCOCK,Addison,3,3,2
+VT0006668,TIMBERLAKE,Region 1,Vermont,Transient non-community system,60,PLYMOUTH,Windsor,2,1,2
+VT0005204,NEWPORT CENTER WATER SYSTEM,Region 1,Vermont,Community water system,330,NEWPORT TOWN,Orleans,9,35,14
+VT0005227,POULTNEY WATER DEPT,Region 1,Vermont,Community water system,2400,POULTNEY,Rutland,8,3,12
+VT0005133,SUNSET TERRACE ESTATES,Region 1,Vermont,Community water system,45,SWANTON,Franklin,5,16,12
+VT0005342,MOUNT ASCUTNEY MHP,Region 1,Vermont,Community water system,42,WINDSOR,Windsor,5,46,18
+VT0005247,WEBSTERVILLE FIRE DISTRICT 3,Region 1,Vermont,Community water system,367,BARRE TOWN,Washington,9,71,19
+VT0020775,WILLOWS MHP,Region 1,Vermont,Community water system,63,BENNINGTON,Bennington,4,20,5
+VT0020746,BREEZY MEADOWS CAMPGROUND,Region 1,Vermont,Transient non-community system,220,CONCORD,Essex,4,12,2
+VT0020673,ROADHOUSE,Region 1,Vermont,Transient non-community system,88,WILMINGTON,Windham,2,12,1
+VT0020666,OKEMO INN,Region 1,Vermont,Transient non-community system,85,LUDLOW,Windsor,3,7,2
+VT0021254,LEISURE LODGE CORPORATION,Region 1,Vermont,Community water system,75,WINHALL,Bennington,2,7,2
+VT0005182,UNION WATER CO,Region 1,Vermont,Community water system,61,THETFORD,Orange,3,41,12
+VT0020661,MODERN WOODMAN OF AMERICA CAMP 10244,Region 1,Vermont,Transient non-community system,201,WELLS,Rutland,3,3,1
+VT0000502,ONION FLATS,Region 1,Vermont,Transient non-community system,60,BETHEL,Windsor,4,1,4
+VT0002194,KEDRON VALLEY INN,Region 1,Vermont,Transient non-community system,180,WOODSTOCK,Windsor,6,10,3
+VT0000736,CUP N SAUCER,Region 1,Vermont,Transient non-community system,48,WILMINGTON,Windham,3,1,2
+VT0002603,BUTTERNUT PROPERTIES,Region 1,Vermont,Transient non-community system,36,KILLINGTON,Rutland,6,1,4
+VT0005150,JEFFERSONVILLE WATER SYSTEM,Region 1,Vermont,Community water system,630,CAMBRIDGE,Lamoille,8,70,10
+VT0021367,ALLEN BROTHERS INC,Region 1,Vermont,Transient non-community system,36,WESTMINSTER,Windham,2,2,1
+VT0005198,GREENSBORO FIRE DISTRICT 1,Region 1,Vermont,Community water system,421,GREENSBORO,Orleans,15,40,11
+VT0020747,BARN DAY CAMP,Region 1,Vermont,Transient non-community system,132,PLYMOUTH,Windsor,2,2,1
+VT0020748,ORVIS COMPANY,Region 1,Vermont,Non-Transient non-community system,175,SUNDERLAND,Bennington,5,3,5
+VT0020463,SAXTONS RIVER MONTESSORI SCHOOL INC,Region 1,Vermont,Non-Transient non-community system,26,ROCKINGHAM,Windham,5,6,5
+VT0005642,BOW AND ARROW MHP,Region 1,Vermont,Transient non-community system,60,NORTH HERO,Grand Isle,9,9,8
+VT0020151,TRAILSIDE AT MAGIC MOUNTAIN,Region 1,Vermont,Community water system,150,LONDONDERRY,Windham,6,77,8
+VT0021144,WILLIAM E DAILEY PRECASTLLC,Region 1,Vermont,Non-Transient non-community system,45,SHAFTSBURY,Bennington,5,3,3
+VT0021182,APPLEJACK ART PARTNERS INC,Region 1,Vermont,Non-Transient non-community system,75,MANCHESTER,Bennington,3,32,2
+VT0005156,JOHNSON VILLAGE WATER DEPT,Region 1,Vermont,Community water system,1350,JOHNSON,Lamoille,16,32,13
+VT0004062,JACKSONS LODGE,Region 1,Vermont,Transient non-community system,60,CANAAN,Essex,4,4,1
+VT0001883,THREE MOUNTAIN LODGE,Region 1,Vermont,Transient non-community system,80,CAMBRIDGE,Lamoille,2,32,1
+VT0008341,MOUNTAIN MARKETPLACE,Region 1,Vermont,Non-Transient non-community system,72,LONDONDERRY,Windham,9,6,4
+VT0004479,SOUTH GATE MOTEL,Region 1,Vermont,Transient non-community system,50,BENNINGTON,Bennington,5,7,3
+VT0002118,PICKLE BARREL,Region 1,Vermont,Transient non-community system,200,KILLINGTON,Rutland,2,31,2
+VT0006080,SUNDERLAND ELEMENTARY SCHOOL,Region 1,Vermont,Non-Transient non-community system,88,SUNDERLAND,Bennington,5,95,9
+VT0021344,ROBERT FROST MOUNTAIN CABIN,Region 1,Vermont,Transient non-community system,25,RIPTON,Addison,2,0,0
+VT0021161,GEORGIA MEDICAL CENTER,Region 1,Vermont,Transient non-community system,80,GEORGIA,Franklin,3,0,2
+VT0020874,NORTHERN POWER SYSTEMS,Region 1,Vermont,Non-Transient non-community system,180,WAITSFIELD,Washington,5,98,6
+VT0020048,INGLENOOK LODGE,Region 1,Vermont,Transient non-community system,48,JAY,Orleans,4,24,2
+VT0020960,IMERYS TALC VERMONT,Region 1,Vermont,Non-Transient non-community system,30,LUDLOW,Windsor,5,4,3
+VT0020833,WESTSHIRE ELEMENTARY SCHOOL,Region 1,Vermont,Non-Transient non-community system,131,WEST FAIRLEE,Orange,5,14,8
+VT0020751,EARLY EDUCATION SERVICES,Region 1,Vermont,Non-Transient non-community system,44,WESTMINSTER,Windham,4,28,5
+VT0020870,CHARLOTTE SENIOR CENTER,Region 1,Vermont,Transient non-community system,100,CHARLOTTE,Chittenden,3,3,3
+VT0005242,WALLINGFORD FIRE DISTRICT 1,Region 1,Vermont,Community water system,956,WALLINGFORD,Rutland,16,6,12
+VT0020951,POMPANOOSUC MILLS,Region 1,Vermont,Non-Transient non-community system,120,THETFORD,Orange,5,2,3
+VT0021083,LINCOLN CORNER,Region 1,Vermont,Non-Transient non-community system,47,WOODSTOCK,Windsor,3,1,3
+VT0021007,RUTLAND TOWN FIRE DISTRICT 11,Region 1,Vermont,Community water system,29,RUTLAND TOWN,Rutland,2,32,3
+VT0005653,DEER CREEK CONDOMINIUMS,Region 1,Vermont,Community water system,97,DOVER,Windham,7,10,9
+VT0005584,PARSON HILL PARTNERSHIP,Region 1,Vermont,Community water system,32,CASTLETON,Rutland,4,9,12
+VT0000121,INN AT SAXTONS RIVER,Region 1,Vermont,Transient non-community system,129,ROCKINGHAM,Windham,6,12,4
+VT0002411,BLUE GENTIAN LODGE,Region 1,Vermont,Transient non-community system,82,LONDONDERRY,Windham,2,4,4
+VT0021379,WESTMINSTER IRVING/CIRCLE K,Region 1,Vermont,Transient non-community system,32,WESTMINSTER,Windham,3,0,1
+VT0006707,HARWOOD UNION HIGH SCHOOL,Region 1,Vermont,Non-Transient non-community system,900,DUXBURY,Washington,13,12,13
+VT0021049,MARTYS 1ST STOP,Region 1,Vermont,Transient non-community system,910,DANVILLE,Caledonia,2,4,2
+VT0001484,TWO TANNERY ROAD RESTAURANT,Region 1,Vermont,Transient non-community system,109,DOVER,Windham,2,10,1
+VT0020184,BENNINGTON COLLEGE,Region 1,Vermont,Community water system,1000,BENNINGTON,Bennington,7,3,8
+VT0006667,WATERFORD ELEMENTARY SCHOOL,Region 1,Vermont,Non-Transient non-community system,242,WATERFORD,Caledonia,6,70,9
+VT0000550,TYLER PLACE,Region 1,Vermont,Transient non-community system,250,HIGHGATE,Franklin,4,1,3
+VT0004332,SHERBURNE KILLINGTON MOTEL,Region 1,Vermont,Transient non-community system,25,KILLINGTON,Rutland,4,5,2
+VT0008300,CENTRAL VERMONT MEDICAL CENTER,Region 1,Vermont,Community water system,1100,BERLIN,Washington,9,68,6
+VT0020406,WESTMINSTER WEST SCHOOL,Region 1,Vermont,Non-Transient non-community system,46,WESTMINSTER,Windham,4,6,10
+VT0020449,WAKE ROBIN CORP,Region 1,Vermont,Community water system,519,SHELBURNE,Chittenden,6,11,7
+VT0020636,WEDGEWOOD ANNEX,Region 1,Vermont,Transient non-community system,64,BERLIN,Washington,4,6,3
+VT0020067,CHAMPLAIN COUNTRY CLUB RESTAURANT,Region 1,Vermont,Transient non-community system,140,SWANTON,Franklin,3,20,3
+VT0020693,HERMITAGE INN,Region 1,Vermont,Transient non-community system,153,WILMINGTON,Windham,4,11,3
+VT0020825,WATERHOUSES MARINA  CAMPGROUND,Region 1,Vermont,Transient non-community system,280,SALISBURY,Addison,12,5,1
+VT0020889,CASTLETON FIRE DISTRICT 3,Region 1,Vermont,Community water system,493,CASTLETON,Rutland,5,3,4
+VT0020814,ECKERD YOUTH ALTERNATIVE INC,Region 1,Vermont,Community water system,54,BENSON,Rutland,7,17,4
+VT0021192,SUNRAY PEACE VILLAGE,Region 1,Vermont,Transient non-community system,204,LINCOLN,Addison,5,8,1
+VT0005353,WEST FAIRLEE MHP,Region 1,Vermont,Community water system,50,WEST FAIRLEE,Orange,7,17,17
+VT0006770,STAMFORD ELEMENTARY SCHOOL,Region 1,Vermont,Non-Transient non-community system,115,STAMFORD,Bennington,4,5,8
+VT0021307,GEORGIA MARKET,Region 1,Vermont,Transient non-community system,27,GEORGIA,Franklin,3,1,1
+VT0004316,EYRIE MOTEL,Region 1,Vermont,Transient non-community system,50,DORSET,Bennington,6,1,2
+VT0008276,HIGHGATE FIRE DISTRICT 1,Region 1,Vermont,Transient non-community system,300,HIGHGATE,Franklin,6,12,2
+VT0021085,NORTH COUNTRY CAREER CENTER LAND LAB,Region 1,Vermont,Non-Transient non-community system,80,DERBY,Orleans,4,30,2
+VT0006086,HANCOCK VILLAGE SCHOOL,Region 1,Vermont,Transient non-community system,30,HANCOCK,Addison,3,7,13
+VT0021371,STRATTON GOLF SCHOOL,Region 1,Vermont,Transient non-community system,120,STRATTON,Windham,3,0,1
+VT0006618,MILL RIVER USD 40,Region 1,Vermont,Non-Transient non-community system,960,CLARENDON,Rutland,5,4,7
+VT0006747,WESTMINSTER CENTER SCHOOL,Region 1,Vermont,Non-Transient non-community system,390,WESTMINSTER,Windham,5,10,13
+VT0006642,VERNON ELEMENTARY SCHOOL,Region 1,Vermont,Non-Transient non-community system,275,VERNON,Windham,5,4,11
+VT0000673,FLEUR DE LIS LODGE,Region 1,Vermont,Transient non-community system,40,PITTSFIELD,Rutland,3,6,3
+VT0001661,JD MCCLIMENTS PUB,Region 1,Vermont,Transient non-community system,94,PUTNEY,Windham,3,7,2
+VT0001724,KILLINGTON PICO MOTOR INN,Region 1,Vermont,Transient non-community system,127,MENDON,Rutland,4,8,2
+VT0020387,WEST RIVER MONTESSORI SCHOOL,Region 1,Vermont,Non-Transient non-community system,40,LONDONDERRY,Windham,6,126,10
+VT0020588,HARRYS CAFE,Region 1,Vermont,Transient non-community system,55,MOUNT HOLLY,Rutland,3,10,2
+VT0021112,WAYNES FISHERMANS PLATTER,Region 1,Vermont,Transient non-community system,80,NEWPORT TOWN,Orleans,2,5,1
+VT0021030,JACKSONVILLE GENERAL STORE,Region 1,Vermont,Transient non-community system,25,WHITINGHAM,Windham,2,2,1
+VT0020030,TOURTERELLE RESTAURANT AND INN,Region 1,Vermont,Transient non-community system,74,NEW HAVEN,Addison,4,11,2
+VT0005403,FAIRFAX FIRE DISTRICT 1,Region 1,Vermont,Community water system,80,FAIRFAX,Franklin,5,39,9
+VT0005604,NORTHSIDE CONDOMINIUM,Region 1,Vermont,Community water system,32,KILLINGTON,Rutland,5,61,8
+VT0006415,LOCHEARN CAMP,Region 1,Vermont,Transient non-community system,200,THETFORD,Orange,4,2,2
+VT0005357,GREEN MOUNTAIN AT FOX RUN,Region 1,Vermont,Community water system,75,LUDLOW,Windsor,6,21,13
+VT0005022,MANCHESTER WATER DEPT,Region 1,Vermont,Community water system,4140,MANCHESTER,Bennington,8,3,15
+VT0008274,THOMPSON POINT ASSOCIATION,Region 1,Vermont,Transient non-community system,160,CHARLOTTE,Chittenden,4,71,4
+VT0021130,PINE VALLEY RV PARK,Region 1,Vermont,Transient non-community system,90,HARTFORD,Windsor,5,0,1
+VT0001715,CHAUNCEYS,Region 1,Vermont,Transient non-community system,198,ARLINGTON,Bennington,3,23,2
+VT0021063,STEPPING STONE WELLNESS CENTER,Region 1,Vermont,Transient non-community system,30,LYNDON,Caledonia,3,6,3
+VT0002742,RABBIT HILL INN,Region 1,Vermont,Transient non-community system,90,WATERFORD,Caledonia,4,2,1
+VT0005601,MURRAY HILL,Region 1,Vermont,Community water system,212,MONTPELIER,Washington,7,38,10
+VT0005112,LUNENBURG FIRE DISTRICT 1,Region 1,Vermont,Community water system,250,LUNENBURG,Essex,11,68,12
+VT0021066,STERLING RIDGE RESORT,Region 1,Vermont,Transient non-community system,45,CAMBRIDGE,Lamoille,4,4,2
+VT0020922,SPRING HILL SCHOOL,Region 1,Vermont,Non-Transient non-community system,30,WAITSFIELD,Washington,5,1,5
+VT0005598,LEDGES SYSTEM 1,Region 1,Vermont,Community water system,252,PLYMOUTH,Windsor,5,31,11
+VT0000944,CORNERS INN,Region 1,Vermont,Transient non-community system,77,BRIDGEWATER,Windsor,2,13,3
+VT0002396,KILLINGTON MOUNTAIN SCHOOL,Region 1,Vermont,Transient non-community system,91,KILLINGTON,Rutland,5,2,4
+VT0005153,HYDE PARK FIRE DISTRICT 1,Region 1,Vermont,Community water system,150,HYDE PARK,Lamoille,5,91,16
+VT0004171,NORDIC MOTEL,Region 1,Vermont,Transient non-community system,47,RUTLAND TOWN,Rutland,4,7,4
+VT0006727,MIDDLETOWN SPRINGS SCHOOL,Region 1,Vermont,Non-Transient non-community system,120,MIDDLETOWN SPRINGS,Rutland,5,9,6
+VT0005397,BATTLEGROUND CONDOMINIUM,Region 1,Vermont,Community water system,166,FAYSTON,Washington,9,16,19
+VT0005179,RANDOLPH VILLAGE,Region 1,Vermont,Community water system,2700,RANDOLPH,Orange,15,14,12
+VT0020928,CATAMOUNT-MALONE,Region 1,Vermont,Non-Transient non-community system,100,RANDOLPH,Orange,5,48,2
+VT0020868,ROCHESTER RANGER STATION,Region 1,Vermont,Transient non-community system,25,ROCHESTER,Windsor,3,0,2
+VT0004837,CEDAR BROOK MOTOR INN,Region 1,Vermont,Transient non-community system,25,KILLINGTON,Rutland,4,9,2
+VT0000933,DOVER CENTER,Region 1,Vermont,Transient non-community system,25,DOVER,Windham,3,7,3
+VT0008131,OTTER CREEK CAMPGROUND,Region 1,Vermont,Transient non-community system,148,DANBY,Rutland,3,10,2
+VT0005317,CAVENDISH TOWN WATER SYSTEM,Region 1,Vermont,Community water system,900,CAVENDISH,Windsor,9,73,17
+VT0005328,ROCHESTER WATER SYSTEM,Region 1,Vermont,Community water system,440,ROCHESTER,Windsor,7,8,11
+VT0001343,ASTAS,Region 1,Vermont,Transient non-community system,50,JAMAICA,Windham,3,4,2
+VT0008121,SUMMERPLACE,Region 1,Vermont,Transient non-community system,135,ISLE LA MOTTE,Grand Isle,5,7,1
+VT0005002,BRISTOL WATER DEPT,Region 1,Vermont,Community water system,1900,BRISTOL,Addison,6,34,15
+VT0005175,NEWBURY VILLAGE INC,Region 1,Vermont,Community water system,480,NEWBURY,Orange,14,48,18
+VT0020453,SOUTHWORTH MILTON INC,Region 1,Vermont,Non-Transient non-community system,45,RICHMOND,Chittenden,3,0,1
+VT0005060,COLCHESTER FIRE DISTRICT 3,Region 1,Vermont,Community water system,7733,COLCHESTER,Chittenden,6,0,9
+VT0020438,HATHAWAY INN WATER SYSTEM,Region 1,Vermont,Transient non-community system,46,ST. ALBANS TOWN,Franklin,3,7,2
+VT0005441,MCINDOE FALLS FIRE DISTRICT 3,Region 1,Vermont,Community water system,176,BARNET,Caledonia,10,3,14
+VT0005240,HEMLOCK RIDGE CONDOMINIUM,Region 1,Vermont,Community water system,63,KILLINGTON,Rutland,5,92,10
+VT0006760,LONG TRAIL SCHOOL,Region 1,Vermont,Non-Transient non-community system,228,DORSET,Bennington,7,6,6
+VT0006693,DUMMERSTON EAST SCHOOL,Region 1,Vermont,Non-Transient non-community system,240,PUTNEY,Windham,5,15,8
+VT0000784,TIMBERHOLM INN,Region 1,Vermont,Transient non-community system,25,STOWE,Lamoille,5,6,3
+VT0020382,P  H TRUCKSTOP INC,Region 1,Vermont,Non-Transient non-community system,865,NEWBURY,Orange,8,4,6
+VT0008248,MOOSALAMOO CAMPGROUND,Region 1,Vermont,Transient non-community system,76,GOSHEN,Addison,5,1,2
+VT0020365,R JOHN WRIGHT DOLLS INC,Region 1,Vermont,Non-Transient non-community system,35,BENNINGTON,Bennington,7,62,7
+VT0006091,BROWNINGTON CENTER SCHOOL,Region 1,Vermont,Non-Transient non-community system,120,BROWNINGTON,Orleans,3,5,13
+VT0005652,JERICHO EAST HOME OWNERS ASSOCIATION,Region 1,Vermont,Community water system,300,JERICHO,Chittenden,7,37,7
+VT0006054,ONDAWA CAMP,Region 1,Vermont,Transient non-community system,80,SUNDERLAND,Bennington,2,8,2
+VT0005208,ALPINE HAVEN,Region 1,Vermont,Community water system,250,WESTFIELD,Orleans,12,14,12
+VT0021208,KILLINGTON GATEWAY II CONDO ASSOC INC,Region 1,Vermont,Community water system,73,KILLINGTON,Rutland,5,25,3
+VT0021258,CONNECTICUT VALLEY AUTO AUCTION,Region 1,Vermont,Transient non-community system,49,HARTFORD,Windsor,2,1,1
+VT0002091,COACH HOUSE INN  RIVER BEND LODGE,Region 1,Vermont,Transient non-community system,240,NEWFANE,Windham,4,13,3
+VT0004262,PICO MANOR INC,Region 1,Vermont,Transient non-community system,30,MENDON,Rutland,4,23,1
+VT0005090,SOUTH BURLINGTON FIRE DISTRICT,Region 1,Vermont,Community water system,250,SOUTH BURLINGTON,Chittenden,5,11,13
+VT0008013,JAMAICA STATE PARK,Region 1,Vermont,Transient non-community system,242,JAMAICA,Windham,4,0,3
+VT0008032,CALVIN COOLIDGE STATE PARK,Region 1,Vermont,Transient non-community system,242,PLYMOUTH,Windsor,10,0,4
+VT0008253,VERMONT SILVER LAKE STATE PARK,Region 1,Vermont,Transient non-community system,194,BARNARD,Windsor,13,1,4
+VT0005238,PICO VILLAGE WATER CORP,Region 1,Vermont,Community water system,89,KILLINGTON,Rutland,9,53,13
+VT0008108,CAMPING ON THE BATTENKILL,Region 1,Vermont,Transient non-community system,220,ARLINGTON,Bennington,17,18,4
+VT0020818,KILLINGTON OUTFITTERS,Region 1,Vermont,Non-Transient non-community system,170,KILLINGTON,Rutland,5,14,5
+VT0002490,SARKIS RESTAURANT,Region 1,Vermont,Transient non-community system,270,NEWBURY,Orange,4,21,2
+VT0020927,HARVEYS LAKE CAMPGROUND,Region 1,Vermont,Transient non-community system,215,BARNET,Caledonia,3,13,1
+VT0003118,WILLOUGHVALE INN,Region 1,Vermont,Transient non-community system,37,WESTMORE,Orleans,4,22,2
+VT0020981,TREE CORNERS FAMILY CAMPGROUND LLC,Region 1,Vermont,Transient non-community system,655,IRASBURG,Orleans,3,3,3
+VT0005116,ENOSBURG FALLS WATER SYSTEM,Region 1,Vermont,Community water system,1700,ENOSBURG,Franklin,7,5,13
+VT0000642,GRAY GHOST INN,Region 1,Vermont,Transient non-community system,233,DOVER,Windham,4,9,2
+VT0005277,PLAINFIELD WATER SYSTEM,Region 1,Vermont,Community water system,985,PLAINFIELD,Washington,17,1,13
+VT0021356,GREEN MOUNTAIN ARENA,Region 1,Vermont,Transient non-community system,550,MORRISTOWN,Lamoille,4,3,1
+VT0020202,BARNARD INN,Region 1,Vermont,Transient non-community system,86,BARNARD,Windsor,7,1,2
+VT0020867,OAK HILL ESTATES WATER SYSTEM,Region 1,Vermont,Community water system,52,WILLISTON,Chittenden,4,7,4
+VT0001203,NORTH AMERICAN HOCKEY ACADEMY,Region 1,Vermont,Transient non-community system,42,STOWE,Lamoille,4,10,3
+VT0021287,JOHNSON STATE COLLEGE,Region 1,Vermont,Non-Transient non-community system,1476,JOHNSON,Lamoille,4,6,1
+VT0006730,BENSON VILLAGE SCHOOL,Region 1,Vermont,Non-Transient non-community system,190,BENSON,Rutland,5,9,13
+VT0021190,RIVERBEND STORE,Region 1,Vermont,Transient non-community system,25,MONTPELIER,Washington,3,1,1
+VT0020367,HUNTINGTON HOMES INC,Region 1,Vermont,Non-Transient non-community system,80,EAST MONTPELIER,Washington,5,26,5
+VT0021117,TRACTOR SUPPLY COMPANY  ST ALBANS,Region 1,Vermont,Transient non-community system,35,SWANTON,Franklin,2,2,1
+VT0005343,WOODSTOCK AQUEDUCT CO,Region 1,Vermont,Community water system,3000,WOODSTOCK,Windsor,12,3,14
+VT0005202,NEWPORT CITY WATER SYSTEM,Region 1,Vermont,Community water system,4766,NEWPORT CITY,Orleans,9,17,17
+VT0020940,FAT HAT CORNER,Region 1,Vermont,Transient non-community system,25,HARTFORD,Windsor,2,1,2
+VT0020796,CHAMBERS MOBILE HOME VILLAGE,Region 1,Vermont,Community water system,150,HARTFORD,Windsor,3,2,4
+VT0020821,CLARA MARTIN CENTER,Region 1,Vermont,Non-Transient non-community system,28,RANDOLPH,Orange,3,35,4
+VT0008161,CAMPBELLS BAY,Region 1,Vermont,Transient non-community system,136,SWANTON,Franklin,7,3,2
+VT0005538,RIVER ROAD APARTMENTS,Region 1,Vermont,Community water system,50,STOWE,Lamoille,8,2,10
+VT0001706,MIKE & TAMMYS MAIN STREET MARKET,Region 1,Vermont,Transient non-community system,31,LONDONDERRY,Windham,2,26,3
+VT0008159,MARYVILLE CAMPGROUND,Region 1,Vermont,Transient non-community system,100,DORSET,Bennington,4,7,1
+VT0001478,FROGS LEAP INN,Region 1,Vermont,Transient non-community system,71,LONDONDERRY,Windham,3,11,3
+VT0001979,PINNACLE SUN AND SKI LODGE,Region 1,Vermont,Transient non-community system,60,WINHALL,Bennington,4,14,4
+VT0005119,EAST FAIRFIELD FIRE DISTRICT 1,Region 1,Vermont,Community water system,184,FAIRFIELD,Franklin,9,31,18
+VT0005335,CHALET VILLAGE,Region 1,Vermont,Community water system,88,STOCKBRIDGE,Windsor,5,13,13
+VT0005016,BENNINGTON WATER DEPT,Region 1,Vermont,Community water system,12000,BENNINGTON,Bennington,21,17,20
+VT0005048,SUTTON WATER SYSTEM,Region 1,Vermont,Community water system,190,SUTTON,Caledonia,5,22,15
+VT0006412,CAMP AKEELA,Region 1,Vermont,Transient non-community system,202,STRAFFORD,Orange,12,14,5
+VT0005636,SEASONS ON MOUNT SNOW,Region 1,Vermont,Community water system,623,DOVER,Windham,8,23,10
+VT0020603,BLACK MOUNTAIN PARK,Region 1,Vermont,Community water system,94,BRATTLEBORO,Windham,3,5,5
+VT0020605,GLEN PARK,Region 1,Vermont,Community water system,86,BRATTLEBORO,Windham,3,3,5
+VT0001892,FOUR WINDS COUNTRY MOTEL,Region 1,Vermont,Transient non-community system,67,MANCHESTER,Bennington,5,10,3
+VT0020607,NEWPORT COUNTRY CLUB,Region 1,Vermont,Transient non-community system,245,NEWPORT TOWN,Orleans,3,13,3
+VT0020552,STERLING SPRING,Region 1,Vermont,Community water system,200,HARTFORD,Windsor,4,6,8
+VT0006071,TOWNSHEND ELEMENTARY SCHOOL,Region 1,Vermont,Non-Transient non-community system,105,TOWNSHEND,Windham,5,12,16
+VT0006649,BRIDGEWATER VILLAGE SCHOOL,Region 1,Vermont,Non-Transient non-community system,78,BRIDGEWATER,Windsor,4,10,10
+VT0008103,HIDDEN VALLEY CAMPGROUND,Region 1,Vermont,Transient non-community system,136,CHESTER,Windsor,5,2,2
+VT0020879,NEW HOPE BIBLE CHURCH,Region 1,Vermont,Transient non-community system,100,IRASBURG,Orleans,4,0,4
+VT0006627,BARSTOW MEMORIAL SCHOOL,Region 1,Vermont,Non-Transient non-community system,350,CHITTENDEN,Rutland,6,3,5
+VT0005632,KILLINGTON UPLAND WATER CO INC,Region 1,Vermont,Community water system,518,KILLINGTON,Rutland,8,3,8
+VT0020215,PAULS SUGAR HOUSE,Region 1,Vermont,Transient non-community system,50,DERBY,Orleans,3,16,6
+VT0021228,ALPINE VALLEY RV PARK,Region 1,Vermont,Transient non-community system,282,CONCORD,Essex,2,10,0
+VT0021127,VT MUTUAL,Region 1,Vermont,Non-Transient non-community system,30,BERLIN,Washington,6,0,1
+VT0008021,TOWNSHEND STATE PARK,Region 1,Vermont,Transient non-community system,136,TOWNSHEND,Windham,6,0,2
+VT0020962,BUTTERFIELD COMMON SENIOR HOUSING,Region 1,Vermont,Community water system,105,DOVER,Windham,5,22,4
+VT0021226,CHEFS MARKET,Region 1,Vermont,Transient non-community system,25,RANDOLPH,Orange,2,5,1
+VT0005374,BIRCHWOOD CONDOMINIUM ASSOCIATION,Region 1,Vermont,Community water system,63,HARTFORD,Windsor,5,2,11
+VT0001652,BROMLEY VIEW INN,Region 1,Vermont,Transient non-community system,110,WINHALL,Bennington,4,8,2
+VT0008201,CHIPMAN POINT MARINA,Region 1,Vermont,Transient non-community system,75,ORWELL,Addison,3,20,3
+VT0001944,WHITE HOUSE,Region 1,Vermont,Transient non-community system,166,WILMINGTON,Windham,3,16,2
+VT0008007,FORT DUMMER STATE PARK,Region 1,Vermont,Transient non-community system,244,VERNON,Windham,8,4,4
+VT0008012,WILGUS STATE PARK,Region 1,Vermont,Transient non-community system,112,WEATHERSFIELD,Windsor,5,0,5
+VT0008048,CAMP PLYMOUTH STATE PARK,Region 1,Vermont,Transient non-community system,56,PLYMOUTH,Windsor,5,0,5
+VT0008015,MOLLY STARK STATE PARK,Region 1,Vermont,Transient non-community system,34,WILMINGTON,Windham,4,0,4
+VT0005476,JERICHO FIRE DISTRICT 1,Region 1,Vermont,Community water system,190,JERICHO,Chittenden,8,14,15
+VT0020563,ALBANY COMMUNITY SCHOOL,Region 1,Vermont,Non-Transient non-community system,142,ALBANY,Orleans,6,25,10
+VT0020893,SHARON ACADEMY,Region 1,Vermont,Non-Transient non-community system,142,SHARON,Windsor,6,1,4
+VT0005121,SOUTH GEORGIA FIRE DISTRICT,Region 1,Vermont,Community water system,460,GEORGIA,Franklin,7,18,19
+VT0005152,ELMORE WATER COOP,Region 1,Vermont,Community water system,32,ELMORE,Lamoille,3,237,17
+VT0001810,SNOW GOOSE INN,Region 1,Vermont,Transient non-community system,29,DOVER,Windham,4,2,3
+VT0006628,TUNBRIDGE CENTRAL SCHOOL,Region 1,Vermont,Non-Transient non-community system,185,TUNBRIDGE,Orange,9,31,9
+VT0001093,SKUNK HOLLOW TAVERN,Region 1,Vermont,Transient non-community system,65,HARTLAND,Windsor,2,22,4
+VT0001554,NORTHFIELD COUNTRY CLUB,Region 1,Vermont,Transient non-community system,117,NORTHFIELD,Washington,4,4,6
+VT0005318,CHESTER WATER DEPT,Region 1,Vermont,Community water system,1490,CHESTER,Windsor,7,32,13
+VT0005378,RUTLAND TOWN FIRE DISTRICT 6,Region 1,Vermont,Community water system,137,RUTLAND TOWN,Rutland,9,129,9
+VT0000196,CORTINA INN  RESORT,Region 1,Vermont,Non-Transient non-community system,200,MENDON,Rutland,10,80,4
+VT0003263,INN OF THE SIX MOUNTAINS,Region 1,Vermont,Transient non-community system,60,KILLINGTON,Rutland,5,11,2
+VT0005469,SHAFTSBURY WATER SYSTEM,Region 1,Vermont,Community water system,950,SHAFTSBURY,Bennington,5,9,13
+VT0005089,LIVINGSTON MHP,Region 1,Vermont,Community water system,50,SHELBURNE,Chittenden,4,12,12
+VT0001523,MANSFIELD BASE LODGE,Region 1,Vermont,Transient non-community system,300,STOWE,Lamoille,5,1,3
+VT0006664,WARREN ELEMENTARY SCHOOL,Region 1,Vermont,Non-Transient non-community system,180,WARREN,Washington,6,10,7
+VT0020923,RED CEDAR SCHOOL,Region 1,Vermont,Non-Transient non-community system,40,BRISTOL,Addison,4,24,4
+VT0020950,APPLECHEEK FARM,Region 1,Vermont,Transient non-community system,103,HYDE PARK,Lamoille,3,16,3
+VT0002036,MIDDLEBURY COLLEGE SNOWBOWL,Region 1,Vermont,Transient non-community system,25,HANCOCK,Addison,2,2,4
+VT0020865,PLYMOUTH NOTCH,Region 1,Vermont,Transient non-community system,66,PLYMOUTH,Windsor,6,2,3
+VT0021032,HIGHGATE MOBIL STATION,Region 1,Vermont,Transient non-community system,31,HIGHGATE,Franklin,3,7,3
+VT0008209,BARRE COUNTRY CLUB,Region 1,Vermont,Transient non-community system,250,PLAINFIELD,Washington,8,9,4
+VT0002719,COZY COTTAGES,Region 1,Vermont,Transient non-community system,110,BRANDON,Rutland,3,9,1
+VT0002395,CLIFF HOUSE,Region 1,Vermont,Transient non-community system,118,STOWE,Lamoille,3,3,1
+VT0005110,AQUA HAVEN,Region 1,Vermont,Community water system,150,EAST HAVEN,Essex,4,35,14
+VT0000894,HENRYS SPORTSMANS INN,Region 1,Vermont,Transient non-community system,74,ALBURG,Grand Isle,3,0,2
+VT0005619,GLAZE BROOK,Region 1,Vermont,Community water system,220,KILLINGTON,Rutland,5,11,9
+VT0005623,SNOW MOUNTAIN VILLAGE,Region 1,Vermont,Community water system,210,DOVER,Windham,7,46,7
+VT0005188,ALBANY WATER SYSTEM,Region 1,Vermont,Community water system,200,ALBANY,Orleans,8,24,18
+VT0002127,DOTIVAN ENTERPRISES (CIDER HOUSE),Region 1,Vermont,Transient non-community system,89,WATERBURY,Washington,4,7,4
+VT0002092,GONDOLA CAFETERIAMIDWAY LODGE,Region 1,Vermont,Transient non-community system,160,STOWE,Lamoille,4,0,3
+VT0009073,COMFORT INN,Region 1,Vermont,Transient non-community system,132,KILLINGTON,Rutland,10,9,2
+VT0020533,OCTAGON,Region 1,Vermont,Transient non-community system,160,STOWE,Lamoille,4,3,1
+VT0020795,GOOD FELLAS RESTAURANT  TAVERN,Region 1,Vermont,Transient non-community system,110,DANVILLE,Caledonia,4,8,3
+VT0020809,EAST HAVEN COMMUNITY BLDG/CLERKS OFFICE,Region 1,Vermont,Transient non-community system,51,EAST HAVEN,Essex,5,20,7
+VT0005221,EAST MOUNTAIN WATER CORP,Region 1,Vermont,Community water system,34,MENDON,Rutland,6,22,9
+VT0000208,CHINESE GOURMET SUSHI YOSHI,Region 1,Vermont,Transient non-community system,107,KILLINGTON,Rutland,3,9,2
+VT0005154,HYDE PARK WATER SYSTEM,Region 1,Vermont,Community water system,590,HYDE PARK,Lamoille,7,7,11
+VT0005013,ARLINGTON WATER CO,Region 1,Vermont,Community water system,1250,ARLINGTON,Bennington,11,4,11
+VT0005027,ROYAL PINE VILLA,Region 1,Vermont,Community water system,100,POWNAL,Bennington,10,116,12
+VT0006764,THETFORD ACADEMY,Region 1,Vermont,Non-Transient non-community system,450,THETFORD,Orange,9,33,8
+VT0005211,BRANDON FIRE DISTRICT 1,Region 1,Vermont,Community water system,3865,BRANDON,Rutland,12,10,15
+VT0006703,SMILIE BOLTON SCHOOL,Region 1,Vermont,Non-Transient non-community system,164,BOLTON,Chittenden,4,10,8
+VT0021138,WEST WARDSBORO MARKET,Region 1,Vermont,Transient non-community system,202,WARDSBORO,Windham,3,7,1
+VT0020271,WILLIAMSTOWN HEALTHCARE COMPANY,Region 1,Vermont,Non-Transient non-community system,44,WILLIAMSTOWN,Orange,6,10,4
+VT0020506,WATERVILLE ELEMENTARY SCHOOL,Region 1,Vermont,Non-Transient non-community system,102,WATERVILLE,Lamoille,3,3,7
+VT0020669,PINE CREST MOTEL,Region 1,Vermont,Transient non-community system,42,BARTON,Orleans,3,13,2
+VT0020688,CANADIAN CLUB,Region 1,Vermont,Transient non-community system,299,BARRE CITY,Washington,3,5,2
+VT0020721,METTAWEE COMMUNITY SCHOOL,Region 1,Vermont,Non-Transient non-community system,260,PAWLET,Rutland,7,99,6
+VT0001226,TOZIERS RESTAURANT,Region 1,Vermont,Transient non-community system,120,BETHEL,Windsor,4,10,2
+VT0002141,TCS TAVERN,Region 1,Vermont,Transient non-community system,72,DOVER,Windham,3,14,2
+VT0000153,OLYMPIA MOTOR LODGE,Region 1,Vermont,Transient non-community system,91,MANCHESTER,Bennington,3,14,3
+VT0005305,WINHALL STRATTON F D 1,Region 1,Vermont,Community water system,10040,STRATTON,Windham,36,19,13
+VT0006630,NEWARK SCHOOL,Region 1,Vermont,Non-Transient non-community system,116,NEWARK,Caledonia,4,3,7
+VT0020934,PUTNEY WATER SYSTEM,Region 1,Vermont,Community water system,1300,PUTNEY,Windham,4,10,7
+VT0006724,ORWELL VILLAGE SCHOOL,Region 1,Vermont,Non-Transient non-community system,184,ORWELL,Addison,5,4,17
+VT0021029,WEST RIVER VALLEY SENIOR HOUSING,Region 1,Vermont,Community water system,92,TOWNSHEND,Windham,5,6,2
+VT0020813,JONATHONS TABLE,Region 1,Vermont,Transient non-community system,35,ARLINGTON,Bennington,3,24,2
+VT0008039,ALLIS STATE PARK,Region 1,Vermont,Transient non-community system,106,BROOKFIELD,Orange,6,4,2
+VT0006075,MOUNT HOLLY SCHOOL,Region 1,Vermont,Non-Transient non-community system,89,MOUNT HOLLY,Rutland,4,9,10
+VT0005450,WESTFORD FIRE DISTRICT 1,Region 1,Vermont,Community water system,50,WESTFORD,Chittenden,8,16,11
+VT0005462,ROUND TOP MOUNTAIN OWNERS ASSOCIATION,Region 1,Vermont,Community water system,240,PLYMOUTH,Windsor,5,23,11
+VT0000520,MAGIC VIEW MOTEL,Region 1,Vermont,Transient non-community system,46,LONDONDERRY,Windham,2,4,2
+VT0005275,NORTHFIELD WATER DEPT,Region 1,Vermont,Community water system,4000,NORTHFIELD,Washington,9,7,10
+VT0000701,MID MOUNTAIN LODGE,Region 1,Vermont,Transient non-community system,300,STRATTON,Windham,3,6,2
+VT0000410,SWISS FARM LODGE,Region 1,Vermont,Transient non-community system,93,PITTSFIELD,Rutland,3,9,2
+VT0006745,WESTFORD ELEMENTARY SCHOOL,Region 1,Vermont,Non-Transient non-community system,275,WESTFORD,Chittenden,7,15,6
+VT0020376,KILLINGTON UPPER ADMINISTRATION BLDG,Region 1,Vermont,Non-Transient non-community system,284,KILLINGTON,Rutland,5,22,7
+VT0008028,GIFFORD WOODS STATE PARK,Region 1,Vermont,Transient non-community system,142,KILLINGTON,Rutland,4,2,1
+VT0020398,VISHAY TANSITOR,Region 1,Vermont,Non-Transient non-community system,130,BENNINGTON,Bennington,7,9,7
+VT0005225,PITTSFORD FLORENCE WATER DEPT,Region 1,Vermont,Community water system,1652,PITTSFORD,Rutland,15,24,12
+VT0020357,CENTRAL VERMONT PUBLIC SERVICE,Region 1,Vermont,Non-Transient non-community system,70,RUTLAND CITY,Rutland,5,6,5
+VT0005199,GREENSBORO BEND FIRE DISTRICT #2,Region 1,Vermont,Community water system,71,GREENSBORO,Orleans,5,29,16
+VT0002433,RICHFORD GOLF COURSE,Region 1,Vermont,Transient non-community system,50,RICHFORD,Franklin,2,23,2
+VT0006409,FARWELL CAMP,Region 1,Vermont,Transient non-community system,155,NEWBURY,Orange,3,3,3
+VT0006619,TINMOUTH CENTER SCHOOL,Region 1,Vermont,Non-Transient non-community system,77,TINMOUTH,Rutland,4,4,9
+VT0021076,BURDICK MHP,Region 1,Vermont,Community water system,25,POWNAL,Bennington,2,67,5
+VT0000543,COLONIAL HOUSE,Region 1,Vermont,Transient non-community system,42,WESTON,Windsor,2,0,2
+VT0020350,BAKER DISTRIBUTING CORP,Region 1,Vermont,Non-Transient non-community system,50,CLARENDON,Rutland,3,0,5
+VT0020895,DS DOGHOUSE AND TAVERN,Region 1,Vermont,Transient non-community system,36,GRANVILLE,Addison,3,1,2
+VT0008040,ASCUTNEY STATE PARK,Region 1,Vermont,Transient non-community system,200,WEATHERSFIELD,Windsor,11,0,3
+VT0001291,POST AND BEAM,Region 1,Vermont,Transient non-community system,200,DOVER,Windham,5,23,3
+VT0005600,GLEN RUN CONDOMINIUM,Region 1,Vermont,Community water system,95,DOVER,Windham,6,60,9
+VT0005375,TALL TIMBERS MHP,Region 1,Vermont,Community water system,275,HARTFORD,Windsor,9,11,10
+VT0005184,EAST THETFORD WATER CO,Region 1,Vermont,Community water system,250,THETFORD,Orange,6,5,11
+VT0002063,CROWN POINT COUNTRY CLUB,Region 1,Vermont,Transient non-community system,94,WEATHERSFIELD,Windsor,3,11,2
+VT0006156,CAMP DUDLEY AT KINIYA,Region 1,Vermont,Transient non-community system,200,COLCHESTER,Chittenden,9,11,3
+VT0001425,NUTMEG INN,Region 1,Vermont,Transient non-community system,32,WILMINGTON,Windham,4,4,2
+VT0005010,VERGENNES PANTON WATER DISTRICT,Region 1,Vermont,Community water system,5080,VERGENNES,Addison,10,67,18
+VT0005165,MOUNTAINSIDE RESORT,Region 1,Vermont,Community water system,240,STOWE,Lamoille,10,54,10
+VT0008124,HORSESHOE ACRES,Region 1,Vermont,Transient non-community system,110,ANDOVER,Windsor,5,5,4
+VT0021210,BELVIDERE COMMUNITY CLUB,Region 1,Vermont,Transient non-community system,25,BELVIDERE,Lamoille,2,1,1
+VT0021159,STOWE CABINS,Region 1,Vermont,Transient non-community system,38,WATERBURY,Washington,4,1,2
+VT0005137,ALBURGH FIRE DISTRICT 1,Region 1,Vermont,Community water system,87,ALBURG,Grand Isle,7,52,28
+VT0004313,WINDSOR MOTEL,Region 1,Vermont,Transient non-community system,36,WEATHERSFIELD,Windsor,2,16,3
+VT0008126,CHAR BO CAMPGROUND,Region 1,Vermont,Transient non-community system,176,DERBY,Orleans,3,6,3
+VT0021090,SPANIER BUILDING,Region 1,Vermont,Transient non-community system,50,CAMBRIDGE,Lamoille,3,2,2
+VT0004481,HARWOOD HILL MOTEL,Region 1,Vermont,Transient non-community system,47,BENNINGTON,Bennington,5,6,2
+VT0005083,MILTON MOBILE HOME PARK,Region 1,Vermont,Community water system,260,MILTON,Chittenden,4,8,12
+VT0020152,SUDBURY COUNTRY SCHOOL,Region 1,Vermont,Non-Transient non-community system,48,SUDBURY,Rutland,6,43,11
+VT0020901,BOOTH BROTHERS WELLS H P HOOD,Region 1,Vermont,Non-Transient non-community system,100,BARRE TOWN,Washington,11,83,3
+VT0004629,IRON KETTLE MOTEL,Region 1,Vermont,Transient non-community system,81,SHAFTSBURY,Bennington,5,15,3
+VT0001076,BEAR MOUNTAIN,Region 1,Vermont,Transient non-community system,767,KILLINGTON,Rutland,4,0,2
+VT0021315,PARKER STORE,Region 1,Vermont,Transient non-community system,70,GLOVER,Orleans,2,2,1
+VT0000272,SKYESHIP BASE LODGE,Region 1,Vermont,Transient non-community system,156,KILLINGTON,Rutland,2,0,2
+VT0001747,TOMS LOFT TAVERN,Region 1,Vermont,Transient non-community system,61,LUDLOW,Windsor,3,37,1
+VT0005023,MANCHESTER MHP,Region 1,Vermont,Community water system,100,MANCHESTER,Bennington,5,46,11
+VT0008271,MEADOWBROOK FARM CAMPGROUND,Region 1,Vermont,Transient non-community system,80,CAVENDISH,Windsor,5,1,4
+VT0005243,SOUTH WALLINGFORD CO,Region 1,Vermont,Community water system,80,WALLINGFORD,Rutland,6,141,9
+VT0000557,ROYALTON VILLAGE PIZZA,Region 1,Vermont,Transient non-community system,66,ROYALTON,Windsor,2,9,2
+VT0000576,PERFECT WIFE,Region 1,Vermont,Transient non-community system,130,MANCHESTER,Bennington,3,10,2
+VT0006686,FAYSTON ELEMENTARY SCHOOL,Region 1,Vermont,Non-Transient non-community system,126,FAYSTON,Washington,5,6,9
+VT0001783,GARDEN CAFE & GALLERY,Region 1,Vermont,Transient non-community system,50,LONDONDERRY,Windham,2,38,1
+VT0006670,EAST MONTPELIER ELEMENTARY SCHOOL NEW,Region 1,Vermont,Non-Transient non-community system,260,EAST MONTPELIER,Washington,6,3,9
+VT0020651,HAPPY BEAR MOTEL,Region 1,Vermont,Transient non-community system,48,KILLINGTON,Rutland,4,6,2
+VT0008257,ALBURG RV RESORT,Region 1,Vermont,Transient non-community system,500,ALBURG,Grand Isle,5,9,3
+VT0005490,GREENES MHP,Region 1,Vermont,Community water system,39,RANDOLPH,Orange,4,30,10
+VT0006408,FARNSWORTH CAMP,Region 1,Vermont,Transient non-community system,220,THETFORD,Orange,6,8,2
+VT0009050,HAWK INN  MOUNTAIN RESORT,Region 1,Vermont,Transient non-community system,47,PLYMOUTH,Windsor,6,4,2
+VT0020830,MONTSHIRE MUSEUM OF SCIENCE,Region 1,Vermont,Transient non-community system,450,NORWICH,Windsor,3,7,4
+VT0020597,MOUNTAIN INN,Region 1,Vermont,Transient non-community system,362,KILLINGTON,Rutland,2,2,2
+VT0006098,LEICESTER CENTRAL SCHOOL,Region 1,Vermont,Non-Transient non-community system,115,LEICESTER,Addison,4,40,8
+VT0008113,PLEASANT VALLEY CAMP,Region 1,Vermont,Transient non-community system,121,RYEGATE,Caledonia,4,33,3
+VT0020925,HIDEAWAY CAMPGROUND ASSOCIATION INC,Region 1,Vermont,Transient non-community system,102,LUDLOW,Windsor,4,9,1
+VT0001360,BRASS LANTERN INN B AND B,Region 1,Vermont,Transient non-community system,84,STOWE,Lamoille,3,6,3
+VT0005326,NORWICH FIRE DISTRICT 1,Region 1,Vermont,Community water system,870,NORWICH,Windsor,6,1,16
+VT0021041,FIRST IN FITNESS,Region 1,Vermont,Transient non-community system,360,BERLIN,Washington,4,4,2
+VT0020512,TEN ACRES LODGE,Region 1,Vermont,Transient non-community system,112,STOWE,Lamoille,19,21,4
+VT0006711,TWINFIELD USD 33,Region 1,Vermont,Non-Transient non-community system,440,MARSHFIELD,Washington,9,6,10
+VT0002707,MOGULS SPORTS PUB,Region 1,Vermont,Transient non-community system,67,KILLINGTON,Rutland,2,5,1
+VT0005132,SWANTON VILLAGE WATER,Region 1,Vermont,Community water system,2986,SWANTON,Franklin,10,8,16
+VT0005314,SONNENBERG WATER SYSTEM,Region 1,Vermont,Community water system,50,BARNARD,Windsor,5,74,11
+VT0004403,VERMONTER MOTOR LODGE,Region 1,Vermont,Transient non-community system,151,BENNINGTON,Bennington,5,44,1
+VT0005056,PINE RIDGE WATER SYSTEM,Region 1,Vermont,Community water system,46,CHARLOTTE,Chittenden,5,7,13
+VT0021354,TEMPLE LODGE #54,Region 1,Vermont,Transient non-community system,25,STRAFFORD,Orange,2,1,1
+VT0020797,WEST DOVER JOES,Region 1,Vermont,Transient non-community system,62,DOVER,Windham,3,13,3
+VT0020680,ST ONGES HIDDEN COUNTRY,Region 1,Vermont,Transient non-community system,60,LOWELL,Orleans,2,31,1
+VT0020681,CAJUNS SNACK BAR,Region 1,Vermont,Transient non-community system,30,LOWELL,Orleans,3,18,3
+VT0020745,SUGAR RIDGE RV VILLAGE  CAMPGROUND INC,Region 1,Vermont,Transient non-community system,600,DANVILLE,Caledonia,3,16,3
+VT0020517,COUNTRY PANTRY DINER,Region 1,Vermont,Transient non-community system,110,FAIRFAX,Franklin,3,12,4
+VT0020523,DERBY BOYS LLC,Region 1,Vermont,Non-Transient non-community system,65,DERBY,Orleans,3,34,3
+VT0020719,MOUNT INDEPENDENCE STATE HISTORIC SITE,Region 1,Vermont,Transient non-community system,45,ORWELL,Addison,4,1,2
+VT0020483,WINHALL BROOK RECREATIONAL AREA,Region 1,Vermont,Transient non-community system,277,JAMAICA,Windham,13,7,1
+VT0020602,THREE STALLION INN INC,Region 1,Vermont,Transient non-community system,188,RANDOLPH,Orange,9,7,5
+VT0020591,CRAFTSBURY INN,Region 1,Vermont,Transient non-community system,65,CRAFTSBURY,Orleans,2,32,1
+VT0021242,TWIN HILLS,Region 1,Vermont,Transient non-community system,25,RICHMOND,Chittenden,3,0,1
+VT0005001,TRI TOWN WATER DISTRICT,Region 1,Vermont,Community water system,3700,BRIDPORT,Addison,15,12,14
+VT0005264,CRYSTAL SPRINGS WATER SYSTEM,Region 1,Vermont,Community water system,300,EAST MONTPELIER,Washington,11,130,16
+VT0000963,CHARITYS,Region 1,Vermont,Transient non-community system,137,KILLINGTON,Rutland,3,51,2
+VT0006621,GREEN MOUNTAIN VALLEY SCHOOL,Region 1,Vermont,Non-Transient non-community system,120,WAITSFIELD,Washington,9,45,12
+VT0021072,HWVCA WELL-HISTORIC WAITSFIELD HOUSE,Region 1,Vermont,Non-Transient non-community system,91,WAITSFIELD,Washington,5,8,2
+VT0005149,CAMBRIDGE VILLAGE WATER,Region 1,Vermont,Community water system,262,CAMBRIDGE,Lamoille,7,15,10
+VT0005283,BRIDGES RESORT,Region 1,Vermont,Community water system,440,WARREN,Washington,10,8,14
+VT0008259,LIMEHURST LAKE CAMPGROUND,Region 1,Vermont,Transient non-community system,102,WILLIAMSTOWN,Orange,6,2,5
+VT0020418,HUBBARDTON BATTLEFIELD,Region 1,Vermont,Transient non-community system,27,HUBBARDTON,Rutland,3,3,1
+VT0004043,HILLBROOK MOTEL,Region 1,Vermont,Transient non-community system,69,SHAFTSBURY,Bennington,4,4,2
+VT0020620,NORTH STAR BOWL,Region 1,Vermont,Transient non-community system,26,WILMINGTON,Windham,3,6,2
+VT0020554,SUN BOWL LODGE,Region 1,Vermont,Transient non-community system,350,STRATTON,Windham,3,0,2
+VT0020871,WILLISTON SB REST AREA I89,Region 1,Vermont,Transient non-community system,661,WILLISTON,Chittenden,3,3,2
+VT0020872,NEWMONT SLATE COMPANY,Region 1,Vermont,Non-Transient non-community system,30,PAWLET,Rutland,4,12,4
+VT0020961,INN AT GLIMMERSTONE,Region 1,Vermont,Transient non-community system,79,CAVENDISH,Windsor,2,5,3
+VT0001228,PLEASANT VALLEY BREWING,Region 1,Vermont,Transient non-community system,25,ROCKINGHAM,Windham,3,10,2
+VT0001602,DANAS BY THE GORGE,Region 1,Vermont,Transient non-community system,78,HARTFORD,Windsor,4,6,2
+VT0021179,STRATTON MOUNTAIN MAINTENANCE BUILDING,Region 1,Vermont,Non-Transient non-community system,30,STRATTON,Windham,2,313,2
+VT0000447,TENDERLOINS CLUB HOUSE,Region 1,Vermont,Transient non-community system,100,WINHALL,Bennington,3,7,2
+VT0000531,WOBBLY BARN,Region 1,Vermont,Transient non-community system,225,KILLINGTON,Rutland,2,2,2
+VT0006723,SHERBURNE ELEMENTARY SCHOOL,Region 1,Vermont,Non-Transient non-community system,100,KILLINGTON,Rutland,5,43,14
+VT0002090,KILLINGTON  BASE LODGE,Region 1,Vermont,Transient non-community system,1425,KILLINGTON,Rutland,5,2,2
+VT0005113,LUNENBURG FIRE DISTRICT 2,Region 1,Vermont,Community water system,400,LUNENBURG,Essex,9,18,14
+VT0001323,STONE SOUP,Region 1,Vermont,Transient non-community system,31,STRAFFORD,Orange,3,7,2
+VT0000282,COOPER HILL INN,Region 1,Vermont,Transient non-community system,34,DOVER,Windham,3,9,3
+VT0005029,BARNET WATER SYSTEM INC,Region 1,Vermont,Community water system,205,BARNET,Caledonia,11,147,12
+VT0005258,WESTONS MHP,Region 1,Vermont,Community water system,218,BERLIN,Washington,10,49,14
+VT0005577,MOUNTAIN SIDE CONDOMINIUM,Region 1,Vermont,Community water system,45,LONDONDERRY,Windham,5,136,8
+VT0000826,RAMSHEAD LODGESNOWSHED BASE LODGE,Region 1,Vermont,Transient non-community system,1600,KILLINGTON,Rutland,3,0,2
+VT0001625,LOOKOUT BAR  GRILL,Region 1,Vermont,Transient non-community system,72,KILLINGTON,Rutland,3,20,3
+VT0004691,BRANDON MOTOR LODGE,Region 1,Vermont,Transient non-community system,87,BRANDON,Rutland,6,8,1
+VT0005254,BARRE CITY WATER SYSTEM,Region 1,Vermont,Community water system,14000,BARRE CITY,Washington,14,6,14
+VT0005093,ST GEORGE FIRE DISTRICT 1,Region 1,Vermont,Community water system,42,ST. GEORGE,Chittenden,7,10,16
+VT0020356,CENTRAL VERMONT PUBLIC SERVICE,Region 1,Vermont,Non-Transient non-community system,50,RUTLAND TOWN,Rutland,4,26,5
+VT0020671,PROSPECT MOUNTAIN,Region 1,Vermont,Transient non-community system,75,WOODFORD,Bennington,2,39,1
+VT0020485,TOWNSHEND LAKE,Region 1,Vermont,Transient non-community system,125,TOWNSHEND,Windham,6,10,3
+VT0020528,INN AT TURNER MILL,Region 1,Vermont,Transient non-community system,28,STOWE,Lamoille,5,6,4
+VT0020599,BELLOWS FALLS COUNTRY CLUB,Region 1,Vermont,Transient non-community system,150,ROCKINGHAM,Windham,5,6,1

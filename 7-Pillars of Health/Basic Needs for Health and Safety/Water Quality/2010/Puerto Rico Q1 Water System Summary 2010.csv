@@ -1,0 +1,482 @@
+PWS ID,PWS Name,EPA Region,Primacy Agency,PWS Type,Population<br> Served Count,Cities Served,Counties Served,# of Facilities,# of Violations,# of Site Visits
+PR0004634,CERRILLOS,Region 2,Puerto Rico,Community water system,8636,PONCE,Ponce Municipio,7,62,2
+PR0644106,ACUEDUCTO RURAL ASOMANTE 2,Region 2,Puerto Rico,Community water system,1060,LAS PIEDRAS,Las Piedras Municipio,3,6,4
+PR0004604,EXPERIMENTAL,Region 2,Puerto Rico,Community water system,9810,JUANA DIAZ,Juana Diaz Municipio,23,3,5
+PR0476234,ACEITUNA II,Region 2,Puerto Rico,Community water system,132,VILLALBA,Villalba Municipio,3,343,13
+PR0724077,COMUNIDAD PALMARITO CENTRO,Region 2,Puerto Rico,Community water system,744,COROZAL,Corozal Municipio,4,231,16
+PR0165031,UNIVERSIDAD INTERAMERICANA PR,Region 2,Puerto Rico,Non-Transient non-community system,1000,RIO PIEDRAS,San Juan Municipio,2,0,0
+PR0004584,GARZAS,Region 2,Puerto Rico,Community water system,3236,ADJUNTAS,Adjuntas Municipio,4,59,15
+PR0666066,ACUED.COMUNAL SEC. MANUEL DIAZ,Region 2,Puerto Rico,Community water system,520,SAN LORENZO,San Lorenzo Municipio,3,137,18
+PR0004214,LA MOCHA,Region 2,Puerto Rico,Community water system,229,PONCE,Ponce Municipio,8,31,15
+PR0711037,PAN PEPIN,Region 2,Puerto Rico,Non-Transient non-community system,300,BAYAMON,Bayamon Municipio,3,0,0
+PR0476334,COMUNIDAD EL FRIO,Region 2,Puerto Rico,Community water system,100,OROCOVIS,Orocovis Municipio,3,151,4
+PR0549015,QUEBRADA ARENAS,Region 2,Puerto Rico,Community water system,180,MAUNABO,Maunabo Municipio,3,333,16
+PR0005166,JUNCOS - CEIBA SUR,Region 2,Puerto Rico,Community water system,51265,JUNCOS,Juncos Municipio,26,589,26
+PR0401164,TANAMA COMUNAL,Region 2,Puerto Rico,Community water system,35,ADJUNTAS,Adjuntas Municipio,3,351,15
+PR0677066,SODOMA,Region 2,Puerto Rico,Community water system,798,YABUCOA,Yabucoa Municipio,5,110,18
+PR0666046,QUEMADO I SEC. LOS ORTIZ,Region 2,Puerto Rico,Community water system,340,SAN LORENZO,San Lorenzo Municipio,3,92,15
+PR0003914,COAMO URBANO,Region 2,Puerto Rico,Community water system,9935,"COAMO, SANTA ISABEL","Coamo Municipio, Santa Isabel Municipio",8,76,25
+PR0604176,ACUED. COMUNAL EL LLANO,Region 2,Puerto Rico,Community water system,400,AGUAS BUENAS,Aguas Buenas Municipio,2,122,4
+PR0002822,SABANA HOYOS,Region 2,Puerto Rico,Community water system,17466,"ARECIBO, SABANA HOYOS",Arecibo Municipio,12,23,13
+PR0005296,EL YUNQUE,Region 2,Puerto Rico,Community water system,71320,RIO GRANDE,"Naguabo Municipio, Rio Grande Municipio",11,77,5
+PR0677196,ACUED. RURAL SECT. EL VEINTE,Region 2,Puerto Rico,Community water system,600,YABUCOA,Yabucoa Municipio,3,145,10
+PR0521135,"CARIBBEAN REFRESCOS, INC. (WW-01)",Region 2,Puerto Rico,Non-Transient non-community system,420,CIDRA,Cidra Municipio,3,0,1
+PR0004054,GUAYANILLA URBANO,Region 2,Puerto Rico,Community water system,10883,"GUAYANILLA, PONCE","Guayanilla Municipio, Ponce Municipio",11,68,15
+PR0004835,PATILLAS URBANO,Region 2,Puerto Rico,Community water system,40653,PATILLAS,Patillas Municipio,23,275,21
+PR0518085,UPR CAYEY,Region 2,Puerto Rico,Non-Transient non-community system,4000,CAYEY,Cayey Municipio,3,92,6
+PR0003122,MAMEYES ABAJO,Region 2,Puerto Rico,Community water system,1258,"MAMEYES ABAJO, UTUADO",Utuado Municipio,4,109,16
+PR0002712,JAYUYA URBANO,Region 2,Puerto Rico,Community water system,10487,JAYUYA,Jayuya Municipio,4,127,21
+PR0556055,BO. MAMEY,Region 2,Puerto Rico,Community water system,424,PATILLAS,Patillas Municipio,4,156,13
+PR0455044,LA SAPIA,Region 2,Puerto Rico,Community water system,510,OROCOVIS,Orocovis Municipio,3,350,12
+PR0004925,FARALLON,Region 2,Puerto Rico,Community water system,58861,CAYEY,Cayey Municipio,16,95,7
+PR0003062,MAMEYES ARRIBA,Region 2,Puerto Rico,Community water system,2289,"JAYUYA, MAMEYES ARRIBA",Jayuya Municipio,4,54,22
+PR0556025,BO.REAL,Region 2,Puerto Rico,Community water system,1000,PATILLAS,Patillas Municipio,3,275,14
+PR0523025,PALOMAS II,Region 2,Puerto Rico,Community water system,39,COMERIO,Comerio Municipio,3,348,15
+PR0455314,CORPORACION SALTOS PELLEJA,Region 2,Puerto Rico,Community water system,248,OROCOVIS,Orocovis Municipio,2,130,4
+PR0640016,"AMGEN MANUFACTURING, LTD",Region 2,Puerto Rico,Non-Transient non-community system,2700,JUNCOS,,7,1,1
+PR0272212,TIM RIVERA CASELLAS,Region 2,Puerto Rico,Community water system,64,UTUADO,Utuado Municipio,3,371,7
+PR0505075,ALGARROBO NUEVO,Region 2,Puerto Rico,Community water system,176,AIBONITO,Aibonito Municipio,3,220,13
+PR0005587,SABANA HOYOS,Region 2,Puerto Rico,Community water system,13642,VEGA ALTA,"Loiza Municipio, Vega Alta Municipio",11,202,21
+PR0302063,COM. CERRO GORDO SEC.EL PARQUE,Region 2,Puerto Rico,Community water system,304,AGUADA,Aguada Municipio,3,66,6
+PR0613506,ASOC RESIDENTES VILLAS DE ORO,Region 2,Puerto Rico,Community water system,148,CAGUAS,Caguas Municipio,3,30,1
+PR0636076,LEGACY PHARMACEUTICALS PR,Region 2,Puerto Rico,Transient non-community system,350,HUMACAO,Humacao Municipio,2,0,0
+PR0003722,ALMIRANTE NORTE,Region 2,Puerto Rico,Community water system,5585,VEGA BAJA,Vega Baja Municipio,7,42,16
+PR0644076,LIJAS,Region 2,Puerto Rico,Community water system,760,LAS PIEDRAS,Las Piedras Municipio,3,255,9
+PR0677016,ACUED. RURAL DE TEJAS,Region 2,Puerto Rico,Community water system,2460,YABUCOA,Yabucoa Municipio,3,50,15
+PR0003425,EL JAPONES,Region 2,Puerto Rico,Community water system,1183,SAN GERMAN,San German Municipio,3,5,17
+PR0272182,PUENTE BLANCO,Region 2,Puerto Rico,Community water system,48,UTUADO,Utuado Municipio,4,277,4
+PR0003834,ARUZ,Region 2,Puerto Rico,Community water system,7703,JUANA DIAZ,Juana Diaz Municipio,7,165,14
+PR0518015,SECTOR PEPE HOYOS,Region 2,Puerto Rico,Community water system,192,CAYEY,Cayey Municipio,3,318,16
+PR0666126,ACUEDUCTO COMUNIDAD EDEM,Region 2,Puerto Rico,Community water system,104,SAN LORENZO,San Lorenzo Municipio,3,44,3
+PR0004514,HOGARES SEGUROS,Region 2,Puerto Rico,Community water system,375,PONCE,Ponce Municipio,4,31,17
+PR0666026,MACANEA / ESPINO,Region 2,Puerto Rico,Community water system,224,SAN LORENZO,San Lorenzo Municipio,3,365,15
+PR0724117,COM. ELADIO ANDREU,Region 2,Puerto Rico,Community water system,320,COROZAL,Corozal Municipio,3,276,12
+PR0458264,ACD. COMUNAL RIO CHIQUITO,Region 2,Puerto Rico,Community water system,320,PONCE,Ponce Municipio,1,22,2
+PR0724137,COM. SECTOR LA RIVIERA,Region 2,Puerto Rico,Community water system,260,COROZAL,Corozal Municipio,1,64,2
+PR0468044,MARTEX FARMS,Region 2,Puerto Rico,Non-Transient non-community system,100,SANTA ISABEL,Santa Isabel Municipio,2,19,2
+PR0003732,LAS DELICIAS,Region 2,Puerto Rico,Community water system,2405,CIALES,Ciales Municipio,4,95,16
+PR0003603,REMANSO,Region 2,Puerto Rico,Community water system,298,CABO ROJO,Cabo Rojo Municipio,3,26,3
+PR0003822,ARRAIJANES,Region 2,Puerto Rico,Community water system,373,MOROVIS,Morovis Municipio,3,35,2
+PR0302043,LA CEIBA,Region 2,Puerto Rico,Community water system,400,AGUADA,Aguada Municipio,3,82,7
+PR0377023,SECTOR LAGUNA,Region 2,Puerto Rico,Community water system,100,LAS MARIAS,"Las Marias Municipio, Trujillo Alto Municipio",3,334,12
+PR0613036,PARC. NUEVAS CA%ABONCITO ACUED,Region 2,Puerto Rico,Community water system,520,CAGUAS,Caguas Municipio,3,73,15
+PR0613446,POZO DE AGUA,Region 2,Puerto Rico,Community water system,840,CAGUAS,Hatillo Municipio,3,25,4
+PR0458254,ESSILOR INDUSTRIES,Region 2,Puerto Rico,Non-Transient non-community system,250,PONCE,Ponce Municipio,2,0,0
+PR0563065,A.E.E. AGUIRRE TERMOELECTRICA,Region 2,Puerto Rico,Non-Transient non-community system,257,SALINAS,"Guayama Municipio, Salinas Municipio",3,121,14
+PR0003373,CABO ROJO,Region 2,Puerto Rico,Community water system,23187,CABO ROJO,Cabo Rojo Municipio,26,189,23
+PR0002832,SANTANA,Region 2,Puerto Rico,Community water system,17859,ARECIBO,Arecibo Municipio,11,143,16
+PR0238022,SANTA ROSA,Region 2,Puerto Rico,Community water system,460,JAYUYA,Jayuya Municipio,3,268,10
+PR0510065,TABOR,Region 2,Puerto Rico,Community water system,540,BARRANQUITAS,Barranquitas Municipio,5,96,17
+PR0508025,SISTEMA DE AGUA POTABLE STRYKER P.R. LTD,Region 2,Puerto Rico,Non-Transient non-community system,700,ARROYO,Arroyo Municipio,3,0,0
+PR0521025,CARRASQUILLO,Region 2,Puerto Rico,Community water system,460,CIDRA,Cidra Municipio,4,144,15
+PR0478114,SISTEMA DE AGUA CACAO,Region 2,Puerto Rico,Community water system,71,YAUCO,Yauco Municipio,3,52,1
+PR0677206,ACUED. JACANAS PIEDRAS BLANCA 2,Region 2,Puerto Rico,Community water system,728,YABUCOA,Yabucoa Municipio,3,160,4
+PR0003363,LAS MARIAS,Region 2,Puerto Rico,Community water system,6818,LAS MARIAS,"Anasco Municipio, Las Marias Municipio",4,65,29
+PR0003232,INDIERA ALTA,Region 2,Puerto Rico,Community water system,3198,MARICAO,Maricao Municipio,6,220,18
+PR0003824,PONCE URBANO,Region 2,Puerto Rico,Community water system,165089,"PENUELAS, PONCE","Penuelas Municipio, Ponce Municipio",74,470,28
+PR0005046,AGUAS BUENAS URBANO,Region 2,Puerto Rico,Community water system,18944,"AGUAS BUENAS, AQUAS BUENAS",Aguas Buenas Municipio,8,199,22
+PR0247022,PATHEON PUERTO RICO,Region 2,Puerto Rico,Non-Transient non-community system,300,MANATI,Manati Municipio,3,18,1
+PR0549095,SISTEMA DE AGUA MATUYAS BAJO,Region 2,Puerto Rico,Community water system,88,,Maunabo Municipio,3,38,1
+PR0458284,ASOC. CIVICA PASTILLO TIBES,Region 2,Puerto Rico,Community water system,652,PONCE,Ponce Municipio,1,70,2
+PR0666136,COM. EMMANUELLI,Region 2,Puerto Rico,Community water system,100,CAGUAS,Caguas Municipio,2,93,2
+PR0653066,ACUEDUCTO LOMAS DEL VIENTO-MAIZALES,Region 2,Puerto Rico,Community water system,400,NAGUABO,Naguabo Municipio,3,26,1
+PR0510215,COM. BARRANCAS CENTRO,Region 2,Puerto Rico,Community water system,620,BARRANQUITAS,Barranquitas Municipio,2,31,3
+PR0004624,JAGUA CEIBA,Region 2,Puerto Rico,Community water system,846,PENUELAS,Penuelas Municipio,4,27,11
+PR0003399,RAMON VALENTIN,Region 2,Puerto Rico,Community water system,736,MOCA,Moca Municipio,3,34,2
+PR0003944,APEADERO,Region 2,Puerto Rico,Community water system,325,"PONCE, VILLALBA",Villalba Municipio,6,34,23
+PR0003323,SAN GERMAN,Region 2,Puerto Rico,Community water system,25576,SAN GERMAN,San German Municipio,18,240,29
+PR0002792,ESPERANZA,Region 2,Puerto Rico,Community water system,4121,ARECIBO,Arecibo Municipio,12,49,14
+PR0002652,ARECIBO URBANO,Region 2,Puerto Rico,Community water system,101856,ARECIBO,Arecibo Municipio,36,353,20
+PR0238002,ALTURAS PIZA,Region 2,Puerto Rico,Community water system,200,JAYUYA,Jayuya Municipio,3,338,12
+PR0306023,CORCOBADA,Region 2,Puerto Rico,Community water system,360,ANASCO,Anasco Municipio,3,191,14
+PR0458004,LAS MESAS,Region 2,Puerto Rico,Community water system,120,PONCE,Ponce Municipio,3,355,10
+PR0457064,"ACUED. COM. DEL BO. RUCIO, INC. (ACBRI)",Region 2,Puerto Rico,Community water system,600,PENUELAS,Penuelas Municipio,3,321,13
+PR0476134,VACAS III,Region 2,Puerto Rico,Community water system,500,VILLALBA,Villalba Municipio,3,118,14
+PR0005316,LUQUILLO URBANO,Region 2,Puerto Rico,Community water system,17716,LUQUILLO,Luquillo Municipio,6,186,25
+PR0556085,APEADERO,Region 2,Puerto Rico,Community water system,320,PATILLAS,Patillas Municipio,3,267,16
+PR0666096,COMUNIDAD SECTOR LOS GOMEZ,Region 2,Puerto Rico,Community water system,248,SAN LORENZO,San Lorenzo Municipio,3,20,8
+PR0724097,MANA III,Region 2,Puerto Rico,Community water system,400,COROZAL,Corozal Municipio,2,251,15
+PR0613406,TURADO CLUSTERS,Region 2,Puerto Rico,Community water system,520,CAGUAS,Caguas Municipio,2,0,0
+PR0613246,USUARIOS POZO PROFUNDO,Region 2,Puerto Rico,Community water system,252,CAGUAS,Caguas Municipio,3,68,15
+PR0132071,"EL DIA, INC",Region 2,Puerto Rico,Non-Transient non-community system,1100,GUAYNABO,Guaynabo Municipio,5,2,1
+PR0003423,EL ROSARIO,Region 2,Puerto Rico,Community water system,1433,SAN GERMAN,"Mayaguez Municipio, San German Municipio",5,60,13
+PR0004404,QUEDRADA,Region 2,Puerto Rico,Community water system,2360,"GUAYANILLA, PONCE",Guayanilla Municipio,3,5,14
+PR0242042,ACUED. DE LA COMUNIDAD,Region 2,Puerto Rico,Community water system,100,LARES,Lares Municipio,3,330,9
+PR0242032,ACUED. HACIENDA PLANELL,Region 2,Puerto Rico,Community water system,40,LARES,Lares Municipio,3,374,9
+PR0455014,DAMIAN ABAJO,Region 2,Puerto Rico,Community water system,400,OROCOVIS,Orocovis Municipio,3,330,14
+PR0613366,ACUED. COM. SECTOR LA SIERRA,Region 2,Puerto Rico,Community water system,2100,CAGUAS,Caguas Municipio,3,101,16
+PR0132061,P.R. TELEPHONE COMPANY,Region 2,Puerto Rico,Non-Transient non-community system,1985,SAN JUAN,San Juan Municipio,2,0,0
+PR0209092,MSD INTERNATIONAL GMBH PR LLC,Region 2,Puerto Rico,Non-Transient non-community system,710,BARCELONETA,Barceloneta Municipio,3,8,2
+PR0439024,FORT ALLEN,Region 2,Puerto Rico,Community water system,1000,JUANA DIAZ,Juana Diaz Municipio,3,27,15
+PR0005597,MAGUAYO,Region 2,Puerto Rico,Community water system,35912,DORADO,Dorado Municipio,19,202,13
+PR0613426,EL MANANTIAL,Region 2,Puerto Rico,Community water system,128,CAGUAS,Hatillo Municipio,3,43,9
+PR0005106,SAN LORENZO URBANO,Region 2,Puerto Rico,Community water system,31683,SAN LORENZO,San Lorenzo Municipio,4,104,27
+PR0209012,PFIZER PHARMACEUTICALS,Region 2,Puerto Rico,Non-Transient non-community system,1400,BARCELONETA,Barceloneta Municipio,3,6,4
+PR0523105,ACUED. DO%A ELENA (LOS PINOS),Region 2,Puerto Rico,Community water system,1016,COMERIO,Comerio Municipio,4,202,22
+PR0455294,COM. SALTOS CABRA,Region 2,Puerto Rico,Community water system,500,OROCOVIS,Orocovis Municipio,4,231,14
+PR0458034,ASOCIACION CIVICA CULTURAL Y SOCIOECONOM,Region 2,Puerto Rico,Community water system,500,PONCE,Ponce Municipio,3,349,11
+PR0003296,PLATA I Y II,Region 2,Puerto Rico,Community water system,4428,MOCA,Moca Municipio,5,55,12
+PR0004524,COTTO LAUREL,Region 2,Puerto Rico,Community water system,14411,PONCE,Ponce Municipio,15,151,17
+PR0004494,GUILARTE,Region 2,Puerto Rico,Community water system,4577,ADJUNTAS,Adjuntas Municipio,3,9,22
+PR0348083,LLANADAS,Region 2,Puerto Rico,Community water system,100,MARICAO,Maricao Municipio,3,338,16
+PR0754067,ANONES CENTRO I,Region 2,Puerto Rico,Community water system,1200,NARANJITO,Naranjito Municipio,4,186,9
+PR0633106,LOS VAZQUEZ,Region 2,Puerto Rico,Community water system,80,GURABO,Gurabo Municipio,3,352,13
+PR0004644,AGUSTINILLO,Region 2,Puerto Rico,Community water system,2640,JUANA DIAZ,Juana Diaz Municipio,3,40,1
+PR0272292,ACUED. COMUNAL LA ESTANCIA,Region 2,Puerto Rico,Community water system,352,UTUADO,Utuado Municipio,3,341,8
+PR0003453,LAVADEROS,Region 2,Puerto Rico,Community water system,4959,,San Sebastian Municipio,5,27,4
+PR0004895,COCOS,Region 2,Puerto Rico,Community water system,11467,"BO COCOS, SALINAS",Salinas Municipio,19,103,14
+PR0455324,SANTO TOMAS DE AQUINO,Region 2,Puerto Rico,Community water system,131,OROCOVIS,Orocovis Municipio,3,39,2
+PR0004314,YAUCO,Region 2,Puerto Rico,Community water system,29797,YAUCO,Yauco Municipio,10,57,30
+PR0220042,POZO AZUL CORP.,Region 2,Puerto Rico,Community water system,340,CIALES,Ciales Municipio,3,196,8
+PR0431014,PELCHAS,Region 2,Puerto Rico,Community water system,120,GUAYANILLA,Guayanilla Municipio,3,311,14
+PR0455234,DAMIAN ARRIBA,Region 2,Puerto Rico,Community water system,320,OROCOVIS,Orocovis Municipio,3,195,10
+PR0005517,CEDRO ARRIBA,Region 2,Puerto Rico,Community water system,6529,NARANJITO,Naranjito Municipio,6,230,24
+PR0478094,MOGOTE,Region 2,Puerto Rico,Community water system,140,YAUCO,Yauco Municipio,3,245,7
+PR0518105,ASOC. VILLAS GUAVATE,Region 2,Puerto Rico,Community water system,108,CAYEY,Cayey Municipio,1,32,2
+PR0666106,EL CERRO,Region 2,Puerto Rico,Community water system,208,SAN LORENZO,San Lorenzo Municipio,2,55,8
+PR0613296,LA UNION,Region 2,Puerto Rico,Community water system,440,CAGUAS,Caguas Municipio,3,200,12
+PR0644126,CENTURY PACKING CORP.,Region 2,Puerto Rico,Non-Transient non-community system,50,LAS PIEDRAS,Las Piedras Municipio,3,1,1
+PR0677186,ASOCIACION VECINOS,Region 2,Puerto Rico,Community water system,168,YABUCOA,Yabucoa Municipio,3,84,9
+PR0003403,CONSUMO,Region 2,Puerto Rico,Community water system,1091,MAYAGUEZ,Mayaguez Municipio,3,58,15
+PR0003812,CIUDAD REAL,Region 2,Puerto Rico,Community water system,1719,,Vega Baja Municipio,3,4,7
+PR0004755,GUAMANI,Region 2,Puerto Rico,Community water system,1056,"BO GUAMANI, GUAYAMA",Guayama Municipio,6,118,19
+PR0003874,JAUCA,Region 2,Puerto Rico,Community water system,2041,"PONCE, SANTA ISABEL",Santa Isabel Municipio,3,37,14
+PR0004334,RANCHERA,Region 2,Puerto Rico,Community water system,1734,"RANCHERAS, YAUCO","Ponce Municipio, Yauco Municipio",4,49,29
+PR0003142,RONCADOR,Region 2,Puerto Rico,Community water system,6023,UTUADO,Utuado Municipio,6,68,11
+PR0306083,HUMATAS DEEP WATER,Region 2,Puerto Rico,Community water system,180,MOCA,Moca Municipio,1,89,1
+PR0613106,SECTOR LOZADA Y POZO DULCE,Region 2,Puerto Rico,Community water system,720,CAGUAS,Caguas Municipio,3,99,12
+PR0604096,LAS TORRES ANDINO,Region 2,Puerto Rico,Community water system,380,AGUAS BUENAS,Aguas Buenas Municipio,3,159,13
+PR0633076,"JANSSEN ORTHO , LLC",Region 2,Puerto Rico,Non-Transient non-community system,1000,GURABO,Gurabo Municipio,3,18,4
+PR0003262,MANATI EAST,Region 2,Puerto Rico,Community water system,51035,MANATI,Manati Municipio,28,223,12
+PR0002972,PUGNADO,Region 2,Puerto Rico,Community water system,9250,"PUGNADO, VEGA BAJA",Vega Baja Municipio,7,58,11
+PR0302023,JAGUEY CHIQUITO,Region 2,Puerto Rico,Community water system,856,AGUADA,Aguada Municipio,3,121,12
+PR0653016,ASOC. PRO DESARROLLO COMUNAL,Region 2,Puerto Rico,Community water system,1400,NAGUABO,Naguabo Municipio,2,345,12
+PR0003393,CALVACHE,Region 2,Puerto Rico,Community water system,676,"CALUACHE, RINCON",Rincon Municipio,14,131,17
+PR0458344,ESTANCIAS DEL MADRIGAL,Region 2,Puerto Rico,Community water system,258,PONCE,Ponce Municipio,3,0,1
+PR0476064,VILLA BLANCA,Region 2,Puerto Rico,Community water system,800,VILLALBA,Villalba Municipio,3,320,11
+PR0666156,SANTUARIO NUESTRA SENORA DEL CARMEN,Region 2,Puerto Rico,Transient non-community system,40,SAN LORENZO,San Lorenzo Municipio,3,2,0
+PR0005416,JAGUAL,Region 2,Puerto Rico,Community water system,7435,"JAGUAL, SAN LORENZO",San Lorenzo Municipio,4,182,23
+PR0004625,BARRANCAS NUEVO,Region 2,Puerto Rico,Community water system,5763,"BARRANCAS, BARRANQUITAS",Barranquitas Municipio,7,154,27
+PR0004665,CULEBRAS,Region 2,Puerto Rico,Community water system,2432,"CAYEY, CULEBRAS",Cayey Municipio,4,62,20
+PR0003333,SABANA GRANDE,Region 2,Puerto Rico,Community water system,30482,SABANA GRANDE,Sabana Grande Municipio,11,128,29
+PR0005086,CAGUAS NORTE,Region 2,Puerto Rico,Community water system,38096,CAGUAS,Caguas Municipio,22,156,12
+PR0003192,SABANA GRANDE,Region 2,Puerto Rico,Community water system,2590,"UTAUDO, UTUADO",Utuado Municipio,4,182,12
+PR0613416,"CAGUAS CENTRUM LIMITED P,S.E.",Region 2,Puerto Rico,Non-Transient non-community system,1000,CAGUAS,Hatillo Municipio,3,79,7
+PR0005526,PALMA ROYALE,Region 2,Puerto Rico,Community water system,939,LAS PIEDRAS,Las Piedras Municipio,5,17,1
+PR0005486,MOROVIS,Region 2,Puerto Rico,Community water system,858,RIO GRANDE,,3,24,2
+PR0613376,BUENOS AIRES,Region 2,Puerto Rico,Community water system,232,CAGUAS,Caguas Municipio,3,199,20
+PR0510165,COM. DO%A MAYO (EL LLANO II),Region 2,Puerto Rico,Community water system,352,BARRANQUITAS,Barranquitas Municipio,3,100,14
+PR0005537,NEGROS,Region 2,Puerto Rico,Community water system,21820,"COROZAL, NEGROS",Corozal Municipio,6,167,18
+PR0116051,PLT.  MUNICIPAL CAROLINA,Region 2,Puerto Rico,Community water system,25,CAROLINA,Carolina Municipio,3,16,1
+PR0556075,BO. JACABOA- HIGUERO,Region 2,Puerto Rico,Community water system,180,PATILLAS,Patillas Municipio,4,226,13
+PR0556035,BO.QUEBRADA ARRIBA,Region 2,Puerto Rico,Community water system,840,PATILLAS,Patillas Municipio,3,176,15
+PR0364083,HOSPITAL DE LA CONCEPCION,Region 2,Puerto Rico,Non-Transient non-community system,900,SAN GERMAN,San German Municipio,3,45,1
+PR0613396,PFIZER PHARMACEUTICALS LLC,Region 2,Puerto Rico,Non-Transient non-community system,600,CAGUAS,Caguas Municipio,3,17,15
+PR0677056,ACUE.JACANAS PIEDRAS BLANCAS I,Region 2,Puerto Rico,Community water system,980,YABUCOA,Yabucoa Municipio,3,142,16
+PR0004825,MATUYAS,Region 2,Puerto Rico,Community water system,1162,"BO MATUYAS, MAUNABO",Maunabo Municipio,4,46,21
+PR0458334,ACADEMIA RAMOS MORALES,Region 2,Puerto Rico,Non-Transient non-community system,323,PONCE,Ponce Municipio,3,12,1
+PR0003495,LAS VEGAS,Region 2,Puerto Rico,Community water system,766,MAYAGUEZ,Mayaguez Municipio,3,21,14
+PR0004114,GUARAGUAO,Region 2,Puerto Rico,Community water system,1868,PONCE,Ponce Municipio,6,46,22
+PR0604016,LAS CORUJAS,Region 2,Puerto Rico,Community water system,800,AGUAS BUENAS,Aguas Buenas Municipio,3,136,18
+PR0613196,ASOC. DUE%OS EL PARAISO,Region 2,Puerto Rico,Community water system,48,CAGUAS,Caguas Municipio,3,181,19
+PR0004614,RUCIO,Region 2,Puerto Rico,Community water system,3171,PENUELAS,Penuelas Municipio,4,79,14
+PR0613466,COMUNIDAD VILLA VIGIA,Region 2,Puerto Rico,Community water system,30,CAGUAS,Hatillo Municipio,2,113,2
+PR0439034,GUARAGUAO,Region 2,Puerto Rico,Community water system,450,JUANA DIAZ,Juana Diaz Municipio,3,349,16
+PR0518115,ASSMCA,Region 2,Puerto Rico,Transient non-community system,400,CAYEY,Cayey Municipio,3,0,0
+PR0644086,COM. ASOMANTE,Region 2,Puerto Rico,Community water system,948,LAS PIEDRAS,Las Piedras Municipio,3,10,10
+PR0666016,ASOC. VECINO SECTOR OQUENDO,Region 2,Puerto Rico,Community water system,312,SAN LORENZO,San Lorenzo Municipio,3,93,14
+PR0116041,SISTEMA DE AGUA DUAL BARRAZA,Region 2,Puerto Rico,Community water system,800,CAROLINA,Carolina Municipio,3,3,1
+PR0613016,COM. CASA DE PIEDRA,Region 2,Puerto Rico,Community water system,500,CAGUAS,Caguas Municipio,3,89,14
+PR0458194,ANON CARMELITA,Region 2,Puerto Rico,Community water system,800,PONCE,Ponce Municipio,3,331,14
+PR0455214,EL PERICO II,Region 2,Puerto Rico,Community water system,88,OROCOVIS,Orocovis Municipio,3,234,15
+PR0005607,DORADO URBANO,Region 2,Puerto Rico,Community water system,31061,DORADO,Dorado Municipio,19,143,17
+PR0115031,FINCA LOS GARCIA,Region 2,Puerto Rico,Community water system,84,CANOVANAS,Canovanas Municipio,3,378,6
+PR0002692,LARES URBANO,Region 2,Puerto Rico,Community water system,16438,LARES,Lares Municipio,7,243,14
+PR0644116,"SCHERING PLOUGH PRODUCTS, LLC",Region 2,Puerto Rico,Non-Transient non-community system,420,LAS PIEDRAS,Las Piedras Municipio,3,6,5
+PR0003924,VILLALBA URBANO,Region 2,Puerto Rico,Community water system,2768,"PONCE, VILLALBA",Villalba Municipio,6,51,30
+PR0207002,CAMPAMENTO PENAL SABANA HOYOS,Region 2,Puerto Rico,Community water system,400,ARECIBO,Arecibo Municipio,3,151,6
+PR0457054,PANDURA,Region 2,Puerto Rico,Community water system,240,PENUELAS,Penuelas Municipio,3,331,11
+PR0458214,PONCE DARLINGTON ELDERLY,Region 2,Puerto Rico,Community water system,183,PONCE,Ponce Municipio,3,98,11
+PR0457084,COROZAL,Region 2,Puerto Rico,Community water system,130,PENUELAS,Penuelas Municipio,2,240,18
+PR0754107,COMUNIDAD NIEVES SANCHEZ,Region 2,Puerto Rico,Community water system,2000,NARANJITO,Naranjito Municipio,5,231,11
+PR0666036,LOS DIAZ,Region 2,Puerto Rico,Community water system,284,SAN LORENZO,San Lorenzo Municipio,2,131,15
+PR0613056,LOS VELAZQUEZ,Region 2,Puerto Rico,Community water system,328,CAGUAS,Caguas Municipio,3,70,13
+PR0521085,CAMPAMENTO EBENEZER,Region 2,Puerto Rico,Transient non-community system,200,CIDRA,Cidra Municipio,2,137,9
+PR0478064,GUARAGUAO,Region 2,Puerto Rico,Community water system,950,YAUCO,Yauco Municipio,3,231,14
+PR0754097,LAS CRUCES,Region 2,Puerto Rico,Community water system,1200,NARANJITO,Naranjito Municipio,3,123,11
+PR0312043,LA CIEN PLAZA,Region 2,Puerto Rico,Non-Transient non-community system,31,CABO ROJO,Cabo Rojo Municipio,3,3,0
+PR0238122,SANTA BARBARA II,Region 2,Puerto Rico,Community water system,424,JAYUYA,Jayuya Municipio,3,362,9
+PR0401014,LAS CRUCES,Region 2,Puerto Rico,Community water system,130,ADJUNTAS,"Adjuntas Municipio, Trujillo Alto Municipio",3,182,16
+PR0613456,CONDOMINIO EL VERDE SUR,Region 2,Puerto Rico,Community water system,35,CAGUAS,Caguas Municipio,2,0,0
+PR0115011,CUBUY-MARINE,Region 2,Puerto Rico,Community water system,150,CANOVANAS,Canovanas Municipio,3,381,18
+PR0003712,SANTA ISABEL,Region 2,Puerto Rico,Community water system,3972,UTUADO,Utuado Municipio,6,80,16
+PR0004134,SALTILLO VACA,Region 2,Puerto Rico,Community water system,906,"ADJUNTAS, PONCE",Adjuntas Municipio,7,33,18
+PR0003844,OLLAS,Region 2,Puerto Rico,Community water system,2077,"PONCE, SANTA ISABEL","Ponce Municipio, Santa Isabel Municipio",3,30,17
+PR0004705,COMERIO URBANO,Region 2,Puerto Rico,Community water system,18312,COMERIO,Comerio Municipio,8,60,22
+PR0636046,COLEGIO SAN ANTONIO ABAD,Region 2,Puerto Rico,Non-Transient non-community system,525,HUMACAO,Humacao Municipio,3,30,10
+PR0724147,COM. SANTANA,Region 2,Puerto Rico,Community water system,200,COROZAL,,3,62,1
+PR0002982,ALMIRANTE SUR,Region 2,Puerto Rico,Community water system,3355,"ALMIRANTE, VEGA BAJA",Vega Baja Municipio,6,65,14
+PR0754127,ACUEDUCTO COMUNIDAD SAN JOSE,Region 2,Puerto Rico,Community water system,56,NARANJITO,,2,45,2
+PR0401144,LIMANI,Region 2,Puerto Rico,Community water system,150,ADJUNTAS,Adjuntas Municipio,2,224,16
+PR0633046,JAGUAS,Region 2,Puerto Rico,Community water system,280,GURABO,Gurabo Municipio,4,104,17
+PR0004484,CONSEJO,Region 2,Puerto Rico,Community water system,1180,GUAYANILLA,Guayanilla Municipio,5,129,9
+PR0523095,CEDRITO,Region 2,Puerto Rico,Community water system,360,COMERIO,Comerio Municipio,3,79,19
+PR0005386,"RIO BLANCO,VIEQUES,CULEDRA",Region 2,Puerto Rico,Community water system,89179,"LAS PIEDRAS, NAGUABO, VIEQUES","Las Piedras Municipio, Naguabo Municipio, Vieques Municipio",21,214,30
+PR0209032,ABBOTT PHARMACEUTICALS PR LTD.,Region 2,Puerto Rico,Non-Transient non-community system,1997,BARCELONETA,Barceloneta Municipio,3,7,2
+PR0005396,SAN SALVADOR,Region 2,Puerto Rico,Community water system,1496,"CAGUAS, SAN SALVADOR",Caguas Municipio,4,176,27
+PR0666056,LA CUCHILLA,Region 2,Puerto Rico,Community water system,400,SAN LORENZO,San Lorenzo Municipio,3,82,17
+PR0003593,LA MAQUINA,Region 2,Puerto Rico,Community water system,4506,"LA MAQUINA, SABANA GRANDE",Sabana Grande Municipio,4,62,26
+PR0004945,LAS BOCAS,Region 2,Puerto Rico,Community water system,6672,BARRANQUITAS,Barranquitas Municipio,3,39,2
+PR0004234,DUEY,Region 2,Puerto Rico,Community water system,2992,"MARICAO, YAUCO","Maricao Municipio, Yauco Municipio",4,70,23
+PR0004534,JACAGUAS,Region 2,Puerto Rico,Community water system,5641,JUANA DIAZ,Juana Diaz Municipio,11,166,6
+PR0003904,SANTA ISABEL URBANO,Region 2,Puerto Rico,Community water system,55309,"PONCE, SANTA ISABEL",Santa Isabel Municipio,20,227,13
+PR0458174,SERVICIO DE AGUA,Region 2,Puerto Rico,Community water system,310,PONCE,Ponce Municipio,3,327,15
+PR0005226,GUAYANES I,Region 2,Puerto Rico,Community water system,805,YABUCOA,Yabucoa Municipio,3,20,4
+PR0207042,ARROZAL - LOS MUERTOS,Region 2,Puerto Rico,Community water system,350,ARECIBO,Arecibo Municipio,2,189,10
+PR0439044,PORTILLO - MIRAMAR,Region 2,Puerto Rico,Community water system,383,JUANA DIAZ,Juana Diaz Municipio,3,111,3
+PR0458044,BO. MONTE LLANOS,Region 2,Puerto Rico,Community water system,432,PONCE,Ponce Municipio,3,116,12
+PR0458104,U.C.P.R,Region 2,Puerto Rico,Non-Transient non-community system,7416,PONCE,Ponce Municipio,3,192,17
+PR0005627,LA VIRGENCITA,Region 2,Puerto Rico,Community water system,29895,TOA ALTA,Toa Alta Municipio,10,63,9
+PR0556015,MULAS,Region 2,Puerto Rico,Community water system,900,PATILLAS,Patillas Municipio,3,238,14
+PR0604076,COMUNIDAD-MADRIGUERA,Region 2,Puerto Rico,Community water system,680,AGUAS BUENAS,Aguas Buenas Municipio,3,58,15
+PR0272032,FINCA WILLIAM LUGO,Region 2,Puerto Rico,Community water system,45,UTUADO,Utuado Municipio,2,240,7
+PR0455054,FCA. GERALDO PAGAN,Region 2,Puerto Rico,Community water system,680,OROCOVIS,Orocovis Municipio,4,186,14
+PR0677216,JACANAS SUR,Region 2,Puerto Rico,Community water system,1080,YABUCOA,Yabucoa Municipio,3,50,2
+PR0422014,ASOCIACION RESIDENTE,Region 2,Puerto Rico,Community water system,368,COAMO,Coamo Municipio,3,145,17
+PR0238032,ALTURAS DE COLLORES,Region 2,Puerto Rico,Community water system,320,JAYUYA,Jayuya Municipio,3,351,13
+PR0004654,ACEITUNAS,Region 2,Puerto Rico,Community water system,11327,VILLALBA,Villalba Municipio,5,77,1
+PR0613436,MOVA PHARMACEUTICAL COP.,Region 2,Puerto Rico,Non-Transient non-community system,900,CAGUAS,Hatillo Municipio,2,66,1
+PR0458294,ACUEDUCTO FAMILIA TORRES,Region 2,Puerto Rico,Community water system,80,PONCE,Ponce Municipio,1,95,2
+PR0242012,LUCAS LUGO,Region 2,Puerto Rico,Community water system,40,LARES,"Jayuya Municipio, Lares Municipio",2,237,6
+PR0476204,SIERRITA,Region 2,Puerto Rico,Community water system,268,VILLALBA,Villalba Municipio,3,340,11
+PR0455164,PELLEJAS II,Region 2,Puerto Rico,Community water system,500,OROCOVIS,Orocovis Municipio,3,129,14
+PR0666116,ACUED. COMUNIDAD 18,Region 2,Puerto Rico,Community water system,120,SAN LORENZO,San Lorenzo Municipio,3,194,7
+PR0518095,OLAY COMPANY,Region 2,Puerto Rico,Non-Transient non-community system,600,CAYEY,Cayey Municipio,4,4,4
+PR0556135,MULAS SECTOR SOFIA,Region 2,Puerto Rico,Community water system,53,PATILLAS,Patillas Municipio,3,87,2
+PR0455334,COMUNIDAD LIMONES,Region 2,Puerto Rico,Community water system,450,OROCOVIS,Orocovis Municipio,3,9,1
+PR0002722,BARCELONETA URBANO,Region 2,Puerto Rico,Community water system,26313,BARCELONETA,Barceloneta Municipio,10,153,6
+PR0003553,DUEY,Region 2,Puerto Rico,Community water system,8368,"DUEY QUINONEZ, SAN GERMAN",San German Municipio,9,91,17
+PR0005236,BOQUERON,Region 2,Puerto Rico,Community water system,1910,"BOQUERON, LAS PIEDRAS",Las Piedras Municipio,3,11,14
+PR0002872,QUEBRADA,Region 2,Puerto Rico,Community water system,13860,"CAMUY, HATILLO","Camuy Municipio, Hatillo Municipio",6,95,18
+PR0367013,ACUD. RURAL GUACIO,Region 2,Puerto Rico,Community water system,189,SAN SEBASTIAN,San Sebastian Municipio,3,126,14
+PR0004444,DEPORTIVO,Region 2,Puerto Rico,Community water system,1067,GUAYANILLA,Guayanilla Municipio,3,8,10
+PR0754137,COMUNIDAD LA GALLERA,Region 2,Puerto Rico,Community water system,96,NARANJITO,,5,70,2
+PR0439054,TESTIMONIO MUNDIAL DE LA GRACIA,Region 2,Puerto Rico,Transient non-community system,500,JUANA DIAZ,Juana Diaz Municipio,3,3,1
+PR0518075,VECINOS COMUNIDAD LUIS LEBRON,Region 2,Puerto Rico,Community water system,180,CAYEY,Cayey Municipio,3,160,10
+PR0510225,ACUED. CAÑABON SECTOR EL PARQUE,Region 2,Puerto Rico,Community water system,113,,Barranquitas Municipio,4,38,2
+PR0238082,VEGUITAS GRIPINAS,Region 2,Puerto Rico,Community water system,130,JAYUYA,Jayuya Municipio,3,360,12
+PR0003802,JAGUAS PESAS (POZAS),Region 2,Puerto Rico,Community water system,4723,CIALES,Ciales Municipio,4,81,13
+PR0247042,CARIBE AGRICHEMICALS,Region 2,Puerto Rico,Non-Transient non-community system,380,MANATI,Manati Municipio,3,15,1
+PR0272272,SALTOS CAGUANA,Region 2,Puerto Rico,Community water system,280,UTUADO,Utuado Municipio,3,347,8
+PR0004605,BARRANQUITAS URBANO,Region 2,Puerto Rico,Community water system,8246,BARRANQUITAS,Barranquitas Municipio,30,308,22
+PR0476224,ACEITUNA I,Region 2,Puerto Rico,Community water system,69,VILLALBA,Villalba Municipio,3,347,19
+PR0002591,METROPOLITANO,Region 2,Puerto Rico,Community water system,1048868,"BAYAMON, SAN JUAN, TOA ALTA","Bayamon Municipio, San Juan Municipio, Toa Alta Municipio",93,483,51
+PR0005246,GUAYANES II,Region 2,Puerto Rico,Community water system,2771,YABUCOA,Yabucoa Municipio,5,82,4
+PR0005376,LAS PIEDRAS HUMACAO,Region 2,Puerto Rico,Community water system,43350,HUMACAO,"Humacao Municipio, Naguabo Municipio",6,75,6
+PR0613256,PINAS-BEATRIZ II,Region 2,Puerto Rico,Community water system,360,CAGUAS,Caguas Municipio,3,230,14
+PR0302013,COMUNIDAD GAVINO NEGRON,Region 2,Puerto Rico,Community water system,740,AGUADA,Aguada Municipio,3,122,13
+PR0004094,RIO LOCO,Region 2,Puerto Rico,Community water system,1785,"GUANICA, YAUCO","Guanica Municipio, Yauco Municipio",3,39,17
+PR0510145,ACUED. RURAL PALMARITO CINTRON,Region 2,Puerto Rico,Community water system,720,BARRANQUITAS,"Barranquitas Municipio, Corozal Municipio",2,122,17
+PR0274012,PFIZER PHARMACEUTICALS LIMITED,Region 2,Puerto Rico,Non-Transient non-community system,1500,VEGA BAJA,Vega Baja Municipio,3,3,6
+PR0005306,FAJARDO CEIBA,Region 2,Puerto Rico,Community water system,73353,"FAJARDO, FAJARDO CEIBA",Fajardo Municipio,5,166,30
+PR0604056,SECTOR TIZA,Region 2,Puerto Rico,Community water system,420,AGUAS BUENAS,Aguas Buenas Municipio,3,184,17
+PR0002000,SUPERACUEDUCTO,Region 2,Puerto Rico,Community water system,642104,"SAN JUAN, TOA BAJA","Bayamon Municipio, San Juan Municipio, Toa Alta Municipio",3,5,5
+PR0613266,BORINQUEN-PRADERAS,Region 2,Puerto Rico,Community water system,720,CAGUAS,Caguas Municipio,3,302,18
+PR0457154,"ECOELECTRICA, L. P.",Region 2,Puerto Rico,Non-Transient non-community system,200,PENUELAS,Penuelas Municipio,3,10,3
+PR0613486,ACUED. HACIENDA DEL REY,Region 2,Puerto Rico,Community water system,160,CAGUAS,Caguas Municipio,3,20,2
+PR0604086,BAYAMONCITO,Region 2,Puerto Rico,Community water system,740,AGUAS BUENAS,Aguas Buenas Municipio,4,234,15
+PR0002752,CIALES URBANO,Region 2,Puerto Rico,Community water system,10195,CIALES,Ciales Municipio,10,121,15
+PR0455114,COM. SABANA,Region 2,Puerto Rico,Community water system,720,OROCOVIS,Orocovis Municipio,4,222,18
+PR0003633,PEDREGAL,Region 2,Puerto Rico,Community water system,879,SAN GERMAN,San German Municipio,3,5,0
+PR0401284,JUAN GONZALEZ,Region 2,Puerto Rico,Community water system,500,ADJUNTAS,Adjuntas Municipio,3,101,11
+PR0613496,ASOC. RES. PALMAS DEL TURABO,Region 2,Puerto Rico,Community water system,180,CAGUAS,Caguas Municipio,3,28,1
+PR0364073,LOMAS DE SANTA MARIA,Region 2,Puerto Rico,Community water system,156,SAN GERMAN,San German Municipio,3,15,2
+PR0003012,FRONTON,Region 2,Puerto Rico,Community water system,3659,CIALES,Ciales Municipio,4,174,23
+PR0005476,JAGUEYES,Region 2,Puerto Rico,Community water system,623,YABUCOA,Yabucoa Municipio,5,5,3
+PR0005496,LA GRUA,Region 2,Puerto Rico,Community water system,7605,YABUCOA,Yabucoa Municipio,9,11,2
+PR0209122,ABBOTT PHARMACEUTICALS PR LTD.,Region 2,Puerto Rico,Non-Transient non-community system,211,BARCELONETA,Barceloneta Municipio,3,15,0
+PR0306053,COMUNIDAD HATILLO,Region 2,Puerto Rico,Community water system,300,ANASCO,Anasco Municipio,3,198,11
+PR0242122,COM. LAS CUARENTA,Region 2,Puerto Rico,Community water system,212,LARES,Lares Municipio,3,126,7
+PR0401234,GARZAS JUNCOS,Region 2,Puerto Rico,Community water system,460,ADJUNTAS,Adjuntas Municipio,3,114,18
+PR0510055,CANABON ABAJO,Region 2,Puerto Rico,Community water system,400,BARRANQUITAS,Barranquitas Municipio,3,214,14
+PR0563095,CAMPAMENTO SANTIAGO,Region 2,Puerto Rico,Non-Transient non-community system,500,SALINAS,Salinas Municipio,3,52,14
+PR0004504,DAJAOS,Region 2,Puerto Rico,Community water system,325,VILLALBA,Villalba Municipio,3,6,8
+PR0132041,CONDOMINIO CAPARRA CLASSIC,Region 2,Puerto Rico,Community water system,150,GUAYNABO,Guaynabo Municipio,2,0,0
+PR0613046,ACUED. RURAL TURADO ARRIBA,Region 2,Puerto Rico,Community water system,1200,CAGUAS,Caguas Municipio,3,111,13
+PR0666076,QUEMADOS II SEC. VICENTE,Region 2,Puerto Rico,Community water system,420,SAN LORENZO,San Lorenzo Municipio,3,42,14
+PR0207062,MSD INTERNATIONAL GMBH (PR BRANCH) LLC.,Region 2,Puerto Rico,Non-Transient non-community system,385,ARECIBO,Arecibo Municipio,3,3,1
+PR0422084,COAMO ARRIBA,Region 2,Puerto Rico,Community water system,640,COAMO,Coamo Municipio,4,244,13
+PR0563085,ALBERGUE OLIMPICO DE P.R,Region 2,Puerto Rico,Non-Transient non-community system,150,SALINAS,Salinas Municipio,3,29,14
+PR0002662,HATILLO-CAMUY,Region 2,Puerto Rico,Community water system,46688,"HATILLO, HATILLO CAMUY",Hatillo Municipio,12,198,21
+PR0003283,MAYAGUEZ,Region 2,Puerto Rico,Community water system,196778,"ANASCO, MAYAGUEZ","Anasco Municipio, Mayaguez Municipio",48,517,32
+PR0530045,LOS BARROS,Region 2,Puerto Rico,Community water system,275,GUAYAMA,Guayama Municipio,3,350,12
+PR0005336,JIMENEZ,Region 2,Puerto Rico,Community water system,685,RIO GRANDE,Rio Grande Municipio,4,149,18
+PR0004695,CIDRA URBANO,Region 2,Puerto Rico,Community water system,33713,CIDRA,Cidra Municipio,20,305,21
+PR0505065,HOSPITAL MENONITA,Region 2,Puerto Rico,Non-Transient non-community system,890,AIBONITO,Aibonito Municipio,3,42,9
+PR0458314,EL YUMURI,Region 2,Puerto Rico,Community water system,80,PONCE,Ponce Municipio,1,95,2
+PR0422094,COMUNIDAD MONTERIA,Region 2,Puerto Rico,Community water system,360,COAMO,Coamo Municipio,3,220,15
+PR0458234,EL TESORO,Region 2,Puerto Rico,Community water system,135,PONCE,Ponce Municipio,3,220,3
+PR0302083,PROYECTO AGUAS,Region 2,Puerto Rico,Community water system,412,AGUADA,Aguada Municipio,3,31,3
+PR0002842,RIO ARRIBA,Region 2,Puerto Rico,Community water system,1442,ARECIBO,Arecibo Municipio,7,144,12
+PR0003854,PLAYITA CORTADA,Region 2,Puerto Rico,Community water system,1302,"PONCE, SANTA ISABEL",Santa Isabel Municipio,3,4,18
+PR0004464,MALPASO,Region 2,Puerto Rico,Community water system,1365,PENUELAS,Penuelas Municipio,3,34,26
+PR0521035,PELEGRIN SANTO,Region 2,Puerto Rico,Community water system,282,CIDRA,"Aguas Buenas Municipio, Cidra Municipio",3,63,14
+PR0476324,ACEITUNA III,Region 2,Puerto Rico,Community water system,66,VILLALBA,Villalba Municipio,3,188,4
+PR0364063,COMUNIDAD MENDEZ,Region 2,Puerto Rico,Community water system,60,SAN GERMAN,San German Municipio,3,313,16
+PR0272102,HACIENDA RULLAN,Region 2,Puerto Rico,Community water system,340,UTUADO,Utuado Municipio,3,381,11
+PR0272262,VEGUITA,Region 2,Puerto Rico,Community water system,300,UTUADO,Utuado Municipio,3,374,8
+PR0004074,GUANICA URBANO,Region 2,Puerto Rico,Community water system,14563,GUANICA,Guanica Municipio,8,44,16
+PR0003222,BAJADERO,Region 2,Puerto Rico,Community water system,4497,ARECIBO,Arecibo Municipio,3,25,14
+PR0005186,GUAYABOTA,Region 2,Puerto Rico,Community water system,1061,"GUAYABOTA, YABUCOA",Yabucoa Municipio,4,284,30
+PR0272142,COMUNIDAD CHORRERAS,Region 2,Puerto Rico,Community water system,240,UTUADO,Utuado Municipio,3,376,10
+PR0242062,VEGA ACEVEDO,Region 2,Puerto Rico,Community water system,396,LARES,Lares Municipio,3,220,8
+PR0272162,LA CASCADA MILAGRASA,Region 2,Puerto Rico,Community water system,168,UTUADO,Utuado Municipio,3,365,11
+PR0476054,LA JULITA,Region 2,Puerto Rico,Community water system,108,VILLALBA,Villalba Municipio,3,360,15
+PR0476124,VACAS II,Region 2,Puerto Rico,Community water system,500,VILLALBA,Villalba Municipio,3,338,9
+PR0476154,VISTA ALEGRE,Region 2,Puerto Rico,Community water system,340,VILLALBA,Villalba Municipio,3,259,16
+PR0724027,MANA I,Region 2,Puerto Rico,Community water system,320,COROZAL,Corozal Municipio,3,187,17
+PR0004885,SALINAS URBANO,Region 2,Puerto Rico,Community water system,10859,SALINAS,Salinas Municipio,7,73,12
+PR0468064,MOTEL LAS VEGAS,Region 2,Puerto Rico,Transient non-community system,52,SANTA ISABEL,Santa Isabel Municipio,3,13,1
+PR0004765,CIMARRONA,Region 2,Puerto Rico,Community water system,2372,"BO CIMARRONA, GUAYAMA",Guayama Municipio,3,25,12
+PR0004324,PENUELAS,Region 2,Puerto Rico,Community water system,23453,PENUELAS,Penuelas Municipio,9,106,33
+PR0004815,MAUNABO URBANO,Region 2,Puerto Rico,Community water system,12498,MAUNABO,Maunabo Municipio,10,138,22
+PR0004474,PIEDRAS BLANCAS,Region 2,Puerto Rico,Community water system,3764,GUAYANILLA,Guayanilla Municipio,5,18,9
+PR0207052,OBSERVATORIO DE ARECIBO,Region 2,Puerto Rico,Non-Transient non-community system,100,ARECIBO,Arecibo Municipio,2,23,5
+PR0238072,SANTA BARBARA,Region 2,Puerto Rico,Community water system,500,JAYUYA,Jayuya Municipio,3,366,12
+PR0563105,A.E.E. AGUIRRE CICLO COMBINADO,Region 2,Puerto Rico,Non-Transient non-community system,140,SALINAS,Salinas Municipio,3,8,2
+PR0422074,LA CUESTA,Region 2,Puerto Rico,Community water system,172,COAMO,Coamo Municipio,3,323,12
+PR0003832,CIMARRONA,Region 2,Puerto Rico,Community water system,2065,BARCELONETA,Barceloneta Municipio,9,11,2
+PR0306093,ACUED. RURAL DAGUEY  AJIES ARRIBA,Region 2,Puerto Rico,Community water system,840,ANASCO,Anasco Municipio,1,17,1
+PR0556045,LOS BARROS MARIN,Region 2,Puerto Rico,Community water system,108,PATILLAS,Patillas Municipio,3,307,13
+PR0004344,AMELIA,Region 2,Puerto Rico,Community water system,6769,JUANA DIAZ,Juana Diaz Municipio,7,148,15
+PR0604066,JUAN ASENCIO,Region 2,Puerto Rico,Community water system,900,AGUAS BUENAS,Aguas Buenas Municipio,3,160,22
+PR0209102,CRUCE DAVILA DEVELOPMENT LLC,Region 2,Puerto Rico,Non-Transient non-community system,1000,BARCELONETA,Barceloneta Municipio,3,23,4
+PR0272082,ACUED. LA GRAMA,Region 2,Puerto Rico,Community water system,60,UTUADO,Utuado Municipio,3,380,8
+PR0563145,PR INTERNATIONAL SPEEDWAY CORP.,Region 2,Puerto Rico,Transient non-community system,400,SALINAS,Salinas Municipio,3,8,1
+PR0661046,BARCELONA,Region 2,Puerto Rico,Community water system,260,RIO GRANDE,Rio Grande Municipio,3,380,14
+PR0478054,LA JURADA,Region 2,Puerto Rico,Community water system,105,YAUCO,Yauco Municipio,3,311,10
+PR0004845,JACABOAS,Region 2,Puerto Rico,Community water system,3412,"BO JACABOA, PATILLAS",Patillas Municipio,9,26,14
+PR0364043,COM. RIO PIEDRAS,Region 2,Puerto Rico,Community water system,220,SAN GERMAN,San German Municipio,4,262,14
+PR0653026,COM. RANCHO GRANDE,Region 2,Puerto Rico,Community water system,2072,NAGUABO,Naguabo Municipio,3,243,17
+PR0002942,MONTE BELLO,Region 2,Puerto Rico,Community water system,2318,MANATI,Manati Municipio,7,32,7
+PR0005066,CAGUAS SUR,Region 2,Puerto Rico,Community water system,40179,CAGUAS,Caguas Municipio,14,119,24
+PR0653056,ACUED. DE LA COMUNIDAD  DEL DUQUE,Region 2,Puerto Rico,Community water system,172,NAGUABO,Naguabo Municipio,3,167,5
+PR0302053,COM. AISLADA EN DESARROLLO,Region 2,Puerto Rico,Community water system,440,AGUADA,Aguada Municipio,3,114,6
+PR0272282,FINCA CARBONELL,Region 2,Puerto Rico,Community water system,240,UTUADO,Utuado Municipio,2,239,7
+PR0401034,PELLEJAS,Region 2,Puerto Rico,Community water system,260,ADJUNTAS,Adjuntas Municipio,2,202,17
+PR0002732,FLORIDA URBANO,Region 2,Puerto Rico,Community water system,16399,FLORIDA,Florida Municipio,19,109,15
+PR0004044,OROCOVIS URBANO,Region 2,Puerto Rico,Community water system,24877,"OROCOVIS, PONCE",Orocovis Municipio,20,84,23
+PR0004564,MATRULLA,Region 2,Puerto Rico,Community water system,3302,OROCOVIS,Orocovis Municipio,4,15,23
+PR0351023,SONADOR II,Region 2,Puerto Rico,Community water system,800,MOCA,Moca Municipio,3,104,11
+PR0003613,BUCARABONES,Region 2,Puerto Rico,Community water system,587,MARICAO,,3,3,1
+PR0004664,REGIONAL VILLALBA TOA VACA,Region 2,Puerto Rico,Community water system,24665,VILLALBA,Villalba Municipio,9,29,1
+PR0457114,LA GELPA,Region 2,Puerto Rico,Community water system,252,PENUELAS,Penuelas Municipio,3,223,14
+PR0478044,CERROTE,Region 2,Puerto Rico,Community water system,152,YAUCO,Yauco Municipio,3,268,13
+PR0003872,LARES ESPINO,Region 2,Puerto Rico,Community water system,18688,LARES,Lares Municipio,3,14,1
+PR0004955,AIBONITO URBANO,Region 2,Puerto Rico,Community water system,9956,AIBONITO,Aibonito Municipio,8,23,1
+PR0619016,PORTAL DEL FUTURO,Region 2,Puerto Rico,Community water system,300,CEIBA,Ceiba Municipio,4,75,15
+PR0455274,ACUEDUCTO TAITA,Region 2,Puerto Rico,Community water system,80,OROCOVIS,Orocovis Municipio,4,147,19
+PR0003772,LAGO GUAJATACA,Region 2,Puerto Rico,Community water system,13207,"ISABELA, SAN SEBASTIAN","Isabela Municipio, San Sebastian Municipio",4,137,24
+PR0002682,QUEBRADILLAS URBANO,Region 2,Puerto Rico,Community water system,35450,QUEBRADILLAS,Quebradillas Municipio,14,197,19
+PR0005196,YABUCOA URBANO,Region 2,Puerto Rico,Community water system,19200,YABUCOA,Yabucoa Municipio,12,215,27
+PR0458224,"USSC PUERTO RICO, INC",Region 2,Puerto Rico,Transient non-community system,1100,PONCE,Ponce Municipio,2,0,0
+PR0004244,JAGUA PASTO,Region 2,Puerto Rico,Community water system,1252,"GUAYANILLA, JAGUA PASTO",Guayanilla Municipio,3,89,27
+PR0302073,ESCUELA ATALAYA,Region 2,Puerto Rico,Community water system,270,AGUADA,Aguada Municipio,3,159,6
+PR0556115,COM. JAGUAL,Region 2,Puerto Rico,Community water system,50,PATILLAS,Patillas Municipio,3,140,6
+PR0613386,MYLAN LLC,Region 2,Puerto Rico,Non-Transient non-community system,350,CAGUAS,Caguas Municipio,3,7,12
+PR0303023,ACUEDUCTO INSTITUCION CORRECIONAL GUERRE,Region 2,Puerto Rico,Community water system,1100,AGUADILLA,Aguadilla Municipio,5,26,0
+PR0754057,COM. ANONES MAYA,Region 2,Puerto Rico,Community water system,1750,NARANJITO,Naranjito Municipio,9,199,16
+PR0505055,CUYON,Region 2,Puerto Rico,Community water system,680,AIBONITO,Aibonito Municipio,3,206,14
+PR0004555,CUYON,Region 2,Puerto Rico,Community water system,918,"AIBONITO, CUYON PASTO VIE",Aibonito Municipio,5,33,18
+PR0004084,ENSENADA,Region 2,Puerto Rico,Community water system,7840,"GUANICA, PONCE",Guanica Municipio,5,37,16
+PR0661056,FOREST SERVICE-EL YUNQUE,Region 2,Puerto Rico,Non-Transient non-community system,1777,RIO GRANDE,Rio Grande Municipio,3,352,16
+PR0478034,LA MONTANA,Region 2,Puerto Rico,Community water system,90,YAUCO,Yauco Municipio,3,351,11
+PR0458304,LA CARMELITA,Region 2,Puerto Rico,Community water system,38,PONCE,Ponce Municipio,1,95,1
+PR0476314,SIERRITA-CAONILLA,Region 2,Puerto Rico,Community water system,100,VILLALBA,Villalba Municipio,2,236,12
+PR0521075,COM. AISLADA ALMIRANTE,Region 2,Puerto Rico,Community water system,252,CIDRA,Cidra Municipio,3,85,15
+PR0724127,COMUNIDAD DIVISORIA,Region 2,Puerto Rico,Community water system,43,COROZAL,Corozal Municipio,2,108,2
+PR0004745,GUAYAMA URBANO,Region 2,Puerto Rico,Community water system,48547,"ARROYO, GUAYAMA","Arroyo Municipio, Guayama Municipio",12,134,19
+PR0002882,CAMPO ALEGRE,Region 2,Puerto Rico,Community water system,2345,"CAMPO ALEGRE, HATILLO",Hatillo Municipio,7,41,13
+PR0640026,AMGEN (AML-23),Region 2,Puerto Rico,Non-Transient non-community system,30,JUNCOS,Juncos Municipio,3,0,1
+PR0401294,ASOCIACION ACUEDUCTO REVENTON,Region 2,Puerto Rico,Community water system,212,ADJUNTAS,Adjuntas Municipio,3,259,13
+PR0457044,CORPORACION PRO SALUD Y MEJORA,Region 2,Puerto Rico,Community water system,320,PENUELAS,Penuelas Municipio,3,311,14
+PR0004635,CAYEY URBANO,Region 2,Puerto Rico,Community water system,23983,CAYEY,Cayey Municipio,22,238,27
+PR0004164,TANAMA,Region 2,Puerto Rico,Community water system,1088,"ADJUNTAS, PONCE",Adjuntas Municipio,4,52,22
+PR0005096,GURABO URBANO,Region 2,Puerto Rico,Community water system,39369,GURABO,Gurabo Municipio,16,247,29
+PR0455134,PELLEJAS-GALLERA I,Region 2,Puerto Rico,Community water system,25,OROCOVIS,Orocovis Municipio,4,241,16
+PR0005356,GUZMAN ARRIBA,Region 2,Puerto Rico,Community water system,4774,RIO GRANDE,Rio Grande Municipio,5,117,28
+PR0003533,CAIN ALTO,Region 2,Puerto Rico,Community water system,3698,SAN GERMAN,"Salinas Municipio, San German Municipio",4,68,24
+PR0003433,ROCHA,Region 2,Puerto Rico,Community water system,4220,MOCA,Moca Municipio,6,67,33
+PR0773027,"DBR DEVELOPMENT MANAGEMENT, LLC",Region 2,Puerto Rico,Non-Transient non-community system,1000,VEGA ALTA,Vega Alta Municipio,3,14,11
+PR0644096,SISTEMA-AGUA POTABLE. MCNEIL,Region 2,Puerto Rico,Non-Transient non-community system,1640,LAS PIEDRAS,Las Piedras Municipio,3,4,8
+PR0002782,GARROCHALES,Region 2,Puerto Rico,Community water system,14346,"ARECIBO, GARROCHALES",Arecibo Municipio,9,41,9
+PR0003042,LA PICA,Region 2,Puerto Rico,Community water system,626,"JAYUYA, LA PICA",Jayuya Municipio,4,56,25
+PR0002762,MOROVIS URBANO,Region 2,Puerto Rico,Community water system,24490,MOROVIS,Morovis Municipio,15,158,15
+PR0457094,COREA METRALLA,Region 2,Puerto Rico,Community water system,1000,PENUELAS,Penuelas Municipio,3,349,11
+PR0754077,FEIJO,Region 2,Puerto Rico,Community water system,460,NARANJITO,Naranjito Municipio,3,116,17
+PR0556145,"MARIN, SECTOR BETANCOURT",Region 2,Puerto Rico,Community water system,120,PATILLAS,Patillas Municipio,3,77,2
+PR0510095,ACUED. COM. BO. QUEBRADILLAS,Region 2,Puerto Rico,Community water system,2500,BARRANQUITAS,Barranquitas Municipio,3,163,23
+PR0644136,ACUED. RURAL MONTONES 4,Region 2,Puerto Rico,Community water system,304,LAS PIEDRAS,Las Piedras Municipio,3,14,1
+PR0521105,CIBA VISION DE PR,Region 2,Puerto Rico,Non-Transient non-community system,188,CIDRA,Cidra Municipio,2,21,0
+PR0004374,ARENAS,Region 2,Puerto Rico,Community water system,2846,"GUANICA, YAUCO","Guanica Municipio, Yauco Municipio",4,50,15
+PR0003353,MARICAO,Region 2,Puerto Rico,Community water system,3925,MARICAO,Maricao Municipio,6,60,24
+PR0457024,MALTILLO,Region 2,Puerto Rico,Community water system,400,PENUELAS,Penuelas Municipio,3,345,15
+PR0247032,WARNER CHILCOTT PUERTO RICO LLC,Region 2,Puerto Rico,Non-Transient non-community system,32,MANATI,Manati Municipio,4,13,2
+PR0401024,GUILARTE HELECHALES,Region 2,Puerto Rico,Community water system,25,ADJUNTAS,Adjuntas Municipio,3,159,15
+PR0005487,COROZAL URBANO,Region 2,Puerto Rico,Community water system,12367,COROZAL,Corozal Municipio,8,130,24
+PR0004574,TIBES,Region 2,Puerto Rico,Community water system,465,PONCE,Ponce Municipio,4,33,16
+PR0004204,ADJUNTAS URBANO,Region 2,Puerto Rico,Community water system,5689,"ADJUNTAS, PONCE",Adjuntas Municipio,8,84,23
+PR0272252,SIST. RURAL GRAULAO,Region 2,Puerto Rico,Community water system,64,UTUADO,Utuado Municipio,3,375,9
+PR0604046,MULITAS CENTRO,Region 2,Puerto Rico,Community water system,844,AGUAS BUENAS,Aguas Buenas Municipio,3,124,14
+PR0004454,REAL ANON,Region 2,Puerto Rico,Community water system,3370,PONCE,Ponce Municipio,6,17,20
+PR0004064,LOS CANOS,Region 2,Puerto Rico,Community water system,15937,"GUANICA, YAUCO","Guanica Municipio, Yauco Municipio",7,45,16
+PR0004915,COQUI,Region 2,Puerto Rico,Community water system,6177,"COQUI, SALINAS",Salinas Municipio,10,83,12
+PR0458114,HOSPITAL DE DAMAS,Region 2,Puerto Rico,Non-Transient non-community system,1306,PONCE,Ponce Municipio,3,214,15
+PR0613476,CAGUAS REAL,Region 2,Puerto Rico,Community water system,400,CAGUAS,Caguas Municipio,5,13,0
+PR0431034,CENTRAL TERMOELECTRICA,Region 2,Puerto Rico,Non-Transient non-community system,390,GUAYANILLA,Guayanilla Municipio,3,217,13
+PR0510195,HELECHAL-GUAYABO,Region 2,Puerto Rico,Community water system,720,BARRANQUITAS,Barranquitas Municipio,3,65,22
+PR0556125,ACUEDUCTO MACHUCHAL,Region 2,Puerto Rico,Community water system,136,PATILLAS,Patillas Municipio,3,101,4
+PR0556095,GUARDARRAYA,Region 2,Puerto Rico,Community water system,120,PATILLAS,Patillas Municipio,3,346,10
+PR0677076,ACUED. BO. GUAYABOTA,Region 2,Puerto Rico,Community water system,2268,YABUCOA,Yabucoa Municipio,3,259,16
+PR0530085,CARITE LAKES,Region 2,Puerto Rico,Transient non-community system,150,GUAYAMA,Guayama Municipio,3,137,12
+PR0627016,JUAN DIEGO,Region 2,Puerto Rico,Community water system,160,FAJARDO,Fajardo Municipio,3,379,13
+PR0613176,SECTOR LAJITAS,Region 2,Puerto Rico,Community water system,33,CAGUAS,Caguas Municipio,3,369,22
+PR0003555,CAPRILES,Region 2,Puerto Rico,Community water system,536,SAN GERMAN,San German Municipio,6,33,10
+PR0003212,CANALIZO,Region 2,Puerto Rico,Community water system,1088,JAYUYA,Jayuya Municipio,4,61,24
+PR0003343,LAJAS,Region 2,Puerto Rico,Community water system,56134,LAJAS,Lajas Municipio,4,78,29
+PR0242052,ACUED. COM. MAGUEYES,Region 2,Puerto Rico,Community water system,140,LARES,Lares Municipio,3,228,13
+PR0302033,QUEBRADA LARGA,Region 2,Puerto Rico,Community water system,488,AGUADA,Aguada Municipio,3,151,9
+PR0303013,JARDIN DEL ATLANTICO,Region 2,Puerto Rico,Community water system,165,AGUADILLA,,3,11,0
+PR0002672,ISABELA,Region 2,Puerto Rico,Community water system,59439,ISABELA,Isabela Municipio,11,209,27
+PR0770027,LA FAMOSA,Region 2,Puerto Rico,Non-Transient non-community system,65,"BAYAMON, TOA BAJA",Toa Baja Municipio,3,15,11
+PR0468054,MARTEX FARM. PASO SECO,Region 2,Puerto Rico,Transient non-community system,42,SANTA ISABEL,Santa Isabel Municipio,3,7,1
+PR0510125,LA TIZA II,Region 2,Puerto Rico,Community water system,240,BARRANQUITAS,Barranquitas Municipio,3,75,19
+PR0005466,PAISAJE DEL LAGO,Region 2,Puerto Rico,Community water system,700,LUQUILLO,Luquillo Municipio,3,17,2
+PR0005557,BO NUEVO,Region 2,Puerto Rico,Community water system,2995,BAYAMON,Bayamon Municipio,4,71,25
+PR0002611,CUBUY,Region 2,Puerto Rico,Community water system,6413,"CANOVANAS, JUNCOS","Canovanas Municipio, Juncos Municipio",10,183,30
+PR0003022,SANAMUERTO,Region 2,Puerto Rico,Community water system,2515,"MOROVIS, OROCOVIS","Morovis Municipio, Orocovis Municipio",4,179,16
+PR0132021,LOMAS VERDES (WATCH TOWER),Region 2,Puerto Rico,Community water system,130,GUAYNABO,Guaynabo Municipio,3,34,10
+PR0004545,AIBONITO LA PLATA,Region 2,Puerto Rico,Community water system,19751,"AIBONITO, AIBONITO C",Aibonito Municipio,33,404,26
+PR0005286,CUBUY MAIZALES,Region 2,Puerto Rico,Community water system,671,"CUBUY, NAGUABO",Naguabo Municipio,4,179,14
+PR0401064,COMUNIDAD PALOMO,Region 2,Puerto Rico,Community water system,200,ADJUNTAS,Adjuntas Municipio,5,287,9
+PR0220032,ACUED. LAS DELICIAS,Region 2,Puerto Rico,Community water system,48,CIALES,Ciales Municipio,3,382,4
+PR0636086,EX-LAX,Region 2,Puerto Rico,Non-Transient non-community system,131,HUMACAO,Humacao Municipio,3,8,7
+PR0401074,SECTOR LOS HERNANDEZ,Region 2,Puerto Rico,Community water system,245,ADJUNTAS,Adjuntas Municipio,3,94,15
+PR0003303,SAN SEBASTIAN,Region 2,Puerto Rico,Community water system,33650,SAN SEBASTIAN,San Sebastian Municipio,6,100,25
+PR0005136,ESPINO,Region 2,Puerto Rico,Community water system,3749,"ESPINO, SAN LORENZO",San Lorenzo Municipio,4,79,22
+PR0003523,MONTE DEL ESTADO,Region 2,Puerto Rico,Community water system,1082,"MARICAO, TABONUCO",Maricao Municipio,4,56,22
+PR0478014,BO. RUBIAS,Region 2,Puerto Rico,Community water system,312,YAUCO,Yauco Municipio,3,159,13
+PR0530095,PHYZER,Region 2,Puerto Rico,Non-Transient non-community system,685,GUAYAMA,Guayama Municipio,2,1,9
+PR0272012,VIVI ABAJO,Region 2,Puerto Rico,Community water system,57,UTUADO,Utuado Municipio,3,375,9
+PR0003435,WILFREDO VALENTIN,Region 2,Puerto Rico,Community water system,2414,SAN SEBASTIAN,San Sebastian Municipio,2,72,6
+PR0003293,AGUADILLA,Region 2,Puerto Rico,Community water system,150031,"AGUADA, AGUADILLA, MOCA, RINCON","Aguada Municipio, Aguadilla Municipio, Moca Municipio, Rincon Municipio",44,424,29
+PR0523055,COMUNIDAD MAISONET,Region 2,Puerto Rico,Community water system,900,COMERIO,Comerio Municipio,3,223,15
+PR0002772,VEGA BAJA URBANO,Region 2,Puerto Rico,Community water system,51894,VEGA BAJA,Vega Baja Municipio,12,261,17
+PR0238012,ZAMAS,Region 2,Puerto Rico,Community water system,1400,JAYUYA,Jayuya Municipio,3,328,10
+PR0510115,LOS MUCHOS,Region 2,Puerto Rico,Community water system,280,BARRANQUITAS,Barranquitas Municipio,3,123,19
+PR0364013,PERICHE,Region 2,Puerto Rico,Community water system,1100,SAN GERMAN,San German Municipio,3,299,13
+PR0002702,UTUADO URBANO,Region 2,Puerto Rico,Community water system,20565,UTUADO,Utuado Municipio,8,100,12
+PR0604036,COM. RIVERA,Region 2,Puerto Rico,Community water system,440,AGUAS BUENAS,Aguas Buenas Municipio,3,82,18
+PR0677146,CALABAZAS ARRIBA,Region 2,Puerto Rico,Community water system,1800,YABUCOA,Yabucoa Municipio,3,108,18
+PR0724087,COPAR,Region 2,Puerto Rico,Community water system,1000,COROZAL,Corozal Municipio,4,198,11
+PR0666086,CORPORACION SEC. CANTERA,Region 2,Puerto Rico,Community water system,100,SAN LORENZO,San Lorenzo Municipio,3,88,11
