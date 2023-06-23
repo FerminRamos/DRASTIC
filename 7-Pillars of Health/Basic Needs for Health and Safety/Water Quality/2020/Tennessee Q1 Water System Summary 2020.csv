@@ -1,0 +1,783 @@
+PWS ID,PWS Name,EPA Region,Primacy Agency,PWS Type,Population<br> Served Count,Cities Served,Counties Served,# of Facilities,# of Violations,# of Site Visits
+TN0005028,HILLSHIRE BRANDS COMPANY,Region 4,Tennessee,Non-Transient non-community system,750,,Dyer,9,4,9
+TN0000546,FIRST U.D. OF HARDIN COUNTY,Region 4,Tennessee,Community water system,6889,COUNCE,Hardin,9,21,138
+TN0000593,ROGERSVILLE WATER SYSTEM,Region 4,Tennessee,Community water system,11443,ROGERSVILLE,Hawkins,14,116,62
+TN0000249,FRIENDSVILLE WATER WORKS,Region 4,Tennessee,Community water system,5570,,Blount,8,11,71
+TN0000069,BRENTWOOD WATER DEPTARTMENT,Region 4,Tennessee,Community water system,29513,BRENTWOOD,Williamson,15,3,15
+TN0000405,LIVINGSTON WATER DEPT,Region 4,Tennessee,Community water system,14388,LIVINGSTON,Overton,15,23,18
+TN0000469,MINOR HILL WATER UTIL DIST,Region 4,Tennessee,Community water system,6808,,Giles,10,14,16
+TN0003110,ENON MISSIONARY BAPTIST CHURCH,Region 4,Tennessee,Transient non-community system,68,,Carroll,8,12,16
+TN0001623,ALAMO BAPTIST CHURCH,Region 4,Tennessee,Transient non-community system,30,,Obion,9,5,10
+TN0003701,CAMP MARYMOUNT,Region 4,Tennessee,Transient non-community system,250,,Williamson,6,31,12
+TN0004640,WILD PLUM TEA ROOM,Region 4,Tennessee,Transient non-community system,60,,Sevier,5,8,16
+TN0000537,SOUTH PARIS WATER CO OP,Region 4,Tennessee,Community water system,2142,,Henry,3,3,18
+TN0000117,CLEVELAND UTILITIES,Region 4,Tennessee,Community water system,87960,CLEVELAND,Bradley,13,4,60
+TN0000264,GLADEVILLE UTILITY DISTRICT,Region 4,Tennessee,Community water system,19510,LEBANON,Wilson,20,10,17
+TN0003425,MOUNTAIN RIDGE GOLF CLUB,Region 4,Tennessee,Transient non-community system,30,,Cumberland,5,13,14
+TN0000646,SOUTH ELIZABETHTON UTILITY DIS,Region 4,Tennessee,Community water system,6304,,Carter,9,8,45
+TN0004390,"FATE SANDERS MARINA, LLC",Region 4,Tennessee,Transient non-community system,150,,Rutherford,5,19,9
+TN0000095,CARTHAGE WATER SYSTEM,Region 4,Tennessee,Community water system,3445,"CARTAHAGE, CARTHAGE",Smith,10,15,15
+TN0000496,NEWBERN WATER DEPT,Region 4,Tennessee,Community water system,8935,NEWBERN,Dyer,19,30,35
+TN0000402,LEXINGTON WATER SYSTEMS,Region 4,Tennessee,Community water system,24571,LEXINGTON,Henderson,6,41,148
+TN0000369,FIRST UTIL DIST OF KNOX COUNTY,Region 4,Tennessee,Community water system,89521,KNOXVILLE,Knox,17,29,36
+TN0004016,INSPIRATION POINT CAMPGROUND,Region 4,Tennessee,Transient non-community system,82,,Jefferson,8,15,21
+TN0000429,MANCHESTER WATER DEPARTMENT,Region 4,Tennessee,Community water system,19933,,Coffee,9,2,16
+TN0000457,ROANE CENTRAL UTILITY DISTRICT,Region 4,Tennessee,Community water system,6236,,Roane,9,22,27
+TN0004885,CHEROKEE LANDING RESORT,Region 4,Tennessee,Transient non-community system,50,,Hardeman,5,1,12
+TN0000515,NORTHEAST KNOX U D,Region 4,Tennessee,Community water system,24390,"CORRYTON, KNOXVILLE",Knox,15,6,44
+TN0000474,MORRISTOWN WATER SYSTEM,Region 4,Tennessee,Community water system,37625,MORRISTOWN,Hamblen,21,6,39
+TN0005152,DEER RUN RV RESORT,Region 4,Tennessee,Transient non-community system,36,,Cumberland,2,0,6
+TN0000736,WAYNESBORO WATER SYSTEM,Region 4,Tennessee,Community water system,4194,WAYNESBORO,Wayne,12,52,27
+TN0000707,TRENTON WATER SYSTEM,Region 4,Tennessee,Community water system,5295,TRENTON,Gibson,14,29,43
+TN0005189,"HIWASSEE WHITEWATER CO, LLC",Region 4,Tennessee,Transient non-community system,50,,Polk,5,0,3
+TN0000393,LEBANON WATER SYSTEM,Region 4,Tennessee,Community water system,38426,LEBANON,Wilson,12,5,18
+TN0000790,WILSON CO WATER & WASTEWATER,Region 4,Tennessee,Community water system,21354,,Wilson,12,10,16
+TN0000756,WOODBURY WATER SYSTEM,Region 4,Tennessee,Community water system,10505,WOODBURY,Cannon,14,45,17
+TN0000392,LAWRENCEBURG UTILITY SYSTEMS,Region 4,Tennessee,Community water system,19989,LAWRENCEBURG,Lawrence,18,28,22
+TN0005124,LHOIST NORTH AMERICA,Region 4,Tennessee,Non-Transient non-community system,51,,Franklin,9,8,8
+TN0000678,THE FARM WATER SYSTEM,Region 4,Tennessee,Community water system,180,SUMMERTOWN,Lewis,9,51,17
+TN0000626,SHADY GROVE UTILITY DISTRICT,Region 4,Tennessee,Community water system,22375,,Jefferson,11,5,33
+TN0000745,WHITE HOUSE UTILITY DISTRICT,Region 4,Tennessee,Community water system,101775,"HENDERSONVILLE, WHITE HOUSE",Sumner,25,6,17
+TN0000513,NORRIS WATER COMMISSION,Region 4,Tennessee,Community water system,2081,NORRIS,Anderson,9,10,19
+TN0000232,ESTILL SPRINGS WATER DEPARTMENT,Region 4,Tennessee,Community water system,4249,ESTILL SPRINGS,Franklin,10,48,24
+TN0002524,GILMORE DOCK,Region 4,Tennessee,Transient non-community system,30,,Grainger,7,8,18
+TN0005083,LAUREL HILL LAKE,Region 4,Tennessee,Transient non-community system,25,,Lawrence,5,1,11
+TN0004483,SHAWNETTE U M CHURCH,Region 4,Tennessee,Transient non-community system,125,,Wayne,5,24,13
+TN0000936,LAUREL MTN LAKES WATER ASSOC.,Region 4,Tennessee,Community water system,254,"ETOWAH, MADISONVILLE",Monroe,11,29,36
+TN0005141,MIDDLEFORK ROAD BAPTIST CHURCH,Region 4,Tennessee,Transient non-community system,200,,Henderson,4,0,6
+TN0000590,ROCKWOOD WATER SYSTEM,Region 4,Tennessee,Community water system,11594,ROCKWOOD,Roane,10,26,31
+TN0000033,ATOKA WATER SYSTEM,Region 4,Tennessee,Community water system,9336,,Tipton,5,14,14
+TN0000738,WESTMORELAND WATER SYSTEM,Region 4,Tennessee,Community water system,4545,WESTMORELAND,Sumner,9,8,17
+TN0008279,SEVIER COUNTY WATER DEPARTMENT,Region 4,Tennessee,Community water system,4740,,Sevier,10,1,5
+TN0000470,MONTEAGLE PUBLIC UTILITY BOARD,Region 4,Tennessee,Community water system,3459,MONTEAGLE,Grundy,11,20,59
+TN0000667,SPRING HILL WATER DEPT,Region 4,Tennessee,Community water system,45130,SPRING HILL,Maury,12,6,20
+TN0004763,HIDDEN VALLEY LAKES #5,Region 4,Tennessee,Transient non-community system,50,,Hickman,7,9,12
+TN0004759,HIDDEN VALLEY LAKES #3,Region 4,Tennessee,Transient non-community system,30,,Hickman,5,7,13
+TN0004758,HIDDEN VALLEY LAKES #2,Region 4,Tennessee,Transient non-community system,35,,Hickman,7,11,12
+TN0000580,RIPLEY WATER SYSTEM,Region 4,Tennessee,Community water system,9511,RIPLEY,Lauderdale,12,1,22
+TN0000099,CELINA WATER SYSTEM,Region 4,Tennessee,Community water system,5644,CELINA,Clay,6,29,19
+TN0004571,HIDDEN VALLEY LAKES #1,Region 4,Tennessee,Transient non-community system,50,,Hickman,6,8,15
+TN0000403,DOWELLTWN-LIBERTY UTILITY DIST,Region 4,Tennessee,Community water system,1182,"DOWELLTOWN, LIBERTY",DeKalb,7,17,16
+TN0003718,ELLIS GROVE PRESBYTERIAN CHURCH,Region 4,Tennessee,Transient non-community system,50,,Humphreys,5,24,12
+TN0000265,GLEASON WATER DEPT,Region 4,Tennessee,Community water system,1660,GLEASON,Weakley,7,3,24
+TN0002618,BAYS MTN PARK WATER SYSTEM,Region 4,Tennessee,Transient non-community system,400,,Sullivan,6,14,23
+TN0000280,HALLSDALE-POWELL UTILITY DISTRICT,Region 4,Tennessee,Community water system,71092,KNOXVILLE,Knox,38,32,49
+TN0000373,LAFAYETTE WATER SYSTEM,Region 4,Tennessee,Community water system,19146,LAFAYETTE,Macon,8,28,16
+TN0004674,"NYRSTAR TN MINES-STRAWBERRY PLAINS , LLC",Region 4,Tennessee,Non-Transient non-community system,65,,Knox,7,4,7
+TN0001482,"GREENBRIER CAMPGROUND, LLC.",Region 4,Tennessee,Transient non-community system,300,,Sevier,5,5,16
+TN0000842,PIPERTON WATER SYSTEM,Region 4,Tennessee,Community water system,2226,,Fayette,4,3,15
+TN0000933,COUNTRY JUNCTION RESORT,Region 4,Tennessee,Transient non-community system,130,SPRINGVILLE,Henry,8,10,15
+TN0004776,WATSON'S MOBILE HOME PARK,Region 4,Tennessee,Transient non-community system,176,,Henry,5,11,13
+TN0005069,PILOT TRAVEL CENTER #149,Region 4,Tennessee,Transient non-community system,200,,Fayette,5,0,10
+TN0000013,NORTH OVERTON UTILITY DISTRICT,Region 4,Tennessee,Community water system,4393,,Overton,6,11,17
+TN0005131,PARK PLACE CAMPGROUND,Region 4,Tennessee,Transient non-community system,304,,Hawkins,4,3,5
+TN0000318,HUNTSVILLE UTILITY DISTRICT,Region 4,Tennessee,Community water system,12477,HUNTSVILLE,Scott,17,0,28
+TN0004409,AEDC GOLF COURSE WATER SYSTEM,Region 4,Tennessee,Transient non-community system,75,,Coffee,5,24,14
+TN0004408,AEDC COMPLEX-WATER PLANT,Region 4,Tennessee,Non-Transient non-community system,2500,,Coffee,6,4,14
+TN0000746,WHITE PINE WATER SYSTEM,Region 4,Tennessee,Community water system,3888,WHITE PINE,Jefferson,17,10,39
+TN0005041,CAMP LIVING STONES,Region 4,Tennessee,Transient non-community system,75,,McMinn,6,7,9
+TN0000242,FAYETTEVILLE PUBLIC UTILITIES,Region 4,Tennessee,Community water system,12669,FAYETTEVILLE,Lincoln,14,17,56
+TN0000880,STACEY ANN'S MHP,Region 4,Tennessee,Community water system,141,"FRANLKIN, MANCHESTER, MURFREESBORO",Coffee,8,6,12
+TN0000497,NEW JOHNSONVILLE WATER DEPT,Region 4,Tennessee,Community water system,2460,NEW JOHNSONVILLE,Humphreys,9,24,17
+TN0000037,UNION FORK-BAKEWELL UTILITY DISTRICT,Region 4,Tennessee,Community water system,5223,BAKEWELL,Hamilton,15,9,63
+TN0000374,LA FOLLETTE UTILITIES BOARD,Region 4,Tennessee,Community water system,26807,"LA FOLLETTE, LAFOLLETTE",Campbell,21,21,35
+TN0001237,BEECH SPRINGS BAPTIST CHURCH,Region 4,Tennessee,Transient non-community system,100,,Chester,6,7,12
+TN0000103,CENTERVILLE WATER SYSTEM,Region 4,Tennessee,Community water system,9581,CENTERVILLE,Hickman,15,38,25
+TN0005158,"TENT CAMPING USA, INC.",Region 4,Tennessee,Transient non-community system,200,,Cocke,4,4,6
+TN0000477,MOSCOW WATER DEPT,Region 4,Tennessee,Community water system,816,MOSCOW,Fayette,7,22,43
+TN0004370,FORT LOUDOUN YACHT CLUB,Region 4,Tennessee,Transient non-community system,135,,Knox,8,11,18
+TN0000524,OBION WATER DEPT,Region 4,Tennessee,Community water system,1846,OBION,Obion,9,17,30
+TN0000821,DUCK RIVER UTILITY COMMISSION,Region 4,Tennessee,Community water system,25,TULLAHOMA,Coffee,5,3,15
+TN0005164,HIDDEN CREEK CMPG/CONV. STORE,Region 4,Tennessee,Transient non-community system,162,,Henry,4,4,4
+TN0005054,SHARPIE'S RESTAURANT,Region 4,Tennessee,Transient non-community system,85,,Johnson,5,7,11
+TN0000943,HOPPER'S BLUFF SUBDIVISION,Region 4,Tennessee,Transient non-community system,25,"BEAN STATION, RUTLEDGE",Grainger,11,5,12
+TN0000325,JASPER WATER DEPT,Region 4,Tennessee,Community water system,9307,JASPER,Marion,7,9,48
+TN0001328,JACK'S BRANCH WATER SYSTEM,Region 4,Tennessee,Transient non-community system,30,,Lewis,5,6,16
+TN0001329,GLENROCK WATER SYSTEM,Region 4,Tennessee,Transient non-community system,50,,Wayne,6,3,16
+TN0000324,JAMESTOWN WATER DEPT,Region 4,Tennessee,Community water system,4042,JAMESTOWN,Fentress,9,42,19
+TN0001468,GREENBRIER SCHOOL ALT LEARNING CENTER,Region 4,Tennessee,Non-Transient non-community system,35,,Sevier,5,3,39
+TN0004171,ARMSTRONG FERRY CAMPGROUND,Region 4,Tennessee,Transient non-community system,50,,Meigs,8,4,11
+TN0000570,EASTVIEW UTILITY DISTRICT,Region 4,Tennessee,Community water system,2070,,McNairy,4,4,64
+TN0000714,TUCKALEECHEE UTILITY DISTRICT,Region 4,Tennessee,Community water system,12390,,Blount,15,10,32
+TN0000611,SAVANNAH UTILITY DEPT,Region 4,Tennessee,Community water system,18706,SAVANNAH,Hardin,24,1,41
+TN0000322,CARYVILLE-JACKSBORO UTILITIES COMMISSION,Region 4,Tennessee,Community water system,11902,JACKSBORO,Campbell,29,24,45
+TN0000230,ERIN WATER DEPARTMENT,Region 4,Tennessee,Community water system,7283,ERIN,Houston,17,68,16
+TN0000969,WATTS BAR EAST U.D.,Region 4,Tennessee,Community water system,3393,,Roane,6,3,11
+TN0000872,WATTS BAR UTILITY DISTRICT,Region 4,Tennessee,Community water system,13404,"HARRIMAN, KINGSTON",Rhea,11,3,29
+TN0000451,GRAND VALLEY LAKES PO ASSOC,Region 4,Tennessee,Community water system,820,"SAULDBURY, SAULSBURY",Hardeman,9,6,37
+TN0000479,MOUNTAIN CITY WATER DEPT.,Region 4,Tennessee,Community water system,11191,MOUNTAIN CITY,Johnson,27,69,98
+TN0000209,DYER WATER DEPT,Region 4,Tennessee,Community water system,2832,DYER,Gibson,12,11,36
+TN0004695,NEW BETHEL BAPTIST CHURCH,Region 4,Tennessee,Transient non-community system,75,,Hardeman,7,15,10
+TN0000582,RIVER ROAD UTILITY DISTRICT,Region 4,Tennessee,Community water system,3669,ASHLAND CITY,Cheatham,12,35,15
+TN0000623,SEWANEE UTILITY DISTRICT,Region 4,Tennessee,Community water system,5634,SEWANEE,Franklin,8,9,31
+TN0002614,IMAGINATION MOUNTAIN CAMPING,Region 4,Tennessee,Transient non-community system,150,,Cocke,6,14,23
+TN0000116,CLARKSVILLE WATER DEPARTMENT,Region 4,Tennessee,Community water system,215421,CLARKSVILLE,Montgomery,21,1,16
+TN0000453,JEA-MERCER PLANT,Region 4,Tennessee,Community water system,155,MERCER,Madison,7,57,71
+TN0000299,JACKSON WATER SYSTEM,Region 4,Tennessee,Community water system,95501,JACKSON,Madison,31,6,36
+TN0004438,NATCHEZ TRACE WILDERNESS PRESERVE,Region 4,Tennessee,Transient non-community system,226,,Lewis,6,5,14
+TN0000604,ST JOSEPH WATER SYSTEM,Region 4,Tennessee,Community water system,1398,ST JOSEPH,Lawrence,9,24,25
+TN0004283,JACOBS CREEK REC AREA - USFS,Region 4,Tennessee,Transient non-community system,68,,Sullivan,7,0,10
+TN0004277,DENNIS COVE CAMPGROUND - USFS,Region 4,Tennessee,Transient non-community system,33,,Carter,5,0,6
+TN0001847,KAMP KIWANI GIRL SCOUT CAMP,Region 4,Tennessee,Transient non-community system,95,,Hardeman,5,11,17
+TN0000386,LA VERGNE WATER SYSTEM,Region 4,Tennessee,Community water system,35233,LAVERGNE,Rutherford,12,21,20
+TN0000183,DECATUR WATER DEPT,Region 4,Tennessee,Community water system,5976,DECATUR,Meigs,13,43,56
+TN0004264,PARKSVILLE LAKE - USFS,Region 4,Tennessee,Transient non-community system,129,,Polk,10,2,11
+TN0004294,THUNDER ROCK #2 CMPG - USFS,Region 4,Tennessee,Transient non-community system,150,,Polk,5,1,12
+TN0004279,LITTLE OAK REC AREA - USFS,Region 4,Tennessee,Transient non-community system,171,,Sullivan,11,19,15
+TN0004255,PAINT CREEK CAMPGROUND - USFS,Region 4,Tennessee,Transient non-community system,50,,Greene,5,2,10
+TN0004275,ROCK CREEK CAMP - USFS,Region 4,Tennessee,Transient non-community system,120,,Unicoi,6,3,13
+TN0004259,MAC POINT - USFS,Region 4,Tennessee,Transient non-community system,209,,Polk,8,1,12
+TN0004260,CHILHOWEE - USFS,Region 4,Tennessee,Transient non-community system,568,,Polk,6,1,15
+TN0004296,OCOEE WHITEWATER CENTER-USFS,Region 4,Tennessee,Transient non-community system,300,,Polk,5,1,16
+TN0000193,DOVER WATER DEPT,Region 4,Tennessee,Community water system,4065,DOVER,Stewart,10,9,17
+TN0000652,SPARTA WATER SYSTEM,Region 4,Tennessee,Community water system,10362,SPARTA,White,10,16,15
+TN0000247,MILCROFTON UTILITY DISTRICT,Region 4,Tennessee,Community water system,26003,,Williamson,21,6,16
+TN0000291,HARTSVILLE-TROUDALE WAT/SEW U D,Region 4,Tennessee,Community water system,8147,HARTSVILLE,Trousdale,17,37,20
+TN0005032,PINE HILL CH OF THE NAZARENE,Region 4,Tennessee,Transient non-community system,120,,Humphreys,5,23,9
+TN0001820,SWEETWATER VALLEY KOA,Region 4,Tennessee,Transient non-community system,300,,Loudon,5,1,19
+TN0004671,MONTEAGLE SUNDAY SCHOOL ASSMBLY,Region 4,Tennessee,Transient non-community system,525,,Grundy,3,4,13
+TN0000218,EAST MONTGOMERY UTILITY DISTRICT,Region 4,Tennessee,Community water system,16812,,Montgomery,10,0,17
+TN0000254,GALLAWAY WATER DEPT,Region 4,Tennessee,Community water system,1027,GALLAWAY,Fayette,11,9,47
+TN0000581,LAUDERDALE CO WATER SYSTEM,Region 4,Tennessee,Community water system,11246,RIPLEY,Lauderdale,13,4,35
+TN0000754,WINCHESTER WATER SYSTEM,Region 4,Tennessee,Community water system,20180,WINCHESTER,Franklin,15,19,97
+TN0004114,SMOKEY VIEW CAMPGROUND,Region 4,Tennessee,Transient non-community system,160,,Jefferson,5,7,18
+TN0002907,VALLEY VIEW CAMP,Region 4,Tennessee,Transient non-community system,60,,Robertson,8,25,13
+TN0000491,MURFREESBORO WATER DEPARTMENT,Region 4,Tennessee,Community water system,100535,MURFREESBORO,Rutherford,14,4,16
+TN0000098,CEDAR GROVE UTILITY DISTRICT,Region 4,Tennessee,Community water system,1364,"CEDAR GROVE, LAVINIA",Carroll,9,44,59
+TN0004321,CAMP CHEROKEE-POLK CO,Region 4,Tennessee,Transient non-community system,75,,Polk,8,6,21
+TN0000399,LEOMA UTILITY DISTRICT,Region 4,Tennessee,Community water system,3383,LEOMA,Lawrence,13,5,20
+TN0000096,CORDELL HULL UTILITY DISTRICT,Region 4,Tennessee,Community water system,3004,,Smith,6,16,13
+TN0000532,ONEIDA W&S COMM,Region 4,Tennessee,Community water system,11282,ONEIDA,Scott,12,54,51
+TN0000400,LEWISBURG WATER SYSTEM,Region 4,Tennessee,Community water system,19530,LEWISBURG,Marshall,17,17,23
+TN0003222,OLIN CORPORATION,Region 4,Tennessee,Non-Transient non-community system,650,,Bradley,6,10,18
+TN0000371,WEST KNOX UTILITY DISTRICT,Region 4,Tennessee,Community water system,65346,KNOXVILLE,Knox,12,3,67
+TN0000950,DRY BRANCH WATER SYSTEM #1,Region 4,Tennessee,Transient non-community system,25,HOLLADAY,Benton,9,88,29
+TN0004337,DRY BRANCH WATER SYSTEM #2,Region 4,Tennessee,Transient non-community system,25,,Benton,8,10,8
+TN0005169,SHADY VALLEY COUNTRY STORE,Region 4,Tennessee,Transient non-community system,25,,Johnson,4,3,5
+TN0005057,NORTHWEST HEADSTART OF SOMERVILLE,Region 4,Tennessee,Non-Transient non-community system,100,,Fayette,7,1,9
+TN0005063,NORTHWEST HEADSTART OF HUMBOLT,Region 4,Tennessee,Non-Transient non-community system,43,,Gibson,5,7,9
+TN0000718,TWENTY FIVE UTILITY DISTRICT,Region 4,Tennessee,Community water system,1826,,Smith,7,12,16
+TN0000584,ROAN MOUNTAIN UTILITY DISTRICT,Region 4,Tennessee,Community water system,1100,ROAN MOUNTAIN,Carter,11,20,52
+TN0000724,VANLEER WATER DEPARTMENT,Region 4,Tennessee,Community water system,2995,VANLEER,Dickson,13,43,17
+TN0000146,COWAN BOARD OF PUBLIC UTILITIES,Region 4,Tennessee,Community water system,2412,COWAN,Franklin,8,9,26
+TN0000614,SCOTTS HILL WATER SYSTEM,Region 4,Tennessee,Community water system,4446,SCOTTS HILL,Henderson,23,4,88
+TN0000672,STANTON WATER SYSTEM,Region 4,Tennessee,Community water system,673,"BROWNSVILLE, STANTON",Haywood,9,14,17
+TN0000080,BROWNSVILLE WATER DEPT,Region 4,Tennessee,Community water system,13404,BROWNSVILLE,Haywood,18,8,37
+TN0000732,WATERTOWN WATER SYSTEM,Region 4,Tennessee,Community water system,1916,WATERTOWN,Wilson,9,9,17
+TN0000018,ARDMORE WATER SYSTEM,Region 4,Tennessee,Community water system,1691,ARDMORE,Giles,19,7,19
+TN0005134,U. S. 129 DRAGON STORE,Region 4,Tennessee,Transient non-community system,350,,Blount,5,2,5
+TN0000518,NORTHWEST DYERSBURG U D,Region 4,Tennessee,Community water system,4158,DYERSBURG,Dyer,13,6,33
+TN0000094,FIRST U D OF CARTER CO,Region 4,Tennessee,Community water system,9426,"ELIZABETHON, ELIZABETHTON",Carter,20,60,44
+TN0000656,SPRING CITY WATER SYSTEM,Region 4,Tennessee,Community water system,2701,SPRING CITY,Rhea,8,57,50
+TN0003949,SOUTHWEST SCHOOL,Region 4,Tennessee,Non-Transient non-community system,400,,Fayette,7,10,15
+TN0000269,GRAYSVILLE WATER DEPT.,Region 4,Tennessee,Community water system,1878,GRAYSVILLE,Rhea,13,27,43
+TN0000935,MASON HALL DEVELOPMENT CORP.,Region 4,Tennessee,Community water system,201,"KENTON, TRIMBLE",Obion,8,32,10
+TN0003659,TENNESSEE HILLS CAMP GROUND,Region 4,Tennessee,Transient non-community system,250,,Coffee,5,16,21
+TN0000530,OLD KNOXVILLE HWY U D,Region 4,Tennessee,Community water system,8991,,Greene,10,6,27
+TN0005097,ALDER SPRINGS VILLAGE,Region 4,Tennessee,Transient non-community system,93,,Campbell,6,3,9
+TN0000576,RICEVILLE UTILITY DISTRICT,Region 4,Tennessee,Community water system,3428,RICEVILLE,McMinn,5,13,32
+TN0005139,FUN ZONE AMUSEMENTS,Region 4,Tennessee,Transient non-community system,60,,Madison,5,2,5
+TN0001060,OAK RIDGE NATIONAL LAB X-10,Region 4,Tennessee,Non-Transient non-community system,6091,,Roane,4,0,10
+TN0000159,SOUTH CUMBERLAND U.D.,Region 4,Tennessee,Community water system,11304,,Cumberland,9,24,13
+TN0000575,REELFOOT U. D. OF LAKE COUNTY,Region 4,Tennessee,Community water system,615,TIPTONVILLE,Lake,10,11,31
+TN0004447,ADVENTURE BOUND CAMPING RESORT-GATLINBUR,Region 4,Tennessee,Transient non-community system,300,,Sevier,13,3,13
+TN0005103,BEACH ISLAND MARINA,Region 4,Tennessee,Transient non-community system,500,,Union,5,3,19
+TN0004059,WARDS GROVE BAPTIST CHURCH,Region 4,Tennessee,Transient non-community system,55,,Madison,5,22,11
+TN0000126,COLLIERVILLE WATER DEPT,Region 4,Tennessee,Community water system,47580,COLLIERVILLE,Shelby,27,28,45
+TN0000174,DAYTON WATER DEPT,Region 4,Tennessee,Community water system,26125,DAYTON,Rhea,6,43,44
+TN0008267,LEXINGTON WAT DEPT RASCALTOWN COMMUNITY,Region 4,Tennessee,Community water system,180,,Lawrence,4,9,9
+TN0000244,FENTRESS COUNTY U.D.,Region 4,Tennessee,Community water system,15974,,Fentress,7,9,16
+TN0000566,TARPLEY SHOP UTILITY DISTRICT,Region 4,Tennessee,Community water system,2714,,Giles,8,13,19
+TN0005117,EXIT 68 MARKET,Region 4,Tennessee,Transient non-community system,200,,Madison,5,0,11
+TN0000471,MONTEREY WATER DEPT,Region 4,Tennessee,Community water system,4480,MONTEREY,Putnam,11,56,18
+TN0000636,SMITH UTILITY DISTRICT,Region 4,Tennessee,Community water system,7964,SOUTH CARTHAGE,Smith,7,10,15
+TN0005150,CLINCH K-12 SCHOOL (NEW BUILDING),Region 4,Tennessee,Non-Transient non-community system,170,,Hawkins,5,2,6
+TN0001450,SHILOH BAPTIST CHURCH,Region 4,Tennessee,Transient non-community system,300,,Sevier,5,4,16
+TN0003524,CEDAR GROVE BAPTIST CHURCH,Region 4,Tennessee,Transient non-community system,75,,Humphreys,5,40,12
+TN0000844,COPPER BASIN UTILITY DISTRICT,Region 4,Tennessee,Community water system,2778,TURTLETOWN,Polk,6,33,36
+TN0004326,ANTIOCH BAPTIST CH - HUMBOLDT,Region 4,Tennessee,Transient non-community system,300,,Madison,4,27,13
+TN0004946,CUBA LANDING MARINA,Region 4,Tennessee,Transient non-community system,25,,Humphreys,8,25,13
+TN0004532,BROKEN ARROW TRAVEL CAMP,Region 4,Tennessee,Transient non-community system,45,,Monroe,6,3,17
+TN0000035,ATWOOD WATER SYSTEM,Region 4,Tennessee,Community water system,1357,ATWOOD,Carroll,10,5,28
+TN0005210,TROXEL COMPANY,Region 4,Tennessee,Non-Transient non-community system,200,,Fayette,3,0,0
+TN0000423,MCMINNVILLE WATER DEPT,Region 4,Tennessee,Community water system,15680,MCMINNVILLE,Warren,11,12,15
+TN0000415,LUTTRELL-BLAINE-CORRYTON U.D.,Region 4,Tennessee,Community water system,9117,LUTTRELL,Union,22,9,85
+TN0004986,HALL'S GROCERY STORE,Region 4,Tennessee,Transient non-community system,30,,Polk,4,10,12
+TN0000263,GIBSON WATER DEPT,Region 4,Tennessee,Community water system,496,GIBSON,Gibson,7,16,30
+TN0004798,UNION COUNTY BOAT DOCK,Region 4,Tennessee,Transient non-community system,100,,Union,5,9,20
+TN0000311,HORNBEAK UTILITY DISTRICT,Region 4,Tennessee,Community water system,1460,,Obion,12,17,57
+TN0000002,ADAMSVILLE WATER SYSTEM,Region 4,Tennessee,Community water system,9091,ADAMSVILLE,McNairy,13,9,33
+TN0000097,CASTALIAN SPRINGS-BETHPAGE U D,Region 4,Tennessee,Community water system,12245,,Sumner,13,17,15
+TN0000262,GERMANTOWN WATER DEPT,Region 4,Tennessee,Community water system,37897,GERMANTOWN,Shelby,30,82,40
+TN0000544,PETERSBURG WATER SYSTEM,Region 4,Tennessee,Community water system,929,,Lincoln,5,16,16
+TN0000710,TREZEVANT WATER SYSTEM,Region 4,Tennessee,Community water system,992,TREZEVANT,Carroll,7,1,22
+TN0005094,MOCKINGBIRD HILL CABIN ASSN.,Region 4,Tennessee,Transient non-community system,50,,Benton,6,3,10
+TN0000056,BLOOMINGDALE UTILITY DISTRICT,Region 4,Tennessee,Community water system,13239,KINGSPORT,Sullivan,13,19,32
+TN0000113,CLAIBORNE UTILITIES DISTRICT,Region 4,Tennessee,Community water system,16217,NEW TAZEWELL,Claiborne,15,26,43
+TN0000251,GAINESBORO WATER SYSTEM,Region 4,Tennessee,Community water system,1499,GAINESBORO,Jackson,8,37,13
+TN0001234,JACKS CREEK ELEMENTARY SCHOOL,Region 4,Tennessee,Non-Transient non-community system,160,,Chester,5,10,20
+TN0005088,TN RIVER MTN GETAWAYS CMPG,Region 4,Tennessee,Transient non-community system,75,,Humphreys,11,13,9
+TN0005146,EBENEZER BAPTIST CHURCH #2,Region 4,Tennessee,Transient non-community system,90,,Bledsoe,4,4,10
+TN0004738,HARMON CREEK BOAT DOCK,Region 4,Tennessee,Transient non-community system,25,,Benton,5,13,13
+TN0004641,BUCKHORN INN,Region 4,Tennessee,Transient non-community system,50,,Sevier,5,13,20
+TN0005096,CERRO GORDO BAPTIST CHURCH,Region 4,Tennessee,Transient non-community system,100,,Madison,5,1,9
+TN0000831,HIWASSEE UTILITY COMMISSION,Region 4,Tennessee,Community water system,98,CHARLESTON,Bradley,6,7,32
+TN0002136,HIWASSEE OUTFITTERS,Region 4,Tennessee,Transient non-community system,50,,Polk,7,17,14
+TN0004336,WEBB BROTHERS,Region 4,Tennessee,Transient non-community system,150,,Polk,5,3,14
+TN0005193,RELIANCE FLY AND TACKLE,Region 4,Tennessee,Transient non-community system,50,RELIANCE,Polk,3,0,2
+TN0000525,OCOEE UTILITY DISTRICT,Region 4,Tennessee,Community water system,19990,CLEVELAND,Bradley,11,67,122
+TN0000650,WITT UTILITY DISTRICT,Region 4,Tennessee,Community water system,5210,,Hamblen,12,37,23
+TN0000169,NORTH WEST UTILITY DISTRICT,Region 4,Tennessee,Community water system,19941,SODDY-DAISY,Hamilton,16,10,84
+TN0004520,INDIAN CREEK YOUTH CAMP,Region 4,Tennessee,Transient non-community system,350,,DeKalb,6,31,8
+TN0000594,PERSIA UTILITY DISTRICT,Region 4,Tennessee,Community water system,4582,ROGERSVILLE,Hawkins,12,29,25
+TN0000853,EAST FORK U D,Region 4,Tennessee,Community water system,3215,,Overton,6,2,13
+TN0000048,BENTON WATER SYSTEM,Region 4,Tennessee,Community water system,2710,BENTON,Polk,11,9,42
+TN0005020,FIRST BAPTIST CHURCH OF MEDINA,Region 4,Tennessee,Transient non-community system,130,,Gibson,5,3,12
+TN0000607,SAMBURG UTILITY DIST,Region 4,Tennessee,Community water system,770,,Obion,4,32,22
+TN0000328,JEFFERSON CITY WATER & SEWER C,Region 4,Tennessee,Community water system,9430,JEFFERSON CITY,Jefferson,17,23,30
+TN0000045,BELLS PUBLIC UTILITY DISTRICT,Region 4,Tennessee,Community water system,2607,BELLS,Crockett,12,8,18
+TN0000231,ERWIN UTILITIES,Region 4,Tennessee,Community water system,12687,ERWIN,Unicoi,27,30,59
+TN0000286,HARPETH VALLEY U D,Region 4,Tennessee,Community water system,62351,NASHVILLE,Davidson,22,13,19
+TN0005021,SADE CORP DBA PAINTER CK MARINA,Region 4,Tennessee,Transient non-community system,56,,Sullivan,5,32,14
+TN0000740,WEST POINT U.D.,Region 4,Tennessee,Community water system,324,,Lawrence,6,20,18
+TN0000729,PLATEAU UTILITY DISTRICT,Region 4,Tennessee,Community water system,12982,WARTBURG,Morgan,16,60,33
+TN0000406,LOBELVILLE WATER DEPT,Region 4,Tennessee,Community water system,3298,LOBELVILLE,Perry,9,10,16
+TN0000578,WEST OVERTON UTILITY DISTRICT,Region 4,Tennessee,Community water system,8522,,Overton,8,14,15
+TN0008132,COUNTY LINE TRAILER PARK,Region 4,Tennessee,Community water system,76,ATWOOD,Gibson,6,13,14
+TN0002120,THE COUNTRY PLACE MINISTRY KITCHEN,Region 4,Tennessee,Transient non-community system,60,,Fayette,6,25,17
+TN0005160,THE COUNTRY PLACE MINISTRY INN,Region 4,Tennessee,Transient non-community system,100,,Fayette,5,1,5
+TN0004794,BLACK OAK MARINA,Region 4,Tennessee,Transient non-community system,74,,Jefferson,6,8,15
+TN0000338,JONESBOROUGH WATER DEPT,Region 4,Tennessee,Community water system,32369,JONESBOROUGH,Washington,17,28,67
+TN0004360,BIRDSONG RESORT & MARINA,Region 4,Tennessee,Transient non-community system,35,,Benton,6,20,17
+TN0000929,CUNNINGHAM EAST MONT WAT TR PL,Region 4,Tennessee,Community water system,25,"ASHLAND CITY, CLARKSVILLE",Montgomery,5,0,11
+TN0002464,FRIENDSHIP BAPTIST ST CHURCH,Region 4,Tennessee,Transient non-community system,245,,Madison,5,14,18
+TN0000316,HUNTINGDON WATER DEPT,Region 4,Tennessee,Community water system,6134,"HUNTINGDON, HUNTINGTON",Carroll,7,4,31
+TN0000743,WEST WILSON UTILITY DISTRICT,Region 4,Tennessee,Community water system,72928,"MOUNT JULIET, MT. JULIET",Wilson,13,11,16
+TN0000105,MARSHALL CO BD P.U. #1,Region 4,Tennessee,Community water system,10800,,Marshall,13,4,16
+TN0000133,COOKEVILLE WATER DEPT,Region 4,Tennessee,Community water system,49080,COOKEVILLE,Putnam,11,3,20
+TN0008288,LAKEVIEW UD EAST,Region 4,Tennessee,Community water system,1249,,Hawkins,7,0,2
+TN0000596,LAKEVIEW UD WEST,Region 4,Tennessee,Community water system,2656,ROGERSVILLE,Hawkins,16,16,54
+TN0000999,HAYWOOD CO. UTILITY DISTRICT,Region 4,Tennessee,Community water system,1363,,Haywood,5,10,8
+TN0000425,MADISONVILLE WATER DEPT,Region 4,Tennessee,Community water system,14427,MADISONVILLE,Monroe,10,7,26
+TN0000005,ALAMO WATER DEPARTMENT,Region 4,Tennessee,Community water system,3103,ALAMO,Crockett,9,6,28
+TN0000279,HALLS WATER SYSTEM,Region 4,Tennessee,Community water system,6253,HALLS,Lauderdale,13,5,33
+TN0000360,KINGSTON WATER SYSTEM,Region 4,Tennessee,Community water system,9967,KINGSTON,Roane,17,27,70
+TN0000637,SMITHVILLE WATER SYSTEM,Region 4,Tennessee,Community water system,6469,SMITHVILLE,DeKalb,10,35,19
+TN0000703,FIRST U D OF TIPTON CO,Region 4,Tennessee,Community water system,9452,COVINGTON,Tipton,13,4,24
+TN0004684,SKYVIEW CAMPGROUND,Region 4,Tennessee,Transient non-community system,140,,Sullivan,5,3,14
+TN0000167,CUNNINGHAM UTILITY DISTRICT,Region 4,Tennessee,Community water system,14625,,Montgomery,12,3,17
+TN0000770,MAURY CO WATER SYSTEM,Region 4,Tennessee,Community water system,18955,,Maury,17,12,18
+TN0000219,EASTSIDE UTILITY DISTRICT,Region 4,Tennessee,Community water system,59195,CHATTANOOGA,Hamilton,14,2,101
+TN0000404,LINDEN WATER DEPT,Region 4,Tennessee,Community water system,6050,LINDEN,Perry,13,9,17
+TN0004992,"BLUES CITY BREWERY, LLC",Region 4,Tennessee,Non-Transient non-community system,100,,Shelby,10,29,13
+TN0003906,SHADY VALLEY SCHOOL,Region 4,Tennessee,Non-Transient non-community system,70,,Johnson,5,34,14
+TN0004768,SPRINGS DOCK,Region 4,Tennessee,Transient non-community system,200,,Campbell,11,7,9
+TN0000514,ANDERSON COUNTY WATER AUTHORITY,Region 4,Tennessee,Community water system,24029,LAKE CITY,Anderson,26,34,20
+TN0000166,CUMBERLAND HEIGHTS UTILITY DISTRICT,Region 4,Tennessee,Community water system,3339,,Montgomery,7,12,17
+TN0000522,OAK RIDGE DEPT OF PUBLIC WORKS,Region 4,Tennessee,Community water system,38162,OAK RIDGE,Anderson,19,12,34
+TN0000458,MILAN WATER DEPT,Region 4,Tennessee,Community water system,10785,MILAN,Gibson,11,1,27
+TN0000490,MUNFORD WATER DEPT,Region 4,Tennessee,Community water system,9560,MUNFORD,Tipton,14,8,23
+TN0004008,FANCHER'S WILLOW BRANCH CAMP,Region 4,Tennessee,Transient non-community system,650,,Jefferson,5,17,10
+TN0000558,PLEASANT VIEW UTILITY DISTRICT,Region 4,Tennessee,Community water system,17864,PLEASANT VIEW,Cheatham,14,4,16
+TN0000826,CLEARFORK UTILITY DISTRICT,Region 4,Tennessee,Community water system,1391,CLAIRFIELD,Claiborne,11,37,29
+TN0000310,HOLLOW ROCK WATER DEPT,Region 4,Tennessee,Community water system,896,HOLLOW ROCK,Carroll,13,34,36
+TN0000150,CROSSVILLE WATER DEPT,Region 4,Tennessee,Community water system,31261,CROSSVILLE,Cumberland,10,27,26
+TN0000044,BELL BUCKLE WATER SYSTEM,Region 4,Tennessee,Community water system,2462,,Bedford,5,29,15
+TN0000212,DYERSBURG SUB CONS U D,Region 4,Tennessee,Community water system,3711,DYERSBURG,Dyer,16,13,28
+TN0000552,FALL CREEK FALLS UTILITY DIST,Region 4,Tennessee,Community water system,4729,,Bledsoe,11,56,32
+TN0000106,CALHOUN-CHARLESTON UTILITY DISTRICT,Region 4,Tennessee,Community water system,2698,,McMinn,6,5,21
+TN0000748,WHITEVILLE WATER DEPT,Region 4,Tennessee,Community water system,1817,WHITEVILLE,Hardeman,13,18,40
+TN0000014,ALPHA-TALBOTT UTILITY DISTRICT,Region 4,Tennessee,Community water system,17934,,Hamblen,8,1,16
+TN0000428,MALLORY VALLEY UTILITY DISTRICT,Region 4,Tennessee,Community water system,25131,,Williamson,14,5,16
+TN0004591,SHANGHAI RESORT,Region 4,Tennessee,Transient non-community system,200,,Campbell,5,2,14
+TN0000382,LA GRANGE WATER DEPT,Region 4,Tennessee,Community water system,225,LAGRANGE,Fayette,9,26,15
+TN0003407,COVINGTON MUNICIPAL AIRPORT,Region 4,Tennessee,Transient non-community system,200,,Tipton,6,15,12
+TN0001214,HIWASSEE BAPTIST CHURCH,Region 4,Tennessee,Transient non-community system,30,,McMinn,6,9,15
+TN0000009,ALGOOD WATER SYSTEM,Region 4,Tennessee,Community water system,8713,,Putnam,6,10,16
+TN0000422,MCLEMORESVILLE WATER DEPT,Region 4,Tennessee,Community water system,376,MCLEMORESVILLE,Carroll,8,28,19
+TN0000450,"MEMPHIS LIGHT, GAS, & WATER",Region 4,Tennessee,Community water system,699244,MEMPHIS,Shelby,130,4,42
+TN0000657,NEWPORT RESORT WATER SYSTEM,Region 4,Tennessee,Community water system,150,SPRING CITY,Rhea,6,50,37
+TN0001933,WESLEY WOODS CAMP,Region 4,Tennessee,Transient non-community system,250,,Blount,5,4,22
+TN0000653,BON DE CROFT UTILITY DISTRICT,Region 4,Tennessee,Community water system,3868,SPARTA,White,7,8,15
+TN0000573,NORTHWEST CLAY COUNTY UTILITY,Region 4,Tennessee,Community water system,4048,MOSS,Clay,11,32,16
+TN0004989,BLACK BEAR RESORT,Region 4,Tennessee,Transient non-community system,40,,Carter,5,5,21
+TN0000245,WEST TN STATE PENITENTIARY,Region 4,Tennessee,Community water system,3200,HENNING,Lauderdale,11,31,25
+TN0001483,OUTDOOR RESORTS @ GATLINBURG,Region 4,Tennessee,Transient non-community system,950,,Sevier,12,4,20
+TN0005089,EAGLE CREST OWNER'S ASSOCIATION WATER SY,Region 4,Tennessee,Transient non-community system,300,,Sevier,10,0,6
+TN0002387,"LOST SEA, INC",Region 4,Tennessee,Transient non-community system,700,,Monroe,6,5,15
+TN0003018,FLATWOODS METHODIST CHURCH,Region 4,Tennessee,Transient non-community system,65,,Benton,5,15,14
+TN0000568,PURYEAR WATER SYSTEM,Region 4,Tennessee,Community water system,821,PURYEAR,Henry,9,16,44
+TN0004777,TINY'S MOBILE HOME PARK,Region 4,Tennessee,Transient non-community system,90,,Henry,7,11,14
+TN0000435,MARTIN WATER DEPT,Region 4,Tennessee,Community water system,11073,MARTIN,Weakley,16,1,34
+TN0000051,BIG SANDY WATER DEPARTMENT,Region 4,Tennessee,Community water system,1123,BIG SANDY,Benton,8,3,36
+TN0000419,LYNNVILLE WATER DEPT,Region 4,Tennessee,Community water system,1062,,Giles,7,6,15
+TN0000531,CUMBERLAND UTILITY DISTRICT,Region 4,Tennessee,Community water system,12957,HARRIMAN,Roane,18,4,36
+TN0000617,SEVIERVILLE WATER SYSTEM,Region 4,Tennessee,Community water system,32197,SEVIERVILLE,Sevier,9,16,27
+TN0002677,WILDWATER LIMITED,Region 4,Tennessee,Transient non-community system,75,,Polk,5,8,11
+TN0000761,NEW CANTON UTILITY DISTRICT,Region 4,Tennessee,Community water system,515,,Hawkins,3,6,12
+TN0001854,CAMP MACK MORRIS,Region 4,Tennessee,Transient non-community system,190,,Benton,7,12,12
+TN0004467,JOY-O TRAVEL PARK,Region 4,Tennessee,Transient non-community system,50,,Madison,7,4,11
+TN0004570,STRAIGHT CREEK BOAT DOCK,Region 4,Tennessee,Transient non-community system,35,,Claiborne,7,13,12
+TN0003786,MASON'S BOAT DOCK,Region 4,Tennessee,Transient non-community system,224,,Humphreys,5,13,12
+TN0000510,NIOTA WATER SYSTEM,Region 4,Tennessee,Community water system,3318,,McMinn,8,8,22
+TN0000088,BYRDSTOWN WATER DEPT,Region 4,Tennessee,Community water system,7060,BYRDSTOWN,Pickett,6,81,13
+TN0004588,MUSICK LAKESIDE CAMPGROUND,Region 4,Tennessee,Transient non-community system,118,,Sullivan,5,2,17
+TN0000478,MOSHEIM UTILITY DISTRICT,Region 4,Tennessee,Community water system,1889,,Greene,4,10,28
+TN0000651,SOUTH PITTSBURG WATER SYSTEM,Region 4,Tennessee,Community water system,7026,"SOUTH PATTSBURG, SOUTH PITTSBURG",Marion,6,40,59
+TN0004176,GRASSHOPPER CREEK CAMPGROUND,Region 4,Tennessee,Transient non-community system,100,,Hamilton,6,17,19
+TN0000442,MAYNARDVILLE WATER DEPT,Region 4,Tennessee,Community water system,6819,MAYNARDVILLE,Union,16,32,74
+TN0002605,I-40 REST AREA MADISON,Region 4,Tennessee,Transient non-community system,5000,,Madison,5,11,16
+TN0000246,FRANKLIN WATER DEPT,Region 4,Tennessee,Community water system,52781,"FRANKLIN, FRANKLIN PIKE",Williamson,17,82,20
+TN0000598,RUSSELLVILLE WHITESBURG U D,Region 4,Tennessee,Community water system,19349,,Hamblen,12,2,21
+TN0000010,ALLARDT WATER WORKS,Region 4,Tennessee,Community water system,3529,,Fentress,7,23,16
+TN0001757,NA-CO-ME CAMP,Region 4,Tennessee,Transient non-community system,200,,Hickman,5,6,14
+TN0000127,COLLINWOOD WATER DEPT,Region 4,Tennessee,Community water system,1922,COLLINWOOD,Wayne,14,73,19
+TN0000122,BIG CREEK UTILITY DISTRICT,Region 4,Tennessee,Community water system,8044,ALTAMONT,Grundy,10,38,50
+TN0004678,PONDEROSA TRAILER AREA,Region 4,Tennessee,Transient non-community system,116,,Decatur,6,2,9
+TN0009448,PONDEROSA HOUSE AREA,Region 4,Tennessee,Transient non-community system,114,,Decatur,6,2,11
+TN0005092,PONDEROSA CLUB HOUSE,Region 4,Tennessee,Transient non-community system,25,,Decatur,5,1,8
+TN0000572,RED BOILING SPRINGS WATER SYST,Region 4,Tennessee,Community water system,5823,RED BOILING SPRINGS,Macon,18,194,20
+TN0000548,PIGEON FORGE WATER DEPARTMENT,Region 4,Tennessee,Community water system,14034,PIGEON FORGE,Sevier,9,27,37
+TN0000304,HOHENWALD WATER SYSTEM,Region 4,Tennessee,Community water system,10906,HOHENWALD,Lewis,16,25,20
+TN0000928,FRIENDSHIP DISTRIBUTION WATER SYSTEM,Region 4,Tennessee,Community water system,915,,Crockett,8,14,21
+TN0000162,CUMBERLAND CITY WATER DEPT.,Region 4,Tennessee,Community water system,1077,,Stewart,5,9,16
+TN0000664,SPRING CREEK UTILITY DISTRICT,Region 4,Tennessee,Community water system,2637,,Hardeman,6,6,19
+TN0000050,BETHEL SPRINGS WATER SYSTEM,Region 4,Tennessee,Community water system,934,BETHEL SPRINGS,McNairy,8,11,29
+TN0000742,WEST WARREN-VIOLA U. D.,Region 4,Tennessee,Community water system,16179,MORRISON,Warren,13,12,14
+TN0000389,NORTHEAST LAWRENCE UTILITY DIS,Region 4,Tennessee,Community water system,3490,,Lawrence,8,17,20
+TN0000331,JOHNSON CITY WATER DEPT,Region 4,Tennessee,Community water system,107282,JOHNSON CITY,Washington,27,17,123
+TN0000421,MCKENZIE WATER DEPT,Region 4,Tennessee,Community water system,5439,MCKENZIE,Carroll,12,6,20
+TN0000494,NASHVILLE WATER DEPT,Region 4,Tennessee,Community water system,702407,NASHVILLE,Davidson,57,5,17
+TN0001452,ZION HILL BAPTIST CHURCH,Region 4,Tennessee,Transient non-community system,120,,Sevier,5,8,15
+TN0004413,CAMP BA-YO-CA,Region 4,Tennessee,Transient non-community system,200,,Sevier,12,4,21
+TN0000715,TULLAHOMA UTILITIES AUTHORITY,Region 4,Tennessee,Community water system,28259,,Coffee,13,0,14
+TN0000645,SECOND SOUTH CHEATHAM U.D.,Region 4,Tennessee,Community water system,9291,"KINGSTON SPRINGS, KINGSTON SPRINGS TN",Cheatham,12,6,17
+TN0005099,GRAYSBURG HILLS GOLF COURSE,Region 4,Tennessee,Transient non-community system,75,,Greene,6,6,6
+TN0000676,SUMMERTOWN WATER SYSTEM,Region 4,Tennessee,Community water system,4325,SUMMERTOWN,Lawrence,13,15,28
+TN0000802,PETERS HOLLOW WATER SYSTEM,Region 4,Tennessee,Community water system,155,ELIZABETHTON,Carter,7,99,42
+TN0000559,PORTLAND WATER SYSTEM,Region 4,Tennessee,Community water system,21516,PORTLAND,Sumner,20,25,17
+TN0000040,BAXTER WATER DEPARTMENT,Region 4,Tennessee,Community water system,6600,BAXTER,Putnam,7,15,16
+TN0001471,"BRIDGEMONT MINISTRIES, INC.",Region 4,Tennessee,Transient non-community system,65,,Sevier,5,18,21
+TN0003899,CAMP AHISTADI,Region 4,Tennessee,Transient non-community system,50,,Johnson,5,9,26
+TN0000295,HENNING WATER DEPT,Region 4,Tennessee,Community water system,1283,HENNING,Lauderdale,11,6,36
+TN0000144,COVINGTON WATER DEPT,Region 4,Tennessee,Community water system,14435,COVINGTON,Tipton,16,5,20
+TN0001236,OAK GROVE CHURCH OF CHRIST,Region 4,Tennessee,Transient non-community system,120,,Chester,5,19,18
+TN0004667,LAWSON CAMPGROUND,Region 4,Tennessee,Transient non-community system,97,,Hawkins,5,17,17
+TN0000899,OLD HICKORY WATER COMPANY-UNION COUNTY,Region 4,Tennessee,Community water system,339,,Union,6,96,59
+TN0000569,QUEBECK WALLING UTILITY DIST,Region 4,Tennessee,Community water system,4838,,White,8,7,16
+TN0000195,NORTH STEWART UTILITY DISTRICT,Region 4,Tennessee,Community water system,5550,DOVER,Stewart,15,20,20
+TN0000523,OLIVER SPRINGS WATER BOARD,Region 4,Tennessee,Community water system,5665,OLIVER SPRINGS,Roane,11,71,37
+TN0000765,BARTLETT WATER SYSTEM,Region 4,Tennessee,Community water system,57670,BARTLETT,Shelby,22,5,40
+TN0000613,SAVANNAH VALLEY U. D.,Region 4,Tennessee,Community water system,24403,GEORGETOWN,Hamilton,14,9,79
+TN0000022,ARTHUR-SHAWANEE UTILITY DISTRICT,Region 4,Tennessee,Community water system,9967,HARROGATE,Claiborne,11,15,31
+TN0000104,CHAPEL HILL WATER SYSTEM,Region 4,Tennessee,Community water system,2062,CHAPEL HILL,Marshall,9,54,65
+TN0000201,POPLAR GROVE UTILITY DISTRICT,Region 4,Tennessee,Community water system,17962,ATOKA,Tipton,12,17,28
+TN0000526,O'CONNOR UTILITY DISTRICT,Region 4,Tennessee,Community water system,8621,,White,11,12,16
+TN0002266,MIDWAY DRIVE-IN THEATRE,Region 4,Tennessee,Transient non-community system,100,,McMinn,5,19,16
+TN0000320,IRON CITY UTILITY DISTRICT,Region 4,Tennessee,Community water system,589,,Lawrence,9,27,20
+TN0000927,CAGLE-FREDONIA UTILITY DIST,Region 4,Tennessee,Community water system,2417,,Sequatchie,8,3,17
+TN0000101,CENTER GROVE-WINCHESTER SPGS,Region 4,Tennessee,Community water system,6275,ESTILL SPRINGS,Franklin,10,20,28
+TN0000120,CLINTON UTILITIES BOARD,Region 4,Tennessee,Community water system,17974,CLINTON,Anderson,14,20,24
+TN0000912,DEERFIELD RESORT WATER SYSTEM,Region 4,Tennessee,Community water system,1088,"JACKSBORO, LA FOLLETTE, LAFOLLETTE",Campbell,32,130,21
+TN0003003,SEQUOYAH MARINA LLC,Region 4,Tennessee,Transient non-community system,350,,Anderson,5,3,25
+TN0000196,DRESDEN WATER DEPT,Region 4,Tennessee,Community water system,3820,DRESDEN,Weakley,12,1,34
+TN0000600,RUTLEDGE WATER SYSTEM,Region 4,Tennessee,Community water system,2005,RUTLEDGE,Grainger,7,2,12
+TN0004791,HARTFORD WELCOME CENTER,Region 4,Tennessee,Transient non-community system,1001,,Cocke,6,3,10
+TN0005035,NOLICHUCKY GORGE CAMPGROUND,Region 4,Tennessee,Transient non-community system,150,,Unicoi,5,11,26
+TN0000557,WEST CUMBERLAND U.D.,Region 4,Tennessee,Community water system,5470,,Cumberland,8,8,14
+TN0000024,ATHENS UTILITIES BOARD,Region 4,Tennessee,Community water system,24610,ATHENS,McMinn,13,33,50
+TN0000633,SIAM UTILITY DISTRICT,Region 4,Tennessee,Community water system,2564,ELIZABETHTON,Carter,10,19,84
+TN0004953,"WHITEWATER EXPRESS, INC",Region 4,Tennessee,Transient non-community system,100,,Polk,8,7,21
+TN0005128,"EAGLE RANCH ADVENTURE COMPANY, INC.",Region 4,Tennessee,Transient non-community system,100,,Polk,5,3,11
+TN0000921,NATCHEZ TRACE YOUTH ACADEMY,Region 4,Tennessee,Non-Transient non-community system,225,,Humphreys,6,75,9
+TN0000730,WARTRACE WATER SYSTEM,Region 4,Tennessee,Community water system,3236,"WARTRACE, WATRTACE",Bedford,13,46,21
+TN0004053,BETHLEHEM BAPTIST CHURCH,Region 4,Tennessee,Transient non-community system,300,,Madison,5,26,19
+TN0002606,"I-40 WEST REST AREA, TDOT",Region 4,Tennessee,Transient non-community system,1001,,Jefferson,5,3,27
+TN0000190,DEWHITE UTILITY DISTRICT,Region 4,Tennessee,Community water system,6963,,White,8,10,16
+TN0000255,GATES WATER DEPT,Region 4,Tennessee,Community water system,741,GATES,Lauderdale,7,9,108
+TN0000813,GIBSON CO MUN WATER DIST #4,Region 4,Tennessee,Community water system,3422,TRENTON,Gibson,9,11,21
+TN0000709,GIBSON CO MUN WATER DIST #1,Region 4,Tennessee,Community water system,2751,TRENTON,Gibson,10,5,54
+TN0000812,GIBSON CO MUN WATER DIST #3,Region 4,Tennessee,Community water system,1443,TRENTON,Gibson,9,2,16
+TN0000815,GIBSON CO MUN WATER DIST #5,Region 4,Tennessee,Community water system,1942,TRENTON,Gibson,8,5,18
+TN0004030,CLINCH MOUNTAIN LOOKOUT REST.,Region 4,Tennessee,Transient non-community system,110,,Grainger,5,8,26
+TN0005045,EUGENE HUSKEY ENVIROMENTAL CENTER,Region 4,Tennessee,Transient non-community system,25,,Sevier,5,0,12
+TN0000599,RUTHERFORD WATER SYSTEM,Region 4,Tennessee,Community water system,1423,RUTHERFORD,Gibson,8,14,55
+TN0000628,SHELBYVILLE WATER SYSTEM,Region 4,Tennessee,Community water system,30823,SHELBYVILLE,Bedford,11,5,54
+TN0008272,SHELBYVILLE FLAT CREEK WATER SYSTEM,Region 4,Tennessee,Community water system,429,,Bedford,4,2,6
+TN0004415,BUSH BROTHERS #3,Region 4,Tennessee,Non-Transient non-community system,330,,Jefferson,5,3,24
+TN0000347,KENTON WATER DEPT,Region 4,Tennessee,Community water system,1433,KENTON,Obion,8,21,44
+TN0001500,ARARAT BAPTIST CHURCH,Region 4,Tennessee,Transient non-community system,100,,Madison,6,8,19
+TN0000409,LOUDON UTILITIES BOARD,Region 4,Tennessee,Community water system,13801,LOUDON,Loudon,24,8,65
+TN0000998,COVE MOUNTAIN MOBILE HOME PARK,Region 4,Tennessee,Community water system,91,SEVIERVILLE,Sevier,7,12,25
+TN0000883,NORTH U.D. OF DECATUR/BENTON CO.,Region 4,Tennessee,Community water system,3257,PARSONS,Decatur,7,19,75
+TN0000571,RAMER WATER DEPT,Region 4,Tennessee,Community water system,518,RAMER,McNairy,9,50,24
+TN0000134,COOKEVILLE BOAT DOCK ROAD UD,Region 4,Tennessee,Community water system,7345,,Putnam,3,17,16
+TN0000211,DYERSBURG WATER DEPT,Region 4,Tennessee,Community water system,20311,DYERSBURG,Dyer,20,9,40
+TN0000293,HENDERSON WATER DEPT.,Region 4,Tennessee,Community water system,9036,HENDERSON,Chester,10,1,60
+TN0004354,MANCHESTER KOA,Region 4,Tennessee,Transient non-community system,120,,Coffee,5,5,17
+TN0004844,INDIAN CREEK DOCK,Region 4,Tennessee,Transient non-community system,35,,Jefferson,5,1,18
+TN0001313,MILLROCK FREEWILL BAPTIST CH,Region 4,Tennessee,Transient non-community system,100,,Wayne,7,15,13
+TN0002047,HOLTS BAPTIST CHURCH,Region 4,Tennessee,Transient non-community system,150,,Hamblen,5,4,23
+TN0000541,PARSONS WATER DEPARTMENT,Region 4,Tennessee,Community water system,4059,PARSONS,Decatur,9,10,168
+TN0000551,PIKEVILLE WATER SYSTEM,Region 4,Tennessee,Community water system,4581,PIKEVILLE,Bledsoe,14,54,69
+TN0000424,MADISON SUBURBAN UD,Region 4,Tennessee,Community water system,76754,MADISON,Davidson,13,8,16
+TN0001025,JOHNSON CABINS,Region 4,Tennessee,Transient non-community system,73,,Carter,8,7,22
+TN0004548,CRAZY HORSE CANOE RENTAL,Region 4,Tennessee,Transient non-community system,100,,Wayne,7,18,14
+TN0004795,PARKWAY MARKET,Region 4,Tennessee,Transient non-community system,75,,Grainger,5,4,11
+TN0001889,CYPRESS BAY RESORT,Region 4,Tennessee,Transient non-community system,239,,Henry,5,9,15
+TN0000805,BAYS MOUNTAIN MOBILE HOME PARK,Region 4,Tennessee,Community water system,85,ROCKFORD,Blount,6,50,21
+TN0000841,NORTON CREEK WATER SYSTEM,Region 4,Tennessee,Community water system,107,GATLINBURG,Sevier,9,12,21
+TN0000952,HERITAGE ACADEMY,Region 4,Tennessee,Community water system,100,MONTEREY,Putnam,10,22,9
+TN0000282,HAMPTON UTILITY DISTRICT,Region 4,Tennessee,Community water system,4022,HAMPTON,Carter,11,22,67
+TN0000923,HARBERT HILLS ACADEMY N.H.,Region 4,Tennessee,Community water system,140,SAVANNAH,Hardin,7,19,21
+TN0004775,BRITTON FORD CAMPGROUND,Region 4,Tennessee,Transient non-community system,180,,Henry,6,11,10
+TN0000648,SOUTH FULTON WATER SYSTEM,Region 4,Tennessee,Community water system,3960,SOUTH FULTON,Obion,10,17,44
+TN0004204,GREENLEE OF MAY SPRINGS,Region 4,Tennessee,Transient non-community system,500,,Grainger,5,1,20
+TN0002506,"GREENLEE CG, RV & MARINE, LLC",Region 4,Tennessee,Transient non-community system,200,,Grainger,5,3,24
+TN0000817,JACKSON COUNTY UD #2,Region 4,Tennessee,Community water system,2029,,Jackson,3,12,14
+TN0000252,JACKSON COUNTY UD #1,Region 4,Tennessee,Community water system,610,,Jackson,7,4,16
+TN0000859,JACKSON COUNTY UD #4,Region 4,Tennessee,Community water system,2043,,Jackson,4,4,11
+TN0000845,JACKSON COUNTY UD #3,Region 4,Tennessee,Community water system,3329,,Jackson,5,22,12
+TN0000609,SARDIS WATER SYSTEM,Region 4,Tennessee,Community water system,1084,SARDIS,Henderson,13,12,20
+TN0000138,CHEROKEE HILLS UTILITY DISTRICT,Region 4,Tennessee,Community water system,309,COPPERHILL,Polk,6,30,42
+TN0001402,"TANASI GS CAMP, GS COUNCI S APPALACHAINS",Region 4,Tennessee,Transient non-community system,100,,Union,7,3,23
+TN0005019,HOUSTON MINERAL WATER,Region 4,Tennessee,Transient non-community system,50,,Jefferson,6,1,7
+TN0004007,DOUGLAS LAKE CAMPGROUND,Region 4,Tennessee,Transient non-community system,298,,Jefferson,14,6,18
+TN0000192,DOUBLE SPRINGS UTILITY DISTRIC,Region 4,Tennessee,Community water system,7275,,Putnam,4,7,16
+TN0000563,FAIRVIEW UTILITY DISTRICT,Region 4,Tennessee,Community water system,5712,,Giles,7,4,22
+TN0000396,LENOIR CITY UTILITY BOARD,Region 4,Tennessee,Community water system,24137,LENOIR CITY,Loudon,17,41,38
+TN0000276,GREENFIELD WATER DEPT,Region 4,Tennessee,Community water system,2457,GREENFIELD,Weakley,10,1,28
+TN0004772,K-T CLAY COMPANY,Region 4,Tennessee,Non-Transient non-community system,35,,Weakley,5,5,9
+TN0004638,HONEYMOON HILLS OF GATLINBURG,Region 4,Tennessee,Transient non-community system,36,,Sevier,6,2,16
+TN0005125,MOE'S CAMPGROUND,Region 4,Tennessee,Transient non-community system,49,,Stewart,4,35,1
+TN0000517,BEDFORD COUNTY UTILITY DISTRICT,Region 4,Tennessee,Community water system,18722,SHELBYVILLE,Bedford,20,32,21
+TN0000147,CRAB ORCHARD UTILITY DISTRICT,Region 4,Tennessee,Community water system,21625,CROSSVILLE,Cumberland,16,13,24
+TN0000699,H.B.& T.S. UTILITY DISTRICT,Region 4,Tennessee,Community water system,29609,,Williamson,18,13,15
+TN0000540,NORTHEAST HENRY CO UTIL DIS,Region 4,Tennessee,Community water system,5050,SPRINGVILLE,Henry,13,1,27
+TN0000434,MARTEL UTILITY DISTRICT,Region 4,Tennessee,Community water system,4498,,Loudon,5,7,32
+TN0000038,BANGHAM UTILITY DISTRICT,Region 4,Tennessee,Community water system,8047,,Putnam,3,3,16
+TN0004565,CARMACK'S FISH BARN,Region 4,Tennessee,Transient non-community system,100,,Henry,5,6,10
+TN0008140,WEARS VALLEY RANCH,Region 4,Tennessee,Community water system,75,SEVIERVILLE,Sevier,6,4,11
+TN0000472,MOORESBURG UTILITY DISTRICT,Region 4,Tennessee,Community water system,1762,MOORESBURG,Hawkins,9,50,22
+TN0000161,CUMBERLAND GAP WATER SERVICES,Region 4,Tennessee,Community water system,404,CUMBERLAND GAP,Claiborne,3,22,20
+TN0000067,BRADFORD WATER SYSTEM,Region 4,Tennessee,Community water system,1272,BRADFORD,Gibson,7,4,32
+TN0003923,PIONEER LANDING,Region 4,Tennessee,Transient non-community system,157,,Johnson,6,26,20
+TN0005091,COOKIE JAR CAFE,Region 4,Tennessee,Transient non-community system,150,,Sequatchie,5,0,11
+TN0001100,CROSS EYED CRICKET CAMPGROUND,Region 4,Tennessee,Transient non-community system,68,,Roane,6,1,20
+TN0000925,RIVERSIDE CAMPGROUND,Region 4,Tennessee,Community water system,589,SEVIERVILLE,Sevier,6,41,20
+TN0008003,COUNTRY ACRES FARM,Region 4,Tennessee,Community water system,115,LOUISVILLE,Blount,7,5,19
+TN0005078,WONDERLAND R. V. PARK,Region 4,Tennessee,Transient non-community system,80,,Sevier,5,1,9
+TN0004978,COUNTY LINE TAVERN AND T.P.,Region 4,Tennessee,Transient non-community system,50,,Monroe,5,2,24
+TN0004009,FRENCH BROAD BAPTIST CHURCH,Region 4,Tennessee,Transient non-community system,80,,Jefferson,5,11,13
+TN0001923,"PARIS LANDING MOTEL, INC.",Region 4,Tennessee,Transient non-community system,200,,Henry,6,2,12
+TN0000635,WALDEN'S RIDGE UTILITY DISTRICT,Region 4,Tennessee,Community water system,8362,SIGNAL MOUNTAIN,Hamilton,16,13,69
+TN0000394,LAGUARDO UTILITY DISTRICT,Region 4,Tennessee,Community water system,12277,,Wilson,11,8,18
+TN0004694,DOCKS MOTEL,Region 4,Tennessee,Transient non-community system,75,,Blount,5,0,11
+TN0000644,SOUTH BRISTOL-WEAVER PIKE U D,Region 4,Tennessee,Community water system,5382,,Sullivan,7,31,31
+TN0000863,GRANDVIEW UTILITY DISTRICT,Region 4,Tennessee,Community water system,2044,,Rhea,7,12,19
+TN0002942,COKER CREEK ELEMENTARY SCHOOL,Region 4,Tennessee,Non-Transient non-community system,130,,Monroe,6,2,43
+TN0002433,FISH SPRINGS MARINA,Region 4,Tennessee,Transient non-community system,382,,Carter,5,17,22
+TN0005163,RAFT ONE WHITEWATER,Region 4,Tennessee,Transient non-community system,50,,Polk,4,4,7
+TN0003416,"SCEPTER INGOT CASTING, INC.",Region 4,Tennessee,Non-Transient non-community system,129,,Humphreys,5,29,11
+TN0000454,MICHIE WATER DEPT,Region 4,Tennessee,Community water system,2634,MICHIE,McNairy,9,5,35
+TN0002093,CLYDETON BOAT DOCK,Region 4,Tennessee,Transient non-community system,47,,Humphreys,7,16,12
+TN0000455,MIDDLETON WATER DEPT,Region 4,Tennessee,Community water system,706,MIDDLETON,Hardeman,11,52,29
+TN0000273,GREENEVILLE WATER & LIGHT COMM,Region 4,Tennessee,Community water system,30642,GREENEVILLE,Greene,13,3,61
+TN0000438,CITY OF MARYVILLE WATER AND SEWER DEPT,Region 4,Tennessee,Community water system,47588,MARYVILLE,Blount,16,2,26
+TN0001714,COFFEE RIDGE MISS BAPTIST CHUR,Region 4,Tennessee,Transient non-community system,50,,Unicoi,6,12,17
+TN0000430,HILLSVILLE UTILITY DISTRICT,Region 4,Tennessee,Community water system,9790,,Coffee,8,5,14
+TN0000452,ROGERS SPRINGS POA,Region 4,Tennessee,Community water system,135,MIDDLETON,Hardeman,7,14,13
+TN0000682,SURGOINSVILLE UTILITY DISTRICT,Region 4,Tennessee,Community water system,2600,SURGOINSVILLE,Hawkins,13,23,34
+TN0002247,SHELTON'S RESTAURANT,Region 4,Tennessee,Transient non-community system,75,,Weakley,5,5,16
+TN0000081,BRUCETON WATER SYSTEM,Region 4,Tennessee,Community water system,1532,BRUCETON,Carroll,13,10,27
+TN0000521,OAKLAND WATER DEPT,Region 4,Tennessee,Community water system,12025,OAKLAND,Fayette,10,2,49
+TN0000408,LORETTO WATER DEPARTMENT,Region 4,Tennessee,Community water system,4033,LORETTO,Lawrence,9,19,20
+TN0005205,MOONSHINE RIDGE COUNTRY STORE,Region 4,Tennessee,Transient non-community system,75,,Sevier,3,0,1
+TN0000924,RIVER LANDING CONDOMINIUM ASSOC,Region 4,Tennessee,Community water system,52,"CHARLESTON, CHATTANOOGA",Marion,7,45,52
+TN0000818,WARREN COUNTY UTILITY DISTRICT,Region 4,Tennessee,Community water system,25177,MCMINNVILLE,Warren,14,6,14
+TN0000666,SPRINGFIELD WATER SYSTEM,Region 4,Tennessee,Community water system,40516,SPRINGFIELD,Robertson,17,13,16
+TN0000085,CARDERVIEW UTILITY DISTRICT,Region 4,Tennessee,Community water system,1077,BUTLER,Johnson,9,101,55
+TN0000079,BRISTOL-BLUFF CITY UTILITY DISTRICT,Region 4,Tennessee,Community water system,5868,BRISTOL,Sullivan,9,106,40
+TN0000797,CANDLEWOOD LAKES P.O.A. WATERWORKS,Region 4,Tennessee,Community water system,308,MIDDLETON,Hardeman,7,16,22
+TN0000974,ALLENDALE MOBILE HOME PARK,Region 4,Tennessee,Community water system,88,FRIENDSVILLE,Blount,6,37,35
+TN0001068,Y-12 NNSA PRODUCTION OFFICE,Region 4,Tennessee,Non-Transient non-community system,5000,,Anderson,6,3,25
+TN0000618,EAST SEVIER COUNTY U. D.,Region 4,Tennessee,Community water system,805,SEVIERVILLE,Sevier,21,37,38
+TN0005206,DOLLAR GENERAL STORE WATER SYSTEM,Region 4,Tennessee,Transient non-community system,50,,Sequatchie,3,0,2
+TN0005079,VICTORY RANCH,Region 4,Tennessee,Transient non-community system,500,,Hardeman,6,1,7
+TN0000704,TOONE WATER SYSTEM,Region 4,Tennessee,Community water system,720,TOONE,Hardeman,13,4,32
+TN0000798,MILAN ARSENAL #1,Region 4,Tennessee,Non-Transient non-community system,250,MILAN,Gibson,12,1,33
+TN0005110,GATOR POINT ENTERPRISES LLC,Region 4,Tennessee,Transient non-community system,60,,Jefferson,11,4,6
+TN0004841,COCHRAN'S LAKEVIEW CAMPGROUND,Region 4,Tennessee,Transient non-community system,130,,Sullivan,6,12,12
+TN0004993,THE OLD COUNTRY PORCH RESTAURANT,Region 4,Tennessee,Transient non-community system,40,,Polk,6,1,4
+TN0000046,BELVIDERE RURAL UTILITY DISTRICT,Region 4,Tennessee,Community water system,1500,BELVIDERE,Franklin,11,22,26
+TN0004353,LIBERTY APOSTOLIC CHURCH,Region 4,Tennessee,Transient non-community system,150,,Weakley,4,17,13
+TN0000835,DEKALB UTILITY DISTRICT #4,Region 4,Tennessee,Community water system,607,,DeKalb,10,13,14
+TN0000188,DEKALB UTILITY DISTRICT #1,Region 4,Tennessee,Community water system,14424,,DeKalb,13,14,16
+TN0000066,BON AQUA-LYLES UTILITY DISTRICT,Region 4,Tennessee,Community water system,10728,LYLES,Hickman,14,21,20
+TN0004201,"LOYSTON POINT P.U.A.,TVA",Region 4,Tennessee,Transient non-community system,150,,Union,8,1,23
+TN0000061,BLUFF CITY WATER DEPARTMENT,Region 4,Tennessee,Community water system,2810,BLUFF CITY,Sullivan,8,82,76
+TN0000875,CHANUTE-PALL MALL UTILITY DIST,Region 4,Tennessee,Community water system,1347,,Fentress,4,32,10
+TN0000733,WAVERLY WATER DEPARTMENT,Region 4,Tennessee,Community water system,8264,"NEW JOHNSONVILLE, WAVERLY",Humphreys,16,6,15
+TN0000463,MILLINGTON WATER DEPT,Region 4,Tennessee,Community water system,8355,MILLINGTON,Shelby,16,5,44
+TN0000758,WOODLAWN UTILITY DISTRICT,Region 4,Tennessee,Community water system,10017,,Montgomery,11,6,17
+TN0004918,SHADY GROVE HARBOR MARINA,Region 4,Tennessee,Transient non-community system,30,,Hamilton,5,12,22
+TN0000649,SOUTH GILES UTILITY DISTRICT,Region 4,Tennessee,Community water system,3244,,Giles,7,48,22
+TN0004313,RESOLUTE FOREST PRODUCTS,Region 4,Tennessee,Non-Transient non-community system,500,,McMinn,7,23,21
+TN0004634,USA RAFT,Region 4,Tennessee,Transient non-community system,25,,Unicoi,5,42,37
+TN0004784,THREE OAKS RESTAURANT,Region 4,Tennessee,Transient non-community system,75,,Henry,4,12,10
+TN0000253,GALLATIN WATER DEPARTMENT,Region 4,Tennessee,Community water system,50162,GALLATIN,Sumner,14,3,16
+TN0001235,UNITY BAPTIST CHURCH,Region 4,Tennessee,Transient non-community system,90,,Chester,9,13,17
+TN0000312,HORNSBY WATER DEPT,Region 4,Tennessee,Community water system,1183,,Hardeman,5,4,16
+TN0000070,BRIGHTON WATER SYSTEM,Region 4,Tennessee,Community water system,3628,,Tipton,9,15,20
+TN0000488,MOUNT PLEASANT WAT SYS #1,Region 4,Tennessee,Community water system,8081,MOUNT PLEASANT,Maury,15,48,25
+TN0004193,HOMEPLACE - LBL,Region 4,Tennessee,Transient non-community system,400,,Stewart,6,0,12
+TN0004188,PINEY CAMPGROUND C&D - LBL,Region 4,Tennessee,Transient non-community system,158,,Stewart,6,0,11
+TN0004187,PINEY CAMPGROUND A&B - LBL,Region 4,Tennessee,Transient non-community system,45,,Stewart,6,0,11
+TN0004184,PINEY CAMPGROUND E - LBL,Region 4,Tennessee,Transient non-community system,70,,Stewart,12,1,9
+TN0004195,SOUTH INFORMATION STATION -LBL,Region 4,Tennessee,Transient non-community system,50,,Stewart,5,1,9
+TN0000008,ALEXANDRIA WATER SYSTEM,Region 4,Tennessee,Community water system,2557,,DeKalb,5,12,16
+TN0000468,NSA - MIDSOUTH,Region 4,Tennessee,Community water system,6300,MILLINGTON,Shelby,10,7,38
+TN0000256,GATLINBURG WATER DEPT,Region 4,Tennessee,Community water system,7958,GATLINBURG,Sevier,11,9,35
+TN0000871,TELLICO VILLAGE POA,Region 4,Tennessee,Community water system,10349,,Loudon,5,16,15
+TN0004158,BUMPUS MILLS-LAKE BARKLEY CMPG,Region 4,Tennessee,Transient non-community system,160,,Stewart,8,6,10
+TN0000278,GRIFFITH CREEK UTILITY DIST,Region 4,Tennessee,Community water system,1101,,Marion,4,30,34
+TN0004838,BROOKSIDE RESORT CABINS,Region 4,Tennessee,Transient non-community system,25,,Sevier,7,3,10
+TN0000319,INTERMONT UTILITY DISTRICT,Region 4,Tennessee,Community water system,1204,,Sullivan,6,7,29
+TN0001263,CADES COVE CAMPGROUND,Region 4,Tennessee,Non-Transient non-community system,2000,,Blount,6,12,21
+TN0001262,CABLE MILL COMFORT STATION,Region 4,Tennessee,Transient non-community system,2000,,Blount,7,3,16
+TN0001266,ELKMONT CAMPGROUND,Region 4,Tennessee,Transient non-community system,750,,Sevier,6,0,19
+TN0000579,RIDGELY WATER SYSTEM,Region 4,Tennessee,Community water system,2021,RIDGELY,Lake,9,35,36
+TN0000693,TELLICO PLAINS WATER DEPT,Region 4,Tennessee,Community water system,5899,"ETOWAH, TELLICO PLAINS",Monroe,23,78,34
+TN0000679,WOODLAWN SHORES WATER DEPARTMENT,Region 4,Tennessee,Community water system,96,SUGAR TREE,Decatur,8,4,13
+TN0000711,TRIMBLE WATER SYSTEM,Region 4,Tennessee,Community water system,806,"TRIMBEL, TRIMBLE",Dyer,7,7,23
+TN0000953,SOUTH SIDE U.D. #3,Region 4,Tennessee,Community water system,181,,Smith,3,5,9
+TN0000904,SOUTH SIDE U.D. #1,Region 4,Tennessee,Community water system,3958,,Smith,5,3,11
+TN0000910,SOUTH SIDE U.D. #2,Region 4,Tennessee,Community water system,611,,Smith,3,1,10
+TN0000170,DANDRIDGE WATER MANAGEMENT FACILITY,Region 4,Tennessee,Community water system,8174,DANDRIDGE,Jefferson,10,10,38
+TN0000838,NORTHWEST HENRY CO. U.D.,Region 4,Tennessee,Community water system,1097,,Henry,4,2,18
+TN0005121,PONDEROSA STABLES,Region 4,Tennessee,Transient non-community system,50,PIGEON FORGE,Sevier,4,0,9
+TN0000691,SYLVIA-TENN CITY-POND U. D.,Region 4,Tennessee,Community water system,5233,,Dickson,7,5,18
+TN0004812,LAKE COVE RESORT,Region 4,Tennessee,Transient non-community system,100,,Jefferson,5,6,14
+TN0001268,LECONTE LODGE,Region 4,Tennessee,Transient non-community system,60,,Sevier,8,0,13
+TN0001270,METCALF BOTTOMS PICNIC AREA,Region 4,Tennessee,Transient non-community system,900,,Sevier,6,0,13
+TN0005074,TWIN CREEKS RECREATION AREA,Region 4,Tennessee,Transient non-community system,114,,Sevier,5,0,6
+TN0001261,ABRAMS CREEK CAMPGROUND,Region 4,Tennessee,Transient non-community system,68,,Blount,6,1,17
+TN0001271,TREMONT INSTITUTE,Region 4,Tennessee,Transient non-community system,488,,Blount,6,0,16
+TN0001264,CHIMNEYS PICNIC AREA,Region 4,Tennessee,Transient non-community system,400,,Sevier,6,0,15
+TN0001265,COSBY CAMPGROUND,Region 4,Tennessee,Transient non-community system,925,,Cocke,6,1,15
+TN0001194,CAMP CHEROKEE-MCMINN CO,Region 4,Tennessee,Transient non-community system,110,,McMinn,6,15,12
+TN0000543,PERRYVILLE UTILITY DISTRICT,Region 4,Tennessee,Community water system,3289,,Decatur,8,12,20
+TN0000499,NEW MARKET UTILITY DISTRICT,Region 4,Tennessee,Community water system,5208,NEW MARKET,Jefferson,4,12,45
+TN0004967,BUCHANAN RESORT #2,Region 4,Tennessee,Transient non-community system,200,,Henry,5,6,8
+TN0009668,BUCHANAN RESORT #1,Region 4,Tennessee,Transient non-community system,200,,Henry,5,6,13
+TN0001932,HARMONY FAMILY CENTER AT MONTVALE,Region 4,Tennessee,Transient non-community system,100,,Blount,5,6,10
+TN0000296,HENRY WATER SYSTEM,Region 4,Tennessee,Community water system,500,HENRY,Henry,9,9,38
+TN0000712,TROY WATER SYSTEM,Region 4,Tennessee,Community water system,2155,TROY,Obion,12,2,22
+TN0004186,BRANDON SPRINGS-LBL,Region 4,Tennessee,Transient non-community system,75,,Stewart,8,12,12
+TN0000643,SOUTH BLOUNT UTILITY DISTRICT,Region 4,Tennessee,Community water system,42413,MARYVILLE,Blount,14,12,89
+TN0005058,SMOKER HOLLER RV RESORT,Region 4,Tennessee,Transient non-community system,65,,Sevier,9,2,11
+TN0000615,SELMER WATER SYSTEM,Region 4,Tennessee,Community water system,19029,SELMER,McNairy,17,8,95
+TN0005196,RIVER DRIFTERS RESTAURANT,Region 4,Tennessee,Transient non-community system,100,,Hamilton,4,1,2
+TN0000270,GREAT SMOKY MTNS NATIONAL PARK HEADQTRS,Region 4,Tennessee,Non-Transient non-community system,3125,,Sevier,6,10,23
+TN0002304,COMPASSION CHURCH,Region 4,Tennessee,Transient non-community system,120,,Humphreys,5,40,12
+TN0000290,LINCOLN MEMORIAL UNIVERSITY,Region 4,Tennessee,Community water system,2200,HARROGATE,Claiborne,7,45,28
+TN0000536,PARIS BD OF PUBLIC UTILITIES,Region 4,Tennessee,Community water system,12514,PARIS,Henry,8,1,26
+TN0005033,CAMP CLARK WILLIAMSON LODGE,Region 4,Tennessee,Transient non-community system,100,,Madison,4,6,8
+TN0004102,CAMP CLARK WILLIAMSON,Region 4,Tennessee,Transient non-community system,100,,Madison,5,12,14
+TN0000726,TELLICO AREA SERVICES SYSTEM,Region 4,Tennessee,Community water system,12660,VONORE,Monroe,13,13,42
+TN0000446,WOODRUN LAKES S/D,Region 4,Tennessee,Community water system,179,MIDDLETON,Hardeman,7,8,13
+TN0005025,CANE CREEK BAPTIST CHURCH,Region 4,Tennessee,Transient non-community system,125,,Madison,5,5,9
+TN0000274,"NORTH GREENE UTILITIES, INCORPORATED",Region 4,Tennessee,Community water system,5978,GREENEVILLE,Greene,13,113,81
+TN0002427,NEW FRIENDSHIP BAPTIST CHURCH,Region 4,Tennessee,Transient non-community system,85,,Bradley,5,16,24
+TN0004556,CHARIT CREEK LODGE,Region 4,Tennessee,Transient non-community system,48,,Scott,8,1,11
+TN0004508,BANDY CREEK CAMPGROUND,Region 4,Tennessee,Transient non-community system,1003,,Scott,12,1,15
+TN0000698,TENNESSEE RIDGE WATER SYSTEM,Region 4,Tennessee,Community water system,3548,TENNESSEE RIDGE,Houston,11,4,16
+TN0000223,NORTH ELIZABETHTON WATER CO-OP,Region 4,Tennessee,Community water system,1382,,Carter,5,31,51
+TN0000970,NORTH U.D. OF RHEA COUNTY,Region 4,Tennessee,Community water system,2738,,Rhea,9,4,17
+TN0009774,FRIENDSHIP MARINA,Region 4,Tennessee,Transient non-community system,98,,Sullivan,6,2,9
+TN0004368,FRIENDSHIP FAMILY RESORTS,Region 4,Tennessee,Transient non-community system,47,,Sullivan,5,4,22
+TN0004825,OWENS-CORNING COMPANY,Region 4,Tennessee,Non-Transient non-community system,265,,Madison,7,2,11
+TN0000366,KNOXVILLE UTILITIES BOARD-KUB,Region 4,Tennessee,Community water system,241714,KNOXVILLE,Knox,34,19,60
+TN0000639,SMYRNA WATER SYSTEM,Region 4,Tennessee,Community water system,51930,SMYRNA,Rutherford,15,34,14
+TN0001480,VENTURE OUT AT GATLINBURG,Region 4,Tennessee,Community water system,328,,Sevier,6,1,16
+TN0000224,ENGLEWOOD WATER DEPT,Region 4,Tennessee,Community water system,3665,ENGLEWOOD,McMinn,9,15,52
+TN0002115,LONGTOWN BP & RESTAURANT,Region 4,Tennessee,Transient non-community system,220,,Fayette,5,10,19
+TN0008285,BLACKBERRY MOUNTAIN L.L.C.,Region 4,Tennessee,Community water system,75,,Blount,8,1,1
+TN0005190,DYSON GROVE BAPTIST CHURCH,Region 4,Tennessee,Transient non-community system,100,,Johnson,4,0,1
+TN0000849,CHALET VILLAGE NORTH,Region 4,Tennessee,Community water system,409,GATLINBURG,Sevier,12,30,32
+TN0001255,ZION BAPTIST CHURCH,Region 4,Tennessee,Transient non-community system,100,,Haywood,6,8,11
+TN0003287,PARKBURG BAPTIST CHURCH,Region 4,Tennessee,Transient non-community system,279,,Madison,5,14,15
+TN0004683,KENNY'S MEAT MARKET,Region 4,Tennessee,Transient non-community system,50,,Henry,7,10,12
+TN0005066,HALFWAY MARKET,Region 4,Tennessee,Transient non-community system,50,,Henry,4,5,13
+TN0000090,CAMDEN WATER DEPT,Region 4,Tennessee,Community water system,9746,CAMDEN,Benton,6,14,62
+TN0005073,DOUGLAS LK RESORT OWNERS ASSOC. INC.,Region 4,Tennessee,Transient non-community system,150,,Sevier,19,0,5
+TN0000023,ASHLAND CITY WATER DEPARTMENT,Region 4,Tennessee,Community water system,8030,ASHLAND CITY,Cheatham,11,6,18
+TN0005194,"CLIMB WORKS, LLC",Region 4,Tennessee,Transient non-community system,140,GATLIINBURG,Sevier,6,0,1
+TN0000074,HOLSTON U D,Region 4,Tennessee,Community water system,2806,,Sullivan,5,45,21
+TN0000266,GLEN HILLS UTILITY DISTRICT,Region 4,Tennessee,Community water system,16007,,Greene,9,2,39
+TN0000641,SOMERVILLE WATER SYSTEM,Region 4,Tennessee,Community water system,5183,SOMERVILLE,Fayette,15,5,28
+TN0005157,HARPER BROTHERS GEN. MERCHANDISE STORE,Region 4,Tennessee,Transient non-community system,100,,Sevier,4,1,4
+TN0005201,PAW PAW'S CATFISH KITCHEN,Region 4,Tennessee,Transient non-community system,75,SEVIERVILLE,Sevier,3,0,1
+TN0000267,GRAND JUNCTION WATER DEPT,Region 4,Tennessee,Community water system,1303,GRAND JUNCTION,Hardeman,9,72,20
+TN0000420,MCEWEN WATER DEPARTMENT,Region 4,Tennessee,Community water system,2948,MCEWEN,Humphreys,9,7,17
+TN0009670,SUNSET BAY RESORT & MARINA,Region 4,Tennessee,Transient non-community system,25,,Henry,5,3,11
+TN0000485,COLD SPRINGS UTILITY DISTRICT,Region 4,Tennessee,Community water system,879,MOUNTAIN CITY,Johnson,9,28,49
+TN0004586,STATION HOUSE RESTAURANT,Region 4,Tennessee,Transient non-community system,50,,Weakley,5,8,10
+TN0000287,HARRIMAN UTILITY BOARD,Region 4,Tennessee,Community water system,15393,HARRIMAN,Roane,19,17,53
+TN0000233,ETOWAH UTILITIES,Region 4,Tennessee,Community water system,12628,ETOWAH,McMinn,10,10,61
+TN0000687,SWEETWATER UTILITY BOARD,Region 4,Tennessee,Community water system,12379,SWEETWATER,Monroe,16,6,59
+TN0000294,HENDERSONVILLE U D,Region 4,Tennessee,Community water system,54488,HENDERSONVILLE,Sumner,14,20,19
+TN0005090,DIXIE CASTLE II,Region 4,Tennessee,Transient non-community system,100,,Madison,4,0,7
+TN0005144,JUGS ONE STOP,Region 4,Tennessee,Transient non-community system,25,,Wayne,4,0,6
+TN0000916,WEST STEWART UTILITY DISTRICT,Region 4,Tennessee,Community water system,526,DOVER,Stewart,19,9,11
+TN0004198,CEDAR POINT CAMPGROUND,Region 4,Tennessee,Transient non-community system,250,,Coffee,5,5,14
+TN0008280,MOUNTAIN SIDE ESTATES,Region 4,Tennessee,Community water system,100,,Monroe,9,40,5
+TN0004773,"FAT DADDY'S, INC.",Region 4,Tennessee,Transient non-community system,67,,Stewart,12,30,10
+TN0003041,TN CUMBERLAND PLATEAU CAMPGROUND,Region 4,Tennessee,Transient non-community system,150,,Bledsoe,9,22,17
+TN0000706,TRACY CITY WATER SYSTEM,Region 4,Tennessee,Community water system,4549,TRACY CITY,Grundy,12,34,76
+TN0000820,FORT CAMPBELL WATER SYSTEM,Region 4,Tennessee,Community water system,40000,,Montgomery,8,34,18
+TN0000416,METRO LYNCHBURG/MOORE COUNTY UT DEPT #1,Region 4,Tennessee,Community water system,6345,LYNCHBURG,Moore,7,30,22
+TN0008258,METRO LYNCHBURG/MOORE COUNTY UT DEPT #2,Region 4,Tennessee,Community water system,241,,Moore,2,0,7
+TN0000115,CLARKSBURG UTILITY DISTRICT,Region 4,Tennessee,Community water system,1498,"CLARKSBURG, NEW TAZEWELL",Carroll,11,27,54
+TN0004333,FAIRVIEW BAPTIST CHURCH-RELIANCE,Region 4,Tennessee,Transient non-community system,50,,Polk,5,12,13
+TN0004865,MOUNTAIN VIEW INN CAMPGROUND,Region 4,Tennessee,Transient non-community system,25,,Jefferson,5,2,21
+TN0000480,BROWNLOW UTILITY DISTRICT,Region 4,Tennessee,Community water system,599,MOUNTAIN CITY,Johnson,8,85,58
+TN0005200,I-40 SOLAR FARM INFORMATION & WELCOME CE,Region 4,Tennessee,Transient non-community system,4000,,Haywood,4,0,2
+TN0004300,"SONTARA, OLD HICKORY INC.",Region 4,Tennessee,Non-Transient non-community system,604,,Davidson,6,78,15
+TN0000128,COLUMBIA POWER AND WATER SYSTEMS,Region 4,Tennessee,Community water system,64520,COLUMBIA,Maury,19,3,60
+TN0000597,ROSSVILLE WATER SYSTEM,Region 4,Tennessee,Community water system,1230,ROSSVILLE,Fayette,7,3,24
+TN0000441,MAURY CITY WATER DEPT,Region 4,Tennessee,Community water system,1053,MAURY CITY,Crockett,11,0,37
+TN0000205,DUNLAP WATER SYSTEM,Region 4,Tennessee,Community water system,7296,DUNLAP,Sequatchie,11,6,51
+TN0000960,HIDDEN HOLLOW WATER SYSTEM,Region 4,Tennessee,Community water system,79,DOVER,Stewart,5,11,10
+TN0005133,NORTH RIVER CHECKING STATION - USFS,Region 4,Tennessee,Transient non-community system,50,,Monroe,4,0,4
+TN0004272,TELLICO RANGER STATION - USFS,Region 4,Tennessee,Transient non-community system,25,,Monroe,5,3,16
+TN0005184,SONGBIRD CAMPGROUND,Region 4,Tennessee,Transient non-community system,37,,Benton,5,1,2
+TN0005185,WILDLIFE COVE CAMPGROUND,Region 4,Tennessee,Transient non-community system,50,,Benton,3,1,2
+TN0004024,CHICKASAW ST PARK LAKE LAJOIE GROUP CAMP,Region 4,Tennessee,Transient non-community system,120,,Hardeman,5,10,19
+TN0008228,LONE OAK UTILITY DISTRICT,Region 4,Tennessee,Community water system,410,,Sequatchie,4,1,12
+TN0000884,LINCOLN CO BD OF P.U. #2,Region 4,Tennessee,Community water system,2179,,Lincoln,11,5,15
+TN0000764,LINCOLN CO BD OF P.U. #1,Region 4,Tennessee,Community water system,22196,FAYETTEVILLE,Lincoln,47,9,24
+TN0000330,JELLICO WATER DEPT,Region 4,Tennessee,Community water system,5366,JELLICO,Campbell,13,16,40
+TN0000440,MASON WATER DEPT,Region 4,Tennessee,Community water system,2728,MASON,Tipton,10,10,21
+TN0004314,"CEMEX CONSTRUCTION MATERIALS ATLANTIC, L",Region 4,Tennessee,Non-Transient non-community system,120,,Knox,6,3,14
+TN0002245,MAPLE SPRINGS BAPTIST CHURCH,Region 4,Tennessee,Transient non-community system,90,,Madison,5,20,14
+TN0004205,WATAUGA DAM RESERVATION PUA,Region 4,Tennessee,Transient non-community system,25,,Carter,5,6,10
+TN0000149,CROSS ANCHOR UTILITY DISTRICT,Region 4,Tennessee,Community water system,8118,,Greene,8,16,31
+TN0003673,PERSIMMON HILLS GOLF COURSE,Region 4,Tennessee,Transient non-community system,250,,Weakley,6,18,13
+TN0005172,WOOTEN WOODS RETREAT WATER SYSTEM,Region 4,Tennessee,Transient non-community system,50,,Humphreys,5,5,4
+TN0000562,PULASKI WATER SYSTEM,Region 4,Tennessee,Community water system,10709,PULASKI,Giles,13,11,60
+TN0000962,DOALNARA RESTORATION SOCI USA,Region 4,Tennessee,Community water system,123,DOVER,Stewart,13,80,12
+TN0005048,HIDDEN SPRINGS RESORT,Region 4,Tennessee,Transient non-community system,306,,Sevier,21,0,8
+TN0008286,JASPER HIGHLANDS WATER SYSTEM,Region 4,Tennessee,Community water system,223,,Marion,5,2,3
+TN0000073,BRISTOL DEPTARTMENT OF UTILITIES,Region 4,Tennessee,Community water system,33199,BRISTOL,Sullivan,17,28,43
+TN0008271,GATEWAY VILLAGE WATER SYSTEM,Region 4,Tennessee,Community water system,1055,,Williamson,2,7,4
+TN0000239,FALL RIVER RD UTILITY DISTRICT,Region 4,Tennessee,Community water system,3020,,Lawrence,9,20,22
+TN0005183,BUNCH HOLLOW CAMPGROUND & RESORT,Region 4,Tennessee,Transient non-community system,180,,Claiborne,4,2,2
+TN0000001,WEST ROBERTSON WATER AUTHORITY,Region 4,Tennessee,Community water system,5422,"ADAMS, CEDAR HILL",Robertson,9,21,15
+TN0000757,REELFOOT WATER ASSOCIATION,Region 4,Tennessee,Community water system,648,,Obion,3,24,27
+TN0008275,WAYNE CO. B. P. UTIL. #1,Region 4,Tennessee,Community water system,128,,Wayne,2,4,5
+TN0002690,RIVERSIDE CATFISH HOUSE,Region 4,Tennessee,Transient non-community system,30,,Marion,5,14,18
+TN0008282,WAYNE CO. B. P. UTIL. #4,Region 4,Tennessee,Community water system,313,,Wayne,3,0,4
+TN0000934,WAYNE CO. B. P. UTIL. #3,Region 4,Tennessee,Community water system,108,,Wayne,6,15,9
+TN0008276,WAYNE CO. B. P. UTIL. #2,Region 4,Tennessee,Community water system,89,,Wayne,2,5,5
+TN0000220,ELBRIDGE WATER ASSOCIATION,Region 4,Tennessee,Community water system,3159,OBION,Obion,9,4,65
+TN0005188,COVE CREEK CAMPGROUND #2,Region 4,Tennessee,Transient non-community system,40,,Carter,5,0,3
+TN0005051,COVE CREEK CAMPGROUND #1,Region 4,Tennessee,Transient non-community system,26,,Carter,10,6,13
+TN0000909,SUCK CREEK WATER SYSTEM,Region 4,Tennessee,Community water system,615,"CHATTANOOGA, SODDY-DAISY",Marion,9,4,49
+TN0000749,TN AMERICAN-SEQUATCHIE VALLEY,Region 4,Tennessee,Community water system,7440,WHITWELL,Marion,6,62,69
+TN0000107,TENNESSEE AMERICAN WATER,Region 4,Tennessee,Community water system,188006,CHATTANOOGA,Hamilton,8,0,94
+TN0002848,TRAVEL CENTER OF AMERICA,Region 4,Tennessee,Transient non-community system,700,,Madison,6,7,23
+TN0003976,RODEWAY INN,Region 4,Tennessee,Transient non-community system,200,,Madison,5,14,17
+TN0000314,HUMBOLT UTILITIES-WATER DEPT,Region 4,Tennessee,Community water system,10054,HUMBOLDT,Gibson,10,1,30
+TN0002622,INDIAN CAMP CREEK CAMPGROUND,Region 4,Tennessee,Transient non-community system,130,,Cocke,6,4,27
+TN0005067,CHALET VILLAGE HOA,Region 4,Tennessee,Transient non-community system,64,,Blount,4,3,21
+TN0004691,HONEY CREEK SUBDIVISION,Region 4,Tennessee,Transient non-community system,50,,Grainger,5,6,17
+TN0004429,BOGGS SUBDIVISION,Region 4,Tennessee,Transient non-community system,36,,Grainger,5,5,17
+TN0000700,TIPTONVILLE WATER SYSTEM,Region 4,Tennessee,Community water system,2369,TIPTONVILLE,Lake,10,8,36
+TN0000083,LOON BAY PROPERTY OWNERS ASSOC,Region 4,Tennessee,Community water system,134,BUMPUS MILLS,Stewart,15,19,17
+TN0004910,ACCURATE ENERGETIC SYSTEMS,Region 4,Tennessee,Non-Transient non-community system,90,,Hickman,20,46,12
+TN0001689,JACK'S CREEK APOSTOLIC CHURCH,Region 4,Tennessee,Transient non-community system,35,,Chester,5,37,18
+TN0004461,ROAN MTN ST PK-CMPG CHECK IN,Region 4,Tennessee,Transient non-community system,38,,Carter,5,2,11
+TN0003120,ROAN MTN ST PK-CMPG-WELL #3,Region 4,Tennessee,Transient non-community system,88,,Carter,5,4,12
+TN0004456,ROAN MTN ST PK-POOL,Region 4,Tennessee,Transient non-community system,97,,Carter,6,1,10
+TN0004457,ROAN MTN ST PK-MAINTENANCE,Region 4,Tennessee,Transient non-community system,25,,Carter,5,0,10
+TN0004458,ROAN MTN ST PK-CABINS,Region 4,Tennessee,Transient non-community system,100,,Carter,7,1,10
+TN0003119,ROAN MTN ST PK-VISITOR CENTER,Region 4,Tennessee,Transient non-community system,25,,Carter,5,3,10
+TN0004460,ROAN MTN ST PK-CMPG-WELL #5,Region 4,Tennessee,Transient non-community system,38,,Carter,5,3,11
+TN0000271,GREENBRIER WATER & SEWER DEPT.,Region 4,Tennessee,Community water system,8521,GREENBRIER,Robertson,6,11,18
+TN0000791,CONSOLIDATED U D OF RUTHERFORD,Region 4,Tennessee,Community water system,172615,MURFREESBORO,Rutherford,22,10,18
+TN0000221,ELIZABETHTON WATER DEPT,Region 4,Tennessee,Community water system,32843,ELIZABETHTON,Carter,28,43,142
+TN0000655,SPENCER WATER SYSTEM,Region 4,Tennessee,Community water system,5306,SPENCER,Van Buren,12,79,32
+TN0008284,ELVIRA'S CAFE,Region 4,Tennessee,Transient non-community system,200,,Sevier,5,1,3
+TN0002697,BATTLE CREEK MARKET,Region 4,Tennessee,Transient non-community system,25,,Marion,5,55,30
+TN0002020,CAMP DAVY CROCKETT,Region 4,Tennessee,Transient non-community system,300,,Hawkins,8,24,44
+TN0000058,BLOUNTVILLE UTILITY DISTRICT,Region 4,Tennessee,Community water system,12722,,Sullivan,11,2,25
+TN0000119,CLIFTON WATER DEPT,Region 4,Tennessee,Community water system,4032,CLIFTON,Wayne,8,66,18
+TN0004796,SMOKY MOUNTAIN LODGE,Region 4,Tennessee,Transient non-community system,47,,Sevier,8,8,31
+TN0005084,CENTER STORE,Region 4,Tennessee,Transient non-community system,35,,Lawrence,5,2,11
+TN0000719,UNICOI UTILITY DISTRICT,Region 4,Tennessee,Community water system,4354,,Unicoi,13,8,36
+TN0004849,INFAITH - GALILEE BIBLE CAMP,Region 4,Tennessee,Transient non-community system,75,,Campbell,5,2,12
+TN0003660,WHISPERING OAKS CAMPGROUND,Region 4,Tennessee,Transient non-community system,100,,Coffee,5,4,18
+TN0004270,INDIAN BOUNDARY REC AREA- USFS,Region 4,Tennessee,Transient non-community system,975,,Monroe,12,8,27
+TN0000186,DECATURVILLE WATER SYSTEM,Region 4,Tennessee,Community water system,2223,DECATURVILLE,Decatur,17,12,20
+TN0000634,SIGNAL MOUNTAIN WATER SYSTEM,Region 4,Tennessee,Community water system,8568,,Hamilton,10,1,24
+TN0004397,GREEN COVE ANGLER AND LODGE,Region 4,Tennessee,Transient non-community system,65,,Monroe,4,12,18
+TN0000041,BEAN STATION UTILITY DISTRICT,Region 4,Tennessee,Community water system,9013,BEAN STATION,Grainger,11,7,27
+TN0000383,ROCKY TOP WATER DEPT,Region 4,Tennessee,Community water system,3240,LAKE CITY,Anderson,6,32,18
+TN0000148,CROCKETT MILLS UTILITY DISTRICT,Region 4,Tennessee,Community water system,793,"ALAMO, CROCKET MILLS, CROCKETT MILLS",Crockett,7,9,22
+TN0004788,CUMBERLAND MTN RETREAT CMPGD,Region 4,Tennessee,Transient non-community system,250,,Cumberland,6,23,9
+TN0000006,COUNTY WIDE UTILITY DISTRICT,Region 4,Tennessee,Community water system,8412,ALAMO,Crockett,43,46,48
+TN0004940,BOTTOMS UP BAR & GRILL,Region 4,Tennessee,Transient non-community system,50,,Humphreys,5,26,8
+TN0005053,BROTHER'S COVE HOA,Region 4,Tennessee,Transient non-community system,250,,Sevier,12,4,32
+TN0005120,STERLING SPRINGS RESORT & SPA,Region 4,Tennessee,Transient non-community system,105,,Sevier,7,1,16
+TN0000317,HUNTLAND WATER SYSTEM,Region 4,Tennessee,Community water system,1534,HUNTLAND,Franklin,19,45,45
+TN0008220,LEADMINE BEND WATER ASSOC.,Region 4,Tennessee,Community water system,119,SHARPS CHAPEL,Union,5,19,7
+TN0005191,UNDER CANVAS SMOKY MOUNTAINS,Region 4,Tennessee,Transient non-community system,240,,Sevier,4,0,1
+TN0005195,SUNNY RIDGE CAMPGROUND,Region 4,Tennessee,Transient non-community system,47,SPRINGVILLE,Henry,3,0,1
+TN0005198,MEADOW CREEK MOUNTAIN RANCH,Region 4,Tennessee,Transient non-community system,50,,Cocke,5,0,2
+TN0005202,LONE OAKS FARM,Region 4,Tennessee,Transient non-community system,120,,Hardeman,4,0,1
+TN0005199,SHELLY BELLE'S RESTAURANT,Region 4,Tennessee,Transient non-community system,30,,Claiborne,5,0,1
+TN0004110,TERRY POINT CAMPGROUND,Region 4,Tennessee,Transient non-community system,200,,Jefferson,5,12,19
+TN0000511,NOLENSVILLE-COLLEGE GROVE UD,Region 4,Tennessee,Community water system,28919,NOLENSVILLE,Williamson,24,17,16
+TN0000187,DECHERD WATER DEPT.,Region 4,Tennessee,Community water system,4403,DECHERD,Franklin,16,20,63
+TN0000349,KINGSPORT WATER DEPT,Region 4,Tennessee,Community water system,103427,KINGSPORT,Sullivan,30,3,71
+TN0000606,SALTILLO UTILITY DISTRICT,Region 4,Tennessee,Community water system,1960,"JACKSON, SALTILLO",Hardin,8,4,29
+TN0004936,EAGLE BAY MARINA,Region 4,Tennessee,Transient non-community system,30,,Humphreys,14,12,7
+TN0000136,COPPERHILL WATER DEPT.,Region 4,Tennessee,Community water system,1075,,Polk,12,32,64
+TN0000303,HIXSON UTILITY DISTRICT,Region 4,Tennessee,Community water system,67138,HIXSON,Hamilton,16,5,72
+TN0005179,THE PRESERVE HOA,Region 4,Tennessee,Transient non-community system,850,,Sevier,20,0,2
+TN0005151,LEGACY MOUNTAIN RESORT,Region 4,Tennessee,Transient non-community system,650,,Sevier,34,0,4
+TN0000178,LAURELBROOK SCHOOL,Region 4,Tennessee,Community water system,150,DAYTON,Rhea,7,1,28
+TN0000135,OLD GAINESBORO ROAD UTIL DIST,Region 4,Tennessee,Community water system,5810,,Putnam,4,11,16
+TN0000367,KNOX-CHAPMAN UTILITY DISTRICT,Region 4,Tennessee,Community water system,34955,KNOXVILLE,Knox,11,18,35
+TN0000063,BOLIVAR WATER SYSTEM,Region 4,Tennessee,Community water system,7782,BOLIVAR,Hardeman,13,6,24
+TN0004480,WAFLOY MOUNTAIN VILLAGE,Region 4,Tennessee,Transient non-community system,258,,Sevier,12,2,20
+TN0004837,BLUE SPRINGS DOCK,Region 4,Tennessee,Transient non-community system,50,,Union,5,1,10
+TN0000640,SNEEDVILLE U D,Region 4,Tennessee,Community water system,2304,SNEEDVILLE,Hancock,17,67,76
+TN0000939,FIRST U.D. OF HAWKINS CO #2,Region 4,Tennessee,Community water system,637,ROGERSVILLE,Hawkins,9,13,53
+TN0000109,FIRST UTILITY DISTRICT OF HAWKINS COUNTY,Region 4,Tennessee,Community water system,21075,CHURCH HILL,Hawkins,18,20,58
+TN0000533,TURNEY CENTER,Region 4,Tennessee,Community water system,1558,ONLY,Hickman,6,38,21
+TN0000948,"AQUA UTILITIES CO, INC",Region 4,Tennessee,Community water system,993,,Hardin,3,11,11
+TN0001067,SUNSET GAP COMMUNITY CENTER,Region 4,Tennessee,Transient non-community system,68,,Cocke,5,7,33
+TN0005175,BERRY'S ONE STOP,Region 4,Tennessee,Transient non-community system,50,,Wayne,4,0,4
+TN0002109,KELLOGG'S CONVENIENCE FOODS,Region 4,Tennessee,Non-Transient non-community system,200,,Fayette,10,15,19
+TN0008278,WATAUGA RIVER REGIONAL WATER AUTHORITY,Region 4,Tennessee,Community water system,379,,Carter,9,1,5
+TN0001337,HORTON HAVEN CAMP,Region 4,Tennessee,Transient non-community system,70,,Marshall,11,2,14
+TN0003078,HOWSE BAPTIST CHURCH,Region 4,Tennessee,Transient non-community system,60,,Carroll,7,14,14
+TN0008277,SPRINGVILLE U. D.,Region 4,Tennessee,Community water system,1200,,Henry,2,0,3
+TN0000500,NEWPORT UTILITIES BOARD,Region 4,Tennessee,Community water system,31807,NEWPORT,Cocke,29,20,21
+TN0003779,CHEMOURS-NEW JOHNSONVILLE PLANT,Region 4,Tennessee,Non-Transient non-community system,750,,Humphreys,5,62,11
+TN0000720,UNION CITY WATER DEPT,Region 4,Tennessee,Community water system,16463,UNION CITY,Obion,10,4,41
+TN0004995,NEVA GRILL,Region 4,Tennessee,Transient non-community system,25,,Johnson,5,16,14
+TN0000055,HARBOR UTILITY DISTRICT,Region 4,Tennessee,Community water system,671,BIG SANDY,Benton,8,14,27
+TN0000627,SHARON WATER SYSTEM,Region 4,Tennessee,Community water system,1310,SHARON,Weakley,10,2,29
+TN0004732,PEACE LAKEVIEW CAMPGROUND #1,Region 4,Tennessee,Transient non-community system,161,,Sullivan,8,32,28
+TN0005186,PEACE LAKEVIEW CAMPGROUND #2,Region 4,Tennessee,Transient non-community system,83,,Sullivan,4,1,3
+TN0000261,WEBB CREEK UTILITY DISTRICT,Region 4,Tennessee,Community water system,1501,,Sevier,12,9,15
+TN0005012,GILES FLEA MARKET,Region 4,Tennessee,Transient non-community system,200,,Claiborne,7,8,15
+TN0000108,CHUCKEY UTILITY DISTRICT,Region 4,Tennessee,Community water system,12972,,Greene,13,20,40
+TN0000191,WATER AUTH. OF DICKSON COUNTY,Region 4,Tennessee,Community water system,57933,DICKSON,Dickson,39,8,17
+TN0004486,SIMS POINT CAMPGROUND,Region 4,Tennessee,Transient non-community system,60,,Sevier,5,10,17
+TN0004905,RACEWAY RESTAURANT,Region 4,Tennessee,Transient non-community system,30,,Johnson,4,43,15
+TN0004961,OCOEE ADVENTURE CENTER,Region 4,Tennessee,Transient non-community system,150,,Polk,5,21,12
+TN0000007,ALCOA WATER SYSTEM,Region 4,Tennessee,Community water system,30123,"ALCOA, MARYVILLE",Blount,12,11,26

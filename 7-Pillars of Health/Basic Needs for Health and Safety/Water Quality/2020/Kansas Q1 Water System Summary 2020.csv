@@ -1,0 +1,984 @@
+PWS ID,PWS Name,EPA Region,Primacy Agency,PWS Type,Population<br> Served Count,Cities Served,Counties Served,# of Facilities,# of Violations,# of Site Visits
+KS2004906,ELK CO RWD 2,Region 7,Kansas,Community water system,206,HOWARD,Elk,8,11,7
+KS2003725,PUBLIC WHOLESALE WSD 11,Region 7,Kansas,Community water system,1,GIRARD,Crawford,11,36,10
+KS2015509,"HUTCHINSON, CITY OF",Region 7,Kansas,Community water system,40623,HUTCHINSON,Reno,49,8,15
+KS2013317,NEOSHO CO RWD 4,Region 7,Kansas,Community water system,2095,PARSONS,Neosho,18,5,14
+KS2013101,"SABETHA, CITY OF",Region 7,Kansas,Community water system,2568,SABETHA,Nemaha,10,17,15
+KS2016911,SALINE CO RWD 2,Region 7,Kansas,Community water system,465,GYPSUM,Saline,9,21,14
+KS2016916,SALINE CO RWD 6,Region 7,Kansas,Community water system,93,SALINA,Saline,10,3,10
+KS2012704,MORRIS CO RWD 1,Region 7,Kansas,Community water system,1091,DWIGHT,Morris,13,2,10
+KS2010323,LEAVENWORTH CO RWD 1C,Region 7,Kansas,Community water system,3200,BASEHOR,Leavenworth,18,11,11
+KS2014107,OSBORNE CO RWD 2,Region 7,Kansas,Community water system,55,NATOMA,Osborne,5,11,12
+KS2007706,HARPER CO RWD 1,Region 7,Kansas,Community water system,50,ANTHONY,Harper,4,34,22
+KS2020508,"ALTOONA, CITY OF",Region 7,Kansas,Community water system,380,ALTOONA,Wilson,8,88,17
+KS2016902,"ASSARIA, CITY OF",Region 7,Kansas,Community water system,407,ASSARIA,Saline,10,4,15
+KS2012109,MARAIS DES CYGNES PUBLIC UTILITY AUTH,Region 7,Kansas,Community water system,1,PAOLA,Miami,9,2,7
+KS2012106,"LOUISBURG, CITY OF",Region 7,Kansas,Community water system,4508,LOUISBURG,Miami,16,48,12
+KS2000706,"HARDTNER, CITY OF",Region 7,Kansas,Community water system,158,HARDTNER,Barber,11,9,19
+KS2019504,TREGO CO RWD 2,Region 7,Kansas,Community water system,1500,WAKEENEY,Trego,18,7,9
+KS2016709,"WALDO, CITY OF",Region 7,Kansas,Community water system,30,WALDO,Russell,4,4,9
+KS2014301,"MINNEAPOLIS, CITY OF",Region 7,Kansas,Community water system,1933,MINNEAPOLIS,Ottawa,22,5,11
+KS2011110,LYON CO RWD 4,Region 7,Kansas,Community water system,980,NEOSHO RAPIDS,Lyon,6,6,10
+KS2002121,CHEROKEE CO RWD 8,Region 7,Kansas,Community water system,1235,RIVERTON,Cherokee,13,2,11
+KS2106304,WHEATLAND HIGH SCHOOL,Region 7,Kansas,Non-Transient non-community system,125,GRAINFIELD,Gove,6,10,9
+KS2001531,BUTLER CO RWD 7,Region 7,Kansas,Community water system,1455,WHITEWATER,Butler,10,11,15
+KS2003714,"CHEROKEE, CITY OF",Region 7,Kansas,Community water system,709,CHEROKEE,Crawford,11,11,18
+KS2012511,"DEARING, CITY OF",Region 7,Kansas,Community water system,386,DEARING,Montgomery,6,4,14
+KS2009102,"DESOTO, CITY OF",Region 7,Kansas,Community water system,6443,DESOTO,Johnson,34,10,14
+KS2015902,"STERLING, CITY OF",Region 7,Kansas,Community water system,2210,STERLING,Rice,13,17,15
+KS2002901,CLOUD CO RWD 1,Region 7,Kansas,Community water system,411,AURORA,Cloud,23,30,11
+KS2009901,"ALTAMONT, CITY OF",Region 7,Kansas,Community water system,1030,ALTAMONT,Labette,5,4,11
+KS2009910,"MOUND VALLEY, CITY OF",Region 7,Kansas,Community water system,375,MOUND VALLEY,Labette,6,5,12
+KS2014918,ROCKY FORD MOBILE HOME COURT,Region 7,Kansas,Community water system,120,MANHATTAN,Pottawatomie,10,4,16
+KS2008907,JEWELL CO RWD 1,Region 7,Kansas,Community water system,959,ESBON,Jewell,17,46,16
+KS2019706,WABAUNSEE CO RWD 1,Region 7,Kansas,Community water system,400,MAPLE HILL,Wabaunsee,5,9,10
+KS2018101,"KANORADO, CITY OF",Region 7,Kansas,Community water system,150,KANORADO,Sherman,11,11,16
+KS2006103,GEARY CO RWD 1,Region 7,Kansas,Community water system,216,JUNCTION CITY,Geary,4,11,10
+KS2107302,QUARRY BAY WATER SUPPLY,Region 7,Kansas,Transient non-community system,25,TORONTO,Greenwood,5,4,7
+KS2005110,BUFFALO HILLS PARK,Region 7,Kansas,Community water system,135,HAYS,Ellis,10,4,11
+KS2015513,"BUHLER, CITY OF",Region 7,Kansas,Community water system,1196,BUHLER,Reno,10,21,14
+KS2000502,"EFFINGHAM, CITY OF",Region 7,Kansas,Community water system,521,EFFINGHAM,Atchison,10,14,19
+KS2003501,"DEXTER, CITY OF",Region 7,Kansas,Community water system,275,DEXTER,Cowley,9,8,19
+KS2013918,OSAGE CO RWD 8,Region 7,Kansas,Community water system,2240,BURLINGAME,Osage,16,8,11
+KS2011901,"FOWLER, CITY OF",Region 7,Kansas,Community water system,532,FOWLER,Meade,11,0,13
+KS2020514,WILSON CO RWD 2,Region 7,Kansas,Community water system,194,FREDONIA,Wilson,6,48,13
+KS2017704,SHAWNEE CO RWD 1C,Region 7,Kansas,Community water system,4160,AUBURN,Shawnee,10,7,10
+KS2011505,"HILLSBORO, CITY OF",Region 7,Kansas,Community water system,2834,HILLSBORO,Marion,12,39,13
+KS2011511,MARION CO RWD 4,Region 7,Kansas,Community water system,1398,HILLSBORO,Marion,6,12,11
+KS2015710,"SCANDIA, CITY OF",Region 7,Kansas,Community water system,345,SCANDIA,Republic,15,1,12
+KS2001106,"BRONSON, CITY OF",Region 7,Kansas,Community water system,311,BRONSON,Bourbon,9,31,17
+KS2009115,"OLATHE, CITY OF",Region 7,Kansas,Community water system,139605,OLATHE,Johnson,46,14,20
+KS2015703,"COURTLAND, CITY OF",Region 7,Kansas,Community water system,267,COURTLAND,Republic,6,3,14
+KS2015702,REPUBLIC CO RWD 1,Region 7,Kansas,Community water system,396,COURTLAND,Republic,11,13,11
+KS2000122,ALLEN CO RWD 16,Region 7,Kansas,Community water system,130,MORAN,Allen,10,20,13
+KS2106113,THUNDERBIRD MARINA,Region 7,Kansas,Transient non-community system,25,JUNCTION CITY,Geary,4,48,15
+KS2005712,"SPEARVILLE, CITY OF",Region 7,Kansas,Community water system,793,SPEARVILLE,Ford,23,8,17
+KS2003507,COWLEY CO RWD 1,Region 7,Kansas,Community water system,1500,ARKANSAS CITY,Cowley,11,4,15
+KS2019901,WALLACE CO RWD 1,Region 7,Kansas,Community water system,165,WESKAN,Wallace,6,61,15
+KS2003108,"WAVERLY, CITY OF",Region 7,Kansas,Community water system,553,WAVERLY,Coffey,12,9,13
+KS2007708,HARPER CO RWD 4,Region 7,Kansas,Community water system,110,FREEPORT,Harper,5,53,22
+KS2009104,JOHNSON CO RWD 7,Region 7,Kansas,Community water system,6457,GARDNER,Johnson,21,5,10
+KS2000311,ANDERSON CO RWD 1C,Region 7,Kansas,Community water system,2112,MOUND CITY,Linn,13,24,12
+KS2016712,"BUNKER HILL, CITY OF",Region 7,Kansas,Community water system,95,BUNKER HILL,Russell,7,13,11
+KS2019712,LAKE WABAUNSEE IMPROVEMENT DIST,Region 7,Kansas,Community water system,185,ESKRIDGE,Wabaunsee,5,0,6
+KS2001102,"FULTON, CITY OF",Region 7,Kansas,Community water system,156,FULTON,Bourbon,9,17,20
+KS2019302,"COLBY, CITY OF",Region 7,Kansas,Community water system,5317,COLBY,Thomas,24,33,12
+KS2007903,"BURRTON, CITY OF",Region 7,Kansas,Community water system,856,BURRTON,Harvey,8,4,14
+KS2003304,"COLDWATER, CITY OF",Region 7,Kansas,Community water system,759,COLDWATER,Comanche,12,11,14
+KS2012703,"WHITE CITY, CITY OF",Region 7,Kansas,Community water system,569,WHITE CITY,Morris,16,19,15
+KS2004304,"TROY, CITY OF",Region 7,Kansas,Community water system,974,TROY,Doniphan,14,7,11
+KS2004508,DOUGLAS CO RWD 2,Region 7,Kansas,Community water system,1163,BALDWIN,Douglas,7,4,9
+KS2000904,"OLMITZ, CITY OF",Region 7,Kansas,Community water system,107,OLMITZ,Barton,7,13,10
+KS2004117,"WOODBINE, CITY OF",Region 7,Kansas,Community water system,167,WOODBINE,Dickinson,5,34,8
+KS2003704,CHICOPEE RURAL WATER DISTRICT,Region 7,Kansas,Community water system,425,PITTSBURG,Crawford,6,9,10
+KS2001524,"TOWANDA, CITY OF",Region 7,Kansas,Community water system,1460,TOWANDA,Butler,7,10,16
+KS2014304,OTTAWA CO RWD 1,Region 7,Kansas,Community water system,198,ADA,Ottawa,7,28,17
+KS2019101,SUMNER CO RWD 5,Region 7,Kansas,Community water system,1429,CONWAY SPRINGS,Sumner,14,70,20
+KS2012301,"BELOIT, CITY OF",Region 7,Kansas,Community water system,3726,BELOIT,Mitchell,9,78,12
+KS2008718,"OZAWKIE, CITY OF",Region 7,Kansas,Community water system,621,OZAWKIE,Jefferson,8,4,15
+KS2000510,ATCHISON CO RWD 6,Region 7,Kansas,Community water system,670,ATCHISON,Atchison,6,46,10
+KS2014305,"DELPHOS, CITY OF",Region 7,Kansas,Community water system,336,DELPHOS,Ottawa,10,4,13
+KS2017339,"GARDEN PLAIN, CITY OF",Region 7,Kansas,Community water system,900,GARDEN PLAIN,Sedgwick,10,14,16
+KS2013903,"OVERBROOK, CITY OF",Region 7,Kansas,Community water system,1022,OVERBROOK,Osage,12,20,15
+KS2001901,"ELGIN, CITY OF",Region 7,Kansas,Community water system,81,ELGIN,Chautauqua,10,76,17
+KS2012304,MITCHELL CO RWD 2,Region 7,Kansas,Community water system,1291,GLEN ELDER,Mitchell,26,112,14
+KS2001312,BROWN CO RWD 2,Region 7,Kansas,Community water system,724,POWHATTAN,Brown,20,15,7
+KS2017506,GREEN PLAINS CATTLE COMPANY LLC MHP,Region 7,Kansas,Community water system,25,KISMET,Seward,7,15,10
+KS2013314,NEOSHO CO RWD 2,Region 7,Kansas,Community water system,1210,STARK,Neosho,8,23,11
+KS2001304,BROWN CO RWD 1,Region 7,Kansas,Community water system,709,FAIRVIEW,Brown,13,14,11
+KS2019113,"MULVANE, CITY OF",Region 7,Kansas,Community water system,6416,MULVANE,Sumner,18,16,25
+KS2002702,HAWKS LANDING,Region 7,Kansas,Community water system,51,CLAY CENTER,Clay,8,7,9
+KS2016302,"PALCO, CITY OF",Region 7,Kansas,Community water system,274,PALCO,Rooks,9,7,13
+KS2007307,"VIRGIL, CITY OF",Region 7,Kansas,Community water system,65,VIRGIL,Greenwood,7,28,17
+KS2007102,"TRIBUNE, CITY OF",Region 7,Kansas,Community water system,742,TRIBUNE,Greeley,21,7,17
+KS2006504,"BOGUE, CITY OF",Region 7,Kansas,Community water system,136,BOGUE,Graham,15,56,14
+KS2000703,"ISABEL, CITY OF",Region 7,Kansas,Community water system,82,ISABEL,Barber,8,11,14
+KS2011105,"EMPORIA, CITY OF",Region 7,Kansas,Community water system,24765,EMPORIA,Lyon,10,11,20
+KS2004302,"ELWOOD, CITY OF",Region 7,Kansas,Community water system,1199,ELWOOD,Doniphan,6,3,11
+KS2017316,SEDGWICK CO RWD 1,Region 7,Kansas,Community water system,1275,KECHI,Sedgwick,11,1,25
+KS2001511,"EL DORADO, CITY OF",Region 7,Kansas,Community water system,12935,EL DORADO,Butler,13,24,15
+KS2018305,SMITH CO RWD 1,Region 7,Kansas,Community water system,380,KENSINGTON,Smith,11,2,11
+KS2000306,ANDERSON CO RWD 5,Region 7,Kansas,Community water system,2093,COLONY,Anderson,17,13,12
+KS2001908,CHAUTAUQUA CO RWD 2,Region 7,Kansas,Community water system,278,CEDAR VALE,Chautauqua,14,11,15
+KS2009917,LABETTE CO RWD 3,Region 7,Kansas,Community water system,420,CHERRYVALE,Labette,8,4,10
+KS2012501,MONTGOMERY CO RWD 4,Region 7,Kansas,Community water system,745,SYCAMORE,Montgomery,10,13,15
+KS2011507,"MARION, CITY OF",Region 7,Kansas,Community water system,1787,MARION,Marion,10,49,14
+KS2009914,"PARSONS, CITY OF",Region 7,Kansas,Community water system,9665,PARSONS,Labette,13,30,16
+KS2002904,"GLASCO, CITY OF",Region 7,Kansas,Community water system,453,GLASCO,Cloud,11,9,17
+KS2005119,"VICTORIA, CITY OF",Region 7,Kansas,Community water system,1220,VICTORIA,Ellis,13,3,12
+KS2015519,WEST HILLS SUBDIVISION,Region 7,Kansas,Community water system,75,NICKERSON,Reno,11,33,21
+KS2015520,COUNTRYVIEW MOBILE HOME PARK,Region 7,Kansas,Community water system,48,HUTCHINSON,Reno,11,36,16
+KS2012101,MIAMI CO RWD 2,Region 7,Kansas,Community water system,8631,HILLSDALE,Miami,14,42,21
+KS2005502,TOWNS RIVERVIEW SUBDIVISION,Region 7,Kansas,Community water system,970,GARDEN CITY,Finney,12,51,18
+KS2005533,COTTONWOOD MOBILE HOME PARK,Region 7,Kansas,Community water system,84,HOLCOMB,Finney,9,10,10
+KS2016707,RUSSELL CO RWD 1,Region 7,Kansas,Community water system,44,RUSSELL,Russell,8,45,9
+KS2016706,RUSSELL CO RWD 2,Region 7,Kansas,Community water system,30,RUSSELL,Russell,6,18,9
+KS2016705,RUSSELL CO RWD 4,Region 7,Kansas,Community water system,90,RUSSELL,Russell,10,50,13
+KS2007306,"EUREKA, CITY OF",Region 7,Kansas,Community water system,2373,EUREKA,Greenwood,10,32,21
+KS2117510,WESTERN STAR RV RANCH,Region 7,Kansas,Transient non-community system,25,LIBERAL,Seward,5,0,5
+KS2005536,WHITEHURST TRAILER PARK,Region 7,Kansas,Community water system,164,GARDEN CITY,Finney,7,60,15
+KS2005540,FINNEY CO RWD 1,Region 7,Kansas,Community water system,2000,HOLCOMB,Finney,25,9,15
+KS2008721,JEFFERSON CO RWD 15,Region 7,Kansas,Community water system,228,GRANTVILLE,Jefferson,7,58,11
+KS2000907,BARTON CO RWD 2,Region 7,Kansas,Community water system,368,GREAT BEND,Barton,8,35,12
+KS2019701,"ALMA, CITY OF",Region 7,Kansas,Community water system,779,ALMA,Wabaunsee,13,34,15
+KS2111513,MORNING STAR RANCH,Region 7,Kansas,Transient non-community system,35,FLORENCE,Marion,7,25,12
+KS2010307,PARADISE PARK MOBILE HOME COURT,Region 7,Kansas,Community water system,110,TONGANOXIE,Leavenworth,7,26,10
+KS2000915,BARTON HILLS ADDITION,Region 7,Kansas,Community water system,176,GREAT BEND,Barton,12,29,13
+KS2012103,"PAOLA, CITY OF",Region 7,Kansas,Community water system,5670,PAOLA,Miami,13,33,18
+KS2010321,SUBURBAN WATER COMPANY,Region 7,Kansas,Community water system,4700,BASEHOR,Leavenworth,25,16,17
+KS2119303,FREE BREAKFAST INN,Region 7,Kansas,Transient non-community system,25,OAKLEY,Thomas,5,21,7
+KS2011704,"OKETO, CITY OF",Region 7,Kansas,Community water system,63,OKETO,Marshall,7,15,11
+KS2114909,BROKEN ARROW RANCH,Region 7,Kansas,Transient non-community system,25,TOPEKA,Pottawatomie,6,0,8
+KS2004513,UNIVERSITY OF KANSAS,Region 7,Kansas,Community water system,35000,LAWRENCE,Douglas,5,10,10
+KS2003301,COMANCHE CO RWD 1,Region 7,Kansas,Community water system,55,PROTECTION,Comanche,5,4,13
+KS2010309,LEAVENWORTH CO RWD 8,Region 7,Kansas,Community water system,2500,LEAVENWORTH,Leavenworth,7,7,9
+KS2016120,"LEONARDVILLE, CITY OF",Region 7,Kansas,Community water system,436,LEONARDVILLE,Riley,13,21,10
+KS2115517,PILGRIM CHRISTIAN SCHOOL PLEASANTVIEW,Region 7,Kansas,Non-Transient non-community system,100,HAVEN,Reno,5,24,11
+KS2000305,"GREELEY, CITY OF",Region 7,Kansas,Community water system,296,GREELEY,Anderson,16,11,14
+KS2007304,"FALL RIVER, CITY OF",Region 7,Kansas,Community water system,148,FALL RIVER,Greenwood,6,30,16
+KS2010707,LINN CO RWD 2,Region 7,Kansas,Community water system,1960,PLEASANTON,Linn,13,35,15
+KS2018304,"LEBANON, CITY OF",Region 7,Kansas,Community water system,199,LEBANON,Smith,10,22,17
+KS2000110,ALLEN CO RWD 8,Region 7,Kansas,Community water system,736,MORAN,Allen,7,22,15
+KS2013107,"CORNING, CITY OF",Region 7,Kansas,Community water system,163,CORNING,Nemaha,5,8,12
+KS2009703,"HAVILAND, CITY OF",Region 7,Kansas,Community water system,683,HAVILAND,Kiowa,11,61,17
+KS2012302,MITCHELL CO RWD 1,Region 7,Kansas,Community water system,345,GLEN ELDER,Mitchell,4,31,9
+KS2004704,"OFFERLE, CITY OF",Region 7,Kansas,Community water system,187,OFFERLE,Edwards,8,8,12
+KS2007301,"MADISON, CITY OF",Region 7,Kansas,Community water system,629,MADISON,Greenwood,13,99,23
+KS2006707,BED ROCK MOBILE HOME PARK,Region 7,Kansas,Community water system,320,ULYSSES,Grant,14,24,12
+KS2017340,NORTH STAR RV PARK AND MOBILE HOME COMM,Region 7,Kansas,Transient non-community system,25,VALLEY CENTER,Sedgwick,6,6,11
+KS2104108,FOUR SEASONS RV ACRES,Region 7,Kansas,Transient non-community system,25,ABILENE,Dickinson,5,9,12
+KS2106104,US ARMY COE MILFORD CURTIS CREEK,Region 7,Kansas,Transient non-community system,25,JUNCTION CITY,Geary,4,1,8
+KS2106101,US ARMY COE MILFORD ROLLING HILLS,Region 7,Kansas,Transient non-community system,25,JUNCTION CITY,Geary,5,1,8
+KS2106106,US ARMY COE MILFORD TIMBER CREEK 2,Region 7,Kansas,Transient non-community system,25,JUNCTION CITY,Geary,4,4,8
+KS2011702,"SUMMERFIELD, CITY OF",Region 7,Kansas,Community water system,146,SUMMERFIELD,Marshall,14,9,11
+KS2017701,"TOPEKA, CITY OF",Region 7,Kansas,Community water system,125904,TOPEKA,Shawnee,31,3,16
+KS2016704,RUSSELL CO RWD 3,Region 7,Kansas,Community water system,1300,SUSANK,Russell,12,2,14
+KS2004106,DICKINSON CO RWD 2,Region 7,Kansas,Community water system,1560,CARLTON,Dickinson,16,13,12
+KS2000118,ALLEN CO RWD 13,Region 7,Kansas,Community water system,100,CHANUTE,Allen,5,8,12
+KS2108303,HORSETHIEF RESERVOIR BENEFIT DISTRICT,Region 7,Kansas,Transient non-community system,25,JETMORE,Hodgeman,6,10,5
+KS2019103,SUMNER CO RWD 4,Region 7,Kansas,Community water system,1157,ARKANSAS CITY,Sumner,9,16,20
+KS2017345,"MAIZE, CITY OF",Region 7,Kansas,Community water system,4557,MAIZE,Sedgwick,7,0,13
+KS2001505,BUTLER CO RWD 2,Region 7,Kansas,Community water system,1534,EL DORADO,Butler,12,32,19
+KS2015104,"CULLISON, CITY OF",Region 7,Kansas,Community water system,99,CULLISON,Pratt,8,13,13
+KS2017344,"COLWICH, CITY OF",Region 7,Kansas,Community water system,1409,COLWICH,Sedgwick,8,2,11
+KS2000913,BARTON COUNTY COMMUNITY COLLEGE,Region 7,Kansas,Community water system,1000,GREAT BEND,Barton,10,2,12
+KS2100904,CAMP ALDRICH CONFERENCE CENTER,Region 7,Kansas,Transient non-community system,25,GREAT BEND,Barton,7,5,9
+KS2105530,RJ`S RV PARK LLC,Region 7,Kansas,Transient non-community system,50,GARDEN CITY,Finney,6,5,11
+KS2011108,LYON CO RWD 2,Region 7,Kansas,Community water system,750,EMPORIA,Lyon,8,5,14
+KS2013505,"BAZINE, CITY OF",Region 7,Kansas,Community water system,302,BAZINE,Ness,12,24,11
+KS2112904,CIMARRON RECREATION AREA,Region 7,Kansas,Transient non-community system,25,ELKHART,Morton,6,7,11
+KS2003515,COWLEY CO RWD 8,Region 7,Kansas,Community water system,50,WINFIELD,Cowley,4,16,12
+KS2016303,ROOKS CO RWD 1,Region 7,Kansas,Community water system,55,WOODSTON,Rooks,6,31,11
+KS2012525,MONTGOMERY CO RWD 14,Region 7,Kansas,Community water system,330,COFFEYVILLE,Montgomery,7,9,7
+KS2003514,STROTHER FIELD AIRPORT IND PARK,Region 7,Kansas,Non-Transient non-community system,1534,WINFIELD,Cowley,13,4,11
+KS2114701,HANSEN BSA CAMP,Region 7,Kansas,Transient non-community system,25,SALINA,Phillips,5,5,10
+KS2001308,"EVEREST, CITY OF",Region 7,Kansas,Community water system,275,EVEREST,Brown,11,23,14
+KS2019107,SUMNER CO RWD 2,Region 7,Kansas,Community water system,490,WELLINGTON,Sumner,8,40,17
+KS2014701,"LOGAN, CITY OF",Region 7,Kansas,Community water system,542,LOGAN,Phillips,23,48,11
+KS2014914,"ST MARYS, CITY OF",Region 7,Kansas,Community water system,2636,ST MARYS,Pottawatomie,22,11,16
+KS2016918,SALINE CO RWD 8,Region 7,Kansas,Community water system,298,ASSARIA,Saline,9,4,8
+KS2016917,SALINE CO RWD 7,Region 7,Kansas,Community water system,355,LINDSBORG,Saline,5,10,10
+KS2016912,SALINE CO RWD 3,Region 7,Kansas,Community water system,843,SMOLAN,Saline,11,13,9
+KS2012901,"ELKHART, CITY OF",Region 7,Kansas,Community water system,1819,ELKHART,Morton,20,6,18
+KS2004904,"GRENOLA, CITY OF",Region 7,Kansas,Community water system,187,GRENOLA,Elk,9,83,20
+KS2018702,"JOHNSON CITY, CITY OF",Region 7,Kansas,Community water system,1328,JOHNSON CITY,Stanton,22,7,14
+KS2105715,SPARE TYME BOWL,Region 7,Kansas,Transient non-community system,25,DODGE CITY,Ford,8,1,8
+KS2020113,WASHINGTON CO RWD 2,Region 7,Kansas,Community water system,567,WASHINGTON,Washington,13,16,10
+KS2020104,"LINN, CITY OF",Region 7,Kansas,Community water system,385,LINN,Washington,10,11,8
+KS2119102,SUPPESVILLE COASTAL,Region 7,Kansas,Transient non-community system,100,MILTON,Sumner,6,12,11
+KS2007906,"NORTH NEWTON, CITY OF",Region 7,Kansas,Community water system,1754,NORTH NEWTON,Harvey,16,14,14
+KS2017312,THE HARBOR,Region 7,Kansas,Community water system,45,WICHITA,Sedgwick,9,4,12
+KS2117337,EBERLY FARM INC,Region 7,Kansas,Transient non-community system,200,WICHITA,Sedgwick,6,11,10
+KS2117351,YMCA CAMP HYDE INC,Region 7,Kansas,Transient non-community system,300,VIOLA,Sedgwick,7,26,12
+KS2009919,LABETTE CO RWD 1C,Region 7,Kansas,Community water system,285,OSWEGO,Labette,6,43,4
+KS2011301,MCPHERSON CO RWD 1,Region 7,Kansas,Community water system,176,ROXBURY,McPherson,8,5,8
+KS2003717,CRAWFORD CO RWD 2,Region 7,Kansas,Community water system,1460,ARMA,Crawford,7,15,12
+KS2004903,"LONGTON, CITY OF",Region 7,Kansas,Community water system,302,LONGTON,Elk,10,162,24
+KS2009120,"SPRING HILL, CITY OF",Region 7,Kansas,Community water system,3502,SPRING HILL,Johnson,11,4,15
+KS2002120,CHEROKEE CO RWD 9,Region 7,Kansas,Community water system,900,RIVERTON,Cherokee,8,21,10
+KS2009911,GREAT PLAINS DEVELOPMENT AUTHORITY,Region 7,Kansas,Community water system,182,PARSONS,Labette,10,51,15
+KS2010310,"LINWOOD, CITY OF",Region 7,Kansas,Community water system,391,LINWOOD,Leavenworth,14,17,17
+KS2011512,MARION CO IMPROVEMENT DIST 2,Region 7,Kansas,Community water system,234,MARION,Marion,5,13,10
+KS2013502,"UTICA, CITY OF",Region 7,Kansas,Community water system,144,UTICA,Ness,11,3,15
+KS2014504,FORT LARNED NATIONAL HISTORIC SITE,Region 7,Kansas,Transient non-community system,25,LARNED,Pawnee,6,0,11
+KS2114503,FORT LARNED PICNIC AREA,Region 7,Kansas,Transient non-community system,25,LARNED,Pawnee,7,2,8
+KS2013309,NEOSHO CO RWD 8,Region 7,Kansas,Community water system,323,ST PAUL,Neosho,5,9,12
+KS2001911,CHAUTAUQUA CO RWD 4,Region 7,Kansas,Community water system,475,SEDAN,Chautauqua,7,4,5
+KS2100916,ODIN STORE,Region 7,Kansas,Transient non-community system,25,CLAFLIN,Barton,4,21,7
+KS2013902,OSAGE CO RWD 6,Region 7,Kansas,Community water system,370,LYNDON,Osage,7,14,11
+KS2005905,FRANKLIN CO RWD 2,Region 7,Kansas,Community water system,400,OTTAWA,Franklin,5,4,10
+KS2020505,WILSON CO RWD 6,Region 7,Kansas,Community water system,30,NEODESHA,Wilson,5,9,14
+KS2006303,"GOVE, CITY OF",Region 7,Kansas,Community water system,70,GOVE,Gove,12,37,12
+KS2001702,"MATFIELD GREEN, CITY OF",Region 7,Kansas,Community water system,43,MATFIELD GREEN,Chase,9,18,17
+KS2004301,DONIPHAN CO RWD 3,Region 7,Kansas,Community water system,437,SEVERANCE,Doniphan,13,59,11
+KS2018701,"MANTER, CITY OF",Region 7,Kansas,Community water system,152,MANTER,Stanton,9,3,15
+KS2010313,LAN DEL WATER DISTRICT,Region 7,Kansas,Community water system,7302,LANSING,Leavenworth,12,2,9
+KS2019111,"OXFORD, CITY OF",Region 7,Kansas,Community water system,1005,OXFORD,Sumner,8,2,17
+KS2014102,"ALTON, CITY OF",Region 7,Kansas,Community water system,92,ALTON,Osborne,13,17,15
+KS2004502,DOUGLAS CO RWD 5,Region 7,Kansas,Community water system,2500,LAWRENCE,Douglas,13,4,13
+KS2016906,"GYPSUM, CITY OF",Region 7,Kansas,Community water system,391,GYPSUM,Saline,11,6,11
+KS2013321,NEOSHO CO RWD 12,Region 7,Kansas,Community water system,437,CHANUTE,Neosho,7,3,11
+KS2005101,SUNSET VALLEY ESTATES LLC,Region 7,Kansas,Community water system,60,HAYS,Ellis,8,83,13
+KS2005107,COUNTRYSIDE ESTATES MOBILE HOME PARK,Region 7,Kansas,Community water system,300,HAYS,Ellis,10,66,12
+KS2005108,MEADOW ACRES MOBILE HOME COURT,Region 7,Kansas,Community water system,134,HAYS,Ellis,9,5,10
+KS2005709,"FORD, CITY OF",Region 7,Kansas,Community water system,217,FORD,Ford,12,44,16
+KS2004310,DONIPHAN CO RWD 6,Region 7,Kansas,Community water system,428,HIGHLAND,Doniphan,8,5,2
+KS2003105,"NEW STRAWN, CITY OF",Region 7,Kansas,Community water system,383,NEW STRAWN,Coffey,13,19,14
+KS2117355,ANGELS BIKINI AND LINGERIE CLUB,Region 7,Kansas,Transient non-community system,25,WICHITA,Sedgwick,5,4,6
+KS2000903,"HOISINGTON, CITY OF",Region 7,Kansas,Community water system,2510,HOISINGTON,Barton,20,53,17
+KS2002902,"JAMESTOWN, CITY OF",Region 7,Kansas,Community water system,260,JAMESTOWN,Cloud,10,2,11
+KS2008514,PUBLIC WHOLESALE WSD 18,Region 7,Kansas,Community water system,1,HOLTON,Jackson,10,7,10
+KS2013301,NEOSHO CO RWD 9,Region 7,Kansas,Community water system,200,CHANUTE,Neosho,6,5,13
+KS2013303,NEOSHO CO RWD 7,Region 7,Kansas,Community water system,625,CHANUTE,Neosho,7,5,16
+KS2004503,"LAWRENCE, CITY OF",Region 7,Kansas,Community water system,97286,LAWRENCE,Douglas,32,7,12
+KS2010308,LEAVENWORTH CO RWD 9,Region 7,Kansas,Community water system,2000,TONGANOXIE,Leavenworth,16,7,15
+KS2011312,"GALVA, CITY OF",Region 7,Kansas,Community water system,867,GALVA,McPherson,14,12,12
+KS2009504,"SPIVEY, CITY OF",Region 7,Kansas,Community water system,80,SPIVEY,Kingman,7,41,18
+KS2008507,"DELIA, CITY OF",Region 7,Kansas,Community water system,178,DELIA,Jackson,8,28,14
+KS2011310,"INMAN, CITY OF",Region 7,Kansas,Community water system,1333,INMAN,McPherson,13,40,11
+KS2008701,"WINCHESTER, CITY OF",Region 7,Kansas,Community water system,528,WINCHESTER,Jefferson,12,9,12
+KS2019707,"MCFARLAND, CITY OF",Region 7,Kansas,Community water system,243,MCFARLAND,Wabaunsee,8,6,12
+KS2019903,"SHARON SPRINGS, CITY OF",Region 7,Kansas,Community water system,752,SHARON SPRINGS,Wallace,13,37,12
+KS2000302,ANDERSON CO RWD 1,Region 7,Kansas,Community water system,37,GARNETT,Anderson,8,11,13
+KS2017347,CHISHOLM CREEK UTILITY AUTHORITY,Region 7,Kansas,Community water system,1,PARK CITY,Sedgwick,24,0,9
+KS2002106,CHEROKEE CO RWD 2,Region 7,Kansas,Community water system,943,RIVERTON,Cherokee,8,4,12
+KS2000701,BARBER CO RWD 1,Region 7,Kansas,Community water system,95,MEDICINE LODGE,Barber,6,2,14
+KS2001706,"CEDAR POINT, CITY OF",Region 7,Kansas,Community water system,26,CEDAR POINT,Chase,6,88,21
+KS2009103,"EDGERTON, CITY OF",Region 7,Kansas,Community water system,1766,EDGERTON,Johnson,10,2,12
+KS2011112,"OLPE, CITY OF",Region 7,Kansas,Community water system,539,OLPE,Lyon,8,2,15
+KS2014704,"PRAIRIE VIEW, CITY OF",Region 7,Kansas,Community water system,123,PRAIRIE VIEW,Phillips,11,5,12
+KS2013703,NORTON CO RWD 1,Region 7,Kansas,Community water system,50,NEW ALMELO,Norton,6,1,10
+KS2003505,COWLEY CO RWD 3,Region 7,Kansas,Community water system,2500,ARKANSAS CITY,Cowley,15,22,17
+KS2020510,WILSON CO RWD 10,Region 7,Kansas,Community water system,808,CHANUTE,Wilson,11,67,11
+KS2002503,"ENGLEWOOD, CITY OF",Region 7,Kansas,Community water system,69,ENGLEWOOD,Clark,12,74,17
+KS2007303,"HAMILTON, CITY OF",Region 7,Kansas,Community water system,243,HAMILTON,Greenwood,8,20,16
+KS2002501,"MINNEOLA, CITY OF",Region 7,Kansas,Community water system,684,MINNEOLA,Clark,11,5,16
+KS2005308,"KANOPOLANES MOBILE PARK, LLC",Region 7,Kansas,Non-Transient non-community system,126,MARQUETTE,Ellsworth,6,0,9
+KS2004108,"CHAPMAN, CITY OF",Region 7,Kansas,Community water system,1357,CHAPMAN,Dickinson,12,10,15
+KS2105718,NATIONAL BEEF PACKING COMPANY LLC DODGE,Region 7,Kansas,Non-Transient non-community system,2955,DODGE CITY,Ford,13,17,11
+KS2117502,NATIONAL BEEF PACKING CO LLC LIBERAL,Region 7,Kansas,Non-Transient non-community system,3086,LIBERAL,Seward,19,15,10
+KS2117106,CAMP LAKESIDE,Region 7,Kansas,Transient non-community system,25,SCOTT CITY,Scott,7,47,12
+KS2017505,ROLLING HILLS LANDOWNERS ASSN,Region 7,Kansas,Community water system,116,LIBERAL,Seward,8,12,13
+KS2011307,MCPHERSON CO RWD 2,Region 7,Kansas,Community water system,186,MCPHERSON,McPherson,4,1,12
+KS2001513,BUTLER CO RWD 3,Region 7,Kansas,Community water system,1494,ROSALIA,Butler,22,5,15
+KS2007501,"COOLIDGE, CITY OF",Region 7,Kansas,Community water system,93,COOLIDGE,Hamilton,7,83,19
+KS2019501,"WAKEENEY, CITY OF",Region 7,Kansas,Community water system,1738,WAKEENEY,Trego,20,4,13
+KS2014907,"OLSBURG, CITY OF",Region 7,Kansas,Community water system,220,OLSBURG,Pottawatomie,9,6,15
+KS2004308,"WATHENA, CITY OF",Region 7,Kansas,Community water system,1311,WATHENA,Doniphan,16,6,11
+KS2003719,CRAWFORD CO RWD 1C,Region 7,Kansas,Community water system,1915,GIRARD,Crawford,14,19,12
+KS2004901,"HOWARD, CITY OF",Region 7,Kansas,Community water system,602,HOWARD,Elk,8,55,23
+KS2015516,RENO CO RWD 3,Region 7,Kansas,Community water system,450,YODER,Reno,10,10,17
+KS2001519,SIMMONS SUBDIVISION SANITATION SYSTEM,Region 7,Kansas,Community water system,75,ROSE HILL,Butler,9,7,15
+KS2019104,"SOUTH HAVEN, CITY OF",Region 7,Kansas,Community water system,347,SOUTH HAVEN,Sumner,8,11,16
+KS2016117,TUTTLE CREEK WATER COMPANY,Region 7,Kansas,Community water system,81,MANHATTAN,Riley,7,47,16
+KS2013310,"ERIE, CITY OF",Region 7,Kansas,Community water system,1085,ERIE,Neosho,10,35,21
+KS2113903,MELVERN RES ARROW ROCK,Region 7,Kansas,Transient non-community system,25,MELVERN,Osage,4,2,7
+KS2008512,"MAYETTA, CITY OF",Region 7,Kansas,Community water system,350,MAYETTA,Jackson,7,5,12
+KS2015708,"MUNDEN, CITY OF",Region 7,Kansas,Community water system,93,MUNDEN,Republic,5,16,12
+KS2005305,"HOLYROOD, CITY OF",Region 7,Kansas,Community water system,422,HOLYROOD,Ellsworth,15,2,12
+KS2115905,NORTHERN NATURAL GAS BUSHTON,Region 7,Kansas,Non-Transient non-community system,25,BUSHTON,Rice,8,2,7
+KS2002709,"CLIFTON, CITY OF",Region 7,Kansas,Community water system,509,CLIFTON,Washington,12,14,12
+KS2016119,RIVERCHASE MOBILE HOME PARK,Region 7,Kansas,Community water system,460,MANHATTAN,Riley,9,7,14
+KS2016118,COLONIAL GARDENS MOBILE HOME CT,Region 7,Kansas,Community water system,1200,MANHATTAN,Riley,8,9,13
+KS2017902,"SELDEN, CITY OF",Region 7,Kansas,Community water system,213,SELDEN,Sheridan,15,1,16
+KS2013102,"SENECA, CITY OF",Region 7,Kansas,Community water system,2052,SENECA,Nemaha,16,4,15
+KS2013110,NEMAHA CO RWD 3,Region 7,Kansas,Community water system,2800,SENECA,Nemaha,33,3,14
+KS2017714,"SILVER LAKE, CITY OF",Region 7,Kansas,Community water system,1410,SILVER LAKE,Shawnee,9,8,15
+KS2017713,SHAWNEE CO RWD 2C,Region 7,Kansas,Community water system,700,TOPEKA,Shawnee,16,36,13
+KS2016904,"BROOKVILLE, CITY OF",Region 7,Kansas,Community water system,254,BROOKVILLE,Saline,7,29,11
+KS2012104,MIAMI CO RWD 3,Region 7,Kansas,Community water system,2435,OSAWATOMIE,Miami,7,53,17
+KS2013103,"ONEIDA, CITY OF",Region 7,Kansas,Community water system,71,ONEIDA,Nemaha,8,19,12
+KS2016702,"LUCAS, CITY OF",Region 7,Kansas,Community water system,391,LUCAS,Russell,13,33,12
+KS2015510,RENO CO RWD 1,Region 7,Kansas,Community water system,150,HUTCHINSON,Reno,9,107,23
+KS2008714,"OSKALOOSA, CITY OF",Region 7,Kansas,Community water system,1059,OSKALOOSA,Jefferson,6,12,11
+KS2004107,M AND M MOBILE HOME COURT 2,Region 7,Kansas,Community water system,80,CHAPMAN,Dickinson,14,24,11
+KS2004116,M AND M MOBILE HOME COURT,Region 7,Kansas,Community water system,46,CHAPMAN,Dickinson,6,5,10
+KS2000914,"ALBERT, CITY OF",Region 7,Kansas,Community water system,166,ALBERT,Barton,7,8,12
+KS2008504,"CIRCLEVILLE, CITY OF",Region 7,Kansas,Community water system,162,CIRCLEVILLE,Jackson,7,8,13
+KS2016710,WILSON LAKE ESTATES,Region 7,Kansas,Non-Transient non-community system,25,LUCAS,Russell,7,8,8
+KS2006901,"MONTEZUMA, CITY OF",Region 7,Kansas,Community water system,961,MONTEZUMA,Gray,13,1,17
+KS2002704,CLAY CO RWD 1,Region 7,Kansas,Community water system,98,MORGANVILLE,Clay,9,4,12
+KS2006501,"MORLAND, CITY OF",Region 7,Kansas,Community water system,147,MORLAND,Graham,10,24,11
+KS2001523,"WHITEWATER, CITY OF",Region 7,Kansas,Community water system,723,WHITEWATER,Butler,9,13,15
+KS2105538,WHEATLAND ELECTRIC COOPERATIVE INC,Region 7,Kansas,Community water system,1,GARDEN CITY,Finney,52,2,11
+KS2003516,COWLEY CO RWD 7,Region 7,Kansas,Community water system,300,ROCK,Cowley,6,13,23
+KS2009501,"CUNNINGHAM, CITY OF",Region 7,Kansas,Community water system,448,CUNNINGHAM,Kingman,9,6,15
+KS2001506,BUTLER CO RWD 4,Region 7,Kansas,Community water system,1565,AUGUSTA,Butler,12,40,26
+KS2019102,"MAYFIELD, CITY OF",Region 7,Kansas,Community water system,106,MAYFIELD,Sumner,5,11,16
+KS2014302,"TESCOTT, CITY OF",Region 7,Kansas,Community water system,298,TESCOTT,Ottawa,10,1,12
+KS2017718,SHAWNEE CO RWD 4C,Region 7,Kansas,Community water system,12000,TOPEKA,Shawnee,34,1,7
+KS2010503,"BARNARD, CITY OF",Region 7,Kansas,Community water system,65,BARNARD,Lincoln,6,77,14
+KS2019112,PRAIRIE SCHOONER MOBILE HOME COURT,Region 7,Kansas,Community water system,50,MULVANE,Sumner,11,15,18
+KS2009502,KINGMAN CO RWD 1,Region 7,Kansas,Community water system,280,MURDOCK,Kingman,6,6,14
+KS2012504,MONTGOMERY CO RWD 2,Region 7,Kansas,Community water system,800,INDEPENDENCE,Montgomery,6,13,10
+KS2016711,"DORRANCE, CITY OF",Region 7,Kansas,Community water system,183,DORRANCE,Russell,9,14,14
+KS2016507,"LACROSSE, CITY OF",Region 7,Kansas,Community water system,1257,LACROSSE,Rush,10,1,14
+KS2019304,"REXFORD, CITY OF",Region 7,Kansas,Community water system,224,REXFORD,Thomas,9,37,12
+KS2012107,"FONTANA, CITY OF",Region 7,Kansas,Community water system,232,FONTANA,Miami,8,48,14
+KS2000709,BARBER CO RWD 3,Region 7,Kansas,Community water system,230,LAKE CITY,Barber,8,3,12
+KS2001518,"POTWIN, CITY OF",Region 7,Kansas,Community water system,436,POTWIN,Butler,8,18,19
+KS2002107,CHEROKEE CO RWD 3,Region 7,Kansas,Community water system,1900,COLUMBUS,Cherokee,13,4,13
+KS2115110,RICKS RESTAURANT,Region 7,Kansas,Transient non-community system,25,PRATT,Pratt,6,6,10
+KS2010318,LEAVENWORTH CO RWD 5A,Region 7,Kansas,Community water system,740,LEAVENWORTH,Leavenworth,7,27,10
+KS2010316,LEAVENWORTH CO RWD 5B,Region 7,Kansas,Community water system,40,LEAVENWORTH,Leavenworth,5,29,15
+KS2003106,COFFEY CO RWD 3,Region 7,Kansas,Community water system,1903,NEW STRAWN,Coffey,24,8,14
+KS2008905,"FORMOSO, CITY OF",Region 7,Kansas,Community water system,84,FORMOSO,Jewell,6,16,10
+KS2004105,"SOLOMON, CITY OF",Region 7,Kansas,Community water system,1015,SOLOMON,Dickinson,16,18,11
+KS2017329,"CLEARWATER, CITY OF",Region 7,Kansas,Community water system,2543,CLEARWATER,Sedgwick,15,11,18
+KS2014703,"LONG ISLAND, CITY OF",Region 7,Kansas,Community water system,123,LONG ISLAND,Phillips,13,52,11
+KS2015908,RICE CO RWD 1,Region 7,Kansas,Community water system,900,LITTLE RIVER,Rice,6,11,8
+KS2002114,"WEIR, CITY OF",Region 7,Kansas,Community water system,639,WEIR,Cherokee,7,10,13
+KS2019116,"ARGONIA, CITY OF",Region 7,Kansas,Community water system,476,ARGONIA,Sumner,13,119,19
+KS2003703,CRAWFORD CO RWD 1,Region 7,Kansas,Community water system,430,FRONTENAC,Crawford,8,28,15
+KS2017101,"SCOTT CITY, CITY OF",Region 7,Kansas,Community water system,3803,SCOTT CITY,Scott,32,44,23
+KS2115512,KANSAS BIBLE CAMP EAST,Region 7,Kansas,Transient non-community system,50,HUTCHINSON,Reno,6,5,14
+KS2107904,GARDEN VIEW CHRISTIAN SCHOOL,Region 7,Kansas,Non-Transient non-community system,30,HALSTEAD,Harvey,5,9,13
+KS2115528,KANSAS BIBLE CAMP,Region 7,Kansas,Transient non-community system,200,HUTCHINSON,Reno,6,8,9
+KS2017338,SEDGWICK CO RWD 4,Region 7,Kansas,Community water system,2580,GODDARD,Sedgwick,8,6,21
+KS2006110,MILLER MOBILE HOME PARK,Region 7,Kansas,Community water system,113,MILFORD,Geary,10,14,9
+KS2011510,MARION CO RWD 1,Region 7,Kansas,Community water system,780,DURHAM,Marion,11,5,11
+KS2013705,"LENORA, CITY OF",Region 7,Kansas,Community water system,235,LENORA,Norton,13,4,13
+KS2016506,"RUSH CENTER, CITY OF",Region 7,Kansas,Community water system,159,RUSH CENTER,Rush,11,7,12
+KS2009123,"CLEARVIEW CITY, CITY OF",Region 7,Kansas,Community water system,317,CLEARVIEW CITY,Johnson,6,10,13
+KS2013917,OSAGE CO RWD 4,Region 7,Kansas,Community water system,500,WAVERLY,Osage,33,7,13
+KS2016301,"PLAINVILLE, CITY OF",Region 7,Kansas,Community water system,1837,PLAINVILLE,Rooks,30,12,12
+KS2014916,WALNUT GROVE MHC BROOKS,Region 7,Kansas,Community water system,203,MANHATTAN,Pottawatomie,9,4,10
+KS2016914,"SALINA, CITY OF",Region 7,Kansas,Community water system,46716,SALINA,Saline,49,9,12
+KS2001515,"LEON, CITY OF",Region 7,Kansas,Community water system,730,LEON,Butler,17,28,19
+KS2006105,GEARY CO RWD 4,Region 7,Kansas,Community water system,450,MILFORD,Geary,10,9,11
+KS2106127,B J`S 66,Region 7,Kansas,Transient non-community system,25,JUNCTION CITY,Geary,4,1,9
+KS2011315,MCPHERSON CO RWD 6,Region 7,Kansas,Community water system,500,LINDSBORG,McPherson,5,2,5
+KS2016134,HUNTERS ISLAND WATER DISTRICT,Region 7,Kansas,Community water system,200,MANHATTAN,Riley,4,2,9
+KS2016109,KONZA VALLEY WATER BENEFIT DISTRICT,Region 7,Kansas,Community water system,345,MANHATTAN,Riley,10,4,11
+KS2016103,UNIVERSITY PARK WATER DISTRICT,Region 7,Kansas,Community water system,199,MANHATTAN,Riley,8,9,12
+KS2010320,LEAVENWORTH CO RWD 7,Region 7,Kansas,Community water system,3000,BONNER SPRINGS,Leavenworth,11,8,12
+KS2020506,WILSON CO RWD 9,Region 7,Kansas,Community water system,447,TORONTO,Wilson,12,5,11
+KS2017304,"BEL AIRE, CITY OF",Region 7,Kansas,Community water system,8073,BEL AIRE,Sedgwick,15,5,14
+KS2000901,"SUSANK, CITY OF",Region 7,Kansas,Community water system,32,SUSANK,Barton,4,6,12
+KS2020107,WASHINGTON CO RWD 1,Region 7,Kansas,Community water system,1093,HANOVER,Washington,41,3,12
+KS2020109,"HADDAM, CITY OF",Region 7,Kansas,Community water system,97,HADDAM,Washington,9,42,13
+KS2010701,"BLUE MOUND, CITY OF",Region 7,Kansas,Community water system,273,BLUE MOUND,Linn,9,83,16
+KS2014705,"SPEED, CITY OF",Region 7,Kansas,Community water system,34,SPEED,Phillips,8,14,15
+KS2001517,"LATHAM, CITY OF",Region 7,Kansas,Community water system,137,LATHAM,Butler,5,12,10
+KS2003103,"GRIDLEY, CITY OF",Region 7,Kansas,Community water system,326,GRIDLEY,Coffey,6,4,17
+KS2015901,"RAYMOND, CITY OF",Region 7,Kansas,Community water system,76,RAYMOND,Rice,9,34,14
+KS2001307,"MORRILL, CITY OF",Region 7,Kansas,Community water system,228,MORRILL,Brown,7,17,14
+KS2002117,CHEROKEE CO RWD 5,Region 7,Kansas,Community water system,480,MCCUNE,Cherokee,9,4,12
+KS2005543,EAST GARDEN VILLAGE MOBILE HOME PARK,Region 7,Kansas,Community water system,1525,GARDEN CITY,Finney,5,11,9
+KS2003706,CRAWFORD CO RWD 4,Region 7,Kansas,Community water system,1580,GIRARD,Crawford,11,4,12
+KS2003702,CRAWFORD CO RWD 5,Region 7,Kansas,Community water system,2200,PITTSBURG,Crawford,11,12,12
+KS2002116,CHEROKEE CO RWD 7,Region 7,Kansas,Community water system,158,PITTSBURG,Cherokee,7,11,12
+KS2001514,BUTLER CO RWD 1,Region 7,Kansas,Community water system,782,EL DORADO,Butler,7,10,13
+KS2003101,"BURLINGTON, CITY OF",Region 7,Kansas,Community water system,2558,BURLINGTON,Coffey,9,47,15
+KS2013501,"RANSOM, CITY OF",Region 7,Kansas,Community water system,268,RANSOM,Ness,12,36,12
+KS2001905,CHAUTAUQUA CO RWD 1,Region 7,Kansas,Community water system,135,SEDAN,Chautauqua,6,8,12
+KS2007305,GREENWOOD CO RWD 1,Region 7,Kansas,Community water system,1885,EUREKA,Greenwood,11,13,14
+KS2014912,POTTAWATOMIE CO RWD 1,Region 7,Kansas,Community water system,7874,WAMEGO,Pottawatomie,24,3,17
+KS2014106,"NATOMA, CITY OF",Region 7,Kansas,Community water system,299,NATOMA,Osborne,13,14,13
+KS2015303,"MCDONALD, CITY OF",Region 7,Kansas,Community water system,156,MCDONALD,Rawlins,10,14,12
+KS2010712,"LINN VALLEY, CITY OF",Region 7,Kansas,Community water system,300,LINN VALLEY,Linn,9,65,17
+KS2008716,LAKESIDE VILLAGE IMPROVEMENT DIST,Region 7,Kansas,Community water system,290,OZAWKIE,Jefferson,8,12,11
+KS2002701,"CLAY CENTER, CITY OF",Region 7,Kansas,Community water system,3989,CLAY CENTER,Clay,23,16,11
+KS2001305,"HIAWATHA, CITY OF",Region 7,Kansas,Community water system,3134,HIAWATHA,Brown,24,49,15
+KS2006106,"GRANDVIEW PLAZA, CITY OF",Region 7,Kansas,Community water system,1585,GRANDVIEW PLAZA,Geary,6,7,10
+KS2107908,CAMP HAWK,Region 7,Kansas,Transient non-community system,25,NEWTON,Harvey,7,14,10
+KS2107909,HARVEY CO WEST PARK EAST WELL 2,Region 7,Kansas,Transient non-community system,26,BURRTON,Harvey,7,3,10
+KS2107906,HARVEY CO WEST PARK WEST WELL 1,Region 7,Kansas,Transient non-community system,26,BURRTON,Harvey,11,5,10
+KS2012309,MITCHELL CO RWD 3,Region 7,Kansas,Community water system,2048,SCOTTSVILLE,Mitchell,21,51,12
+KS2011102,"ALLEN, CITY OF",Region 7,Kansas,Community water system,174,ALLEN,Lyon,5,7,15
+KS2000103,"IOLA, CITY OF",Region 7,Kansas,Community water system,5312,IOLA,Allen,12,35,19
+KS2006304,"PARK, CITY OF",Region 7,Kansas,Community water system,113,PARK,Gove,7,15,13
+KS2012506,MONTGOMERY CO RWD 6,Region 7,Kansas,Community water system,1092,INDEPENDENCE,Montgomery,11,18,14
+KS2020504,WILSON CO RWD 4,Region 7,Kansas,Community water system,293,NEODESHA,Wilson,7,27,18
+KS2020103,"MORROWVILLE, CITY OF",Region 7,Kansas,Community water system,76,MORROWVILLE,Washington,6,16,10
+KS2011707,MARSHALL CO RWD 1,Region 7,Kansas,Community water system,160,HOME,Marshall,6,27,10
+KS2015705,"AGENDA, CITY OF",Region 7,Kansas,Community water system,66,AGENDA,Republic,8,17,10
+KS2011506,"LEHIGH, CITY OF",Region 7,Kansas,Community water system,170,LEHIGH,Marion,7,10,8
+KS2016502,"MCCRACKEN, CITY OF",Region 7,Kansas,Community water system,177,MCCRACKEN,Rush,12,12,12
+KS2012508,"INDEPENDENCE, CITY OF",Region 7,Kansas,Community water system,8598,INDEPENDENCE,Montgomery,14,7,20
+KS2012102,MIAMI CO RWD 1,Region 7,Kansas,Community water system,1680,PAOLA,Miami,9,14,11
+KS2017503,"KISMET, CITY OF",Region 7,Kansas,Community water system,435,KISMET,Seward,14,6,14
+KS2013503,"NESS CITY, CITY OF",Region 7,Kansas,Community water system,1338,NESS CITY,Ness,35,6,14
+KS2001906,"PERU, CITY OF",Region 7,Kansas,Community water system,127,PERU,Chautauqua,7,22,14
+KS2015514,"HAVEN, CITY OF",Region 7,Kansas,Community water system,1196,HAVEN,Reno,14,6,16
+KS2019120,SUMNER CO RWD 7,Region 7,Kansas,Community water system,25,CALDWELL,Sumner,7,32,17
+KS2013905,"MELVERN, CITY OF",Region 7,Kansas,Community water system,376,MELVERN,Osage,15,8,13
+KS2012701,"DWIGHT, CITY OF",Region 7,Kansas,Community water system,255,DWIGHT,Morris,9,17,10
+KS2008713,JEFFERSON CO RWD 7,Region 7,Kansas,Community water system,1180,OSKALOOSA,Jefferson,10,7,9
+KS2003510,"UDALL, CITY OF",Region 7,Kansas,Community water system,714,UDALL,Cowley,10,10,18
+KS2008102,"SATANTA, CITY OF",Region 7,Kansas,Community water system,1144,SATANTA,Haskell,15,10,14
+KS2017313,"VIOLA, CITY OF",Region 7,Kansas,Community water system,128,VIOLA,Sedgwick,5,70,18
+KS2008722,JEFFERSON CO RWD 14,Region 7,Kansas,Community water system,60,OZAWKIE,Jefferson,5,14,7
+KS2010305,LEAVENWORTH CO RWD 6,Region 7,Kansas,Community water system,240,TONGANOXIE,Leavenworth,10,14,10
+KS2002907,"CONCORDIA, CITY OF",Region 7,Kansas,Community water system,4956,CONCORDIA,Cloud,28,15,10
+KS2020511,"BUFFALO, CITY OF",Region 7,Kansas,Community water system,213,BUFFALO,Wilson,9,51,16
+KS2001104,"FORT SCOTT, CITY OF",Region 7,Kansas,Community water system,7765,FORT SCOTT,Bourbon,9,13,17
+KS2000705,"HAZELTON, CITY OF",Region 7,Kansas,Community water system,85,HAZELTON,Barber,6,20,12
+KS2014909,"WESTMORELAND, CITY OF",Region 7,Kansas,Community water system,757,WESTMORELAND,Pottawatomie,11,4,11
+KS2011308,"LINDSBORG, CITY OF",Region 7,Kansas,Community water system,3288,LINDSBORG,McPherson,14,12,11
+KS2004702,"LEWIS, CITY OF",Region 7,Kansas,Community water system,423,LEWIS,Edwards,12,6,13
+KS2019118,"CONWAY SPRINGS, CITY OF",Region 7,Kansas,Community water system,1217,CONWAY SPRINGS,Sumner,16,103,21
+KS2002708,"WAKEFIELD, CITY OF",Region 7,Kansas,Community water system,932,WAKEFIELD,Clay,8,13,15
+KS2002302,"ST FRANCIS, CITY OF",Region 7,Kansas,Community water system,1294,ST FRANCIS,Cheyenne,14,10,14
+KS2017306,SEDGWICK CO RWD 3,Region 7,Kansas,Community water system,5408,DERBY,Sedgwick,12,7,18
+KS2009503,"KINGMAN, CITY OF",Region 7,Kansas,Community water system,2906,KINGMAN,Kingman,16,23,20
+KS2015107,"IUKA, CITY OF",Region 7,Kansas,Community water system,160,IUKA,Pratt,7,9,11
+KS2001507,"BENTON, CITY OF",Region 7,Kansas,Community water system,869,BENTON,Butler,8,10,14
+KS2007902,"HESSTON, CITY OF",Region 7,Kansas,Community water system,3734,HESSTON,Harvey,15,3,17
+KS2013111,"WETMORE, CITY OF",Region 7,Kansas,Community water system,362,WETMORE,Nemaha,8,6,15
+KS2007701,"BLUFF CITY, CITY OF",Region 7,Kansas,Community water system,58,BLUFF CITY,Harper,7,14,16
+KS2016913,SALINE CO RWD 4,Region 7,Kansas,Community water system,768,SALINA,Saline,11,6,10
+KS2005509,"HOLCOMB, CITY OF",Region 7,Kansas,Community water system,2084,HOLCOMB,Finney,18,20,15
+KS2008510,JACKSON CO RWD 3,Region 7,Kansas,Community water system,4376,HOLTON,Jackson,35,13,12
+KS2002710,CLAY CO RWD 2,Region 7,Kansas,Community water system,950,CLAY CENTER,Clay,20,23,10
+KS2105105,KSU AGRICULTURAL RESEARCH CENTER,Region 7,Kansas,Non-Transient non-community system,35,HAYS,Ellis,7,1,10
+KS2020105,"PALMER, CITY OF",Region 7,Kansas,Community water system,104,PALMER,Washington,9,24,11
+KS2115533,YODER MEATS,Region 7,Kansas,Transient non-community system,45,YODER,Reno,5,27,9
+KS2004515,PUBLIC WHOLESALE WSD 25,Region 7,Kansas,Community water system,1,LAWRENCE,Douglas,17,0,1
+KS2116115,FRUSI MULTI PURPOSE RANGE COMPLEX,Region 7,Kansas,Non-Transient non-community system,970,FORT RILEY,Geary,7,2,4
+KS2006114,FRUSI WATER TREATMENT PLANT,Region 7,Kansas,Community water system,35784,FORT RILEY,Geary,44,20,11
+KS2006115,FRUSI AQT RANGE COMPLEX,Region 7,Kansas,Transient non-community system,25,FORT RILEY,Geary,5,1,4
+KS2002111,CHEROKEE CO RWD 1,Region 7,Kansas,Community water system,520,CRESTLINE,Cherokee,10,12,12
+KS2016307,"WOODSTON, CITY OF",Region 7,Kansas,Community water system,131,WOODSTON,Rooks,12,24,19
+KS2015707,"NARKA, CITY OF",Region 7,Kansas,Community water system,86,NARKA,Republic,5,37,10
+KS2000303,ANDERSON CO RWD 4,Region 7,Kansas,Community water system,1200,WESTPHALIA,Anderson,21,5,13
+KS2008903,"MANKATO, CITY OF",Region 7,Kansas,Community water system,807,MANKATO,Jewell,11,1,13
+KS2011502,"DURHAM, CITY OF",Region 7,Kansas,Community water system,108,DURHAM,Marion,8,39,9
+KS2017334,"KECHI, CITY OF",Region 7,Kansas,Community water system,1996,KECHI,Sedgwick,7,3,16
+KS2014101,"DOWNS, CITY OF",Region 7,Kansas,Community water system,822,DOWNS,Osborne,11,18,13
+KS2011313,"CANTON, CITY OF",Region 7,Kansas,Community water system,699,CANTON,McPherson,17,22,15
+KS2000116,"MORAN, CITY OF",Region 7,Kansas,Community water system,514,MORAN,Allen,5,9,15
+KS2004514,O`CONNELL YOUTH RANCH,Region 7,Kansas,Community water system,26,LAWRENCE,Douglas,8,18,12
+KS2011504,"GOESSEL, CITY OF",Region 7,Kansas,Community water system,501,GOESSEL,Marion,9,5,10
+KS2007905,"NEWTON, CITY OF",Region 7,Kansas,Community water system,18746,NEWTON,Harvey,34,10,19
+KS2007910,PUBLIC WHOLESALE WSD 17,Region 7,Kansas,Community water system,1,NEWTON,Harvey,15,1,8
+KS2115108,THE EVERGREEN MOTEL,Region 7,Kansas,Transient non-community system,25,PRATT,Pratt,12,11,10
+KS2015105,"COATS, CITY OF",Region 7,Kansas,Community water system,77,COATS,Pratt,7,20,14
+KS2005912,"PRINCETON, CITY OF",Region 7,Kansas,Community water system,271,PRINCETON,Franklin,7,17,8
+KS2004703,"KINSLEY, CITY OF",Region 7,Kansas,Community water system,1376,KINSLEY,Edwards,11,1,12
+KS2016308,ROOKS CO RWD 3,Region 7,Kansas,Community water system,380,PLAINVILLE,Rooks,36,12,12
+KS2104105,BLUE RIDGE ELEMENTARY SCHOOL,Region 7,Kansas,Non-Transient non-community system,62,CHAPMAN,Dickinson,6,3,8
+KS2115513,ST JOSEPH CATHOLIC SCHOOL,Region 7,Kansas,Non-Transient non-community system,100,MOUNT HOPE,Reno,6,32,16
+KS2000906,"ELLINWOOD, CITY OF",Region 7,Kansas,Community water system,1969,ELLINWOOD,Barton,17,3,12
+KS2005122,ELLIS CO RWD 6,Region 7,Kansas,Community water system,250,HAYS,Ellis,16,64,12
+KS2008508,"SOLDIER, CITY OF",Region 7,Kansas,Community water system,134,SOLDIER,Jackson,5,11,15
+KS2014104,"PORTIS, CITY OF",Region 7,Kansas,Community water system,92,PORTIS,Osborne,11,28,11
+KS2009107,NEW CENTURY AIR CENTER,Region 7,Kansas,Non-Transient non-community system,500,NEW CENTURY,Johnson,10,11,8
+KS2020507,WILSON CO RWD 5,Region 7,Kansas,Community water system,110,BENEDICT,Wilson,7,16,13
+KS2116105,TUTTLE CREEK RESERVOIR COE STOCKDALE PRK,Region 7,Kansas,Transient non-community system,25,MANHATTAN,Riley,4,6,7
+KS2105720,WILROADS GARDEN SCHOOL,Region 7,Kansas,Non-Transient non-community system,130,DODGE CITY,Ford,7,15,9
+KS2015704,"BELLEVILLE, CITY OF",Region 7,Kansas,Community water system,1887,BELLEVILLE,Republic,9,3,18
+KS2005111,"HAYS, CITY OF",Region 7,Kansas,Community water system,20852,HAYS,Ellis,80,16,13
+KS2010317,LEAVENWORTH WATER DEPARTMENT,Region 7,Kansas,Community water system,36062,LEAVENWORTH,Leavenworth,24,7,11
+KS2008501,"HOYT, CITY OF",Region 7,Kansas,Community water system,638,HOYT,Jackson,5,27,11
+KS2012517,"CANEY, CITY OF",Region 7,Kansas,Community water system,1991,CANEY,Montgomery,10,61,20
+KS2017717,SHAWNEE CO RWD 3C,Region 7,Kansas,Community water system,2675,TOPEKA,Shawnee,10,25,8
+KS2014709,PHILLIPS CO RWD 1,Region 7,Kansas,Community water system,432,PHILLIPSBURG,Phillips,8,14,5
+KS2020512,WILSON CO RWD 13,Region 7,Kansas,Community water system,223,FREDONIA,Wilson,7,10,12
+KS2020515,WILSON CO RWD 1,Region 7,Kansas,Community water system,307,FREDONIA,Wilson,6,26,14
+KS2011309,"MCPHERSON, CITY OF",Region 7,Kansas,Community water system,13077,MCPHERSON,McPherson,33,7,18
+KS2008717,JEFFERSON CO RWD 12,Region 7,Kansas,Community water system,3635,WINCHESTER,Jefferson,20,4,12
+KS2010502,"SYLVAN GROVE, CITY OF",Region 7,Kansas,Community water system,272,SYLVAN GROVE,Lincoln,7,2,11
+KS2000117,ALLEN CO RWD 12,Region 7,Kansas,Community water system,33,MORAN,Allen,5,8,15
+KS2105525,"TYSON FRESH MEATS, INC",Region 7,Kansas,Non-Transient non-community system,3200,HOLCOMB,Finney,13,18,10
+KS2002123,PUBLIC WHOLESALE WSD 19,Region 7,Kansas,Community water system,1,COLUMBUS,Cherokee,6,55,3
+KS2003503,"BURDEN, CITY OF",Region 7,Kansas,Community water system,525,BURDEN,Cowley,9,17,12
+KS2006102,GEARY CO WATER DISTRICT 2,Region 7,Kansas,Community water system,78,JUNCTION CITY,Geary,7,5,11
+KS2000506,"ATCHISON, CITY OF",Region 7,Kansas,Community water system,10636,ATCHISON,Atchison,11,57,17
+KS2015701,"CUBA, CITY OF",Region 7,Kansas,Community water system,145,CUBA,Republic,15,8,12
+KS2010708,LINN CO RWD 3,Region 7,Kansas,Community water system,710,LACYGNE,Linn,11,45,13
+KS2003713,"ARMA, CITY OF",Region 7,Kansas,Community water system,1434,ARMA,Crawford,10,16,15
+KS2010102,LANE CO RWD 1,Region 7,Kansas,Community water system,256,HEALY,Lane,11,25,14
+KS2000704,BARBER CO RWD 2,Region 7,Kansas,Community water system,245,KIOWA,Barber,12,10,14
+KS2008505,"DENISON, CITY OF",Region 7,Kansas,Community water system,177,DENISON,Jackson,5,19,16
+KS2014903,"HAVENSVILLE, CITY OF",Region 7,Kansas,Community water system,154,HAVENSVILLE,Pottawatomie,7,36,13
+KS2115505,DUTCH KITCHEN,Region 7,Kansas,Transient non-community system,325,HUTCHINSON,Reno,6,16,14
+KS2104504,CLINTON RESERVOIR,Region 7,Kansas,Transient non-community system,25,LAWRENCE,Douglas,7,1,10
+KS2004509,DOUGLAS CO RWD 4,Region 7,Kansas,Community water system,3000,BALDWIN CITY,Douglas,13,9,9
+KS2018302,"KENSINGTON, CITY OF",Region 7,Kansas,Community water system,439,KENSINGTON,Smith,21,21,14
+KS2005908,FRANKLIN CO RWD 5,Region 7,Kansas,Community water system,855,OTTAWA,Franklin,16,7,9
+KS2002905,"CLYDE, CITY OF",Region 7,Kansas,Community water system,652,CLYDE,Cloud,10,1,9
+KS2119503,CEDAR BLUFF NORTH SHORE CABIN AREA,Region 7,Kansas,Transient non-community system,25,HAYS,Trego,8,2,5
+KS2007309,GREENWOOD CO RWD 3,Region 7,Kansas,Community water system,400,MADISON,Greenwood,5,2,8
+KS2019711,WABAUNSEE CO RWD 2,Region 7,Kansas,Community water system,1400,WAMEGO,Wabaunsee,17,8,12
+KS2005914,"WILLIAMSBURG, CITY OF",Region 7,Kansas,Community water system,397,WILLIAMSBURG,Franklin,13,9,10
+KS2011302,"MARQUETTE, CITY OF",Region 7,Kansas,Community water system,603,MARQUETTE,McPherson,10,46,14
+KS2016901,SALINE CO RWD 1,Region 7,Kansas,Community water system,80,FALUN,Saline,9,7,12
+KS2117703,METRO TOPEKA AIRPORT AUTHORITY,Region 7,Kansas,Community water system,500,TOPEKA,Shawnee,6,28,9
+KS2014904,POTTAWATOMIE CO RWD 3,Region 7,Kansas,Community water system,1300,ONAGA,Pottawatomie,21,9,15
+KS2008708,JEFFERSON CO RWD 3,Region 7,Kansas,Community water system,2435,VALLEY FALLS,Jefferson,12,23,13
+KS2005124,ELLIS CO RWD 1C,Region 7,Kansas,Community water system,270,HAYS,Ellis,5,16,7
+KS2000102,"GAS CITY, CITY OF",Region 7,Kansas,Community water system,505,GAS CITY,Allen,5,7,17
+KS2020701,"TORONTO, CITY OF",Region 7,Kansas,Community water system,267,TORONTO,Woodson,9,31,21
+KS2001709,PUBLIC WHOLESALE WSD 26,Region 7,Kansas,Community water system,1,COTTONWOOD FALLS,Chase,13,0,4
+KS2009912,LABETTE CO RWD 7,Region 7,Kansas,Community water system,540,MOUND VALLEY,Labette,11,4,11
+KS2020703,WOODSON CO RWD 1,Region 7,Kansas,Community water system,1773,PIQUA,Woodson,17,15,17
+KS2017322,"HAYSVILLE, CITY OF",Region 7,Kansas,Community water system,11264,HAYSVILLE,Sedgwick,14,16,20
+KS2014306,"CULVER, CITY OF",Region 7,Kansas,Community water system,117,CULVER,Ottawa,8,13,10
+KS2013706,"CLAYTON, CITY OF",Region 7,Kansas,Community water system,56,CLAYTON,Norton,9,57,13
+KS2015511,"ARLINGTON, CITY OF",Region 7,Kansas,Community water system,451,ARLINGTON,Reno,11,34,21
+KS2013105,NEMAHA CO RWD 1,Region 7,Kansas,Community water system,350,BERN,Nemaha,23,1,12
+KS2004109,"ENTERPRISE, CITY OF",Region 7,Kansas,Community water system,794,ENTERPRISE,Dickinson,8,3,13
+KS2011508,MARION CO RWD 2,Region 7,Kansas,Community water system,175,MARION,Marion,5,6,10
+KS2010504,"BEVERLY, CITY OF",Region 7,Kansas,Community water system,148,BEVERLY,Lincoln,15,94,19
+KS2117326,ALL SEASONS RV PARK INC,Region 7,Kansas,Transient non-community system,70,GODDARD,Sedgwick,8,64,15
+KS2011114,"READING, CITY OF",Region 7,Kansas,Community water system,229,READING,Lyon,5,15,11
+KS2017328,EL PASO WATER COMPANY,Region 7,Kansas,Community water system,24721,DERBY,Sedgwick,19,15,18
+KS2010306,"TONGANOXIE, CITY OF",Region 7,Kansas,Community water system,5524,TONGANOXIE,Leavenworth,14,13,14
+KS2008703,"NORTONVILLE, CITY OF",Region 7,Kansas,Community water system,609,NORTONVILLE,Jefferson,13,6,11
+KS2008706,JEFFERSON CO RWD 1,Region 7,Kansas,Community water system,2303,MERIDEN,Jefferson,17,37,16
+KS2001526,BUTLER CO RWD 5,Region 7,Kansas,Community water system,4870,BENTON,Butler,18,2,19
+KS2008720,"PERRY, CITY OF",Region 7,Kansas,Community water system,905,PERRY,Jefferson,7,3,10
+KS2117105,CAMP CHRISTY,Region 7,Kansas,Transient non-community system,25,SCOTT CITY,Scott,6,3,9
+KS2105515,BUFFALO DUNES GOLF COURSE,Region 7,Kansas,Transient non-community system,25,GARDEN CITY,Finney,7,0,8
+KS2105524,GARDEN CITY AIRPORT,Region 7,Kansas,Non-Transient non-community system,25,GARDEN CITY,Finney,10,3,6
+KS2005511,"GARDEN CITY, CITY OF",Region 7,Kansas,Community water system,26546,GARDEN CITY,Finney,51,19,17
+KS2016703,"RUSSELL, CITY OF",Region 7,Kansas,Community water system,4463,RUSSELL,Russell,28,49,13
+KS2013506,ARNOLD WATERWORKS INC,Region 7,Kansas,Community water system,40,ARNOLD,Ness,6,42,12
+KS2008901,"RANDALL, CITY OF",Region 7,Kansas,Community water system,62,RANDALL,Jewell,5,38,11
+KS2013906,OSAGE CO RWD 7,Region 7,Kansas,Community water system,1430,OSAGE CITY,Osage,8,15,12
+KS2019502,"COLLYER, CITY OF",Region 7,Kansas,Community water system,102,COLLYER,Trego,8,16,11
+KS2017308,"WICHITA, CITY OF",Region 7,Kansas,Community water system,389225,WICHITA,Sedgwick,149,4,35
+KS2003110,COFFEY CO RWD 2E,Region 7,Kansas,Community water system,1254,GRIDLEY,Coffey,13,5,11
+KS2003102,COFFEY CO RWD 2,Region 7,Kansas,Community water system,1146,GRIDLEY,Coffey,15,27,14
+KS2012303,"CAWKER CITY, CITY OF",Region 7,Kansas,Community water system,447,CAWKER CITY,Mitchell,8,3,11
+KS2018901,"HUGOTON, CITY OF",Region 7,Kansas,Community water system,3794,HUGOTON,Stevens,28,14,18
+KS2019114,"GEUDA SPRINGS, CITY OF",Region 7,Kansas,Community water system,181,GEUDA SPRINGS,Sumner,7,17,15
+KS2005909,FRANKLIN CO RWD 6,Region 7,Kansas,Community water system,2960,RANTOUL,Franklin,14,21,14
+KS2016135,RILEY CO RWD 1,Region 7,Kansas,Community water system,1442,MANHATTAN,Riley,10,4,8
+KS2008511,JACKSON CO RWD 1,Region 7,Kansas,Community water system,2500,HOYT,Jackson,9,4,14
+KS2006503,"HILL CITY, CITY OF",Region 7,Kansas,Community water system,1415,HILL CITY,Graham,22,33,13
+KS2004701,"BELPRE, CITY OF",Region 7,Kansas,Community water system,84,BELPRE,Edwards,9,38,14
+KS2005701,KANSAS SOLDIERS HOME,Region 7,Kansas,Community water system,130,FORT DODGE,Ford,9,23,14
+KS2006903,"CIMARRON, CITY OF",Region 7,Kansas,Community water system,2211,CIMARRON,Gray,17,4,14
+KS2105716,CARGILL MEAT SOLUTIONS CORP,Region 7,Kansas,Non-Transient non-community system,2600,DODGE CITY,Ford,21,16,15
+KS2005114,"ELLIS, CITY OF",Region 7,Kansas,Community water system,2029,ELLIS,Ellis,34,13,13
+KS2018503,"STAFFORD, CITY OF",Region 7,Kansas,Community water system,956,STAFFORD,Stafford,13,3,15
+KS2003904,"JENNINGS, CITY OF",Region 7,Kansas,Community water system,92,JENNINGS,Decatur,8,4,14
+KS2013108,"GOFF, CITY OF",Region 7,Kansas,Community water system,118,GOFF,Nemaha,9,4,13
+KS2008904,"ESBON, CITY OF",Region 7,Kansas,Community water system,91,ESBON,Jewell,8,13,10
+KS2017501,SEVEN WINDS RV PARK,Region 7,Kansas,Transient non-community system,25,LIBERAL,Seward,11,19,16
+KS2020110,"BARNES, CITY OF",Region 7,Kansas,Community water system,151,BARNES,Washington,10,60,14
+KS2013305,NEOSHO CO RWD 6,Region 7,Kansas,Community water system,314,CHANUTE,Neosho,6,7,13
+KS2004104,DICKINSON CO RWD 1,Region 7,Kansas,Community water system,879,TALMAGE,Dickinson,19,3,12
+KS2004307,DONIPHAN CO RWD 5,Region 7,Kansas,Community water system,1457,WATHENA,Doniphan,15,12,10
+KS2000504,ATCHISON CO RWD 3,Region 7,Kansas,Community water system,110,ATCHISON,Atchison,5,46,9
+KS2010706,"PARKER, CITY OF",Region 7,Kansas,Community water system,267,PARKER,Linn,9,59,17
+KS2009902,"BARTLETT, CITY OF",Region 7,Kansas,Community water system,74,BARTLETT,Labette,5,45,14
+KS2005534,MENDOZA MOBILE HOME PARK,Region 7,Kansas,Community water system,65,GARDEN CITY,Finney,12,10,13
+KS2018102,"GOODLAND, CITY OF",Region 7,Kansas,Community water system,4386,GOODLAND,Sherman,30,35,11
+KS2102102,RIVERTON SCHOOL,Region 7,Kansas,Non-Transient non-community system,840,RIVERTON,Cherokee,8,5,10
+KS2019119,"WELLINGTON, CITY OF",Region 7,Kansas,Community water system,7748,WELLINGTON,Sumner,26,52,20
+KS2006704,"ULYSSES, CITY OF",Region 7,Kansas,Community water system,5756,ULYSSES,Grant,20,14,15
+KS2005537,EASTSIDE MOBILE HOME PARK,Region 7,Kansas,Community water system,40,GARDEN CITY,Finney,7,34,15
+KS2006108,"JUNCTION CITY, CITY OF",Region 7,Kansas,Community water system,22120,JUNCTION CITY,Geary,26,20,16
+KS2010705,"PRESCOTT, CITY OF",Region 7,Kansas,Community water system,269,PRESCOTT,Linn,8,15,12
+KS2019902,"WALLACE, CITY OF",Region 7,Kansas,Community water system,59,WALLACE,Wallace,7,17,11
+KS2010315,LEAVENWORTH CO RWD 10,Region 7,Kansas,Community water system,499,LINWOOD,Leavenworth,7,19,12
+KS2005545,HERITAGE BEEF,Region 7,Kansas,Community water system,32,SUBLETTE,Haskell,13,25,13
+KS2012306,"HUNTER, CITY OF",Region 7,Kansas,Community water system,56,HUNTER,Mitchell,5,28,13
+KS2012305,"GLEN ELDER, CITY OF",Region 7,Kansas,Community water system,433,GLEN ELDER,Mitchell,13,34,14
+KS2004905,ELK CO RWD 1,Region 7,Kansas,Community water system,494,MOLINE,Elk,7,17,11
+KS2005710,"DODGE CITY, CITY OF",Region 7,Kansas,Community water system,27329,DODGE CITY,Ford,68,48,21
+KS2008302,"HANSTON, CITY OF",Region 7,Kansas,Community water system,196,HANSTON,Hodgeman,11,11,17
+KS2010903,"WINONA, CITY OF",Region 7,Kansas,Community water system,161,WINONA,Logan,7,13,14
+KS2002105,"ROSELAND, CITY OF",Region 7,Kansas,Community water system,68,ROSELAND,Cherokee,4,7,13
+KS2016112,"MANHATTAN, CITY OF",Region 7,Kansas,Community water system,54959,MANHATTAN,Riley,48,2,13
+KS2005530,HILLCREST COURTS,Region 7,Kansas,Community water system,25,GARDEN CITY,Finney,12,25,12
+KS2104502,LAWRENCE KTA,Region 7,Kansas,Transient non-community system,25,TOPEKA,Douglas,9,1,8
+KS2014906,POTTAWATOMIE CO RWD 2,Region 7,Kansas,Community water system,625,OLSBURG,Pottawatomie,10,4,15
+KS2020524,WILSON CO RWD 8,Region 7,Kansas,Community water system,32,NEODESHA,Wilson,3,12,5
+KS2009702,"GREENSBURG, CITY OF",Region 7,Kansas,Community water system,791,GREENSBURG,Kiowa,18,17,14
+KS2002706,"LONGFORD, CITY OF",Region 7,Kansas,Community water system,72,LONGFORD,Clay,8,10,15
+KS2014501,"BURDETT, CITY OF",Region 7,Kansas,Community water system,228,BURDETT,Pawnee,8,37,14
+KS2011304,"MOUNDRIDGE, CITY OF",Region 7,Kansas,Community water system,1864,MOUNDRIDGE,McPherson,13,5,14
+KS2011306,MCPHERSON CO RWD 3,Region 7,Kansas,Community water system,28,MCPHERSON,McPherson,4,8,10
+KS2117101,SCOTT STATE PARK WS 1,Region 7,Kansas,Transient non-community system,25,SCOTT CITY,Scott,7,8,6
+KS2012902,"ROLLA, CITY OF",Region 7,Kansas,Community water system,363,ROLLA,Morton,17,27,15
+KS2003104,"LEBO, CITY OF",Region 7,Kansas,Community water system,894,LEBO,Coffey,9,8,11
+KS2115106,KDWP OPERATIONS MAINTENANCE SECT,Region 7,Kansas,Non-Transient non-community system,90,PRATT,Pratt,6,26,11
+KS2007705,HARPER CO RWD 2,Region 7,Kansas,Community water system,275,ANTHONY,Harper,10,5,14
+KS2018501,"MACKSVILLE, CITY OF",Region 7,Kansas,Community water system,532,MACKSVILLE,Stafford,8,12,9
+KS2001530,BUTLER CO RWD 6,Region 7,Kansas,Community water system,2655,EL DORADO,Butler,29,19,16
+KS2017348,BOUDREUX`S BURGER BARN,Region 7,Kansas,Transient non-community system,125,PECK,Sumner,7,35,4
+KS2008702,"MCLOUTH, CITY OF",Region 7,Kansas,Community water system,844,MCLOUTH,Jefferson,20,3,12
+KS2016504,"TIMKEN, CITY OF",Region 7,Kansas,Community water system,69,TIMKEN,Rush,8,90,12
+KS2000109,ALLEN CO RWD 10,Region 7,Kansas,Community water system,125,CHANUTE,Allen,5,20,14
+KS2012519,MONTGOMERY CO RWD 9,Region 7,Kansas,Community water system,430,ELK CITY,Montgomery,11,3,13
+KS2004501,"LECOMPTON, CITY OF",Region 7,Kansas,Community water system,655,LECOMPTON,Douglas,13,3,14
+KS2019110,SUMNER CO RWD 6,Region 7,Kansas,Community water system,143,OXFORD,Sumner,5,2,13
+KS2002113,"GALENA, CITY OF",Region 7,Kansas,Community water system,2875,GALENA,Cherokee,13,13,14
+KS2003716,CRAWFORD CO RWD 3,Region 7,Kansas,Community water system,250,ARMA,Crawford,9,4,15
+KS2015506,WESTERN ACRES MOBILE HOME COURT,Region 7,Kansas,Community water system,30,HUTCHINSON,Reno,11,149,20
+KS2012702,"COUNCIL GROVE, CITY OF",Region 7,Kansas,Community water system,2079,COUNCIL GROVE,Morris,8,40,11
+KS2100912,KIOWA KITCHEN,Region 7,Kansas,Transient non-community system,25,GREAT BEND,Barton,5,6,12
+KS2004506,DOUGLAS CO RWD 1,Region 7,Kansas,Community water system,1400,LAWRENCE,Douglas,5,1,11
+KS2011903,"PLAINS, CITY OF",Region 7,Kansas,Community water system,1042,PLAINS,Meade,14,9,14
+KS2002101,"SCAMMON, CITY OF",Region 7,Kansas,Community water system,445,SCAMMON,Cherokee,8,4,14
+KS2000112,ALLEN CO RWD 4,Region 7,Kansas,Community water system,52,IOLA,Allen,5,2,15
+KS2116910,OUTLAWS,Region 7,Kansas,Transient non-community system,25,SALINA,Saline,4,9,7
+KS2001501,"CASSODAY, CITY OF",Region 7,Kansas,Community water system,125,CASSODAY,Butler,6,24,21
+KS2000121,ALLEN CO RWD 15,Region 7,Kansas,Community water system,135,IOLA,Allen,5,10,14
+KS2013912,OSAGE CO RWD 2,Region 7,Kansas,Community water system,220,QUENEMO,Osage,10,13,14
+KS2016102,TUTTLE TERRACE TRAILER COURT,Region 7,Kansas,Community water system,50,MANHATTAN,Riley,6,30,15
+KS2000507,"LANCASTER, CITY OF",Region 7,Kansas,Community water system,288,LANCASTER,Atchison,6,10,13
+KS2009906,LABETTE CO RWD 5,Region 7,Kansas,Community water system,1425,OSWEGO,Labette,9,21,13
+KS2014307,OTTAWA CO RWD 2,Region 7,Kansas,Community water system,1794,SALINA,Ottawa,31,7,13
+KS2014708,"GLADE, CITY OF",Region 7,Kansas,Community water system,85,GLADE,Phillips,10,32,14
+KS2001108,"UNIONTOWN, CITY OF",Region 7,Kansas,Community water system,262,UNIONTOWN,Bourbon,7,22,16
+KS2012507,MONTGOMERY CO RWD 8,Region 7,Kansas,Community water system,340,INDEPENDENCE,Montgomery,7,25,11
+KS2019106,SUMNER CO RWD 1,Region 7,Kansas,Community water system,280,WELLINGTON,Sumner,5,4,20
+KS2002102,CHEROKEE CO RWD 4,Region 7,Kansas,Community water system,1500,SCAMMON,Cherokee,12,5,14
+KS2016126,"RANDOLPH, CITY OF",Region 7,Kansas,Community water system,158,RANDOLPH,Riley,7,8,9
+KS2001902,"CEDAR VALE, CITY OF",Region 7,Kansas,Community water system,517,CEDAR VALE,Chautauqua,13,22,17
+KS2014303,"BENNINGTON, CITY OF",Region 7,Kansas,Community water system,626,BENNINGTON,Ottawa,14,6,14
+KS2009908,"OSWEGO, CITY OF",Region 7,Kansas,Community water system,1698,OSWEGO,Labette,8,81,18
+KS2001512,"ELBING, CITY OF",Region 7,Kansas,Community water system,224,ELBING,Butler,5,3,18
+KS2013112,NEMAHA CO RWD 4,Region 7,Kansas,Community water system,448,WETMORE,Nemaha,11,0,11
+KS2007703,"ATTICA, CITY OF",Region 7,Kansas,Community water system,563,ATTICA,Harper,15,26,18
+KS2020101,"WASHINGTON, CITY OF",Region 7,Kansas,Community water system,1062,WASHINGTON,Washington,9,3,14
+KS2007308,"SEVERY, CITY OF",Region 7,Kansas,Community water system,230,SEVERY,Greenwood,8,282,20
+KS2007502,"SYRACUSE, CITY OF",Region 7,Kansas,Community water system,1749,SYRACUSE,Hamilton,13,2,13
+KS2013312,"THAYER, CITY OF",Region 7,Kansas,Community water system,464,THAYER,Neosho,9,95,20
+KS2014905,"ONAGA, CITY OF",Region 7,Kansas,Community water system,690,ONAGA,Pottawatomie,12,16,12
+KS2004512,DOUGLAS CO RWD 6,Region 7,Kansas,Community water system,360,LECOMPTON,Douglas,6,5,11
+KS2011713,MARSHALL CO RWD 3,Region 7,Kansas,Community water system,1228,BEATTIE,Marshall,22,37,15
+KS2019703,"ESKRIDGE, CITY OF",Region 7,Kansas,Community water system,501,ESKRIDGE,Wabaunsee,9,15,17
+KS2019503,TREGO CO RWD 1,Region 7,Kansas,Community water system,56,RANSOM,Trego,7,1,9
+KS2016509,RUSH CO RWD 1,Region 7,Kansas,Community water system,150,MCCRACKEN,Rush,11,94,16
+KS2006302,"GRAINFIELD, CITY OF",Region 7,Kansas,Community water system,245,GRAINFIELD,Gove,11,13,17
+KS2013919,PUBLIC WHOLESALE WSD 12,Region 7,Kansas,Community water system,1,MELVERN,Osage,15,35,15
+KS2106114,ROCK SPRINGS 4H CENTER,Region 7,Kansas,Transient non-community system,63,JUNCTION CITY,Geary,9,25,10
+KS2015711,REPUBLIC CO RWD 2,Region 7,Kansas,Community water system,1293,BELLEVILLE,Republic,14,10,12
+KS2009916,LABETTE CO RWD 6,Region 7,Kansas,Community water system,1550,COFFEYVILE,Labette,11,16,13
+KS2001101,BOURBON CO RWD 4,Region 7,Kansas,Community water system,1161,BRONSON,Bourbon,8,50,17
+KS2001510,"DOUGLASS, CITY OF",Region 7,Kansas,Community water system,1662,DOUGLASS,Butler,18,11,20
+KS2117314,EVONIK CORPORATION,Region 7,Kansas,Non-Transient non-community system,75,WICHITA,Sedgwick,8,1,10
+KS2005916,"WELLSVILLE, CITY OF",Region 7,Kansas,Community water system,1801,WELLSVILLE,Franklin,6,13,13
+KS2003509,"ARKANSAS CITY, CITY OF",Region 7,Kansas,Community water system,11793,ARKANSAS CITY,Cowley,28,8,25
+KS2010319,LEAVENWORTH CO RWD 2,Region 7,Kansas,Community water system,483,LEAVENWORTH,Leavenworth,8,9,13
+KS2016501,"BISON, CITY OF",Region 7,Kansas,Community water system,237,BISON,Rush,10,25,14
+KS2016305,"DAMAR, CITY OF",Region 7,Kansas,Community water system,128,DAMAR,Rooks,7,50,12
+KS2008513,"WHITING, CITY OF",Region 7,Kansas,Community water system,185,WHITING,Jackson,9,16,13
+KS2015518,RENO CO RWD 101,Region 7,Kansas,Community water system,200,YODER,Reno,7,1,13
+KS2015508,RENO CO WATER DISTRICT 8,Region 7,Kansas,Community water system,260,HUTCHINSON,Reno,11,2,13
+KS2107902,SPRING LAKE RESORT,Region 7,Kansas,Community water system,340,HALSTEAD,Harvey,8,20,14
+KS2002122,HYZ INC HAI YING,Region 7,Kansas,Transient non-community system,25,BAXTER SPRINGS,Cherokee,5,41,5
+KS2012105,"OSAWATOMIE, CITY OF",Region 7,Kansas,Community water system,4266,OSAWATOMIE,Miami,9,54,14
+KS2016508,"LIEBENTHAL, CITY OF",Region 7,Kansas,Community water system,96,LIEBENTHAL,Rush,12,44,12
+KS2003720,"FRONTENAC, CITY OF",Region 7,Kansas,Community water system,3410,FRONTENAC,Crawford,10,15,17
+KS2000911,"GREAT BEND, CITY OF",Region 7,Kansas,Community water system,15170,GREAT BEND,Barton,24,24,14
+KS2100910,GREAT BEND INDUSTRIAL PARK,Region 7,Kansas,Non-Transient non-community system,700,GREAT BEND,Barton,10,4,10
+KS2009302,"DEERFIELD, CITY OF",Region 7,Kansas,Community water system,706,DEERFIELD,Kearny,17,1,15
+KS2011509,"PEABODY, CITY OF",Region 7,Kansas,Community water system,1109,PEABODY,Marion,23,45,12
+KS2005906,"OTTAWA, CITY OF",Region 7,Kansas,Community water system,12267,OTTAWA,Franklin,9,1,15
+KS2005902,"RANTOUL, CITY OF",Region 7,Kansas,Community water system,186,RANTOUL,Franklin,11,17,19
+KS2007503,HAMILTON CO RWD 1,Region 7,Kansas,Community water system,105,KENDALL,Hamilton,7,12,15
+KS2013302,COAL HOLLOW WATER COMPANY,Region 7,Kansas,Community water system,55,THAYER,Neosho,5,17,11
+KS2014702,"KIRWIN, CITY OF",Region 7,Kansas,Community water system,158,KIRWIN,Phillips,14,45,14
+KS2115532,CHENEY STATE PARK M AND M POINT,Region 7,Kansas,Transient non-community system,25,CHENEY,Reno,15,2,8
+KS2115502,CHENEY STATE PARK MARINA,Region 7,Kansas,Transient non-community system,25,CHENEY,Reno,8,4,7
+KS2006305,"QUINTER, CITY OF",Region 7,Kansas,Community water system,1021,QUINTER,Gove,18,9,12
+KS2008509,"NETAWAKA, CITY OF",Region 7,Kansas,Community water system,138,NETAWAKA,Jackson,5,12,15
+KS2011103,"ADMIRE, CITY OF",Region 7,Kansas,Community water system,153,ADMIRE,Lyon,7,8,12
+KS2005121,COUNTRY VIEW MOBILE HOME PARK,Region 7,Kansas,Community water system,125,HAYS,Ellis,6,126,13
+KS2014908,"WAMEGO, CITY OF",Region 7,Kansas,Community water system,4762,WAMEGO,Pottawatomie,17,32,18
+KS2010711,PUBLIC WHOLESALE WSD 13,Region 7,Kansas,Community water system,1,LACYGNE,Linn,23,3,8
+KS2015501,"PRETTY PRAIRIE, CITY OF",Region 7,Kansas,Community water system,653,PRETTY PRAIRIE,Reno,13,116,19
+KS2002301,"BIRD CITY, CITY OF",Region 7,Kansas,Community water system,434,BIRD CITY,Cheyenne,10,5,14
+KS2014503,LARNED STATE HOSPITAL,Region 7,Kansas,Community water system,11964,LARNED,Pawnee,19,21,14
+KS2013910,OSAGE CO RWD 3,Region 7,Kansas,Community water system,900,VASSAR,Osage,8,67,20
+KS2008710,"VALLEY FALLS, CITY OF",Region 7,Kansas,Community water system,1129,VALLEY FALLS,Jefferson,12,25,13
+KS2011501,"BURNS, CITY OF",Region 7,Kansas,Community water system,208,BURNS,Marion,12,23,13
+KS2000511,ATCHISON CO RWD 5C,Region 7,Kansas,Community water system,3645,LANCASTER,Atchison,23,16,14
+KS2013104,"BERN, CITY OF",Region 7,Kansas,Community water system,164,BERN,Nemaha,14,1,14
+KS2001520,"ROSE HILL, CITY OF",Region 7,Kansas,Community water system,4322,ROSE HILL,Butler,6,5,19
+KS2020904,"BONNER SPRINGS, CITY OF",Region 7,Kansas,Community water system,7804,BONNER SPRINGS,Wyandotte,16,13,13
+KS2011902,"MEADE, CITY OF",Region 7,Kansas,Community water system,1565,MEADE,Meade,23,7,16
+KS2011712,"BEATTIE, CITY OF",Region 7,Kansas,Community water system,189,BEATTIE,Marshall,7,15,11
+KS2013308,"GALESBURG, CITY OF",Region 7,Kansas,Community water system,119,GALESBURG,Neosho,6,30,14
+KS2016128,"OGDEN, CITY OF",Region 7,Kansas,Community water system,1978,OGDEN,Riley,10,3,10
+KS2008719,JEFFERSON CO RWD 2,Region 7,Kansas,Community water system,642,PERRY,Jefferson,12,21,12
+KS2000503,ATCHISON CO RWD 1,Region 7,Kansas,Community water system,490,ATCHISON,Atchison,6,27,10
+KS2016708,"PARADISE, CITY OF",Region 7,Kansas,Community water system,49,PARADISE,Russell,5,17,13
+KS2008103,"SUBLETTE, CITY OF",Region 7,Kansas,Community water system,1351,SUBLETTE,Haskell,23,8,16
+KS2110901,HIGH PLAINS CAMPING,Region 7,Kansas,Transient non-community system,25,OAKLEY,Thomas,6,1,8
+KS2001311,"WILLIS, CITY OF",Region 7,Kansas,Community water system,38,WILLIS,Brown,5,33,10
+KS2001703,"COTTONWOOD FALLS, CITY OF",Region 7,Kansas,Community water system,858,COTTONWOOD FALLS,Chase,19,8,24
+KS2106711,SCOUT ENERGY MANAGEMENT LLC,Region 7,Kansas,Non-Transient non-community system,55,ULYSSES,Grant,10,17,6
+KS2006904,"COPELAND, CITY OF",Region 7,Kansas,Community water system,298,COPELAND,Gray,10,11,12
+KS2014902,"BELVUE, CITY OF",Region 7,Kansas,Community water system,195,BELVUE,Pottawatomie,9,50,10
+KS2016304,"STOCKTON, CITY OF",Region 7,Kansas,Community water system,1280,STOCKTON,Rooks,25,12,12
+KS2000707,"KIOWA, CITY OF",Region 7,Kansas,Community water system,941,KIOWA,Barber,9,4,16
+KS2111311,ELYRIA CHRISTIAN SCHOOL,Region 7,Kansas,Non-Transient non-community system,250,MCPHERSON,McPherson,4,25,6
+KS2009904,LABETTE CO RWD 8,Region 7,Kansas,Community water system,1063,BARTLETT,Labette,14,6,12
+KS2004112,"ABILENE, CITY OF",Region 7,Kansas,Community water system,6300,ABILENE,Dickinson,46,35,15
+KS2001302,"RESERVE, CITY OF",Region 7,Kansas,Community water system,82,RESERVE,Brown,6,30,13
+KS2003708,"MCCUNE, CITY OF",Region 7,Kansas,Community water system,412,MCCUNE,Crawford,6,6,13
+KS2011107,LYON CO RWD 5,Region 7,Kansas,Community water system,1310,EMPORIA,Lyon,11,6,12
+KS2011113,LYON CO RWD 3,Region 7,Kansas,Community water system,479,OLPE,Lyon,8,9,13
+KS2011101,LYON CO RWD 1,Region 7,Kansas,Community water system,1595,EMPORIA,Lyon,11,15,13
+KS2003506,COWLEY CO RWD 6,Region 7,Kansas,Community water system,792,ARKANSAS CITY,Cowley,10,2,16
+KS2002502,"ASHLAND, CITY OF",Region 7,Kansas,Community water system,779,ASHLAND,Clark,15,5,12
+KS2119308,KDOT COLBY REST AREA EB 32512,Region 7,Kansas,Transient non-community system,25,COLBY,Thomas,5,3,7
+KS2113702,KDOT NORTON RESERVOIR REST AREA 31515,Region 7,Kansas,Transient non-community system,25,TOPEKA,Norton,5,6,6
+KS2119307,KDOT COLBY REST AREA WB 32511,Region 7,Kansas,Transient non-community system,25,COLBY,Thomas,4,4,7
+KS2118103,KDOT GOODLAND REST AREA WB 32515,Region 7,Kansas,Transient non-community system,25,GOODLAND,Sherman,4,5,5
+KS2115109,PARK HILLS GOLF CLUB,Region 7,Kansas,Transient non-community system,25,PRATT,Pratt,8,46,10
+KS2011305,MCPHERSON CO RWD 4,Region 7,Kansas,Community water system,636,MCPHERSON,McPherson,6,0,13
+KS2117508,KDOT SEWARD CO WEIGH STATION 64030,Region 7,Kansas,Transient non-community system,25,TOPEKA,Seward,7,10,8
+KS2106903,KDOT INGALLS REST AREA 63502,Region 7,Kansas,Transient non-community system,25,TOPEKA,Gray,9,5,9
+KS2105725,KDOT BLOOM REST AREA WB 63511,Region 7,Kansas,Transient non-community system,25,TOPEKA,Ford,6,5,8
+KS2000304,"GARNETT, CITY OF",Region 7,Kansas,Community water system,3262,GARNETT,Anderson,11,52,20
+KS2019708,"MAPLE HILL, CITY OF",Region 7,Kansas,Community water system,606,MAPLE HILL,Wabaunsee,11,17,14
+KS2014505,"LARNED, CITY OF",Region 7,Kansas,Community water system,3772,LARNED,Pawnee,18,13,15
+KS2020906,KANSAS CITY BOARD OF PUBLIC UTILITIES,Region 7,Kansas,Community water system,152958,KANSAS CITY,Wyandotte,16,14,16
+KS2105724,GUNSMOKE RV PARK INC,Region 7,Kansas,Transient non-community system,25,DODGE CITY,Ford,6,1,7
+KS2020519,WILSON CO RWD 11,Region 7,Kansas,Community water system,833,TORONTO,Wilson,6,12,13
+KS2007702,"HARPER, CITY OF",Region 7,Kansas,Community water system,1333,HARPER,Harper,13,13,19
+KS2005113,ELLIS CO RWD 3,Region 7,Kansas,Community water system,200,MUNJOR,Ellis,8,5,11
+KS2011314,"WINDOM, CITY OF",Region 7,Kansas,Community water system,126,WINDOM,McPherson,5,7,12
+KS2011710,"BLUE RAPIDS, CITY OF",Region 7,Kansas,Community water system,963,BLUE RAPIDS,Marshall,10,9,13
+KS2010704,"PLEASANTON, CITY OF",Region 7,Kansas,Community water system,1174,PLEASANTON,Linn,9,61,20
+KS2006905,"ENSIGN, CITY OF",Region 7,Kansas,Community water system,178,ENSIGN,Gray,9,15,15
+KS2017341,"BENTLEY, CITY OF",Region 7,Kansas,Community water system,520,BENTLEY,Sedgwick,8,6,17
+KS2015101,"SAWYER, CITY OF",Region 7,Kansas,Community water system,132,SAWYER,Pratt,8,7,15
+KS2111501,CENTRE HIGH SCHOOL,Region 7,Kansas,Non-Transient non-community system,181,LOST SPRINGS,Marion,12,26,10
+KS2004103,"MANCHESTER, CITY OF",Region 7,Kansas,Community water system,96,MANCHESTER,Dickinson,5,17,14
+KS2016503,"ALEXANDER, CITY OF",Region 7,Kansas,Community water system,60,ALEXANDER,Rush,8,28,11
+KS2009106,"GARDNER, CITY OF",Region 7,Kansas,Community water system,21871,GARDNER,Johnson,17,32,16
+KS2114910,LIVING WATER RANCH,Region 7,Kansas,Transient non-community system,40,OLSBURG,Pottawatomie,7,1,10
+KS2017342,"ANDALE, CITY OF",Region 7,Kansas,Community water system,988,ANDALE,Sedgwick,7,6,17
+KS2015302,"HERNDON, CITY OF",Region 7,Kansas,Community water system,127,HERNDON,Rawlins,8,17,13
+KS2001303,"POWHATTAN, CITY OF",Region 7,Kansas,Community water system,75,POWHATTAN,Brown,7,69,14
+KS2009903,"EDNA, CITY OF",Region 7,Kansas,Community water system,410,EDNA,Labette,5,7,12
+KS2019704,"HARVEYVILLE, CITY OF",Region 7,Kansas,Community water system,247,HARVEYVILLE,Wabaunsee,11,73,16
+KS2010501,"LINCOLN, CITY OF",Region 7,Kansas,Community water system,1202,LINCOLN,Lincoln,17,6,11
+KS2005303,"LORRAINE, CITY OF",Region 7,Kansas,Community water system,129,LORRAINE,Ellsworth,12,33,13
+KS2015906,"CHASE, CITY OF",Region 7,Kansas,Community water system,436,CHASE,Rice,10,8,11
+KS2015904,"LITTLE RIVER, CITY OF",Region 7,Kansas,Community water system,522,LITTLE RIVER,Rice,11,6,15
+KS2017901,"HOXIE, CITY OF",Region 7,Kansas,Community water system,1198,HOXIE,Sheridan,16,39,15
+KS2019303,"BREWSTER, CITY OF",Region 7,Kansas,Community water system,288,BREWSTER,Thomas,11,44,13
+KS2117313,OCCIDENTAL CHEMICAL CORP,Region 7,Kansas,Non-Transient non-community system,300,WICHITA,Sedgwick,8,9,10
+KS2008902,"JEWELL, CITY OF",Region 7,Kansas,Community water system,398,JEWELL,Jewell,5,10,13
+KS2014901,"EMMETT, CITY OF",Region 7,Kansas,Community water system,188,EMMETT,Pottawatomie,7,56,15
+KS2003504,"CAMBRIDGE, CITY OF",Region 7,Kansas,Community water system,82,CAMBRIDGE,Cowley,5,12,21
+KS2001910,PUBLIC WHOLESALE WSD 20,Region 7,Kansas,Community water system,1,SEDAN,Chautauqua,15,21,4
+KS2002705,"MORGANVILLE, CITY OF",Region 7,Kansas,Community water system,188,MORGANVILLE,Clay,8,32,14
+KS2000307,"COLONY, CITY OF",Region 7,Kansas,Community water system,410,COLONY,Anderson,5,9,12
+KS2004507,DOUGLAS CO RWD 3,Region 7,Kansas,Community water system,4663,BERRYTON,Douglas,28,6,21
+KS2007907,HARVEY CO RWD 1,Region 7,Kansas,Community water system,3000,WALTON,Harvey,19,7,17
+KS2013106,"CENTRALIA, CITY OF",Region 7,Kansas,Community water system,517,CENTRALIA,Nemaha,5,18,11
+KS2000905,"CLAFLIN, CITY OF",Region 7,Kansas,Community water system,612,CLAFLIN,Barton,10,8,15
+KS2017325,"GODDARD, CITY OF",Region 7,Kansas,Community water system,4724,GODDARD,Sedgwick,14,14,19
+KS2009701,"MULLINVILLE, CITY OF",Region 7,Kansas,Community water system,246,MULLINVILLE,Kiowa,9,20,16
+KS2002109,"BAXTER SPRINGS, CITY OF",Region 7,Kansas,Community water system,3944,BAXTER SPRINGS,Cherokee,12,73,15
+KS2017712,"ROSSVILLE, CITY OF",Region 7,Kansas,Community water system,1134,ROSSVILLE,Shawnee,11,9,13
+KS2000107,ALLEN CO RWD 6,Region 7,Kansas,Community water system,45,IOLA,Allen,7,6,12
+KS2000119,PUBLIC WHOLESALE WSD 5,Region 7,Kansas,Community water system,1,IOLA,Allen,8,2,20
+KS2007707,"ANTHONY, CITY OF",Region 7,Kansas,Community water system,2099,ANTHONY,Harper,19,7,16
+KS2018303,"SMITH CENTER, CITY OF",Region 7,Kansas,Community water system,1581,SMITH CENTER,Smith,14,7,12
+KS2003511,COWLEY CO RWD 4,Region 7,Kansas,Community water system,500,WINFIELD,Cowley,6,2,16
+KS2004101,"HOPE, CITY OF",Region 7,Kansas,Community water system,334,HOPE,Dickinson,6,30,17
+KS2015709,"REPUBLIC, CITY OF",Region 7,Kansas,Community water system,108,REPUBLIC,Republic,13,64,12
+KS2013913,"QUENEMO, CITY OF",Region 7,Kansas,Community water system,375,QUENEMO,Osage,8,9,13
+KS2007908,"WALTON, CITY OF",Region 7,Kansas,Community water system,231,WALTON,Harvey,5,18,14
+KS2014502,"ROZEL, CITY OF",Region 7,Kansas,Community water system,143,ROZEL,Pawnee,14,11,15
+KS2011701,"VERMILLION, CITY OF",Region 7,Kansas,Community water system,102,VERMILLION,Marshall,7,13,14
+KS2009918,PUBLIC WHOLESALE WSD 4,Region 7,Kansas,Community water system,45,CHERRYVALE,Labette,14,31,14
+KS2012521,MONTGOMERY CO RWD 12,Region 7,Kansas,Community water system,756,NEODESHA,Montgomery,7,1,11
+KS2105528,SUNFLOWER ELECTRIC POWER CORP,Region 7,Kansas,Non-Transient non-community system,140,HOLCOMB,Finney,13,2,9
+KS2105518,JENNIE BARKER ELEM SCHOOL,Region 7,Kansas,Non-Transient non-community system,146,GARDEN CITY,Finney,8,8,10
+KS2105519,PIERCEVILLE PLYMELL SCHOOL,Region 7,Kansas,Non-Transient non-community system,85,GARDEN CITY,Finney,8,9,10
+KS2013504,"BROWNELL, CITY OF",Region 7,Kansas,Community water system,26,BROWNELL,Ness,9,21,13
+KS2012512,"CHERRYVALE, CITY OF",Region 7,Kansas,Community water system,2152,CHERRYVALE,Montgomery,7,4,14
+KS2016124,"RILEY, CITY OF",Region 7,Kansas,Community water system,954,RILEY,Riley,18,5,11
+KS2017346,DUSTI`S PLACE LLC,Region 7,Kansas,Transient non-community system,65,WICHITA,Sedgwick,5,24,10
+KS2012509,MONTGOMERY CO RWD 1C,Region 7,Kansas,Community water system,2450,HAVANA,Montgomery,17,5,14
+KS2012310,"TIPTON, CITY OF",Region 7,Kansas,Community water system,198,TIPTON,Mitchell,8,11,10
+KS2013704,NORTON CORRECTIONAL FACILITY,Region 7,Kansas,Community water system,950,NORTON,Norton,17,6,16
+KS2115101,PRATT AIRPORT,Region 7,Kansas,Non-Transient non-community system,175,PRATT,Pratt,8,17,12
+KS2015103,"PRATT, CITY OF",Region 7,Kansas,Community water system,6630,PRATT,Pratt,29,12,9
+KS2116306,LAKEVIEW CHRISTIAN CAMP,Region 7,Kansas,Transient non-community system,25,STOCKTON,Rooks,4,47,10
+KS2019105,SUMNER CO RWD 3,Region 7,Kansas,Community water system,80,WELLINGTON,Sumner,4,30,24
+KS2020502,"NEODESHA, CITY OF",Region 7,Kansas,Community water system,2310,NEODESHA,Wilson,10,64,22
+KS2013914,"CARBONDALE, CITY OF",Region 7,Kansas,Community water system,1377,CARBONDALE,Osage,9,53,19
+KS2003508,COWLEY CO RWD 5,Region 7,Kansas,Community water system,2000,BURDEN,Cowley,20,13,25
+KS2008715,JEFFERSON CO RWD 9,Region 7,Kansas,Community water system,352,OZAWKIE,Jefferson,8,5,13
+KS2020702,"YATES CENTER, CITY OF",Region 7,Kansas,Community water system,1346,YATES CENTER,Woodson,12,18,18
+KS2004902,"MOLINE, CITY OF",Region 7,Kansas,Community water system,321,MOLINE,Elk,10,73,16
+KS2016910,SUNDOWNER WEST MOBILE HOME PARK,Region 7,Kansas,Community water system,220,SALINA,Saline,9,34,11
+KS2002703,"GREEN, CITY OF",Region 7,Kansas,Community water system,118,GREEN,Clay,13,39,13
+KS2013320,NEOSHO CO RWD 1C,Region 7,Kansas,Community water system,670,ERIE,Neosho,7,49,12
+KS2009505,"NORWICH, CITY OF",Region 7,Kansas,Community water system,450,NORWICH,Kingman,11,162,19
+KS2008712,JEFFERSON CO RWD 11,Region 7,Kansas,Community water system,370,OZAWKIE,Jefferson,11,7,12
+KS2001301,"ROBINSON, CITY OF",Region 7,Kansas,Community water system,225,ROBINSON,Brown,11,50,17
+KS2006301,"GRINNELL, CITY OF",Region 7,Kansas,Community water system,231,GRINNELL,Gove,8,0,12
+KS2015502,"SYLVIA, CITY OF",Region 7,Kansas,Community water system,206,SYLVIA,Reno,8,4,12
+KS2001503,"AUGUSTA, CITY OF",Region 7,Kansas,Community water system,9342,AUGUSTA,Butler,20,40,28
+KS2016701,"LURAY, CITY OF",Region 7,Kansas,Community water system,184,LURAY,Russell,9,19,15
+KS2020102,"MAHASKA, CITY OF",Region 7,Kansas,Community water system,76,MAHASKA,Washington,16,24,14
+KS2009110,WATER DISTRICT 1 OF JOHNSON CO,Region 7,Kansas,Community water system,443000,KANSAS CITY,Johnson,90,3,18
+KS2004309,"WHITE CLOUD, CITY OF",Region 7,Kansas,Community water system,168,WHITE CLOUD,Doniphan,7,13,10
+KS2017708,SHAWNEE CO RWD 8,Region 7,Kansas,Community water system,6073,TECUMSEH,Shawnee,10,8,12
+KS2005527,SOUTHWIND SUBDIVISION,Region 7,Kansas,Community water system,1180,GARDEN CITY,Finney,9,7,17
+KS2008704,JEFFERSON CO RWD 13,Region 7,Kansas,Community water system,2115,LAWRENCE,Jefferson,16,3,14
+KS2020501,WILSON CO RWD 12,Region 7,Kansas,Community water system,123,NEODESHA,Wilson,7,12,12
+KS2020108,"HANOVER, CITY OF",Region 7,Kansas,Community water system,651,HANOVER,Washington,5,34,13
+KS2003710,"MULBERRY, CITY OF",Region 7,Kansas,Community water system,522,MULBERRY,Crawford,7,18,16
+KS2116114,"STAGG HILL GOLF CLUB, INC",Region 7,Kansas,Transient non-community system,50,MANHATTAN,Riley,5,27,12
+KS2015301,"ATWOOD, CITY OF",Region 7,Kansas,Community water system,1202,ATWOOD,Rawlins,24,32,17
+KS2100906,DOONAN SPECIALIZED TRAILER LLC,Region 7,Kansas,Non-Transient non-community system,37,GREAT BEND,Barton,7,73,10
+KS2001306,"HORTON, CITY OF",Region 7,Kansas,Community water system,1688,HORTON,Brown,16,8,14
+KS2009905,"CHETOPA, CITY OF",Region 7,Kansas,Community water system,1035,CHETOPA,Labette,7,61,18
+KS2003707,CRAWFORD CO RWD 6,Region 7,Kansas,Community water system,823,GIRARD,Crawford,13,17,13
+KS2014707,"AGRA, CITY OF",Region 7,Kansas,Community water system,248,AGRA,Phillips,9,17,13
+KS2000916,"PAWNEE ROCK, CITY OF",Region 7,Kansas,Community water system,233,PAWNEE ROCK,Barton,9,21,15
+KS2014103,OSBORNE CO RWD 1A,Region 7,Kansas,Community water system,81,ALTON,Osborne,17,52,19
+KS2013307,"CHANUTE, CITY OF",Region 7,Kansas,Community water system,9018,CHANUTE,Neosho,10,14,18
+KS2007302,GREENWOOD CO RWD 2,Region 7,Kansas,Community water system,1062,EUREKA,Greenwood,11,18,12
+KS2002906,"AURORA, CITY OF",Region 7,Kansas,Community water system,55,AURORA,Cloud,8,17,14
+KS2000702,"MEDICINE LODGE, CITY OF",Region 7,Kansas,Community water system,1854,MEDICINE LODGE,Barber,25,12,18
+KS2003303,COMANCHE CO RWD 2,Region 7,Kansas,Community water system,116,COLDWATER,Comanche,10,20,16
+KS2000105,"LA HARPE, CITY OF",Region 7,Kansas,Community water system,528,LAHARPE,Allen,5,24,17
+KS2005309,ELLSWORTH CO RWD 1,Region 7,Kansas,Community water system,2626,ELLSWORTH,Ellsworth,28,79,17
+KS2011503,"FLORENCE, CITY OF",Region 7,Kansas,Community water system,438,FLORENCE,Marion,11,46,11
+KS2010703,"LACYGNE, CITY OF",Region 7,Kansas,Community water system,1120,LACYGNE,Linn,11,63,22
+KS2001909,CHAUTAUQUA CO RWD 3,Region 7,Kansas,Community water system,200,SEDAN,Chautauqua,8,27,8
+KS2012705,"WILSEY, CITY OF",Region 7,Kansas,Community water system,141,WILSEY,Morris,8,5,7
+KS2013701,"ALMENA, CITY OF",Region 7,Kansas,Community water system,383,ALMENA,Norton,20,97,12
+KS2012505,MONTGOMERY CO RWD 1,Region 7,Kansas,Community water system,175,INDEPENDENCE,Montgomery,6,12,11
+KS2005913,FRANKLIN CO RWD 4,Region 7,Kansas,Community water system,2281,WILLIAMSBURG,Franklin,15,11,16
+KS2011706,"MARYSVILLE, CITY OF",Region 7,Kansas,Community water system,3268,MARYSVILLE,Marshall,17,29,11
+KS2014923,WALNUT GROVE MHC BRENSING WHITE,Region 7,Kansas,Community water system,256,MANHATTAN,Pottawatomie,9,2,8
+KS2013904,OSAGE CO RWD 5,Region 7,Kansas,Community water system,3186,OVERBROOK,Osage,13,11,14
+KS2111901,MEADE STATE PARK WATER SUPPLY 1,Region 7,Kansas,Transient non-community system,150,MEADE,Meade,7,1,8
+KS2111902,MEADE STATE PARK WATER SUPPLY 2,Region 7,Kansas,Transient non-community system,25,MEADE,Meade,10,2,10
+KS2115105,SKYLINE SCHOOL,Region 7,Kansas,Non-Transient non-community system,476,PRATT,Pratt,8,8,10
+KS2115524,CAMP KANZA,Region 7,Kansas,Transient non-community system,300,WICHITA,Reno,9,14,13
+KS2008503,"HOLTON, CITY OF",Region 7,Kansas,Community water system,3248,HOLTON,Jackson,13,7,19
+KS2003902,"NORCATUR, CITY OF",Region 7,Kansas,Community water system,146,NORCATUR,Decatur,9,31,10
+KS2010312,LANSING CORRECTIONAL FACILITY,Region 7,Kansas,Community water system,3500,LANSING,Leavenworth,13,8,12
+KS2003903,"OBERLIN, CITY OF",Region 7,Kansas,Community water system,1725,OBERLIN,Decatur,32,76,13
+KS2001532,PUBLIC WHOLESALE WSD 8,Region 7,Kansas,Community water system,125,ROSALIA,Butler,4,2,9
+KS2107304,FALL RIVER RES WHITEHALL BAY WS,Region 7,Kansas,Transient non-community system,25,FALL RIVER,Greenwood,6,9,9
+KS2117503,SOUTHWESTERN HEIGHTS HIGH SCHOOL,Region 7,Kansas,Non-Transient non-community system,350,PLAINS,Seward,6,5,9
+KS2005116,HAYS SUBURBAN ESTATES,Region 7,Kansas,Community water system,38,HAYS,Ellis,7,22,9
+KS2003109,"LEROY, CITY OF",Region 7,Kansas,Community water system,541,LEROY,Coffey,7,25,15
+KS2004510,"BALDWIN CITY, CITY OF",Region 7,Kansas,Community water system,4691,BALDWIN CITY,Douglas,6,13,15
+KS2009506,"ZENDA, CITY OF",Region 7,Kansas,Community water system,80,ZENDA,Kingman,7,15,15
+KS2106902,MONTEZUMA MENNONITE SCHOOL,Region 7,Kansas,Non-Transient non-community system,35,MONTEZUMA,Gray,7,6,10
+KS2017323,MCCONNELL AFB,Region 7,Kansas,Community water system,6009,WICHITA,Sedgwick,7,9,20
+KS2015504,"SOUTH HUTCHINSON, CITY OF",Region 7,Kansas,Community water system,2503,SOUTH HUTCHINSON,Reno,12,2,15
+KS2018902,"MOSCOW, CITY OF",Region 7,Kansas,Community water system,305,MOSCOW,Stevens,11,73,15
+KS2115514,FAIRFIELD HIGH SCHOOL,Region 7,Kansas,Non-Transient non-community system,300,LANGDON,Reno,16,14,12
+KS2019705,"PAXICO, CITY OF",Region 7,Kansas,Community water system,212,PAXICO,Wabaunsee,8,4,10
+KS2020516,WILSON CO RWD 7,Region 7,Kansas,Community water system,460,FREDONIA,Wilson,6,22,11
+KS2012513,"COFFEYVILLE, CITY OF",Region 7,Kansas,Community water system,9366,COFFEYVILLE,Montgomery,11,20,20
+KS2011711,"AXTELL, CITY OF",Region 7,Kansas,Community water system,401,AXTELL,Marshall,9,13,13
+KS2005711,"BUCKLIN, CITY OF",Region 7,Kansas,Community water system,783,BUCKLIN,Ford,16,11,16
+KS2014105,"OSBORNE, CITY OF",Region 7,Kansas,Community water system,1291,OSBORNE,Osborne,31,18,15
+KS2005901,"LANE, CITY OF",Region 7,Kansas,Community water system,226,LANE,Franklin,10,14,14
+KS2001705,CHASE CO RWD 1,Region 7,Kansas,Community water system,330,STRONG CITY,Chase,8,13,18
+KS2003502,"ATLANTA, CITY OF",Region 7,Kansas,Community water system,185,ATLANTA,Cowley,7,23,21
+KS2019702,"ALTA VISTA, CITY OF",Region 7,Kansas,Community water system,422,ALTA VISTA,Wabaunsee,17,2,10
+KS2003711,"ARCADIA, CITY OF",Region 7,Kansas,Community water system,310,ARCADIA,Crawford,9,7,14
+KS2016505,"OTIS, CITY OF",Region 7,Kansas,Community water system,265,OTIS,Rush,15,8,13
+KS2100913,REDBARN PET PRODUCTS,Region 7,Kansas,Non-Transient non-community system,30,GREAT BEND,Barton,6,7,11
+KS2003512,COWLEY CO RWD 2,Region 7,Kansas,Community water system,600,WINFIELD,Cowley,6,23,21
+KS2004102,"HERINGTON, CITY OF",Region 7,Kansas,Community water system,2332,HERINGTON,Dickinson,15,55,14
+KS2013901,"LYNDON, CITY OF",Region 7,Kansas,Community water system,1020,LYNDON,Osage,11,0,15
+KS2015905,"BUSHTON, CITY OF",Region 7,Kansas,Community water system,256,BUSHTON,Rice,12,19,11
+KS2005118,"SCHOENCHEN, CITY OF",Region 7,Kansas,Community water system,207,SCHOENCHEN,Ellis,10,25,11
+KS2015503,"TURON, CITY OF",Region 7,Kansas,Community water system,372,TURON,Reno,14,14,21
+KS2003701,"WALNUT, CITY OF",Region 7,Kansas,Community water system,228,WALNUT,Crawford,5,43,15
+KS2015907,"GENESEO, CITY OF",Region 7,Kansas,Community water system,257,GENESEO,Rice,13,25,18
+KS2004511,"EUDORA, CITY OF",Region 7,Kansas,Community water system,6384,EUDORA,Douglas,18,2,15
+KS2014922,POTTAWATOMIE CO RWD 4,Region 7,Kansas,Community water system,1125,BELVUE,Pottawatomie,15,3,12
+KS2015903,"LYONS, CITY OF",Region 7,Kansas,Community water system,3511,LYONS,Rice,12,14,14
+KS2015512,"ABBYVILLE, CITY OF",Region 7,Kansas,Community water system,85,ABBYVILLE,Reno,8,13,20
+KS2013322,PUBLIC WHOLESALE WSD 23,Region 7,Kansas,Community water system,1,FREDONIA,Wilson,11,8,7
+KS2017327,"CHENEY, CITY OF",Region 7,Kansas,Community water system,2170,CHENEY,Sedgwick,14,14,16
+KS2017318,"VALLEY CENTER, CITY OF",Region 7,Kansas,Community water system,7313,VALLEY CENTER,Sedgwick,26,13,18
+KS2020301,"LEOTI, CITY OF",Region 7,Kansas,Community water system,1437,LEOTI,Wichita,26,30,20
+KS2008709,JEFFERSON CO RWD 10,Region 7,Kansas,Community water system,300,OZAWKIE,Jefferson,10,9,14
+KS2017319,"MOUNT HOPE, CITY OF",Region 7,Kansas,Community water system,800,MOUNT HOPE,Sedgwick,16,4,18
+KS2001704,"ELMDALE, CITY OF",Region 7,Kansas,Community water system,52,ELMDALE,Chase,14,37,18
+KS2012108,MIAMI CO RWD 4,Region 7,Kansas,Community water system,875,DREXEL,Miami,6,18,10
+KS2011708,"FRANKFORT, CITY OF",Region 7,Kansas,Community water system,695,FRANKFORT,Marshall,11,9,15
+KS2116905,SOUTHEAST SALINE SCHOOLS,Region 7,Kansas,Non-Transient non-community system,700,GYPSUM,Saline,12,11,12
+KS2014917,"ST GEORGE, CITY OF",Region 7,Kansas,Community water system,989,ST GEORGE,Pottawatomie,15,41,17
+KS2010901,"OAKLEY, CITY OF",Region 7,Kansas,Community water system,2108,OAKLEY,Logan,18,25,12
+KS2019117,"CALDWELL, CITY OF",Region 7,Kansas,Community water system,998,CALDWELL,Sumner,17,1,15
+KS2012307,"SIMPSON, CITY OF",Region 7,Kansas,Community water system,81,SIMPSON,Mitchell,10,8,11
+KS2002903,"MILTONVALE, CITY OF",Region 7,Kansas,Community water system,485,MILTONVALE,Cloud,12,22,13
+KS2005904,"RICHMOND, CITY OF",Region 7,Kansas,Community water system,458,RICHMOND,Franklin,10,94,17
+KS2005304,"KANOPOLIS, CITY OF",Region 7,Kansas,Community water system,461,KANOPOLIS,Ellsworth,12,26,19
+KS2000708,"SHARON, CITY OF",Region 7,Kansas,Community water system,145,SHARON,Barber,10,89,13
+KS2003718,"GIRARD, CITY OF",Region 7,Kansas,Community water system,2702,GIRARD,Crawford,19,8,17
+KS2007709,HARPER CO RWD 5,Region 7,Kansas,Community water system,209,HARPER,Harper,7,9,16
+KS2020513,"FREDONIA, CITY OF",Region 7,Kansas,Community water system,2264,FREDONIA,Wilson,10,81,19
+KS2003513,"WINFIELD, CITY OF",Region 7,Kansas,Community water system,12057,WINFIELD,Cowley,10,10,14
+KS2002110,"COLUMBUS, CITY OF",Region 7,Kansas,Community water system,3070,COLUMBUS,Cherokee,12,43,16
+KS2017303,"PARK CITY, CITY OF",Region 7,Kansas,Community water system,7730,PARK CITY,Sedgwick,28,5,17
+KS2002115,"WEST MINERAL, CITY OF",Region 7,Kansas,Community water system,172,WEST MINERAL,Cherokee,7,18,14
+KS2016306,ROOKS CO RWD 2,Region 7,Kansas,Community water system,40,CODELL,Rooks,8,30,9
+KS2011703,"WATERVILLE, CITY OF",Region 7,Kansas,Community water system,639,WATERVILLE,Marshall,9,8,15
+KS2010709,"MOUND CITY, CITY OF",Region 7,Kansas,Community water system,686,MOUND CITY,Linn,9,61,16
+KS2000111,"HUMBOLDT, CITY OF",Region 7,Kansas,Community water system,1789,HUMBOLDT,Allen,9,6,13
+KS2000301,"KINCAID, CITY OF",Region 7,Kansas,Community water system,117,KINCAID,Anderson,4,19,13
+KS2013316,"ST PAUL, CITY OF",Region 7,Kansas,Community water system,597,ST PAUL,Neosho,10,7,21
+KS2014706,"PHILLIPSBURG, CITY OF",Region 7,Kansas,Community water system,2486,PHILLIPSBURG,Phillips,60,11,12
+KS2017504,"LIBERAL, CITY OF",Region 7,Kansas,Community water system,39321,LIBERAL,Seward,51,17,16
+KS2117509,ARKALON PARK,Region 7,Kansas,Transient non-community system,25,LIBERAL,Seward,7,3,8
+KS2010702,LINN CO RWD 1,Region 7,Kansas,Community water system,1200,LACYGNE,Linn,14,23,14
+KS2005907,"POMONA, CITY OF",Region 7,Kansas,Community water system,821,POMONA,Franklin,17,2,12
+KS2005306,"ELLSWORTH, CITY OF",Region 7,Kansas,Community water system,2999,ELLSWORTH,Ellsworth,23,7,13
+KS2010301,"EASTON, CITY OF",Region 7,Kansas,Community water system,260,EASTON,Leavenworth,16,62,15
+KS2016713,"GORHAM, CITY OF",Region 7,Kansas,Community water system,340,GORHAM,Russell,9,15,15
+KS2006902,"INGALLS, CITY OF",Region 7,Kansas,Community water system,291,INGALLS,Gray,12,23,15
+KS2015517,RENO CO RWD 4,Region 7,Kansas,Community water system,635,HUTCHINSON,Reno,4,2,11
+KS2020106,"GREENLEAF, CITY OF",Region 7,Kansas,Community water system,307,GREENLEAF,Washington,9,30,15
+KS2001103,BOURBON CO RWD 2C,Region 7,Kansas,Community water system,7050,FORT SCOTT,Bourbon,43,6,14
+KS2008906,"BURR OAK, CITY OF",Region 7,Kansas,Community water system,159,BURR OAK,Jewell,8,61,11
+KS2010101,"DIGHTON, CITY OF",Region 7,Kansas,Community water system,925,DIGHTON,Lane,18,14,14
+KS2013315,NEOSHO CO RWD 3,Region 7,Kansas,Community water system,128,ERIE,Neosho,6,26,16
+KS2007101,"HORACE, CITY OF",Region 7,Kansas,Community water system,66,HORACE,Greeley,7,61,18
+KS2119302,JJ OIL CO,Region 7,Kansas,Transient non-community system,25,OAKLEY,Thomas,5,5,10
+KS2118101,NORTHERN SUN ADM,Region 7,Kansas,Non-Transient non-community system,45,GOODLAND,Sherman,9,11,10
+KS2001701,"STRONG CITY, CITY OF",Region 7,Kansas,Community water system,454,STRONG CITY,Chase,16,3,17
+KS2005911,FRANKLIN CO RWD 3,Region 7,Kansas,Community water system,85,PRINCETON,Franklin,7,14,10
+KS2007901,"HALSTEAD, CITY OF",Region 7,Kansas,Community water system,2025,HALSTEAD,Harvey,7,10,15
+KS2003705,"PITTSBURG, CITY OF",Region 7,Kansas,Community water system,20178,PITTSBURG,Crawford,13,3,15
+KS2018502,"ST JOHN, CITY OF",Region 7,Kansas,Community water system,2388,ST JOHN,Stafford,21,16,14
+KS2004306,"HIGHLAND, CITY OF",Region 7,Kansas,Community water system,1001,HIGHLAND,Doniphan,13,14,15
+KS2001903,"SEDAN, CITY OF",Region 7,Kansas,Community water system,1016,SEDAN,Chautauqua,7,41,16
+KS2011109,PARK PLACE COMMUNITIES MGT LLC,Region 7,Kansas,Community water system,200,EMPORIA,Lyon,10,9,12
+KS2006109,"MILFORD, CITY OF",Region 7,Kansas,Community water system,521,MILFORD,Geary,13,62,14
+KS2013907,"OSAGE CITY, CITY OF",Region 7,Kansas,Community water system,2821,OSAGE CITY,Osage,11,8,16
+KS2005915,FRANKLIN CO RWD 1,Region 7,Kansas,Community water system,665,OTTAWA,Franklin,12,17,10
+KS2018301,"GAYLORD, CITY OF",Region 7,Kansas,Community water system,105,GAYLORD,Smith,13,31,15
+KS2015102,"PRESTON, CITY OF",Region 7,Kansas,Community water system,148,PRESTON,Pratt,12,26,17
+KS2011111,"HARTFORD, CITY OF",Region 7,Kansas,Community water system,370,HARTFORD,Lyon,9,20,18
+KS2012516,MONTGOMERY CO RWD 2C B,Region 7,Kansas,Community water system,428,DEARING,Montgomery,8,13,13
+KS2012526,MONTGOMERY CO RWD 2C A,Region 7,Kansas,Community water system,1113,COFFEYVILLE,Montgomery,13,3,5
+KS2008301,"JETMORE, CITY OF",Region 7,Kansas,Community water system,822,JETMORE,Hodgeman,16,8,15
+KS2001907,"CHAUTAUQUA, CITY OF",Region 7,Kansas,Community water system,93,CHAUTAUQUA,Chautauqua,6,12,16
+KS2003302,"PROTECTION, CITY OF",Region 7,Kansas,Community water system,475,PROTECTION,Comanche,12,17,18
+KS2014910,TIMBER CREEK EAST WATER DISTRICT,Region 7,Kansas,Community water system,850,OLSBURG,Pottawatomie,10,4,13
+KS2005301,"WILSON, CITY OF",Region 7,Kansas,Community water system,736,WILSON,Ellsworth,8,6,11
+KS2000508,"MUSCOTAH, CITY OF",Region 7,Kansas,Community water system,169,MUSCOTAH,Atchison,9,40,18
+KS2012520,"ELK CITY, CITY OF",Region 7,Kansas,Community water system,294,ELK CITY,Montgomery,7,179,18
+KS2013915,"BURLINGAME, CITY OF",Region 7,Kansas,Community water system,890,BURLINGAME,Osage,8,16,14
+KS2009301,"LAKIN, CITY OF",Region 7,Kansas,Community water system,2195,LAKIN,Kearny,16,35,14
+KS2113701,PRAIRIE DOG STATE PARK,Region 7,Kansas,Transient non-community system,25,NORTON,Norton,7,0,9
+KS2013702,"NORTON, CITY OF",Region 7,Kansas,Community water system,2768,NORTON,Norton,23,76,13
+KS2015505,"NICKERSON, CITY OF",Region 7,Kansas,Community water system,1007,NICKERSON,Reno,14,12,17
+KS2010311,FORT LEAVENWORTH AMERICAN WATER ENT INC,Region 7,Kansas,Community water system,12934,FORT LEAVENWORTH,Leavenworth,20,12,14
+KS2013911,"SCRANTON, CITY OF",Region 7,Kansas,Community water system,688,SCRANTON,Osage,6,33,14
+KS2001313,PUBLIC WHOLESALE WSD 27,Region 7,Kansas,Community water system,1,POWHATTAN,Brown,7,1,2
+KS2004111,RED BUD LAKE IMPROVEMENT DISTRICT,Region 7,Kansas,Community water system,56,ABILENE,Dickinson,6,7,9
+KS2007904,"SEDGWICK, CITY OF",Region 7,Kansas,Community water system,10426,SEDGWICK,Harvey,9,5,19
+KS2019115,"BELLE PLAINE, CITY OF",Region 7,Kansas,Community water system,1568,BELLE PLAINE,Sumner,12,26,20
+KS2017315,SEDGWICK CO RWD 2,Region 7,Kansas,Community water system,1460,VALLEY CENTER,Sedgwick,8,10,20
+KS2014506,FORT LARNED NATIONAL HISTORIC SITE MAINT,Region 7,Kansas,Transient non-community system,25,LARNED,Pawnee,3,0,1

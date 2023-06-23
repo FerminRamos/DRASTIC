@@ -1,0 +1,608 @@
+PWS ID,PWS Name,EPA Region,Primacy Agency,PWS Type,Population<br> Served Count,Cities Served,Counties Served,# of Facilities,# of Violations,# of Site Visits
+NV0000866,AIR SAILING INC GLIDERPORT,Region 9,Nevada,Transient non-community system,25,,Washoe,3,5,4
+NV0002174,KOA OF ELY CAMPGROUND,Region 9,Nevada,Community water system,80,,White Pine,5,131,8
+NV0002075,ELKO RV PARK AT RYNDON,Region 9,Nevada,Community water system,357,,Elko,9,23,11
+NV0003072,TURN 3 RV PARK AND STORE,Region 9,Nevada,Transient non-community system,25,,Pershing,5,25,7
+NV0000819,PALM GARDENS WATER CO OP,Region 9,Nevada,Community water system,42,,Clark,10,86,4
+NV0002071,JIGGS BAR,Region 9,Nevada,Transient non-community system,25,,Elko,3,29,9
+NV0000341,CARMENS MEXICAN RESTAURANT,Region 9,Nevada,Transient non-community system,25,,Lyon,3,20,4
+NV0000226,IMLAY WATER SYSTEM,Region 9,Nevada,Community water system,200,IMLAY,Pershing,10,242,9
+NV0001125,HUMBOLDT RIVER RANCH ASSOCIATION,Region 9,Nevada,Transient non-community system,150,,Pershing,6,1,4
+NV0000761,SLIDE MOUNTAIN SKI AREA,Region 9,Nevada,Transient non-community system,200,,Washoe,7,10,5
+NV0000744,MT ROSE SKI AREA SKI RENO,Region 9,Nevada,Transient non-community system,800,,Washoe,5,9,5
+NV0005056,CANYON GID,Region 9,Nevada,Community water system,1310,,Storey,8,13,8
+NV0000757,MELS DINER,Region 9,Nevada,Transient non-community system,1000,,Washoe,6,12,9
+NV0000273,LAMOILLE WATER USERS ASSOC,Region 9,Nevada,Community water system,200,LAMOILLE,Elko,5,26,10
+NV0000255,YERINGTON CITY OF,Region 9,Nevada,Community water system,5050,,Lyon,24,145,10
+NV0001119,MANDALAY BAY RESORT AND CASINO,Region 9,Nevada,Non-Transient non-community system,10549,,Clark,34,0,2
+NV0005029,GOLCONDA GID,Region 9,Nevada,Community water system,300,GOLCONDA,Humboldt,10,112,6
+NV0004117,GREYSTONE MINE,Region 9,Nevada,Non-Transient non-community system,36,BATTLE MOUNTAIN,Lander,11,152,2
+NV0003075,EP MINERALS LLC CLARK,Region 9,Nevada,Non-Transient non-community system,50,,Storey,4,13,6
+NV0004120,EP MINERALS LLC FERNLEY,Region 9,Nevada,Non-Transient non-community system,41,,Churchill,5,9,1
+NV0005020,CHURCHILL BUTTE COMPLEX,Region 9,Nevada,Transient non-community system,25,,Lyon,4,20,6
+NV0000921,OASIS SPRINGS,Region 9,Nevada,Transient non-community system,25,,Churchill,4,4,5
+NV0002581,SKIPS MINI MARKET,Region 9,Nevada,Transient non-community system,25,,Churchill,6,6,7
+NV0003098,EAST 50 BAR,Region 9,Nevada,Transient non-community system,25,,Lyon,4,39,8
+NV0000167,VIRGIN VALLEY WATER DISTRICT,Region 9,Nevada,Community water system,18000,MESQUITE,Clark,51,617,10
+NV0004040,STAGECOACH MARKET,Region 9,Nevada,Transient non-community system,25,,Lyon,3,23,6
+NV0004112,RUBY 360 LODGE,Region 9,Nevada,Transient non-community system,25,,Elko,3,1,1
+NV0000045,FALLON CITY OF,Region 9,Nevada,Community water system,8500,FALLON,Churchill,15,69,11
+NV0002024,KENNAMETAL INC,Region 9,Nevada,Non-Transient non-community system,75,,Churchill,9,14,6
+NV0000248,WINNEMUCCA CITY OF,Region 9,Nevada,Community water system,8066,WINNEMUCCA,Humboldt,31,57,14
+NV0005033,ANCHOR IN MHP,Region 9,Nevada,Community water system,36,,Nye,3,5,5
+NV0000732,MOUNT ROSE BOWL PROPERTY OWNERS WATER CO,Region 9,Nevada,Community water system,40,,Washoe,5,48,5
+NV0005034,PAHRUMP RV PARK,Region 9,Nevada,Transient non-community system,120,,Nye,8,9,4
+NV0000218,CARVERS SMOKEY VALLEY RV AND MHP,Region 9,Nevada,Community water system,250,,Nye,6,62,9
+NV0000754,RIVER BEND MHP,Region 9,Nevada,Community water system,45,,Washoe,10,14,7
+NV0000196,VERDI MEADOWS UTILITY COMPANY INC,Region 9,Nevada,Community water system,510,,Washoe,8,31,9
+NV0000030,SIERRA ESTATES GID,Region 9,Nevada,Community water system,160,,Douglas,5,12,9
+NV0003001,RIVERBELLE PROPERTIES LLC  SASQUATCH INN,Region 9,Nevada,Transient non-community system,1000,,Washoe,9,8,8
+NV0003074,SHORT BRANCH,Region 9,Nevada,Transient non-community system,25,,Nye,3,18,6
+NV0005059,BORDER INN,Region 9,Nevada,Transient non-community system,25,,White Pine,6,14,5
+NV0003076,COEUR ROCHESTER INC,Region 9,Nevada,Non-Transient non-community system,32,,Pershing,15,7,9
+NV0000193,CRYSTAL TP,Region 9,Nevada,Community water system,80,,Washoe,47,87,9
+NV0000004,KINGSBURY GID,Region 9,Nevada,Community water system,3839,KINGSBURY,Douglas,21,19,18
+NV0002192,LITTLE A LE INN,Region 9,Nevada,Transient non-community system,60,,Lincoln,4,8,8
+NV0000070,TOPAZ LAKE WATER CO INC,Region 9,Nevada,Community water system,40,TOPAZ,Douglas,8,18,10
+NV0000717,CROSBYS LODGE,Region 9,Nevada,Transient non-community system,25,,Washoe,3,8,6
+NV0000765,SUTCLIFFE MOBILE PARK,Region 9,Nevada,Community water system,60,,Washoe,7,57,6
+NV0004048,WALKER RIVER RESORT,Region 9,Nevada,Transient non-community system,25,,Lyon,12,23,5
+NV0000942,LAKER PLAZA INC,Region 9,Nevada,Transient non-community system,27,,Clark,15,3,3
+NV0001010,MT CHARLESTON PUB LLC,Region 9,Nevada,Transient non-community system,450,,Clark,6,19,6
+NV0001015,MT CHARLESTON WATER COMPANY,Region 9,Nevada,Community water system,335,MT CHARLESTON,Clark,7,10,8
+NV0005028,SHOSHONE ESTATES WATER CO INC,Region 9,Nevada,Community water system,240,,Nye,89,118,6
+NV0002558,AMARGOSA WATER COMPANY,Region 9,Nevada,Community water system,54,,Nye,8,123,5
+NV0000370,RAINBOW GARDENS WATER USERS,Region 9,Nevada,Community water system,45,,Clark,8,34,6
+NV0000145,HILLCREST MANOR WATER USERS ASSOCIATION,Region 9,Nevada,Community water system,450,,Clark,14,9,6
+NV0000092,BLUE DIAMOND WATER CO OP INC,Region 9,Nevada,Community water system,85,,Clark,3,169,8
+NV0002142,MOOSE LODGE 808,Region 9,Nevada,Transient non-community system,25,,Nye,3,17,12
+NV0000129,RANCHO COOPERATIVE WATER COMPANY,Region 9,Nevada,Community water system,112,,Clark,10,6,7
+NV0002587,GAS STORE WEST,Region 9,Nevada,Transient non-community system,25,,Churchill,4,9,8
+NV0004055,LANES TRAVEL CENTER,Region 9,Nevada,Transient non-community system,50,,White Pine,6,16,5
+NV0000055,TOLAS WATERWORKS CO OP,Region 9,Nevada,Community water system,250,,Churchill,12,179,10
+NV0001082,MOUNTAIN SPRINGS BAR INC,Region 9,Nevada,Transient non-community system,75,,Clark,3,29,8
+NV0000961,HIDDEN CANYON RANCH,Region 9,Nevada,Transient non-community system,140,,White Pine,6,8,5
+NV0000938,LATTIN FARMS,Region 9,Nevada,Transient non-community system,25,,Churchill,5,6,5
+NV0000149,DESERT PARADISE MHP,Region 9,Nevada,Community water system,70,,Clark,5,150,13
+NV0002047,S AND J VENTURES DBA JUNCTION BAR,Region 9,Nevada,Transient non-community system,35,,Douglas,3,8,9
+NV0000950,MEMORIAL POINT STATE PARK,Region 9,Nevada,Transient non-community system,25,,Washoe,6,0,5
+NV0000352,SCOTT SHADY COURT,Region 9,Nevada,Transient non-community system,90,,Humboldt,9,2,9
+NV0000221,SPIRIT MOUNTAIN UTILITY,Region 9,Nevada,Community water system,375,,Clark,14,15,6
+NV0003079,GOLD COUNTRY ESTATES,Region 9,Nevada,Community water system,1695,,Humboldt,14,5,9
+NV0000731,JOHNNY CASSINARIS RESTAURANT,Region 9,Nevada,Transient non-community system,150,,Washoe,3,27,8
+NV0000158,INCLINE VILLAGE GID,Region 9,Nevada,Community water system,9313,INCLINE VILLAGE,Washoe,54,6,13
+NV0000881,DAYTON TAP HOUSE LLC,Region 9,Nevada,Transient non-community system,25,,Lyon,4,43,7
+NV0002571,RANCHO VISTA 4,Region 9,Nevada,Community water system,50,,Nye,5,193,7
+NV0001126,JOYGLOBAL SURFACE MINING INC,Region 9,Nevada,Non-Transient non-community system,25,,Elko,3,11,4
+NV0002034,NDOT TRINITY ROADSIDE PARK RP806CH,Region 9,Nevada,Transient non-community system,100,,Churchill,4,8,6
+NV0004022,NDOT WADSWORTH REST STOP,Region 9,Nevada,Transient non-community system,25,,Washoe,4,24,6
+NV0002602,LOVES TRAVEL STOP AND COUNTRY STORE,Region 9,Nevada,Non-Transient non-community system,3025,,Clark,12,5,3
+NV0004027,ASH MEADOWS NATIONAL WILDLIFE REFUGE FWS,Region 9,Nevada,Transient non-community system,25,,Nye,4,3,2
+NV0002044,DOUGLAS COUNTY TOPAZ PARK,Region 9,Nevada,Transient non-community system,100,,Douglas,3,6,8
+NV0002608,STAGECOACH COUNTRY MARKET,Region 9,Nevada,Transient non-community system,25,,Lyon,3,15,4
+NV0002542,ROYAL PEACOCK RV PARK,Region 9,Nevada,Transient non-community system,53,,Humboldt,3,13,5
+NV0000246,WEST WENDOVER WATER SYSTEM,Region 9,Nevada,Community water system,4200,,Elko,15,13,10
+NV0000380,SANDY VALLEY CENTER,Region 9,Nevada,Transient non-community system,25,,Clark,4,15,3
+NV0000265,KINGSTON TOWN WATER UTILITIES,Region 9,Nevada,Community water system,350,,Lander,7,15,8
+NV0000356,GLENBROOK HOMEOWNERS ASSOCIATION,Region 9,Nevada,Community water system,1000,GLENBROOK,Douglas,6,59,19
+NV0000074,MINA LUNING WATER SYSTEM,Region 9,Nevada,Community water system,300,"LUNING, MINA",Mineral,18,8,11
+NV0000073,HAWTHORNE UTILITIES,Region 9,Nevada,Community water system,2900,HAWTHORNE,Mineral,21,8,11
+NV0000268,WALKER LAKE GID,Region 9,Nevada,Community water system,300,,Mineral,11,20,12
+NV0000890,ESMERALDA MARKET,Region 9,Nevada,Transient non-community system,25,,Esmeralda,8,7,6
+NV0002189,SMITH VALLEY SCHOOLS,Region 9,Nevada,Non-Transient non-community system,500,,Lyon,7,38,10
+NV0000282,STEAMBOAT SPRINGS WATERWORKS INC,Region 9,Nevada,Community water system,998,,Washoe,6,63,9
+NV0000321,BRANDOS SPORTS BAR,Region 9,Nevada,Transient non-community system,105,,Clark,4,10,5
+NV0000809,DUTCHMAN ACRES,Region 9,Nevada,Community water system,260,,Pershing,5,82,6
+NV0002027,MIDDLEGATE STATION,Region 9,Nevada,Transient non-community system,25,MIDDLEGATE,Churchill,3,15,11
+NV0002165,CHERRY CREEK WATER DISTRICT,Region 9,Nevada,Transient non-community system,25,CHERRY CREEK,White Pine,10,7,5
+NV0000287,KINGS ROW TP,Region 9,Nevada,Community water system,860,,Clark,6,6,9
+NV0002043,DOUGLAS COUNTY LAMPE PARK,Region 9,Nevada,Transient non-community system,200,,Douglas,7,10,11
+NV0000068,RIVERVIEW MOBILE HOME PARK,Region 9,Nevada,Community water system,59,,Douglas,4,26,8
+NV0002140,CARVERS CAFE,Region 9,Nevada,Transient non-community system,50,,Nye,5,31,8
+NV0002006,MILL HOUSE INN MOTEL,Region 9,Nevada,Transient non-community system,50,,,6,3,9
+NV0000072,GOLDFIELD TOWN WATER,Region 9,Nevada,Community water system,350,GOLDFIELD,Esmeralda,15,43,9
+NV0000363,SILVER PEAK WATER SYSTEM,Region 9,Nevada,Community water system,138,,Esmeralda,6,17,9
+NV0002515,SNYDER LIVESTOCK COMPANY INC,Region 9,Nevada,Non-Transient non-community system,40,,Lyon,6,2,4
+NV0000735,4TH STREET BISTRO,Region 9,Nevada,Transient non-community system,30,,Washoe,4,24,6
+NV0002069,JACK CREEK LODGE,Region 9,Nevada,Transient non-community system,25,,Elko,3,2,9
+NV0000017,COTTONWOOD MHP,Region 9,Nevada,Community water system,250,,,10,29,9
+NV0001069,RANCH HOUSE,Region 9,Nevada,Transient non-community system,25,,Clark,7,32,6
+NV0002050,LOGAN CREEK ESTATES GID,Region 9,Nevada,Community water system,60,,Douglas,8,48,9
+NV0003068,CARSON RIVER ESTATES,Region 9,Nevada,Community water system,90,,Churchill,41,259,8
+NV0000043,CRESCENT VALLEY WATER SYSTEM,Region 9,Nevada,Community water system,340,,Eureka,13,21,11
+NV0002159,TRAVEL CENTERS OF AMERICA NO 181,Region 9,Nevada,Non-Transient non-community system,1051,,Pershing,9,11,8
+NV0001120,MIRAGE RESORT AND CASINO,Region 9,Nevada,Non-Transient non-community system,4400,,Clark,11,2,3
+NV0001121,MGM GRAND HOTEL AND CASINO,Region 9,Nevada,Non-Transient non-community system,15500,,Clark,22,0,3
+NV0001116,SIGNATURE TOWERS,Region 9,Nevada,Community water system,516,,Clark,8,0,2
+NV0004084,STEWART COMPLEX,Region 9,Nevada,Non-Transient non-community system,300,,,6,2,6
+NV0000160,MOAPA VALLEY WATER DISTRICT,Region 9,Nevada,Community water system,8500,MOAPA,Clark,28,56,11
+NV0003060,CHERRY PATCH LOVE RANCH,Region 9,Nevada,Transient non-community system,25,,Nye,9,12,6
+NV0005019,MABELS BAR,Region 9,Nevada,Transient non-community system,25,,Nye,5,12,4
+NV0000014,CARLIN UTILITIES,Region 9,Nevada,Community water system,2500,CARLIN,Elko,11,4,9
+NV0000313,JERRITT CANYON GOLD SSX MINE,Region 9,Nevada,Non-Transient non-community system,125,,Elko,11,20,5
+NV0003013,JERRITT CANYON GOLD JERRITT CANYON MINE,Region 9,Nevada,Non-Transient non-community system,125,,Elko,10,56,9
+NV0000351,SOUTH CRESTVIEW HOMEOWNERS,Region 9,Nevada,Community water system,60,,Elko,6,35,8
+NV0000928,LAMOILLE VALLEY PLAZA,Region 9,Nevada,Non-Transient non-community system,351,,Elko,15,64,6
+NV0004017,OASIS MHP,Region 9,Nevada,Community water system,46,,Elko,4,27,8
+NV0000858,ROGELIO M GARCIA,Region 9,Nevada,Transient non-community system,25,,Lyon,4,6,5
+NV0002017,COLD SPRINGS STATION RESORT,Region 9,Nevada,Transient non-community system,25,,Churchill,6,30,9
+NV0002184,DYER ELEMENTARY SCHOOL,Region 9,Nevada,Non-Transient non-community system,70,,Esmeralda,8,6,9
+NV0000386,TOWER PIZZA,Region 9,Nevada,Transient non-community system,25,,Nye,4,11,3
+NV0004103,COLD SPRINGS MEETINGHOUSE LDS,Region 9,Nevada,Transient non-community system,25,,Washoe,5,0,2
+NV0004111,EL DORADO CANYON MINE TOURS,Region 9,Nevada,Transient non-community system,25,,Clark,3,0,2
+NV0000042,EMPIRE MINING COMPANY,Region 9,Nevada,Community water system,350,EMPIRE,Washoe,10,81,7
+NV0000789,MSJK PROPERTIES LLC,Region 9,Nevada,Transient non-community system,50,,Washoe,3,15,8
+NV0001142,FIORE GOLD PAN MINE,Region 9,Nevada,Non-Transient non-community system,100,,White Pine,6,51,5
+NV0002084,RUBY VALLEY SCHOOL,Region 9,Nevada,Non-Transient non-community system,30,,Elko,4,5,10
+NV0002555,CHAMPIONS,Region 9,Nevada,Transient non-community system,25,,Nye,4,30,5
+NV0004033,CAMP GALILEE,Region 9,Nevada,Transient non-community system,30,,Douglas,9,15,5
+NV0000076,HENDERSON CITY OF,Region 9,Nevada,Community water system,275000,HENDERSON,Clark,105,2,17
+NV0003081,MOUNTAIN VIEW MHP,Region 9,Nevada,Community water system,45,,Douglas,6,11,6
+NV0004031,SKY RANCH ESTATES,Region 9,Nevada,Community water system,110,,Clark,8,84,5
+NV0001128,WILDKAT RANCH,Region 9,Nevada,Transient non-community system,25,,Mineral,4,2,3
+NV0001093,SPRING MOUNTAIN MOTOR SPORTS RANCH,Region 9,Nevada,Community water system,200,,Nye,21,3,4
+NV0003032,OROVADA WATER DISTRICT,Region 9,Nevada,Community water system,200,OROVADA,Humboldt,6,21,10
+NV0004001,SANDY VALLEY ELEMENTARY SCHOOL CCSD,Region 9,Nevada,Non-Transient non-community system,230,,Clark,8,14,5
+NV0001045,GOODSPRINGS SCHOOL CCSD,Region 9,Nevada,Non-Transient non-community system,25,,Clark,4,8,6
+NV0000052,OK MOBILE HOME PARK,Region 9,Nevada,Community water system,90,,Churchill,42,7,9
+NV0002554,CHIPMUNK RETREAT,Region 9,Nevada,Community water system,44,,Nye,3,4,5
+NV0000062,FERNLEY PUBLIC WORKS,Region 9,Nevada,Community water system,18000,FERNLEY,Lyon,25,163,13
+NV0000235,EDGEWOOD WATER COMPANY,Region 9,Nevada,Non-Transient non-community system,3800,EDGEWOOD,Douglas,9,3,18
+NV0002120,BEAVER DAM STATE PARK,Region 9,Nevada,Transient non-community system,25,,Lincoln,5,12,9
+NV0000066,GARDNERVILLE RANCHOS GID,Region 9,Nevada,Community water system,9500,GARDNERVILLE RANCHOS,Douglas,24,62,12
+NV0000369,BIG VALLEY MHP,Region 9,Nevada,Community water system,50,,Nye,7,18,9
+NV0002552,ESCAPEE CO OP OF NEVADA,Region 9,Nevada,Community water system,200,,Nye,8,24,4
+NV0001012,PIONEER SALOON,Region 9,Nevada,Transient non-community system,25,,Clark,6,39,11
+NV0000005,ALAMO SEWER AND WATER GID,Region 9,Nevada,Community water system,900,ALAMO,Lincoln,10,61,9
+NV0000816,WILLIAMS RIDGE TECH PARK,Region 9,Nevada,Non-Transient non-community system,60,,Douglas,6,3,7
+NV0000355,INDIAN HILLS GID,Region 9,Nevada,Community water system,5700,,Douglas,34,24,11
+NV0004029,RITCHIE BROTHERS,Region 9,Nevada,Transient non-community system,1013,,Clark,7,7,2
+NV0004005,LDS LEE RECREATION CAMP,Region 9,Nevada,Transient non-community system,100,,Elko,11,4,2
+NV0004101,LUND MEETINGHOUSE LDS,Region 9,Nevada,Transient non-community system,25,,White Pine,7,1,2
+NV0004105,ANTELOPE VALLEY MEETINGHOUSE LDS,Region 9,Nevada,Transient non-community system,25,,Lander,3,1,2
+NV0004104,EUREKA MEETINGHOUSE LDS,Region 9,Nevada,Transient non-community system,25,,Eureka,3,1,4
+NV0003070,RUBY VALLEY LDS CHAPEL,Region 9,Nevada,Transient non-community system,90,,Elko,3,9,4
+NV0004113,WASHOE VALLEY CHRISTIAN CHURCH,Region 9,Nevada,Transient non-community system,840,,Washoe,4,6,2
+NV0001167,RIO RESORT AND CASINO,Region 9,Nevada,Non-Transient non-community system,7132,,Clark,22,0,2
+NV0000929,SONIC BURGER,Region 9,Nevada,Transient non-community system,265,,Churchill,4,25,7
+NV0004088,ANIMAL ARK,Region 9,Nevada,Transient non-community system,100,,Washoe,6,4,3
+NV0000191,RIO VISTA MHC LLC,Region 9,Nevada,Community water system,65,,Washoe,7,72,10
+NV0004021,SILVER KNOLLS MUTUAL WATER COMPANY,Region 9,Nevada,Community water system,120,,Washoe,9,194,4
+NV0000701,RENO SAHARA TRAILER PARK,Region 9,Nevada,Community water system,60,,Washoe,13,14,9
+NV0000876,NARCONON NEVADA RAINBOW CANYON,Region 9,Nevada,Transient non-community system,44,,Lincoln,5,8,5
+NV0001053,FLOYD LAMB PARK,Region 9,Nevada,Transient non-community system,100,,Clark,7,21,4
+NV0001059,TROPICANA RESORT AND CASINO,Region 9,Nevada,Non-Transient non-community system,3689,,Clark,8,98,9
+NV0000224,STAGECOACH GID,Region 9,Nevada,Community water system,1411,,Lyon,19,10,9
+NV0000187,PIOCHE PUBLIC UTILITIES   CASTLETON,Region 9,Nevada,Community water system,60,CASELTON,Lincoln,3,13,10
+NV0000186,PIOCHE PUBLIC UTILITIES,Region 9,Nevada,Community water system,700,PIOCHE,Lincoln,8,16,12
+NV0000385,COYOTE CORNER III,Region 9,Nevada,Transient non-community system,25,,Nye,7,32,7
+NV0002565,COYOTE CORNER MARKET,Region 9,Nevada,Transient non-community system,25,,Nye,5,24,7
+NV0000252,STAR CITY PROPERTIES,Region 9,Nevada,Community water system,285,,Humboldt,9,42,11
+NV0000237,TONOPAH PUBLIC UTILITIES,Region 9,Nevada,Community water system,2853,,Nye,40,5,10
+NV0000949,DOVETAIL RANCH,Region 9,Nevada,Transient non-community system,25,,Elko,6,20,5
+NV0001094,PATCH OF HEAVEN,Region 9,Nevada,Transient non-community system,50,,Nye,9,0,3
+NV0001139,TIMET CORPORATION,Region 9,Nevada,Non-Transient non-community system,574,,Clark,3,9,2
+NV0002078,WELCOME STATION RV PARK LLC,Region 9,Nevada,Transient non-community system,35,,Elko,3,4,8
+NV0000063,GABBS WATER SYSTEM,Region 9,Nevada,Community water system,411,GABBS,Nye,7,83,8
+NV0003014,TONOPAH TEST RANGE SITE 6,Region 9,Nevada,Non-Transient non-community system,150,,Nye,12,1,6
+NV0000319,ROARK ESTATES WATER ASSOC,Region 9,Nevada,Community water system,62,,Clark,39,40,3
+NV0000281,WADSWORTH MOBILE HOME PARK,Region 9,Nevada,Community water system,90,,Washoe,6,137,6
+NV0001127,POLO TOWERS,Region 9,Nevada,Non-Transient non-community system,1512,,Clark,12,4,3
+NV0002220,LYE CREEK CAMPGROUND USFS,Region 9,Nevada,Transient non-community system,25,,Humboldt,4,9,5
+NV0002209,SOUTH RUBY CAMPGROUND  USFS,Region 9,Nevada,Transient non-community system,30,,Elko,3,8,10
+NV0003046,WARD MOUNTAIN CAMPGROUND USFS,Region 9,Nevada,Transient non-community system,600,,White Pine,12,1,4
+NV0003043,THOMAS CANYON CAMPGROUND USFS,Region 9,Nevada,Transient non-community system,25,,Elko,3,7,9
+NV0003053,BIRD CREEK CAMPGROUND  USFS,Region 9,Nevada,Transient non-community system,30,,White Pine,5,2,5
+NV0002088,ANGEL CREEK CAMPGROUND USFS,Region 9,Nevada,Transient non-community system,75,,Elko,3,13,11
+NV0003037,ANGEL LAKE CAMPGROUND USFS,Region 9,Nevada,Transient non-community system,100,,Elko,3,10,7
+NV0003044,TERRACES PICNIC GROUNDS USFS,Region 9,Nevada,Transient non-community system,25,,Elko,3,0,6
+NV0003049,TIMBER CREEK CAMPGROUND  USFS,Region 9,Nevada,Transient non-community system,47,,White Pine,3,11,5
+NV0000044,EUREKA WATER ASSOCIATION,Region 9,Nevada,Community water system,450,EUREKA,Eureka,24,12,8
+NV0002573,DEVILS GATE WATER SYSTEM GID 2,Region 9,Nevada,Community water system,70,,Eureka,12,13,4
+NV0002574,DEVILS GATE GID DISTRICT 1,Region 9,Nevada,Community water system,65,,Eureka,8,4,5
+NV0002517,STAR POINT MHP RV PARK,Region 9,Nevada,Transient non-community system,25,,Pershing,7,3,5
+NV0002041,BEST WESTERN TOPAZ LAKE INN,Region 9,Nevada,Transient non-community system,300,,Douglas,4,17,5
+NV0000188,EAGLE VALLEY RESORT,Region 9,Nevada,Transient non-community system,25,,Lincoln,6,26,9
+NV0000170,MOUNTAIN CITY WATER AND SEWER,Region 9,Nevada,Community water system,30,MOUNTAIN CITY,Elko,4,8,9
+NV0000277,CONESTOGA MHP,Region 9,Nevada,Community water system,120,,Washoe,4,13,8
+NV0000751,GOLD RANCH CASINO,Region 9,Nevada,Non-Transient non-community system,1000,,Washoe,6,9,6
+NV0002064,PETES TRAILER COURT,Region 9,Nevada,Transient non-community system,24,,Elko,4,3,7
+NV0000703,AIR BASE INN,Region 9,Nevada,Transient non-community system,25,,Washoe,3,13,6
+NV0000750,PLEASANT VALLEY SCHOOL,Region 9,Nevada,Non-Transient non-community system,300,,Washoe,3,7,7
+NV0000869,NATCHEZ GYM,Region 9,Nevada,Non-Transient non-community system,175,,Washoe,5,5,4
+NV0000774,NATCHEZ SCHOOL,Region 9,Nevada,Non-Transient non-community system,200,,Washoe,3,6,6
+NV0003000,VERDI SCHOOL,Region 9,Nevada,Non-Transient non-community system,250,,Washoe,10,9,6
+NV0000870,NORTH VALLEY BUS FACILITY,Region 9,Nevada,Non-Transient non-community system,60,,Washoe,3,7,4
+NV0000289,SOUTHERN NEVADA WATER SYSTEM,Region 9,Nevada,Non-Transient non-community system,200,,Clark,149,3,17
+NV0004092,BIG BEND WATER DISTRICT,Region 9,Nevada,Community water system,8800,LAUGHLIN,Clark,20,6,17
+NV0000054,R AND M MOBILE HOME PARK,Region 9,Nevada,Community water system,130,,Churchill,12,5,11
+NV0002594,FALLON LIVESTOCK LLC,Region 9,Nevada,Transient non-community system,25,,Churchill,6,26,6
+NV0000403,TS POWER PLANT,Region 9,Nevada,Non-Transient non-community system,62,,Eureka,7,2,5
+NV0002603,NEWMONT GOLD NORTH AREA LEACH,Region 9,Nevada,Non-Transient non-community system,300,,Eureka,10,8,4
+NV0001138,NEWMONT LONG CANYON MINE,Region 9,Nevada,Non-Transient non-community system,110,,Elko,5,0,2
+NV0002046,HOLBROOK STATION RV AND MHP,Region 9,Nevada,Community water system,180,HOLBROOK JUNCTION,Douglas,8,95,8
+NV0002014,NEVADA LIVESTOCK MARKETING,Region 9,Nevada,Transient non-community system,25,,Churchill,6,29,8
+NV0001159,GOLD BAR MINE,Region 9,Nevada,Non-Transient non-community system,70,,Eureka,7,0,1
+NV0001171,HARRAHS LAS VEGAS,Region 9,Nevada,Non-Transient non-community system,8031,,Clark,13,0,0
+NV0002538,C VALLEY MHP,Region 9,Nevada,Community water system,54,,Nye,15,81,7
+NV0000916,FISH LAKE VALLEY SALOON,Region 9,Nevada,Transient non-community system,25,,Esmeralda,6,20,5
+NV0005036,SHERIS RANCH,Region 9,Nevada,Non-Transient non-community system,33,,Nye,13,15,6
+NV0000406,SAND CREEK,Region 9,Nevada,Community water system,953,PINE GROVE,Churchill,5,0,3
+NV0004062,HUMBOLDT COUNTY LIBRARY DENIO BRANCH,Region 9,Nevada,Transient non-community system,25,,Humboldt,4,0,4
+NV0002023,SAGE VALLEY PARK LLC,Region 9,Nevada,Community water system,188,,Churchill,5,77,11
+NV0000872,SAGE VALLEY RV PARK LLC,Region 9,Nevada,Transient non-community system,25,,Churchill,9,27,8
+NV0004125,SIERRA SAFARI ZOO,Region 9,Nevada,Transient non-community system,35,,Washoe,3,2,2
+NV0000878,MARS PETCARE US INC,Region 9,Nevada,Non-Transient non-community system,140,,Storey,16,3,6
+NV0004085,CHICKEN RANCH,Region 9,Nevada,Transient non-community system,25,,Nye,8,7,6
+NV0000211,SUN VALLEY GID,Region 9,Nevada,Community water system,17000,,Washoe,16,5,7
+NV0004061,SPRINGWOOD EQUESTRIAN CENTER,Region 9,Nevada,Non-Transient non-community system,175,,Washoe,9,5,1
+NV0003054,WHEELER PEAK CAMPGROUND  NPS,Region 9,Nevada,Transient non-community system,60,,White Pine,5,4,8
+NV0003051,LEHMAN CREEK CAMPGROUND NPS,Region 9,Nevada,Transient non-community system,60,,White Pine,5,0,8
+NV0001112,NEW YORK NEW YORK HOTEL AND CASINO,Region 9,Nevada,Non-Transient non-community system,7000,,Clark,11,0,3
+NV0001111,LUXOR RESORT AND CASINO,Region 9,Nevada,Non-Transient non-community system,3196,,Clark,17,0,3
+NV0000300,DESERT UTILITIES,Region 9,Nevada,Community water system,1086,,Nye,13,86,8
+NV0001024,CORN CREEK FIELD STATION FWS,Region 9,Nevada,Transient non-community system,25,,Clark,7,13,7
+NV0000303,OLD RIVER WATER COMPANY,Region 9,Nevada,Community water system,300,,Churchill,116,45,10
+NV0001096,SANDERS WINERY,Region 9,Nevada,Transient non-community system,25,,Nye,5,4,3
+NV0000767,ROSEMOUNT WATER CO,Region 9,Nevada,Community water system,54,,Washoe,34,97,6
+NV0005068,LDS CHURCH PAHRUMP WARD,Region 9,Nevada,Transient non-community system,175,,Nye,4,43,6
+NV0004102,SANDY VALLEY MEETINGHOUSE LDS,Region 9,Nevada,Transient non-community system,25,,Clark,4,0,2
+NV0001105,EL VALLE RESTAURANT,Region 9,Nevada,Transient non-community system,25,,Nye,3,10,3
+NV0003010,BAILEYS HOT SPRINGS,Region 9,Nevada,Transient non-community system,25,,Nye,4,11,8
+NV0003052,BAKER CREEK CAMPGROUND  NPS,Region 9,Nevada,Transient non-community system,45,,White Pine,5,3,7
+NV0000223,SILVER SPRINGS MUTUAL WATER COMPANY,Region 9,Nevada,Community water system,3070,,Lyon,15,221,9
+NV0002577,SCPPA APEX GENERATING STATION,Region 9,Nevada,Non-Transient non-community system,25,,Clark,7,3,3
+NV0000317,SANDY VALLEY LIBRARY COMM CTR,Region 9,Nevada,Transient non-community system,50,,Clark,10,21,4
+NV0000292,SPRING MOUNTAIN YOUTH CAMP,Region 9,Nevada,Community water system,120,,Clark,10,38,7
+NV0002502,CAMP POTOSI CCPR,Region 9,Nevada,Transient non-community system,26,,Clark,4,28,7
+NV0000804,TOLICHA PEAK ELECTRONIC COMBAT RANGE,Region 9,Nevada,Non-Transient non-community system,80,,Nye,12,45,4
+NV0004026,BASE CAMP US AIR FORCE,Region 9,Nevada,Transient non-community system,25,,Nye,9,0,1
+NV0001095,CEDAR PASS WATER SYSTEM,Region 9,Nevada,Non-Transient non-community system,250,,Nye,6,0,3
+NV0005001,TONOPAH TEST RANGE AREA 10 INDUSTRIAL,Region 9,Nevada,Non-Transient non-community system,130,,Nye,11,1,4
+NV0004068,TONOPAH TEST RANGE MANCAMP,Region 9,Nevada,Non-Transient non-community system,30,,Nye,14,7,6
+NV0005002,TONOPAH ELECTRONIC COMBAT RANGE O AND M,Region 9,Nevada,Non-Transient non-community system,127,,Nye,8,2,4
+NV0002196,DESERT CENTER PLAZA,Region 9,Nevada,Transient non-community system,300,,Nye,3,4,4
+NV0000833,HORIZON C STORES  1 PAHRUMP VALLEY BLVD,Region 9,Nevada,Transient non-community system,25,,Nye,4,6,7
+NV0000918,HORIZON C STORES  3 LINDA STREET,Region 9,Nevada,Transient non-community system,25,,Nye,4,14,8
+NV0000827,HORIZON C STORES  2 TUMBLEWEED TAVERN,Region 9,Nevada,Transient non-community system,357,,Nye,3,7,6
+NV0003036,PAHRUMP SENIOR CENTER INC,Region 9,Nevada,Non-Transient non-community system,70,,Nye,4,14,5
+NV0000280,WEBB MOBILE HOME PARK,Region 9,Nevada,Community water system,30,,Washoe,5,8,7
+NV0001191,CSS FARMS LLC,Region 9,Nevada,Non-Transient non-community system,30,,Humboldt,3,0,0
+NV0001178,ISABELLA PEARL MINE,Region 9,Nevada,Non-Transient non-community system,25,,Mineral,5,0,0
+NV0000172,PINEVIEW ESTATES,Region 9,Nevada,Community water system,450,,Douglas,4,0,0
+NV0002534,FALLON RV PARK,Region 9,Nevada,Transient non-community system,25,,Churchill,6,27,8
+NV0000913,TAHOE RENO INDUSTRIAL CENTER,Region 9,Nevada,Non-Transient non-community system,10001,,Storey,31,173,7
+NV0000699,NEVADA STATE VETERANS HOME BOULDER CITY,Region 9,Nevada,Community water system,708,,Clark,5,5,3
+NV0000109,EQUESTRIAN ESTATES CO OP WATER ASSOC,Region 9,Nevada,Community water system,108,,Clark,43,42,6
+NV0002170,FIRESIDE INN,Region 9,Nevada,Transient non-community system,50,,White Pine,4,4,9
+NV0002533,CHUCK LENZIE GENERATING STATION,Region 9,Nevada,Non-Transient non-community system,54,,Clark,25,4,3
+NV0000342,SILVERHAWK POWER PLANT,Region 9,Nevada,Non-Transient non-community system,25,,Clark,8,1,3
+NV0000738,MAGIC CARPET GOLF,Region 9,Nevada,Transient non-community system,25,,Washoe,4,7,5
+NV0001103,MARIGOLD MINE POTABLE WATER SYSTEM,Region 9,Nevada,Non-Transient non-community system,300,,Humboldt,5,2,3
+NV0002090,BOONIES,Region 9,Nevada,Transient non-community system,50,,Esmeralda,3,26,9
+NV0000147,BERMUDA PALMS MANAGEMENT LLC,Region 9,Nevada,Community water system,60,,Clark,14,70,8
+NV0000185,PANACA FARMSTEAD WATER ASSOCIATION,Region 9,Nevada,Community water system,900,PANACA,Lincoln,8,19,13
+NV0000338,LEEVILLE POTABLE WATER SYSTEM,Region 9,Nevada,Non-Transient non-community system,147,,Eureka,10,1,4
+NV0002600,NEWMONT GOLD GOLD QUARRY,Region 9,Nevada,Non-Transient non-community system,700,,Eureka,15,6,5
+NV0000306,THE GRID,Region 9,Nevada,Transient non-community system,70,,Churchill,4,10,5
+NV0000372,GEORGIA PACIFIC GYPSUM LLC,Region 9,Nevada,Non-Transient non-community system,100,,Clark,28,70,4
+NV0000011,BOULDER CITY,Region 9,Nevada,Community water system,15000,BOULDER CITY,Clark,11,5,8
+NV0002543,VIRGIN VALLEY CAMPGROUND FWS,Region 9,Nevada,Transient non-community system,25,,Humboldt,2,6,5
+NV0001156,DENTON RAWHIDE MINE,Region 9,Nevada,Non-Transient non-community system,75,,Mineral,5,216,1
+NV0001133,PUMPKIN HOLLOW SHAFT SITE,Region 9,Nevada,Non-Transient non-community system,200,,Lyon,7,54,2
+NV0001172,WALDORF ASTORIA HOTEL LAS VEGAS,Region 9,Nevada,Non-Transient non-community system,25,,Clark,5,2,0
+NV0001205,RELIEF CANYON MINE,Region 9,Nevada,Non-Transient non-community system,36,,Pershing,4,0,0
+NV0005066,SUNSET MHP,Region 9,Nevada,Community water system,90,,Nye,5,12,4
+NV0000844,SEVEN ELEVEN NO 23074,Region 9,Nevada,Transient non-community system,734,,Douglas,3,3,7
+NV0003006,HOOVER DAM,Region 9,Nevada,Non-Transient non-community system,3000,,Clark,10,57,17
+NV0000067,PINION PINES MHP,Region 9,Nevada,Community water system,30,,Douglas,4,28,11
+NV0002175,MAJORS STATION,Region 9,Nevada,Transient non-community system,25,,White Pine,6,14,8
+NV0000926,PAHRUMP UTILITY COMPANY INC,Region 9,Nevada,Community water system,985,PAHRUMP,Nye,14,7,4
+NV0000402,PLEASANT VALLEY,Region 9,Nevada,Community water system,110,PLEASANT VALLEY,Nye,6,1,4
+NV0001091,CALIFORNIA NATIONAL HISTORIC TRAILS CTR,Region 9,Nevada,Transient non-community system,178,,Elko,5,5,3
+NV0000364,CERTAIN TEED GYPSUM,Region 9,Nevada,Non-Transient non-community system,85,,Clark,9,21,9
+NV0002598,STAGESTOP RESTAURANT,Region 9,Nevada,Transient non-community system,25,,Nye,3,16,6
+NV0000155,AMARGOSA VALLEY RV PARK,Region 9,Nevada,Transient non-community system,25,,Nye,14,53,13
+NV0000357,HAWTHORNE ARMY DEPOT,Region 9,Nevada,Community water system,300,,Mineral,39,27,19
+NV0000743,MT ROSE CAMPGROUND  USFS,Region 9,Nevada,Transient non-community system,25,,Washoe,5,6,6
+NV0000082,INDIAN SPRINGS WATER CO INC,Region 9,Nevada,Community water system,900,INDIAN SPRINGS,Clark,7,92,8
+NV0003100,RED ROCK CAMPGROUND BLM,Region 9,Nevada,Transient non-community system,25,,Clark,5,0,1
+NV0005011,RED ROCK CANYON VISITOR CENTER BLM,Region 9,Nevada,Transient non-community system,844,,Clark,12,12,3
+NV0000834,LAKESIDE CASINO AND RV PARK,Region 9,Nevada,Non-Transient non-community system,175,,Nye,9,8,6
+NV0001160,HILTON GRAND VACATIONS CONVENTION,Region 9,Nevada,Non-Transient non-community system,982,,Clark,4,0,1
+NV0000861,LOVELOCK CORRECTIONAL CENTER NDOC,Region 9,Nevada,Community water system,1630,,Pershing,8,10,6
+NV0005071,ELY MAXIMUM SECURITY PRISON  NDOC,Region 9,Nevada,Community water system,1099,,White Pine,4,76,6
+NV0005069,HUMBOLDT CONSERVATION CAMP NDOC,Region 9,Nevada,Non-Transient non-community system,140,,Humboldt,15,15,6
+NV0002524,CARLIN HONOR CAMP NDOC,Region 9,Nevada,Non-Transient non-community system,147,,Elko,10,4,5
+NV0004083,ELY CONSERVATION CAMP  NDOC,Region 9,Nevada,Non-Transient non-community system,150,,White Pine,5,40,6
+NV0005005,WELLS HONOR CAMP  NDOC,Region 9,Nevada,Non-Transient non-community system,150,,Elko,4,7,6
+NV0005062,SOUTHERN DESERT CORRECTIONAL CTR  NDOC,Region 9,Nevada,Community water system,4842,,Clark,13,64,6
+NV0000823,TONOPAH CONSERVATION CAMP  NDOC,Region 9,Nevada,Non-Transient non-community system,150,,Nye,3,1,5
+NV0002141,HIGHWAY 95 FUEL & FOOD,Region 9,Nevada,Transient non-community system,25,,Nye,6,19,8
+NV0004037,HEYDAY INN,Region 9,Nevada,Transient non-community system,25,,Lyon,4,23,8
+NV0000855,ROBINSON NEVADA MINING COMPANY,Region 9,Nevada,Non-Transient non-community system,437,,White Pine,10,25,4
+NV0000037,NEVADA YOUTH TRAINING CENTER,Region 9,Nevada,Community water system,100,,Elko,8,6,7
+NV0000200,FOOTHILL TRAILER PARK,Region 9,Nevada,Community water system,35,,Washoe,6,15,7
+NV0000946,WHOS DUNES,Region 9,Nevada,Transient non-community system,25,,Nye,4,7,5
+NV0000915,A1 FUEL STOP,Region 9,Nevada,Transient non-community system,25,,Humboldt,6,7,6
+NV0000239,TOPAZ RANCH ESTATES GID,Region 9,Nevada,Community water system,2100,,Douglas,14,93,8
+NV0000760,SKY TAVERN,Region 9,Nevada,Transient non-community system,50,,Washoe,4,36,6
+NV0002580,HARMON JUNCTION,Region 9,Nevada,Transient non-community system,150,,Churchill,5,6,3
+NV0001175,FLAMINGO LAS VEGAS HOTEL AND CASINO,Region 9,Nevada,Non-Transient non-community system,9421,,Clark,12,0,0
+NV0001163,LINQ HOTEL AND CASINO,Region 9,Nevada,Non-Transient non-community system,5172,,Clark,14,0,0
+NV0004135,ECOLOGICA CORPORATION,Region 9,Nevada,Transient non-community system,25,,Washoe,4,0,1
+NV0000015,CARSON CITY PUBLIC WORKS,Region 9,Nevada,Community water system,56000,CARSON CITY,,149,90,22
+NV0002518,TOPAZ SUMMIT SPRING,Region 9,Nevada,Transient non-community system,25,,Douglas,4,23,4
+NV0003035,THE HUBB,Region 9,Nevada,Transient non-community system,25,,Nye,3,32,9
+NV0000318,WASHOE LAKE STATE PARK NORTH BOAT RAMP,Region 9,Nevada,Transient non-community system,25,,Washoe,6,7,4
+NV0004118,WALKER RIVER STATE REC AREA PITCHFORK,Region 9,Nevada,Transient non-community system,120,,Lyon,8,1,2
+NV0002132,FORT CHURCHILL HISTORIC STATE PARK,Region 9,Nevada,Transient non-community system,207,,Lyon,4,4,7
+NV0002223,RYE PATCH STATE PARK,Region 9,Nevada,Transient non-community system,25,,Pershing,3,9,8
+NV0005023,RYE PATCH STATE PARK PICNIC AREA,Region 9,Nevada,Transient non-community system,27,,Pershing,6,6,4
+NV0000793,WASHOE LAKE STATE PARK,Region 9,Nevada,Transient non-community system,467,,Washoe,6,26,9
+NV0002028,LAHONTAN DAM STATE PARK,Region 9,Nevada,Transient non-community system,26,,Churchill,7,18,18
+NV0002151,BERLIN ICHTHYOSAUR STATE PARK,Region 9,Nevada,Transient non-community system,50,,Nye,8,8,7
+NV0002133,LAHONTAN DAM STATE PARK BEACH 3,Region 9,Nevada,Transient non-community system,25,,Lyon,6,1,7
+NV0005021,LAHONTAN DAM STATE PARK BEACH 7,Region 9,Nevada,Transient non-community system,50,,Lyon,4,2,5
+NV0002216,EAST VALLEY WATER SYSTEM,Region 9,Nevada,Community water system,4030,,Douglas,20,19,10
+NV0000817,UPPAWAY WATER SYSTEM,Region 9,Nevada,Community water system,85,,Douglas,10,6,5
+NV0000977,NORTH COUNTY WATER SYSTEM,Region 9,Nevada,Non-Transient non-community system,200,,Douglas,14,4,5
+NV0000258,ZEPHYR COVE WATER UTILITY DISTR,Region 9,Nevada,Community water system,1209,ZEPHYR COVE,Douglas,6,26,19
+NV0000259,CAVE ROCK SKYLAND,Region 9,Nevada,Community water system,1267,SKYLAND,Douglas,15,13,18
+NV0002227,THE CLUB AT CLEAR CREEK TAHOE,Region 9,Nevada,Non-Transient non-community system,25,,Douglas,8,8,4
+NV0002054,WEST VALLEY WATER SYSTEM,Region 9,Nevada,Community water system,663,,Douglas,14,61,7
+NV0002564,MONTANA,Region 9,Nevada,Community water system,330,,Douglas,12,10,5
+NV0000959,FOOTHILL WATER SYSTEM,Region 9,Nevada,Community water system,346,SHERIDAN,Douglas,14,224,4
+NV0005078,CHINA SPRINGS YOUTH CAMP,Region 9,Nevada,Non-Transient non-community system,92,,Douglas,6,28,4
+NV0002540,FAIRGROUNDS/SUNRISE ESTATES,Region 9,Nevada,Community water system,911,,Douglas,8,31,5
+NV0000931,SIERRA COUNTRY ESTATES,Region 9,Nevada,Community water system,47,,Douglas,8,233,6
+NV0000013,CALIENTE PUBLIC UTILITIES,Region 9,Nevada,Community water system,1100,CALIENTE,Lincoln,10,22,10
+NV0002609,DOLLAR GENERAL,Region 9,Nevada,Transient non-community system,123,,Washoe,7,0,0
+NV0001080,HARRIS SPRINGS RANCH,Region 9,Nevada,Community water system,40,HARRIS SPRINGS,Clark,9,17,7
+NV0005070,TWIN CREEKS,Region 9,Nevada,Non-Transient non-community system,600,,Humboldt,16,78,5
+NV0002528,BARRICK TURQUOISE RIDGE INC,Region 9,Nevada,Non-Transient non-community system,480,,Humboldt,10,9,5
+NV0000907,LONE TREE MINE,Region 9,Nevada,Non-Transient non-community system,150,,Humboldt,12,3,5
+NV0000902,PHOENIX MINE POTABLE WATER SYSTEM,Region 9,Nevada,Non-Transient non-community system,400,,Lander,8,2,5
+NV0000871,LONGSTREET INN AND CASINO,Region 9,Nevada,Non-Transient non-community system,185,,Nye,8,6,5
+NV0000811,AMARGOSA VALLEY VFW POST 6826,Region 9,Nevada,Transient non-community system,25,,Nye,4,15,5
+NV0005009,CAMP LEE CANYON CCPR,Region 9,Nevada,Transient non-community system,30,,Clark,8,6,2
+NV0000307,LEE CANYON SKI AREA,Region 9,Nevada,Non-Transient non-community system,352,,Clark,7,15,3
+NV0001101,NDOT SEARCHLIGHT WELCOME CENTER,Region 9,Nevada,Transient non-community system,50,,Clark,7,2,3
+NV0000700,KRUSE FEED AND HARDWARE,Region 9,Nevada,Transient non-community system,1000,,Washoe,3,13,1
+NV0001086,GREAT BASIN WATER CO  SPANISH SPRINGS,Region 9,Nevada,Community water system,2030,,Washoe,12,5,6
+NV0000207,GREAT BASIN WATER CO  COLD SPRINGS,Region 9,Nevada,Community water system,7962,,Washoe,20,6,8
+NV0002513,NORTH VALMY POWER PLANT,Region 9,Nevada,Non-Transient non-community system,120,,Humboldt,11,0,7
+NV0000982,BALD MOUNTAIN MINE,Region 9,Nevada,Non-Transient non-community system,110,,White Pine,4,22,3
+NV0000897,SCHURZ ELEMENTARY SCHOOL,Region 9,Nevada,Non-Transient non-community system,70,,Mineral,8,7,5
+NV0000379,APEX REGIONAL WASTE MGMT CENTER,Region 9,Nevada,Non-Transient non-community system,107,,Clark,17,7,5
+NV0001181,ACRES CULTIVATION,Region 9,Nevada,Non-Transient non-community system,248,,Nye,3,0,0
+NV0001042,RIVERSIDE RESORT,Region 9,Nevada,Non-Transient non-community system,1772,,Clark,13,12,10
+NV0000773,VERDI MUTUAL WATER COMPANY,Region 9,Nevada,Non-Transient non-community system,300,,Washoe,4,7,7
+NV0000272,ELKO CITY OF,Region 9,Nevada,Community water system,20451,ELKO,Elko,50,26,17
+NV0004063,PICK AND SHOVEL INVESTMENTS,Region 9,Nevada,Transient non-community system,25,,Nye,3,5,1
+NV0000879,ASIA UNION  ELECTRONIC CHEMICALS RENO,Region 9,Nevada,Non-Transient non-community system,25,,Storey,4,2,6
+NV0000979,LUND SCHOOL,Region 9,Nevada,Non-Transient non-community system,140,,White Pine,9,45,5
+NV0002080,WILDHORSE RESORT,Region 9,Nevada,Transient non-community system,25,,Elko,5,15,8
+NV0001083,HOOVER DAM LODGE DBA HACIENDA,Region 9,Nevada,Non-Transient non-community system,141,,Clark,7,18,6
+NV0004060,TROUT CANYON LAND AND WATER USERS ASSOC,Region 9,Nevada,Transient non-community system,60,,Clark,3,0,2
+NV0000955,BLUE DIAMOND TRAVEL CENTER H-325,Region 9,Nevada,Transient non-community system,33,,Clark,5,3,4
+NV0001008,DESERT SOUTHWEST CONFERENCE,Region 9,Nevada,Transient non-community system,30,,Clark,10,15,6
+NV0000314,TORREY PINES TINA LN WTR ASSOC,Region 9,Nevada,Community water system,70,,Clark,6,6,4
+NV0001185,LOGOS CHRISTIAN ACADEMY,Region 9,Nevada,Non-Transient non-community system,25,,Churchill,3,2,4
+NV0002112,VALMY FUEL STOP INC,Region 9,Nevada,Transient non-community system,45,,Humboldt,5,22,9
+NV0000009,BEATTY WATER AND SANITATION DISTRICT,Region 9,Nevada,Community water system,1024,BEATTY,Nye,16,24,9
+NV0001144,GRANDVIEW AT LAS VEGAS,Region 9,Nevada,Non-Transient non-community system,5750,,Clark,15,0,1
+NV0004107,SMITH VALLEY BAPTIST CHURCH,Region 9,Nevada,Transient non-community system,500,,Lyon,3,0,2
+NV0000362,BIG FIVE PARK,Region 9,Nevada,Community water system,65,,Nye,6,14,8
+NV0000168,TOWN OF MINDEN,Region 9,Nevada,Community water system,3500,,Douglas,24,15,12
+NV0000720,BAR M BAR,Region 9,Nevada,Transient non-community system,25,,Washoe,4,17,8
+NV0001081,CREECH AIR FORCE BASE,Region 9,Nevada,Non-Transient non-community system,4200,INDIAN SPRINGS AIR FORCE AUXIL,Clark,14,20,9
+NV0001174,FRONT SIGHT FIREARMS TRAINING INSTITUTE,Region 9,Nevada,Non-Transient non-community system,224,,Nye,8,1,1
+NV0000329,T AND J INVESTMENTS DBA THE GROVE,Region 9,Nevada,Transient non-community system,65,,Clark,12,16,4
+NV0000797,OLD FORTY WEST MOTEL,Region 9,Nevada,Community water system,40,,Washoe,12,248,6
+NV0000350,FALLON NAVAL AIR STATION,Region 9,Nevada,Community water system,3000,FALLON NAVAL AIR STATION,Churchill,12,34,10
+NV0002541,NAS CENTROID EW RANGE,Region 9,Nevada,Non-Transient non-community system,80,,Churchill,6,8,5
+NV0000864,HYCROFT RESOURCES & DEVELOPMENT,Region 9,Nevada,Non-Transient non-community system,921,,Humboldt,11,19,5
+NV0000243,WELLINGTON STATION RESORT,Region 9,Nevada,Transient non-community system,64,,Lyon,6,1,7
+NV0001180,PLANET HOLLYWOOD HOTEL AND CASINO,Region 9,Nevada,Non-Transient non-community system,6509,,Clark,2,0,0
+NV0001113,CIRCUS CIRCUS CASINO,Region 9,Nevada,Non-Transient non-community system,2668,,Clark,11,1,3
+NV0000884,FLORIDA CANYON MINING INC,Region 9,Nevada,Non-Transient non-community system,150,,Pershing,14,15,5
+NV0002089,NDOT MILLERS NV ROADSIDE PARK RP801ES,Region 9,Nevada,Transient non-community system,900,,Esmeralda,6,3,7
+NV0005038,BEATTY RV PARK,Region 9,Nevada,Transient non-community system,25,,Nye,4,5,4
+NV0000331,SANDY VALLEY GENERAL STORE,Region 9,Nevada,Transient non-community system,225,,Clark,4,7,3
+NV0000175,NORTH LAS VEGAS UTILITIES,Region 9,Nevada,Community water system,306570,NORTH LAS VEGAS,Clark,45,1,14
+NV0001170,PREMIER MAGNESIA,Region 9,Nevada,Non-Transient non-community system,114,,Nye,7,1,2
+NV0000806,FORT CHURCHILL POWER PLANT,Region 9,Nevada,Non-Transient non-community system,37,,Lyon,8,18,5
+NV0001141,WYNN RESORTS,Region 9,Nevada,Non-Transient non-community system,9416,,Clark,17,0,3
+NV0004114,THUNDERBIRD LODGE,Region 9,Nevada,Transient non-community system,90,,Washoe,7,0,1
+NV0002211,WILSON RESERVOIR BLM CAMPGROUND,Region 9,Nevada,Transient non-community system,30,,Elko,5,6,7
+NV0001106,CITY CENTER HOTELS,Region 9,Nevada,Non-Transient non-community system,8900,,Clark,14,0,3
+NV0000828,AMARGOSA PARK,Region 9,Nevada,Transient non-community system,25,,Nye,3,1,5
+NV0000165,MANHATTAN TOWN WATER,Region 9,Nevada,Community water system,40,MANHATTAN,Nye,8,41,9
+NV0002190,AMARGOSA ELEMENTARY SCHOOL,Region 9,Nevada,Non-Transient non-community system,200,,Nye,6,2,7
+NV0003061,AMARGOSA SENIOR CENTER,Region 9,Nevada,Non-Transient non-community system,25,,Nye,6,9,5
+NV0005037,AMARGOSA TOWN COMPLEX,Region 9,Nevada,Non-Transient non-community system,25,AMARGOSA,Nye,3,1,7
+NV0002152,NYE COUNTY COMPLEX,Region 9,Nevada,Non-Transient non-community system,100,,Nye,16,7,7
+NV0001122,ROUND MOUNTAIN GOLD HILL WATER SYSTEM,Region 9,Nevada,Non-Transient non-community system,250,,Nye,6,1,2
+NV0002535,ROUND MOUNTAIN SMOKY VALLEY MINE,Region 9,Nevada,Non-Transient non-community system,380,,Nye,9,0,5
+NV0000932,KEYSTONE CENTER,Region 9,Nevada,Transient non-community system,30,,Clark,5,43,8
+NV0004065,WASHOE VALLEY MEETINGHOUSE FACILITY LDS,Region 9,Nevada,Transient non-community system,108,,Washoe,5,13,2
+NV0004100,SILVER SPRINGS MEETINGHOUSE LDS,Region 9,Nevada,Transient non-community system,25,,Lyon,4,0,2
+NV0000106,EASTLAND HEIGHTS WATER ASSOCIATION,Region 9,Nevada,Community water system,400,,Clark,7,2,7
+NV0000898,RAPPORT EXECUTIVE RETREAT,Region 9,Nevada,Transient non-community system,25,,Lincoln,8,7,6
+NV0002503,NPS ECHO BAY,Region 9,Nevada,Community water system,274,,Clark,11,25,17
+NV0002501,NPS COTTONWOOD COVE,Region 9,Nevada,Non-Transient non-community system,592,COTTONWOOD COVE,Clark,10,7,9
+NV0003005,NPS BOULDER BEACH,Region 9,Nevada,Community water system,722,,Clark,5,25,8
+NV0003004,NPS LAS VEGAS BAY,Region 9,Nevada,Transient non-community system,25,,Clark,7,10,8
+NV0002506,NPS CALLVILLE BAY,Region 9,Nevada,Community water system,250,,Clark,9,27,18
+NV0000917,LOW LOW LIQUOR CIGARETTES AND GOODIES,Region 9,Nevada,Transient non-community system,25,,Nye,3,5,8
+NV0000088,JACKPOT WATER SYSTEM,Region 9,Nevada,Community water system,1240,JACKPOT,Elko,14,48,13
+NV0004050,CAMP LAMOILLE LIONS CLUB,Region 9,Nevada,Transient non-community system,50,,Elko,7,19,5
+NV0004109,GRANITE HILLS BAPTIST CHURCH,Region 9,Nevada,Transient non-community system,94,,Washoe,3,2,2
+NV0001145,US ECOLOGY NEVADA,Region 9,Nevada,Non-Transient non-community system,90,,Nye,21,7,2
+NV0001148,DIAMOND PLASTICS,Region 9,Nevada,Non-Transient non-community system,38,,Humboldt,10,44,3
+NV0004079,CHUCKS CIRCLE C MARKET,Region 9,Nevada,Transient non-community system,25,,Washoe,3,16,7
+NV0000831,DESERT MIRAGE HOMEOWNERS ASSOCIATION,Region 9,Nevada,Community water system,230,,Nye,17,8,4
+NV0001143,HILTON GRAND VACATIONS ELARA,Region 9,Nevada,Non-Transient non-community system,2544,,Clark,8,0,1
+NV0001150,HILTON GRAND VACATIONS LAS VEGAS BLVD,Region 9,Nevada,Non-Transient non-community system,2488,,Clark,12,5,2
+NV0001136,HILTON GRAND VACATIONS FLAMINGO,Region 9,Nevada,Non-Transient non-community system,712,,Clark,7,0,1
+NV0001073,PRIMM VALLEY CASINO RESORTS,Region 9,Nevada,Community water system,7000,,Clark,16,65,7
+NV0004018,PAHRUMP FIRE STATION BLM,Region 9,Nevada,Transient non-community system,25,,Nye,4,5,2
+NV0003101,RED ROCK FIRE STN AND LAW ENF BLM,Region 9,Nevada,Transient non-community system,25,,Clark,5,2,1
+NV0004071,SPENCER W KIMBALL SCOUT RESERVATION,Region 9,Nevada,Transient non-community system,300,,Clark,15,27,6
+NV0000010,BLUE DIAMOND WATER COMPANY,Region 9,Nevada,Community water system,527,BLUE DIAMOND,Clark,14,19,6
+NV0002214,NDOT BEOWAWE ROADSIDE PARK RP802 EU,Region 9,Nevada,Transient non-community system,100,,Eureka,6,6,7
+NV0002160,NDOT COSGRAVE ROADSIDE PARK RP804PE,Region 9,Nevada,Transient non-community system,600,,Pershing,8,8,7
+NV0002102,NDOT VALMY ROADSIDE PARK RP809HU,Region 9,Nevada,Transient non-community system,367,,Humboldt,7,9,8
+NV0000126,SHETLAND WATER DISTRICT,Region 9,Nevada,Community water system,38,,Clark,9,50,8
+NV0002593,DRESSLER PARK,Region 9,Nevada,Transient non-community system,25,,Lyon,5,8,6
+NV0001054,NDOT BUTTON POINT ROADSIDE PARK RP808HU,Region 9,Nevada,Transient non-community system,600,,Humboldt,5,8,9
+NV0000271,ELK POINT COUNTRY CLUB,Region 9,Nevada,Community water system,325,,Douglas,11,100,9
+NV0000885,RUBY HILL MINE,Region 9,Nevada,Non-Transient non-community system,125,,Eureka,7,31,6
+NV0001165,VENETIAN PALAZZO,Region 9,Nevada,Non-Transient non-community system,19387,,Clark,25,0,2
+NV0002113,COMMUNITY HALL PARADISE VALLEY,Region 9,Nevada,Transient non-community system,72,,Humboldt,5,13,9
+NV0001132,RENO TECHNOLOGY PARK WATER COMPANY,Region 9,Nevada,Non-Transient non-community system,30,,Washoe,7,0,2
+NV0005057,COLD CREEK MHP,Region 9,Nevada,Community water system,35,,White Pine,5,32,5
+NV0000381,BLACK ROCK STATION,Region 9,Nevada,Transient non-community system,25,,Washoe,5,9,5
+NV0002525,SUNRISE ESTATES,Region 9,Nevada,Community water system,90,,Washoe,6,1,6
+NV0000865,LIGHTNING W,Region 9,Nevada,Community water system,163,,Washoe,9,32,4
+NV0000801,STAMPMILL,Region 9,Nevada,Community water system,118,,Washoe,6,0,5
+NV0000978,TRUCKEE CANYON,Region 9,Nevada,Non-Transient non-community system,25,,Washoe,10,52,4
+NV0002526,OLD WASHOE ESTATES,Region 9,Nevada,Community water system,135,,Washoe,8,1,5
+NV0000190,TRUCKEE MEADOWS WATER AUTHORITY,Region 9,Nevada,Community water system,311932,"RENO, SPARKS",Washoe,394,1,22
+NV0000709,WEST RENO WATER SYSTEM,Region 9,Nevada,Community water system,820,,Washoe,12,21,7
+NV0000090,LAS VEGAS VALLEY WATER DISTRICT,Region 9,Nevada,Community water system,1347550,LAS VEGAS,Clark,320,16,25
+NV0000219,SEARCHLIGHT WATER COMPANY,Region 9,Nevada,Community water system,760,SEARCHLIGHT,Clark,10,6,6
+NV0000089,JEAN UTILITY SERVICES INC,Region 9,Nevada,Community water system,560,JEAN,Clark,15,5,6
+NV0001102,SNWA COYOTE SPRING VALLEY-MOAPA PWS,Region 9,Nevada,Community water system,25,MOAPA,Clark,6,1,3
+NV0001140,SLOAN ARMY RESERVE CENTER,Region 9,Nevada,Non-Transient non-community system,348,,Clark,9,50,2
+NV0000142,KYLE CANYON WATER DISTRICT,Region 9,Nevada,Community water system,1040,KYLE CANYON,Clark,12,0,5
+NV0000903,"NEW MILLENNIUM BUILDING SYSTEMS, LLC",Region 9,Nevada,Non-Transient non-community system,50,,Churchill,21,12,5
+NV0001117,BELLAGIO RESORT AND CASINO,Region 9,Nevada,Non-Transient non-community system,17171,,Clark,29,0,3
+NV0004073,IDLE SPURS LOUNGE AND RESTAURANT,Region 9,Nevada,Transient non-community system,58,,Clark,4,24,5
+NV0000736,DESERT INVESTMENT GROUP LTD,Region 9,Nevada,Transient non-community system,250,,Washoe,6,17,7
+NV0002509,CAMP LADY OF THE SNOWS,Region 9,Nevada,Transient non-community system,60,,Clark,7,22,5
+NV0000414,THE LODGE AT PINE VALLEY,Region 9,Nevada,Community water system,320,,Eureka,8,1,2
+NV0000240,STOREY COUNTY WATER DISTRICT,Region 9,Nevada,Community water system,1420,VIRGINIA CITY,Storey,11,30,18
+NV0000920,MOUNTAIN FALLS WATER SYSTEM GBWC,Region 9,Nevada,Community water system,1718,,Nye,6,3,5
+NV0000408,CALVADA MEADOWS  GBWC,Region 9,Nevada,Community water system,77,,Nye,4,0,3
+NV0005067,MOUNTAIN VIEW MHP GBWC,Region 9,Nevada,Community water system,65,,Nye,5,5,4
+NV0005032,COUNTRY VIEW ESTATES GBWC,Region 9,Nevada,Community water system,1292,,Nye,9,40,4
+NV0000270,GREAT BASIN WATER COMPANY,Region 9,Nevada,Community water system,8538,,Nye,17,9,10
+NV0000301,CAVE SPRINGS WATER SYSTEM NPS,Region 9,Nevada,Transient non-community system,1000,,White Pine,9,1,9
+NV0005027,GREAT BASIN WATER CO  SPRING CREEK MHP,Region 9,Nevada,Community water system,7545,,Elko,23,27,7
+NV0000036,GREAT BASIN WATER CO  SPRING CREEK,Region 9,Nevada,Community water system,6708,,Elko,35,57,12
+NV0000162,MCDERMITT WATER SYSTEM,Region 9,Nevada,Community water system,200,MCDERMITT,Humboldt,7,58,13
+NV0004108,SPEED VEGAS,Region 9,Nevada,Transient non-community system,200,,Clark,9,0,2
+NV0002575,TATUADO WILD SIDE TAVERN,Region 9,Nevada,Transient non-community system,25,,Nye,3,16,6
+NV0000392,LOVELL CANYON RESIDENTIAL LLC,Region 9,Nevada,Transient non-community system,35,LOVELL,Clark,4,11,2
+NV0003103,SPRING MOUNTAINS VISITOR GATEWAY,Region 9,Nevada,Transient non-community system,215,,Clark,3,4,3
+NV0002508,MCWILLIAMS WATER SYSTEM,Region 9,Nevada,Transient non-community system,25,,Clark,10,15,7
+NV0001137,COSMOPOLITAN HOTEL,Region 9,Nevada,Non-Transient non-community system,5534,,Clark,31,0,2
+NV0004096,DOUBLE D BAR & GRILL,Region 9,Nevada,Transient non-community system,25,,Elko,3,46,8
+NV0004028,OLAM SVI,Region 9,Nevada,Transient non-community system,98,,Churchill,3,1,3
+NV0000124,SUNRISE ACRES WATER ASSOCIATION,Region 9,Nevada,Community water system,231,,Clark,8,9,8
+NV0001124,GOLD DIGGERS SALOON & GRUBB HOUSE,Region 9,Nevada,Transient non-community system,25,,Pershing,4,9,4
+NV0000001,DENIO JUNCTION,Region 9,Nevada,Transient non-community system,25,DENIO JUNCTION,Humboldt,6,38,11
+NV0001107,KAPEX WATER SYSTEM CITY OF NLV,Region 9,Nevada,Non-Transient non-community system,25,,Clark,8,1,3
+NV0000727,THE VINE,Region 9,Nevada,Transient non-community system,125,,Washoe,4,174,9
+NV0003016,VALMY STATION MOBILE HOME PARK,Region 9,Nevada,Community water system,96,,Humboldt,6,33,10
+NV0000161,LOVELOCK MEADOWS WATER DISTRICT,Region 9,Nevada,Community water system,3562,LOVELOCK,Pershing,12,59,10
+NV0002070,JARBIDGE WATER SYSTEM,Region 9,Nevada,Community water system,200,JARBIDGE,Elko,9,31,20
+NV0000189,TUSCARORA WATER SYSTEM,Region 9,Nevada,Community water system,72,,Elko,5,41,8
+NV0000169,MONTELLO WATER SYSTEM,Region 9,Nevada,Community water system,287,MONTELLO,Elko,7,18,8
+NV0000140,LUNA VISTA,Region 9,Nevada,Community water system,66,,Clark,6,41,9
+NV0000008,LANDER CO SEWER AND WATER DIST 1  BM,Region 9,Nevada,Community water system,3635,BATTLE MOUNTAIN,Lander,18,11,11
+NV0004126,BATTLE MOUNTAIN AIRPORT AND RACEWAY,Region 9,Nevada,Transient non-community system,200,,Lander,3,0,0
+NV0002106,PARADISE VALLEY PARK,Region 9,Nevada,Transient non-community system,40,,Humboldt,4,19,11
+NV0000199,KE TA MOBILE HOME PARK,Region 9,Nevada,Community water system,60,,Washoe,5,66,9
+NV0000863,BAKER WATER AND SEWER GID,Region 9,Nevada,Community water system,85,BAKER,White Pine,6,25,4
+NV0000164,RUTH WATER DISTRICT,Region 9,Nevada,Community water system,470,RUTH,White Pine,11,26,11
+NV0000163,MCGILL WATER AND SEWER DIST,Region 9,Nevada,Community water system,1200,MCGILL,White Pine,7,53,10
+NV0000805,VALLEY VIEW RV PARK,Region 9,Nevada,Community water system,250,,Elko,4,68,4
+NV0000378,NEVADA TEST AND TRAINING RANGE SILVER FL,Region 9,Nevada,Transient non-community system,35,,Clark,6,0,4
+NV0004000,COLD CREEK CANYON HOMEOWNERS,Region 9,Nevada,Community water system,180,COLD CREEK,Clark,5,13,6
+NV0003071,MIDAS WATER COOPERATIVE,Region 9,Nevada,Transient non-community system,25,MIDAS,Elko,9,48,9
+NV0000923,ELKS LODGE PAHRUMP,Region 9,Nevada,Transient non-community system,25,,Nye,5,1,5
+NV0001130,M RESORT SPA AND CASINO,Region 9,Nevada,Non-Transient non-community system,3550,,Clark,4,2,1
+NV0001000,LHOIST NORTH AMERICA,Region 9,Nevada,Non-Transient non-community system,136,,Clark,15,11,6
+NV0003066,BOB SCOTT CAMPGROUND  USFS,Region 9,Nevada,Transient non-community system,25,,Lander,6,8,5
+NV0001166,PARIS LAS VEGAS HOTEL AND CASINO,Region 9,Nevada,Non-Transient non-community system,30,,Clark,8,4,1
+NV0001162,BALLYS,Region 9,Nevada,Non-Transient non-community system,7850,,Clark,10,0,1
+NV0001118,PARK MGM,Region 9,Nevada,Non-Transient non-community system,1980,,Clark,6,2,2
+NV0004067,PEACOX CHARITABLE REMAINDER UNITRUST,Region 9,Nevada,Non-Transient non-community system,50,,Nye,8,33,6
+NV0001114,EXCALIBUR RESORT AND CASINO,Region 9,Nevada,Non-Transient non-community system,2607,,Clark,24,0,3
+NV0000028,TERRACE GARDEN APARTMENTS,Region 9,Nevada,Community water system,60,,,5,84,9
+NV0000032,DAYTON VALLEY WATER SYSTEM,Region 9,Nevada,Community water system,15830,"DAYTON, MOUNDHOUSE",Lyon,61,2,9
+NV0003029,GIRL SCOUTS NV CAMP FOXTAIL,Region 9,Nevada,Transient non-community system,250,,Clark,8,22,7
+NV0002586,TOP GUN SKATE,Region 9,Nevada,Transient non-community system,25,,Churchill,6,28,7
+NV0000323,BLUE DIAMOND RAINBOW SW PLAZA WATER,Region 9,Nevada,Transient non-community system,100,,Clark,9,16,10
+NV0002566,SAGE SCHOOLS,Region 9,Nevada,Non-Transient non-community system,2200,,Elko,8,11,6
+NV0000399,WINDMILL RIDGE RESTAURANT AND LODGE,Region 9,Nevada,Transient non-community system,25,,Lincoln,5,21,11
+NV0000065,GARDNERVILLE WATER COMPANY,Region 9,Nevada,Community water system,4500,GARDNERVILLE,Douglas,21,11,16
+NV0002563,A COWBOYS DREAM,Region 9,Nevada,Transient non-community system,26,,Lincoln,6,2,3
+NV0004106,PAHRANAGAT NATIONAL WILDLIFE REFUGE FWS,Region 9,Nevada,Transient non-community system,25,,Lincoln,4,3,1
+NV0004076,THE LODGE AT GALENA,Region 9,Nevada,Transient non-community system,142,,Washoe,3,18,3
+NV0005006,NEVADA TEST AND TRAINING RANGE PT BRAVO,Region 9,Nevada,Non-Transient non-community system,50,,Clark,5,3,4
+NV0002059,ZEPHYR COVE LODGE AND RESORT,Region 9,Nevada,Non-Transient non-community system,500,,Douglas,7,107,6
+NV0000071,GERLACH GID,Region 9,Nevada,Community water system,180,GERLACH,Washoe,12,26,8
+NV0004053,HODGES TRANSPORTATION CO,Region 9,Nevada,Non-Transient non-community system,160,,Lyon,15,48,7
+NV0002202,GRANITE CONSTRUCTION,Region 9,Nevada,Non-Transient non-community system,50,,Washoe,7,30,4
+NV0002095,PILOT TRAVEL CENTER 485,Region 9,Nevada,Non-Transient non-community system,1448,,Humboldt,5,9,9
+NV0001195,ACG MATERIALS,Region 9,Nevada,Non-Transient non-community system,63,,Lyon,5,0,1
+NV0001092,RYNDON GAS & FOOD LLC,Region 9,Nevada,Transient non-community system,277,RYNDON,Elko,5,6,3
+NV0000405,CARBERRY SQUARE,Region 9,Nevada,Transient non-community system,50,,Nye,4,19,4
+NV0002186,PARADISE VALLEY ELEMENTARY,Region 9,Nevada,Non-Transient non-community system,35,,Humboldt,5,38,9
+NV0002198,KINGS RIVER ELEMENTARY SCHOOL,Region 9,Nevada,Non-Transient non-community system,27,,Humboldt,6,204,7
+NV0000389,BUCKBOARD GENERAL STORE,Region 9,Nevada,Transient non-community system,25,,Lyon,3,42,4
+NV0000943,NDOT SUNNYSIDE ROADSIDE PARK RP810NY,Region 9,Nevada,Transient non-community system,25,,Nye,4,5,6
+NV0000710,BOWERS MANSION,Region 9,Nevada,Transient non-community system,100,,Washoe,4,2,7
+NV0000719,DAVIS CREEK PARK,Region 9,Nevada,Transient non-community system,100,,Washoe,3,15,6
+NV0003094,WASHOE REGIONAL SHOOTING RANGE,Region 9,Nevada,Transient non-community system,25,,Washoe,3,10,7
+NV0004077,LEMMON VALLEY HORSEMANS PARK,Region 9,Nevada,Transient non-community system,100,,Washoe,4,2,5
+NV0000718,CRYSTAL PEAK PARK,Region 9,Nevada,Transient non-community system,30,,Washoe,4,5,4
+NV0004064,GOLDEN VALLEY PARK,Region 9,Nevada,Transient non-community system,25,,Washoe,5,9,6
+NV0000418,CRESCENT DUNES SOLAR ENERGY,Region 9,Nevada,Non-Transient non-community system,40,,Nye,17,12,2
+NV0001155,BERKLEY,Region 9,Nevada,Non-Transient non-community system,672,,Clark,6,0,1
+NV0000260,ROUND HILL GID,Region 9,Nevada,Community water system,1200,,Douglas,13,6,18
+NV0000829,SULLIVANS PUB,Region 9,Nevada,Transient non-community system,25,,Nye,3,20,7
+NV0000038,ELY MUNICIPAL WATER DEPARTMENT,Region 9,Nevada,Community water system,5000,ELY,White Pine,25,89,10
+NV0005077,BARRICK GOLDSTRIKE FACILITY,Region 9,Nevada,Non-Transient non-community system,2100,,Eureka,19,6,6
+NV0002570,CORTEZ MILL 1 POTABLE WATER SYSTEM,Region 9,Nevada,Non-Transient non-community system,83,,Lander,7,4,4
+NV0000892,BARRICK CORTEZ GOLD MINES PIPELINE,Region 9,Nevada,Non-Transient non-community system,555,,Lander,8,2,5
+NV0001097,BARRICK CORTEZ HILLS,Region 9,Nevada,Non-Transient non-community system,611,,Lander,8,3,4
+NV0000035,GRANDVIEW TERRACE WATER DISTRICT,Region 9,Nevada,Community water system,328,,Washoe,8,12,7
+NV0002128,CG BAR,Region 9,Nevada,Transient non-community system,25,,Lyon,3,8,8
+NV0000951,ROSIES PLACE,Region 9,Nevada,Transient non-community system,25,,Lyon,3,28,7
+NV0004099,NNSS AREA 12,Region 9,Nevada,Transient non-community system,25,,Nye,11,3,5
+NV0000360,NNSS SITE AREA A23 AND 6,Region 9,Nevada,Non-Transient non-community system,1700,,Nye,32,3,10
+NV0004098,NNSS AREA 25,Region 9,Nevada,Transient non-community system,120,,Nye,23,12,4
+NV0000873,SOUTHFORK STATE PARK AND RECREATION AREA,Region 9,Nevada,Transient non-community system,25,,Elko,4,14,5
+NV0003059,WILDHORSE STATE PARK AND RECREATION AREA,Region 9,Nevada,Transient non-community system,25,,Elko,8,6,6
+NV0004035,CAVE LAKE STATE PARK,Region 9,Nevada,Transient non-community system,2000,,White Pine,6,19,9
+NV0002124,SPRING VALLEY STATE PARK,Region 9,Nevada,Transient non-community system,386,,Lincoln,13,6,10
+NV0000922,WARD CHARCOAL OVENS STATE PARK,Region 9,Nevada,Transient non-community system,25,,White Pine,7,2,4
+NV0002121,KERSHAW RYAN STATE PARK,Region 9,Nevada,Transient non-community system,25,,Lincoln,10,19,11
+NV0002123,ECHO CANYON STATE PARK,Region 9,Nevada,Transient non-community system,196,,Lincoln,3,14,9
+NV0000245,WELLS MUNICIPAL WATER DEPARTMENT,Region 9,Nevada,Community water system,1300,WELLS,Elko,16,40,11
+NV0001100,FIRE CREEK MINE,Region 9,Nevada,Non-Transient non-community system,60,,Lander,8,4,3
+NV0000349,KLONDEX HOLLISTER MINE INC,Region 9,Nevada,Non-Transient non-community system,150,,Elko,6,41,4
+NV0000908,KLONDEX MIDAS OPERATIONS INC,Region 9,Nevada,Non-Transient non-community system,80,,Elko,9,25,6
+NV0002146,NDOT LATHROP WELLS ROADSIDE PARK RP801NY,Region 9,Nevada,Transient non-community system,200,,Nye,3,5,6
+NV0002147,NDOT BIG SMOKEY ROADSIDE PARK RP807NY,Region 9,Nevada,Transient non-community system,25,,Nye,3,1,7
+NV0000746,SAND HARBOR STATE PARK,Region 9,Nevada,Transient non-community system,1000,,Washoe,3,3,9
+NV0004041,SPOONER LAKE STATE PARK,Region 9,Nevada,Transient non-community system,207,,Douglas,3,7,5
+NV0001075,VALLEY OF FIRE STATE PARK,Region 9,Nevada,Transient non-community system,1000,,Clark,16,11,6
+NV0001071,SPRING MOUNTAIN RANCH STATE PARK,Region 9,Nevada,Transient non-community system,235,,Clark,9,19,7
+NV0004074,ROUND MOUNTAIN PUC,Region 9,Nevada,Community water system,1200,ROUND MOUNTAIN,Nye,7,16,7
+NV0002094,DIAMOND INN BAR,Region 9,Nevada,Transient non-community system,25,,Humboldt,3,13,6
+NV0002119,GREEN VALLEY GROCERY,Region 9,Nevada,Transient non-community system,25,,Lincoln,8,16,8
+NV0002556,VFW PAHRUMP POST 10054,Region 9,Nevada,Transient non-community system,25,,Nye,6,7,7
+NV0002218,EAST PEAK LODGE,Region 9,Nevada,Transient non-community system,2000,,Douglas,5,8,7
+NV0000242,WEED HEIGHTS DEVELOPMENT,Region 9,Nevada,Community water system,340,,Lyon,11,65,9
+NV0002222,RYE PATCH PETROLEUM,Region 9,Nevada,Transient non-community system,40,,Pershing,10,40,12
+NV0003028,NELLIS AIR FORCE BASE,Region 9,Nevada,Community water system,19081,,Clark,45,11,11
+NV0004127,BEAS HARDWARE AND RV,Region 9,Nevada,Transient non-community system,25,,Nye,3,0,0
+NV0000893,FRANKTOWN MEADOWS,Region 9,Nevada,Transient non-community system,25,FRANKTOWN,Washoe,5,20,5
+NV0000006,LANDER CO SEWER AND WATER DIST 2  AUSTIN,Region 9,Nevada,Community water system,350,AUSTIN,Lander,26,232,10
+NV0001164,CROMWELL HOTEL AND CASINO,Region 9,Nevada,Non-Transient non-community system,25,,Clark,2,0,0

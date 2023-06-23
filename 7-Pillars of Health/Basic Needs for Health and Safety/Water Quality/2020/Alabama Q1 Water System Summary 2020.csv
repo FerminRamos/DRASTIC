@@ -1,0 +1,578 @@
+PWS ID,PWS Name,EPA Region,Primacy Agency,PWS Type,Population<br> Served Count,Cities Served,Counties Served,# of Facilities,# of Violations,# of Site Visits
+AL0001537,RANDOLPH COUNTY WATER & SEWER AUTHORITY,Region 4,Alabama,Community water system,9600,ROANOKE,Randolph,18,13,31
+AL0000065,SILVERHILL WATER SYSTEM (TOWN OF),Region 4,Alabama,Community water system,1572,SILVERHILL,Baldwin,8,62,36
+AL0000593,SOLON DIXON FORESTRY EDUCATION CENTER,Region 4,Alabama,Transient non-community system,25,ANDALUSIA,Covington,7,3,34
+AL0000500,SOUTH DALLAS WATER AUTHORITY,Region 4,Alabama,Community water system,3669,SARDIS,Dallas,13,4,38
+AL0000909,FAUNSDALE WATER WORKS,Region 4,Alabama,Community water system,414,FAUNSDALE,Marengo,5,40,37
+AL0000865,STAR-MINDINGALL WATER AUTHORITY,Region 4,Alabama,Community water system,1962,,Macon,12,14,39
+AL0000761,TRUSSVILLE UTILITIES,Region 4,Alabama,Community water system,36300,TRUSSVILLE,Jefferson,46,1,45
+AL0001225,"CLEAR CREEK HARBOR, LLC",Region 4,Alabama,Transient non-community system,50,TALLADEGA,Talladega,7,7,33
+AL0000413,"V.A.W. WATER SYSTEM, INC",Region 4,Alabama,Community water system,15582,VINEMONT,Cullman,17,3,39
+AL0001236,FAYETTEVILLE WATER  AUTHORITY,Region 4,Alabama,Community water system,5565,FAYETTEVILLE,Talladega,10,2,29
+AL0000378,RED LEVEL WATER WORKS,Region 4,Alabama,Community water system,846,RED LEVEL,Covington,6,1,58
+AL0000814,LOACHAPOKA WATER AUTHORITY,Region 4,Alabama,Community water system,11649,LOACHAPOKA,Lee,17,26,35
+AL0001490,"PERDIDO BAY WATER, SEWER & FPA",Region 4,Alabama,Community water system,10824,ELBERTA,Baldwin,11,3,49
+AL0001056,URIAH WATER SYSTEM INC.,Region 4,Alabama,Community water system,3420,URIAH,Monroe,10,101,43
+AL0000943,GUNTERSVILLE WATER WORKS & SEWER BOARD,Region 4,Alabama,Community water system,12612,GUNTERSVILLE,Marshall,26,2,52
+AL0001769,"BLUE HOLE WATER COMPANY, INC., THE",Region 4,Alabama,Community water system,462,,Blount,2,8,22
+AL0001072,PILGRIM-PROVIDENCE WATER AUTHORITY,Region 4,Alabama,Community water system,588,RAMER,Montgomery,8,2,29
+AL0000177,HUGULEY WATER AUTHORITY,Region 4,Alabama,Community water system,6900,HUGULEY,Chambers,15,6,32
+AL0001100,UNIONTOWN UTILITIES BOARD,Region 4,Alabama,Community water system,3894,UNIONTOWN,Perry,9,40,43
+AL0001322,BOLDO WATER & FIRE PROT. AUTHORITY,Region 4,Alabama,Community water system,4440,JASPER,Walker,6,1,33
+AL0000187,CEDAR BLUFF UTILITIES BOARD,Region 4,Alabama,Community water system,3753,CEDAR BLUFF,Cherokee,3,4,29
+AL0000824,ATHENS UTILITIES,Region 4,Alabama,Community water system,27534,ATHENS,Limestone,11,22,41
+AL0001071,PINE LEVEL WATER AUTHORITY,Region 4,Alabama,Community water system,2700,PINE LEVEL,Montgomery,10,9,36
+AL0000277,EDWARDSVILLE WATER & FIRE PRO AUTHORITY,Region 4,Alabama,Community water system,600,EDWARDSVILLE,Cleburne,4,9,30
+AL0001433,GOLDEN ROD BROILERS,Region 4,Alabama,Non-Transient non-community system,350,CULLMAN,Cullman,4,43,41
+AL0000949,SWEARENGIN WATER SYSTEM,Region 4,Alabama,Community water system,2160,GRANT,Marshall,9,4,29
+AL0000769,KENNEDY WATER WORKS BOARD,Region 4,Alabama,Community water system,723,KENNEDY,Lamar,6,0,36
+AL0000671,ASHFORD WATER WORKS,Region 4,Alabama,Community water system,3768,ASHFORD,Houston,12,73,44
+AL0000085,EUFAULA WATER WORKS,Region 4,Alabama,Community water system,17958,EUFAULA,Barbour,32,69,39
+AL0001250,WALDO WATER SYSTEM,Region 4,Alabama,Community water system,401,"TALLADEGA, WALDO",Talladega,2,34,30
+AL0000559,FLOMATON WATER WORKS,Region 4,Alabama,Community water system,2409,FLOMATON,Escambia,11,45,33
+AL0000256,JACKSON WATER WORKS & SEWER BOARD,Region 4,Alabama,Community water system,11715,JACKSON,Clarke,14,24,48
+AL0000279,HEFLIN WATER WORKS,Region 4,Alabama,Community water system,4287,HEFLIN,Cleburne,11,7,49
+AL0000561,FREEMANVILLE WATER SYSTEM,Region 4,Alabama,Community water system,3414,ATMORE,Escambia,9,1,34
+AL0000013,"MARBURY WATER SYSTEM, INC.",Region 4,Alabama,Community water system,8670,MARBURY,Autauga,28,2,55
+AL0000017,PRATTVILLE (WATER WORKS BOARD OF),Region 4,Alabama,Community water system,45444,PRATTVILLE,Autauga,62,27,60
+AL0001270,CAMP HILL UTILITIES BOARD,Region 4,Alabama,Community water system,1710,CAMP HILL,Tallapoosa,7,7,30
+AL0000702,TAYLOR WATER SYSTEM,Region 4,Alabama,Community water system,9339,TAYLOR,Houston,12,1,60
+AL0000689,KINSEY WATER SYSTEM,Region 4,Alabama,Community water system,2010,DOTHAN,Houston,6,1,43
+AL0000023,NORTH BALDWIN UTILITIES,Region 4,Alabama,Community water system,28713,BAY MINETTE,Baldwin,37,156,42
+AL0000188,CENTRE WATER & SEWER BOARD,Region 4,Alabama,Community water system,7050,CENTRE,Cherokee,6,2,115
+AL0000502,JCG FOODS OF ALABAMA LLC,Region 4,Alabama,Non-Transient non-community system,860,COLLINSVILLE,DeKalb,7,28,37
+AL0001293,"CITIZENS WATER SERVICE, INC.",Region 4,Alabama,Community water system,10950,BROOKWOOD,Tuscaloosa,14,6,41
+AL0001022,SATSUMA WATER WORKS,Region 4,Alabama,Community water system,7248,SATSUMA,Mobile,9,8,37
+AL0001021,SARALAND WATER SERVICE,Region 4,Alabama,Community water system,13827,SARALAND,Mobile,16,3,38
+AL0000967,SOUTH ALABAMA UTILITIES WATER SYSTEM,Region 4,Alabama,Community water system,39249,CITRONELLE,Mobile,74,2,39
+AL0001149,BETHEL WATER SYSTEM,Region 4,Alabama,Community water system,4110,WILSONVILLE,Shelby,5,3,34
+AL0000257,OLD LINE WATER SYSTEM,Region 4,Alabama,Community water system,5145,JACKSON,Clarke,17,1,32
+AL0001715,I-65 RV CAMPGROUND,Region 4,Alabama,Transient non-community system,246,CREOLA,Mobile,5,3,28
+AL0000344,REPTON WATER WORKS,Region 4,Alabama,Community water system,510,REPTON,Conecuh,5,84,63
+AL0000930,WINFIELD WATER WORKS & SEWER BOARD,Region 4,Alabama,Community water system,8631,WINFIELD,Marion,23,6,44
+AL0001423,GREENHILL WATER & FIRE PRO AUTHORITY,Region 4,Alabama,Community water system,8013,FLORENCE,Lauderdale,11,8,76
+AL0000993,KUSHLA WATER DISTRICT,Region 4,Alabama,Community water system,6294,EIGHT MILE,Mobile,17,4,31
+AL0001780,FIVE STAR WATER SUPPLY DISTRICT,Region 4,Alabama,Community water system,100,PRATTVILLE,Elmore,6,8,35
+AL0001516,HAMDEN RIDGE WATER AUTHORITY,Region 4,Alabama,Community water system,2196,EVERGREEN,Conecuh,7,64,34
+AL0001302,FOSTERS-RALPH WATER AUTHORITY,Region 4,Alabama,Community water system,5985,RALPH,Tuscaloosa,14,1,32
+AL0000296,ENTERPRISE WATER WORKS,Region 4,Alabama,Community water system,48000,ENTERPRISE,Coffee,57,137,47
+AL0001283,NEW SITE WATER SYSTEM,Region 4,Alabama,Community water system,1644,NEWSITE,Tallapoosa,8,1,31
+AL0001411,HALEYVILLE WATER WORKS & SEWER BOARD,Region 4,Alabama,Community water system,11835,HALEYVILLE,Winston,8,0,36
+AL0000772,SULLIGENT (CITY OF),Region 4,Alabama,Community water system,2643,SULLIGENT,Lamar,13,4,37
+AL0000994,"LEMOYNE WATER SYSTEM, INC.",Region 4,Alabama,Community water system,3825,AXIS,Mobile,10,76,35
+AL0000546,POLLARD WATER SYSTEM,Region 4,Alabama,Community water system,216,POLLARD,Escambia,5,9,31
+AL0001783,BLOUNT COUNTY WATER,Region 4,Alabama,Community water system,17400,CLEVELAND,Blount,34,72,26
+AL0000108,SNEAD WATER WORKS,Region 4,Alabama,Community water system,5958,,Blount,12,8,31
+AL0001374,CAMDEN WATER & SEWER DEPARTMENT,Region 4,Alabama,Community water system,4170,CAMDEN,Wilcox,13,19,51
+AL0000805,BEAUREGARD WATER AUTHORITY,Region 4,Alabama,Community water system,11178,OPELIKA,Lee,18,9,121
+AL0000095,RANDOLPH WATER SYSTEM,Region 4,Alabama,Community water system,1239,RANDOLPH,Bibb,5,0,28
+AL0001814,GULF STATE PARK INTERPRETIVE CENTER WTS,Region 4,Alabama,Transient non-community system,50,GULF SHORES,Baldwin,5,0,1
+AL0001816,"DOLLAR GENERAL #19936 GORDON, AL",Region 4,Alabama,Transient non-community system,32,GORDON,Houston,3,0,1
+AL0000104,PINE BLUFF WATER  AUTHORITY,Region 4,Alabama,Community water system,6099,LOCUST FORK,Blount,12,4,37
+AL0000763,WARRIOR RIVER WATER AUTHORITY,Region 4,Alabama,Community water system,37263,BESSEMER,Jefferson,35,2,90
+AL0000789,ROGERSVILLE WATER WORKS & SEWER BOARD,Region 4,Alabama,Community water system,4845,ROGERSVILLE,Lauderdale,12,4,37
+AL0001702,HILLTOP RV PARK,Region 4,Alabama,Transient non-community system,65,ROBERTSDALE,Baldwin,5,5,27
+AL0000122,NECTAR WATER SYSTEM,Region 4,Alabama,Community water system,3120,CLEVELAND,Blount,10,79,38
+AL0000415,DALE COUNTY WATER AUTHORITY,Region 4,Alabama,Community water system,7932,OZARK,Dale,16,2,49
+AL0000338,EVERGREEN WATER WORKS,Region 4,Alabama,Community water system,4950,EVERGREEN,Conecuh,15,4,58
+AL0000573,WHORTON BEND WATER AUTHORITY,Region 4,Alabama,Community water system,2301,GADSDEN,Etowah,3,4,28
+AL0001139,HURTSBORO WATER & SEWER BOARD,Region 4,Alabama,Community water system,1182,HURTSBORO,Russell,8,4,35
+AL0000572,ATTALLA WATER WORKS BOARD,Region 4,Alabama,Community water system,8415,ATTALLA,Etowah,16,3,48
+AL0000926,HAMILTON WATER AND WASTEWATER DEPARTMENT,Region 4,Alabama,Community water system,10500,HAMILTON,Marion,33,2,45
+AL0000643,GREENE COUNTY WATER AUTHORITY,Region 4,Alabama,Community water system,4062,EUTAW,Greene,11,11,30
+AL0000161,OHATCHEE WATER SYSTEM,Region 4,Alabama,Community water system,1425,OHATCHEE,Calhoun,5,3,30
+AL0000068,SPANISH FORT WATER SYSTEM,Region 4,Alabama,Community water system,9264,SPANISH FORT,Baldwin,22,26,138
+AL0001031,ST. ELMO-IRVINGTON WATER AUTHORITY,Region 4,Alabama,Community water system,10020,,Mobile,11,43,36
+AL0001364,MILLRY WATER WORKS,Region 4,Alabama,Community water system,2217,MILLRY,Washington,12,41,34
+AL0000232,BUTLER WATER SYSTEM,Region 4,Alabama,Community water system,6852,BUTLER,Choctaw,8,7,50
+AL0000598,GLEN ALLEN WATER SYSTEM,Region 4,Alabama,Community water system,1500,GLEN ALLEN,Fayette,7,9,37
+AL0000181,CAA-CTC PLAINVIEW HEAD START PROGRAM,Region 4,Alabama,Non-Transient non-community system,245,DADEVILLE,Chambers,5,17,43
+AL0000322,NATCHEZ TRACE PARKWAY,Region 4,Alabama,Transient non-community system,50,CHEROKEE,Colbert,6,5,26
+AL0001813,FACKLER TRUCK STOP,Region 4,Alabama,Transient non-community system,50,FACKLER,Jackson,5,6,5
+AL0001163,PELHAM WATER WORKS,Region 4,Alabama,Community water system,38061,PELHAM,Shelby,36,10,40
+AL0001265,ALEXANDER CITY WATER DEPARTMENT,Region 4,Alabama,Community water system,29565,ALEXANDER CITY,Tallapoosa,14,11,46
+AL0000097,WEST BLOCTON WATER WORKS,Region 4,Alabama,Community water system,4140,WEST BLOCTON,Bibb,13,5,37
+AL0001817,"DOLLAR GENERAL-BROADWAY GROUP, LLC",Region 4,Alabama,Transient non-community system,25,LINEVILLE,Clay,3,0,1
+AL0001102,ALICEVILLE WATER & SEWER BOARD,Region 4,Alabama,Community water system,5655,ALICEVILLE,Pickens,16,6,31
+AL0000929,TWIN WATER AUTHORITY,Region 4,Alabama,Community water system,804,GUIN,Marion,5,18,44
+AL0000093,GREEN POND WATER SYSTEM,Region 4,Alabama,Community water system,8631,GREEN POND,Bibb,22,0,44
+AL0001097,MARION WATER DEPARTMENT,Region 4,Alabama,Community water system,4323,MARION,Perry,16,59,47
+AL0000788,LEXINGTON WATER WORKS AND SEWER,Region 4,Alabama,Community water system,2799,LEXINGTON,Lauderdale,7,9,32
+AL0001050,"MEXIA WATER SYSTEM, INC.",Region 4,Alabama,Community water system,2550,MEXIA,Monroe,6,11,31
+AL0000918,SWEETWATER WATER & SEWER BOARD,Region 4,Alabama,Community water system,465,SWEET WATER,Marengo,5,9,44
+AL0001307,NORTHPORT WATER WORKS,Region 4,Alabama,Community water system,40551,NORTHPORT,Tuscaloosa,15,1,58
+AL0000337,CASTLEBERRY WATER SYSTEM,Region 4,Alabama,Community water system,1095,CASTLEBERRY,Conecuh,4,73,42
+AL0000110,"TYSON FARM, INC. (BLOUNT CO.)",Region 4,Alabama,Non-Transient non-community system,670,BLOUNTSVILLE,Blount,7,5,91
+AL0001721,DORA UTILITIES,Region 4,Alabama,Community water system,4128,DORA,Walker,6,10,33
+AL0001506,MYRTLEWOOD WATER SYSTEM,Region 4,Alabama,Community water system,4095,MYRTLEWOOD,Marengo,19,2,53
+AL0001274,DAVISTON WATER SYSTEM (TOWN OF),Region 4,Alabama,Community water system,630,DAVISTON,Tallapoosa,3,11,34
+AL0000820,SMITHS WATER AND SEWER AUTHORITY,Region 4,Alabama,Community water system,30684,SMITHS,Lee,19,0,93
+AL0001273,DADEVILLE WATER WORKS & SEWAGE BOARD,Region 4,Alabama,Community water system,3744,DADEVILLE,Tallapoosa,9,34,33
+AL0001371,WILCOX COUNTY WATER AUTHORITY,Region 4,Alabama,Community water system,6594,CAMDEN,Wilcox,21,9,41
+AL0001361,HOBSON WATER SYSTEM,Region 4,Alabama,Community water system,621,CHATOM,Washington,4,0,29
+AL0000798,MOULTON WATER WORKS BOARD,Region 4,Alabama,Community water system,8940,MOULTON,Lawrence,14,3,81
+AL0000624,HARTFORD WATER WORKS,Region 4,Alabama,Community water system,4323,HARTFORD,Geneva,11,47,30
+AL0001205,PINEDALE SHORES WSFPA,Region 4,Alabama,Community water system,1050,ASHVILLE,St. Clair,2,9,28
+AL0000606,PHIL CAMPBELL WATER WORKS,Region 4,Alabama,Community water system,7065,PHIL CAMPBELL,Franklin,11,1,31
+AL0000592,WALNUT GROVE (TOWN OF),Region 4,Alabama,Community water system,1164,WALNUT GROVE,Etowah,5,56,51
+AL0000765,WEST JEFFERSON WATER WORKS (TOWN OF),Region 4,Alabama,Community water system,3177,QUINTON,Jefferson,5,1,29
+AL0000905,TRIANA WATER WORKS,Region 4,Alabama,Community water system,3813,TRIANA,Madison,6,30,36
+AL0000924,GUIN WATER & SEWER BOARD,Region 4,Alabama,Community water system,4416,GUIN,Marion,9,46,60
+AL0000321,MUSCLE SHOALS UTILITY BOARD,Region 4,Alabama,Community water system,18303,MUSCLE SHOALS,Colbert,8,19,36
+AL0000397,SOUTH CRENSHAW COUNTY WATER AUTHORITY,Region 4,Alabama,Community water system,5490,BRANTLEY,Crenshaw,20,1,38
+AL0001460,COWIKEE WATER AUTHORITY,Region 4,Alabama,Community water system,1989,EUFAULA,Barbour,9,0,30
+AL0000372,LOCKHART WATER WORKS,Region 4,Alabama,Community water system,720,LOCKHART,Covington,7,2,37
+AL0000628,SAMSON WATER WORKS,Region 4,Alabama,Community water system,4125,SAMSON,Geneva,8,3,32
+AL0000088,LOUISVILLE WATER WORKS,Region 4,Alabama,Community water system,1380,LOUISVILLE,Barbour,11,4,66
+AL0000341,LYEFFION WATER AND FIRE PRO AUTHORITY,Region 4,Alabama,Community water system,1419,EVERGREEN,Conecuh,5,29,34
+AL0001491,FARLEY NUCLEAR PLANT,Region 4,Alabama,Non-Transient non-community system,1000,BIRMINGHAM,Houston,12,4,34
+AL0001673,OASIS TRAVEL CENTER,Region 4,Alabama,Transient non-community system,250,ROBERTSDALE,Baldwin,4,19,33
+AL0000133,ANNISTON WATER & SEWER BOARD,Region 4,Alabama,Community water system,55368,ANNISTON,Calhoun,31,0,47
+AL0000484,ORRVILLE WATER DEPARTMENT (TOWN OF),Region 4,Alabama,Community water system,435,ORRVILLE,Dallas,5,9,35
+AL0000116,MIDWAY WATER WORKS,Region 4,Alabama,Community water system,1050,"CLAYTON, MIDWAY",Bullock,7,5,47
+AL0001108,BANKS WATER SYSTEM,Region 4,Alabama,Community water system,1260,BANKS,Pike,7,6,33
+AL0000575,FORDS VALLEY & HWY 278 WATER,Region 4,Alabama,Community water system,5532,PIEDMONT,Etowah,6,9,32
+AL0000092,CENTREVILLE WATER & SEWER,Region 4,Alabama,Community water system,5985,CENTREVILLE,Bibb,21,23,41
+AL0000229,THORSBY WATER WORKS BOARD,Region 4,Alabama,Community water system,3465,THORSBY,Chilton,17,2,41
+AL0000392,RUTLEDGE WATER WORKS,Region 4,Alabama,Community water system,882,RUTLEDGE,Crenshaw,10,30,57
+AL0001172,WILTON WATER WORKS,Region 4,Alabama,Community water system,3048,WILTON,Shelby,10,22,51
+AL0000558,EAST BREWTON WATER & SEWER BOARD,Region 4,Alabama,Community water system,3120,EAST BREWTON,Escambia,7,106,34
+AL0000549,TRI COMMUNITY WATER SYSTEM,Region 4,Alabama,Community water system,11505,MILLBROOK,Elmore,17,2,42
+AL0001324,CARBON HILL UTILITIES BOARD,Region 4,Alabama,Community water system,3243,CARBON HILL,Walker,9,5,43
+AL0001326,CORDOVA WATER WORKS & GAS BOARD,Region 4,Alabama,Community water system,3939,CORDOVA,Walker,8,1,34
+AL0000221,MAPLESVILLE WATER WORKS,Region 4,Alabama,Community water system,1062,MAPLESVILLE,Chilton,4,3,32
+AL0000004,ALABAMA DOT/I-10 AL/FL WELCOME CENTER,Region 4,Alabama,Transient non-community system,500,BAY MINETTE,Baldwin,8,4,31
+AL0000393,OWASSA-BROWNSVILLE WATER AUTHORITY,Region 4,Alabama,Community water system,3300,EVERGREEN,Conecuh,6,38,94
+AL0001642,TAC-X AAF,Region 4,Alabama,Transient non-community system,25,,Geneva,4,0,18
+AL0000117,SOUTH BULLOCK COUNTY WATER AUTHORITY,Region 4,Alabama,Community water system,8601,UNION SPRINGS,Bullock,23,7,41
+AL0000368,HEATH WATER SYSTEM,Region 4,Alabama,Community water system,450,ANDALUSIA,Covington,2,2,29
+AL0000612,VINA WATER WORKS BOARD,Region 4,Alabama,Community water system,1263,VINA,Franklin,8,1,37
+AL0000617,CAMP VICTORY,Region 4,Alabama,Transient non-community system,170,SAMSON,Geneva,11,9,33
+AL0000622,GENEVA WATER WORKS,Region 4,Alabama,Community water system,8700,GENEVA,Geneva,34,5,40
+AL0000570,RIVERVIEW WATER WORKS,Region 4,Alabama,Community water system,903,EAST BREWTON,Escambia,9,82,45
+AL0000398,CULLMAN UTILITIES BOARD,Region 4,Alabama,Community water system,32,CULLMAN,Cullman,3,18,86
+AL0000414,WALTER WATER AUTHORITY,Region 4,Alabama,Community water system,1296,HANCEVILLE,Cullman,3,2,31
+AL0000439,NEWTON WATER WORKS BOARD,Region 4,Alabama,Community water system,2190,NEWTON,Dale,10,5,38
+AL0000441,OZARK UTILITIES BOARD,Region 4,Alabama,Community water system,14907,OZARK,Dale,26,44,136
+AL0000456,INTERNATIONAL PAPER COMPANY (SELMA),Region 4,Alabama,Non-Transient non-community system,730,SELMA,Dallas,7,5,32
+AL0000555,BREWTON WATER WORKS,Region 4,Alabama,Community water system,9756,BREWTON,Escambia,19,5,87
+AL0000331,TUSCUMBIA WATER WORKS,Region 4,Alabama,Community water system,13338,TUSCUMBIA,Colbert,10,9,60
+AL0000339,FAIRVIEW WATER SYSTEM (CONECUH),Region 4,Alabama,Community water system,975,EVERGREEN,Conecuh,5,8,40
+AL0000359,FLORALA REST AREA   (U.S. 331),Region 4,Alabama,Transient non-community system,500,ANDALUSIA,Covington,7,4,35
+AL0000154,"JACKSONVILLE WATER WORKS, GAS AND SEWER",Region 4,Alabama,Community water system,13809,JACKSONVILLE,Calhoun,16,122,36
+AL0001716,MARION COUNTY PUBLIC WATER AUTHORITY,Region 4,Alabama,Community water system,3435,GUIN,Marion,14,18,26
+AL0000925,HACKLEBURG WATER & SEWER BOARD,Region 4,Alabama,Community water system,2403,HACKLEBURG,Marion,9,5,35
+AL0001410,DOUBLE SPRINGS (TOWN OF) W&S BOARD,Region 4,Alabama,Community water system,5715,DOUBLE SPRINGS,Winston,10,32,34
+AL0000666,NEWVILLE WATER SYSTEM,Region 4,Alabama,Community water system,912,NEWVILLE,Henry,7,4,38
+AL0000490,SELMA WATER WORKS & SEWER BOARD,Region 4,Alabama,Community water system,24039,SELMA,Dallas,27,17,53
+AL0000438,MIDLAND CITY WATER DEPARTMENT,Region 4,Alabama,Community water system,2880,MIDLAND CITY,Dale,9,2,36
+AL0000356,ANDALUSIA (UTILITIES BOARD OF),Region 4,Alabama,Community water system,15114,ANDALUSIA,Covington,28,18,55
+AL0000354,STEWARTVILLE WATER AUTHORITY,Region 4,Alabama,Community water system,4890,SYLACAUGA,Coosa,10,1,32
+AL0000402,EAST CULLMAN WATER SYSTEM,Region 4,Alabama,Community water system,12444,CULLMAN,Cullman,12,5,32
+AL0000408,JOHNSONS CROSSING WATER SYSTEM,Region 4,Alabama,Community water system,3303,CULLMAN,Cullman,3,4,32
+AL0001786,"CULLMAN WATER WORKS, CITY OF",Region 4,Alabama,Community water system,35922,CULLMAN,Cullman,9,1,23
+AL0000537,FRIENDSHIP WATER WORKS,Region 4,Alabama,Community water system,4293,FRIENDSHIP,Elmore,9,37,31
+AL0001015,PRICHARD WATER WORKS BOARD,Region 4,Alabama,Community water system,32400,PRICHARD,Mobile,8,25,51
+AL0000149,HOBSON CITY WATER SYSTEM,Region 4,Alabama,Community water system,664,HOBSON CITY,Calhoun,5,17,36
+AL0000179,LANETT WATER WORKS,Region 4,Alabama,Community water system,8076,LANETT,Chambers,7,9,30
+AL0000566,MCCALL WATER SYSTEM INC,Region 4,Alabama,Community water system,7500,BREWTON,Escambia,19,7,123
+AL0000728,SECTION-DUTTON WATER SYSTEM,Region 4,Alabama,Community water system,32949,RAINSVILLE,Jackson,42,4,41
+AL0001148,ALABASTER WATER BOARD,Region 4,Alabama,Community water system,39474,ALABASTER,Shelby,35,49,43
+AL0001142,PHENIX CITY UTILITIES,Region 4,Alabama,Community water system,42267,PHENIX CITY,Russell,13,70,73
+AL0001145,RUSSELL COUNTY WATER AUTHORITY,Region 4,Alabama,Community water system,16800,PHENIX CITY,Russell,27,4,39
+AL0000318,LAGRANGE MOUNTAIN WATER AUTHORITY,Region 4,Alabama,Community water system,1206,LEIGHTON,Colbert,7,2,33
+AL0000353,ROCKFORD WATER WORKS,Region 4,Alabama,Community water system,2043,ROCKFORD,Coosa,10,30,35
+AL0001088,NE MORGAN CO WATER AND SEWER AUTHORITY,Region 4,Alabama,Community water system,23871,SOMERVILLE,Morgan,14,6,40
+AL0000040,"HUBBARD LANDING, INC",Region 4,Alabama,Transient non-community system,15,STOCKTON,Baldwin,7,19,33
+AL0001222,SUMTER COUNTY WATER AUTHORITY,Region 4,Alabama,Community water system,10983,LIVINGSTON,Sumter,20,11,48
+AL0001002,MOBILE COUNTY WATER & FIRE PRO AUTHORITY,Region 4,Alabama,Community water system,39573,THEODORE,Mobile,26,81,47
+AL0001799,"LAKE MITCHELL WATER, INCORPORATED",Region 4,Alabama,Community water system,300,ROCKFORD,Coosa,2,10,9
+AL0000885,MADISON WATER WORKS & SEWER,Region 4,Alabama,Community water system,50000,MADISON,Madison,37,30,51
+AL0000676,COLUMBIA WATER WORKS,Region 4,Alabama,Community water system,1188,COLUMBIA,Houston,6,4,36
+AL0000685,GORDON TOWN OF,Region 4,Alabama,Community water system,480,GORDON,Houston,5,5,38
+AL0001047,FRISCO CITY WATER SYSTEM,Region 4,Alabama,Community water system,2100,FRISCO CITY,Monroe,8,155,30
+AL0001790,PARKER CREEK WATER COMPANY,Region 4,Alabama,Community water system,1500,BIRMINGHAM,Coosa,4,11,17
+AL0000001,AUTAUGA CO WATER AUTHORITY,Region 4,Alabama,Community water system,7710,PRATTVILLE,Autauga,25,2,47
+AL0001674,OLD CAHAWBA ARCHAEOLOGICAL PARK,Region 4,Alabama,Transient non-community system,25,SELMA,Dallas,4,8,31
+AL0001073,"PINTLALA WATER SYSTEM, INC.",Region 4,Alabama,Community water system,5253,HOPE HULL,Montgomery,13,6,50
+AL0001074,"RAMER WATER COMPANY, INC.",Region 4,Alabama,Community water system,1398,RAMER,Montgomery,9,69,39
+AL0000523,VALLEY HEAD WATER WORKS BOARD,Region 4,Alabama,Community water system,2928,VALLEY HEAD,DeKalb,10,3,37
+AL0000535,ELMORE WATER & SEWER AUTHORITY,Region 4,Alabama,Community water system,12690,ELMORE,Elmore,28,4,58
+AL0000547,CENTRAL ELMORE WATER AUTHORITY,Region 4,Alabama,Community water system,36900,WETUMPKA,Elmore,22,13,44
+AL0001092,WEST MORGAN-EAST LAWRENCE WATER AUTHORIT,Region 4,Alabama,Community water system,30000,DECATUR,Morgan,15,1,36
+AL0001110,BRUNDIDGE WATER DEPARTMENT,Region 4,Alabama,Community water system,3672,BRUNDIDGE,Pike,13,28,36
+AL0000061,ROBERTSDALE (CITY OF),Region 4,Alabama,Community water system,7260,ROBERTSDALE,Baldwin,16,145,39
+AL0000038,GULF SHORES (UTILITIES BOARD CITY OF),Region 4,Alabama,Community water system,23823,GULF SHORES,Baldwin,30,2,39
+AL0001136,"WESTROCK COATED BOARD, LLC",Region 4,Alabama,Non-Transient non-community system,700,PHENIX CITY,Russell,7,24,34
+AL0001137,FT MITCHELL WATER SYSTEM,Region 4,Alabama,Community water system,13200,,Russell,22,23,42
+AL0000254,FULTON (UTILITIES BOARD OF THE TOWN OF),Region 4,Alabama,Community water system,534,FULTON,Clarke,6,5,30
+AL0000314,COLBERT COUNTY RURAL WATER SYSTEM,Region 4,Alabama,Community water system,10731,TUSCUMBIA,Colbert,23,15,37
+AL0000003,BILLINGSLEY WATER SYSTEM,Region 4,Alabama,Community water system,1473,BILLINGSLEY,Autauga,12,3,31
+AL0001789,COFFEE COUNTY WATER AUTHORITY,Region 4,Alabama,Community water system,5718,NEW BROCKTON,Coffee,24,4,24
+AL0000316,HAWK PRIDE MT WATER SYSTEM,Region 4,Alabama,Community water system,4035,TUSCUMBIA,Colbert,10,15,45
+AL0000800,TOWN CREEK WATER SYSTEM,Region 4,Alabama,Community water system,1635,TOWN CREEK,Lawrence,6,2,40
+AL0000681,DOTHAN UTILITIES (CITY OF),Region 4,Alabama,Community water system,90069,DOTHAN,Houston,81,129,67
+AL0001422,NORTHEAST ALABAMA WATER SYSTEM,Region 4,Alabama,Community water system,42609,FORT PAYNE,DeKalb,57,67,41
+AL0000947,SARDIS CITY WATER BOARD,Region 4,Alabama,Community water system,4956,BOAZ,Etowah,7,7,31
+AL0001672,REMLAP-PINE MTN WATER AUTHORITY,Region 4,Alabama,Community water system,2580,REMLAP,Blount,8,3,26
+AL0000726,PISGAH WATER WORKS,Region 4,Alabama,Community water system,1407,PISGAH,Jackson,5,3,33
+AL0000669,WILLS CROSS ROADS WATER SYSTEM,Region 4,Alabama,Community water system,570,ABBEVILLE,Henry,6,28,32
+AL0000506,COLLINSVILLE WATER WORKS,Region 4,Alabama,Community water system,4290,COLLINSVILLE,DeKalb,17,5,44
+AL0000563,ESCAMBIA COMMUNITY UTILITIES LLC,Region 4,Alabama,Community water system,1500,HUXFORD,Escambia,11,5,32
+AL0001176,ASHVILLE WATER AND SEWER,Region 4,Alabama,Community water system,4107,ASHVILLE,St. Clair,9,13,43
+AL0000021,INTERNATIONAL PAPER (AUTAUGA CO.),Region 4,Alabama,Non-Transient non-community system,600,PRATTVILLE,Autauga,5,2,31
+AL0001748,JACKSON COUNTY WATER AUTHORITY,Region 4,Alabama,Community water system,7050,SCOTTSBORO,Jackson,13,4,25
+AL0000292,PILGRIMS PRIDE CORPORATION,Region 4,Alabama,Non-Transient non-community system,1000,ENTERPRISE,Coffee,6,3,33
+AL0001114,GOSHEN WATER WORKS DIST SYSTEM,Region 4,Alabama,Community water system,516,GOSHEN,Pike,5,28,39
+AL0000846,FORT DEPOSIT WATER & SEWER BOARD,Region 4,Alabama,Community water system,2280,FORT DEPOSIT,Lowndes,9,1,40
+AL0000870,TUSKEGEE UTILITIES BOARD,Region 4,Alabama,Community water system,13500,TUSKEGEE,Macon,9,44,100
+AL0000388,GLENWOOD WATER WORKS,Region 4,Alabama,Community water system,387,GLENWOOD,Crenshaw,3,64,36
+AL0001744,LAKESIDE MARINA,Region 4,Alabama,Transient non-community system,50,WEDOWEE,Randolph,4,19,22
+AL0001367,WAGARVILLE WATER SYSTEM,Region 4,Alabama,Community water system,480,WAGARVILLE,Washington,5,2,52
+AL0000482,NORTH DALLAS WATER AUTHORITY,Region 4,Alabama,Community water system,8838,SELMA,Dallas,22,2,50
+AL0000504,CHILDREN'S BIBLE MINISTRIES OF NORTH AL,Region 4,Alabama,Transient non-community system,65,MENTONE,DeKalb,7,28,33
+AL0000693,NAPIER FIELD WATER SYSTEM,Region 4,Alabama,Community water system,2292,NAPIER FIELD,Dale,2,2,34
+AL0000713,BRIDGEPORT UTILITIES BOARD,Region 4,Alabama,Community water system,5505,BRIDGEPORT,Jackson,7,14,49
+AL0000299,KINSTON WATER WORKS,Region 4,Alabama,Community water system,2172,KINSTON,Coffee,8,6,34
+AL0001507,BUTLER COUNTY WATER AUTHORITY,Region 4,Alabama,Community water system,14052,GREENVILLE,Butler,33,16,44
+AL0000508,CROSSVILLE WATER BOARD,Region 4,Alabama,Community water system,1998,CROSSVILLE,DeKalb,7,35,35
+AL0000509,FORT PAYNE WATER WORKS BOARD,Region 4,Alabama,Community water system,25107,FORT PAYNE,DeKalb,36,21,47
+AL0000089,MT ANDREW WATER AUTHORITY,Region 4,Alabama,Community water system,729,MIDWAY,Barbour,4,8,34
+AL0000770,MILLPORT WATER WORKS,Region 4,Alabama,Community water system,1410,MILLPORT,Lamar,10,24,35
+AL0000375,OPP UTILITIES BOARD,Region 4,Alabama,Community water system,9975,OPP,Covington,18,6,37
+AL0000862,NOTASULGA WATER SYSTEM,Region 4,Alabama,Community water system,2565,NOTASULGA,Macon,7,10,31
+AL0000897,OWENS CROSSROADS WATER AUTHORITY,Region 4,Alabama,Community water system,9500,,Madison,11,8,54
+AL0000777,CHISHOLM HEIGHTS WATER & F P AUTHORITY,Region 4,Alabama,Community water system,4500,FLORENCE,Lauderdale,6,8,34
+AL0001791,EVERGREEN ESTATES,Region 4,Alabama,Community water system,1884,MONTGOMERY,Montgomery,2,21,17
+AL0001261,TALLADEGA-SHELBY WATER TREATMENT PLANT,Region 4,Alabama,Community water system,32,ALPINE,Talladega,3,5,39
+AL0001671,SHELBY COUNTY WATER SYSTEM,Region 4,Alabama,Community water system,35982,COLUMBIANA,Shelby,24,5,32
+AL0000128,MCKENZIE WATER BOARD,Region 4,Alabama,Community water system,1170,MCKENZIE,Butler,8,2,36
+AL0001171,WILSONVILLE WATER WORKS,Region 4,Alabama,Community water system,2391,WILSONVILLE,Shelby,11,0,35
+AL0001168,VINCENT WATER WORKS BOARD,Region 4,Alabama,Community water system,2733,VINCENT,Shelby,12,8,37
+AL0001199,MARGARET WATER WORKS,Region 4,Alabama,Community water system,4401,MARGARET,St. Clair,7,2,27
+AL0001805,COOSA VALLEY WATER SUPPLY DISTRICT,Region 4,Alabama,Community water system,25,ASHVILLE,St. Clair,8,1,9
+AL0001203,ODENVILLE (UTIL BOARD OF THE TOWN OF),Region 4,Alabama,Community water system,23637,ODENVILLE,St. Clair,49,54,37
+AL0001209,RIVERSIDE (TOWN OF),Region 4,Alabama,Community water system,3750,RIVERSIDE,St. Clair,9,4,34
+AL0001211,SPRINGVILLE WATER WORKS,Region 4,Alabama,Community water system,6015,SPRINGVILLE,St. Clair,14,5,42
+AL0001764,CWM WATER AUTHORITY,Region 4,Alabama,Community water system,1722,DICKINSON,Wilcox,6,44,20
+AL0000283,RANBURNE WATER & SEWER DEPARTMENT,Region 4,Alabama,Community water system,1929,RANBURNE,Cleburne,7,12,33
+AL0000364,GANTT WATER SYSTEM,Region 4,Alabama,Community water system,825,GANTT,Covington,4,2,29
+AL0001402,ADDISON WATER WORKS,Region 4,Alabama,Community water system,2553,ADDISON,Winston,12,45,36
+AL0001358,CHATOM UTILITIES BOARD,Region 4,Alabama,Community water system,2037,CHATOM,Washington,14,64,32
+AL0001160,MONTEVALLO WATER WORKS & SEWER,Region 4,Alabama,Community water system,9741,MONTEVALLO,Shelby,20,26,55
+AL0000266,CLAY COUNTY WATER AUTHORITY,Region 4,Alabama,Community water system,1818,LINEVILLE,Clay,15,18,51
+AL0000264,ASHLAND WATER & SEWER BOARD,Region 4,Alabama,Community water system,2925,ASHLAND,Clay,7,17,30
+AL0000237,GILBERTOWN (UTILITIES BOARD OF TOWN OF),Region 4,Alabama,Community water system,8157,GILBERTOWN,Choctaw,20,3,75
+AL0001797,SOUTH GATE MOBILE HOME PARK,Region 4,Alabama,Community water system,327,PELHAM,Shelby,2,2,15
+AL0001798,GREEN PARK SOUTH MOBILE HOME PARK,Region 4,Alabama,Community water system,903,PELHAM,Shelby,3,2,15
+AL0000615,BLACK WATER WORKS,Region 4,Alabama,Community water system,369,BLACK,Geneva,5,77,37
+AL0000245,HOLLINS WATER AUTHORITY,Region 4,Alabama,Community water system,1302,HOLLINS,Clay,6,21,27
+AL0001403,ARLEY WATER WORKS,Region 4,Alabama,Community water system,8673,ARLEY - 3600,Winston,11,3,41
+AL0001248,"COOSA PINES RECREATION ASSOC., INC.",Region 4,Alabama,Transient non-community system,25,TALLADEGA,Talladega,5,5,29
+AL0000270,MILLERVILLE WATER & FIRE PRO AUTHORITY,Region 4,Alabama,Community water system,1500,MILLERVILLE,Clay,4,21,30
+AL0000272,CHEAHA STATE PARK,Region 4,Alabama,Transient non-community system,570,DELTA,Cleburne,24,11,32
+AL0001740,"EUREKA WATER SERVICE, INC.",Region 4,Alabama,Transient non-community system,25,,Monroe,9,9,25
+AL0001426,SOUTHWEST ALABAMA WATER AUTHORITY,Region 4,Alabama,Community water system,5196,PETERMAN,Monroe,17,11,109
+AL0000783,FLORENCE WATER-WASTEWATER DEPARTMENT,Region 4,Alabama,Community water system,66900,FLORENCE,Lauderdale,27,2,51
+AL0000252,COFFEEVILLE WATER WORKS (TOWN OF),Region 4,Alabama,Community water system,2730,COFFEEVILLE,Clarke,9,5,53
+AL0001755,HOUSTON COUNTY WATER AUTHORITY,Region 4,Alabama,Community water system,4377,DOTHAN,Houston,7,5,29
+AL0001127,ROANOKE (THE UTIL. BD. OF THE CITY OF),Region 4,Alabama,Community water system,7371,ROANOKE,Randolph,9,7,54
+AL0001380,ELDRIDGE WATER SYSTEM,Region 4,Alabama,Community water system,1668,ELDRIDGE,Walker,9,28,44
+AL0000589,REECE CITY WATER SYSTEM,Region 4,Alabama,Community water system,861,ATTALLA,Etowah,6,15,35
+AL0000595,BELK WATER SYSTEM,Region 4,Alabama,Community water system,993,BELK,Fayette,7,2,40
+AL0000933,ALBERTVILLE UTILITIES BOARD,Region 4,Alabama,Community water system,33060,ALBERTVILLE,Marshall,17,16,39
+AL0000203,BIG OAK CAMPGROUND,Region 4,Alabama,Transient non-community system,30,CEDAR BLUFF,Cherokee,4,21,27
+AL0000140,CAMP LEE,Region 4,Alabama,Transient non-community system,25,ANNISTON,Calhoun,5,35,31
+AL0000053,"ORANGE BEACH WATER, SEWER AND F.P.A.",Region 4,Alabama,Community water system,17796,ORANGE BEACH,Baldwin,26,23,43
+AL0000058,WILDERNESS RV PARK,Region 4,Alabama,Transient non-community system,25,ROBERTSDALE,Baldwin,6,23,40
+AL0000066,SOUTHPORT CAMPGROUNDS,Region 4,Alabama,Transient non-community system,60,ELBERTA,Baldwin,4,12,27
+AL0001428,FORKLAND WATER SYSTEM,Region 4,Alabama,Community water system,1137,FORKLAND,Greene,4,39,38
+AL0001227,CAMP MAC,Region 4,Alabama,Transient non-community system,300,MUNFORD,Talladega,15,2,33
+AL0001228,CHILDERSBURG WATER & SEWER  BOARD,Region 4,Alabama,Community water system,9603,CHILDERSBURG,Talladega,21,22,37
+AL0000162,OXFORD WATER WORKS & SEWER BOARD,Region 4,Alabama,Community water system,28401,OXFORD,Calhoun,28,3,50
+AL0000174,EAST ALABAMA WATER & FIRE PRO DISTRICT,Region 4,Alabama,Community water system,18000,,Chambers,14,1,32
+AL0000921,BRILLIANT WATER WORKS,Region 4,Alabama,Community water system,1605,BRILLIANT,Marion,8,1,55
+AL0000927,UPPER BEAR CREEK WATER AUTHORITY,Region 4,Alabama,Community water system,0,HALEYVILLE,Marion,3,5,81
+AL0000935,ASBURY WATER SYSTEM,Region 4,Alabama,Community water system,3702,ALBERTVILLE,Marshall,8,2,30
+AL0001327,COPELAND FERRY/PUMPKIN CENTER WA,Region 4,Alabama,Community water system,1086,GOODSPRINGS,Walker,3,16,29
+AL0001345,PROVIDENCE WATER AUTHORITY,Region 4,Alabama,Community water system,1386,OAKMAN,Walker,2,10,33
+AL0001357,FRANKVILLE WATER & FIRE PRO AUTHORITY,Region 4,Alabama,Community water system,945,FRANKVILLE,Washington,5,9,28
+AL0000125,GREENVILLE WATER WORKS,Region 4,Alabama,Community water system,9290,GREENVILLE,Butler,20,2,50
+AL0000678,COWARTS WATER SYSTEM,Region 4,Alabama,Community water system,2262,COWARTS,Houston,12,1,44
+AL0001509,HALE COUNTY WATER AUTHORITY,Region 4,Alabama,Community water system,9540,GREENSBORO,Hale,22,5,41
+AL0001290,"BUHL, ELROD & HOLMAN WATER AUTHORITY",Region 4,Alabama,Community water system,3480,BUHL,Tuscaloosa,7,1,31
+AL0000035,FAIRHOPE WATER SYSTEM (CITY OF),Region 4,Alabama,Community water system,38754,FAIRHOPE,Baldwin,27,110,50
+AL0001285,RAY COMMUNITY WATER & FIRE PRO AUTHORITY,Region 4,Alabama,Community water system,1296,ALEXANDER CITY,Coosa,5,27,33
+AL0000103,ONEONTA UTILITIES BOARD,Region 4,Alabama,Community water system,19737,ONEONTA,Blount,30,7,133
+AL0000297,WAYNE FARMS LLC,Region 4,Alabama,Non-Transient non-community system,550,ENTERPRISE,Coffee,6,42,44
+AL0001077,SELLERS STATION WATER SYSTEM,Region 4,Alabama,Community water system,1644,LAPINE,Montgomery,10,10,108
+AL0001267,CAMP ALAMISCO,Region 4,Alabama,Transient non-community system,70,DADEVILLE,Tallapoosa,8,23,29
+AL0001512,LOWNDES COUNTY WATER SYSTEM,Region 4,Alabama,Community water system,3675,HAYNEVILLE,Lowndes,17,2,36
+AL0001794,"EQUITY GROUP - EUFAULA DIVISION, LLC",Region 4,Alabama,Non-Transient non-community system,1200,BAKERHILL,Barbour,11,7,17
+AL0000596,"BERRY WATER DEPARTMENT, TOWN OF",Region 4,Alabama,Community water system,4716,BERRY,Fayette,12,20,65
+AL0000081,BLUE SPRINGS WATER WORKS,Region 4,Alabama,Community water system,600,CLIO,Barbour,8,5,40
+AL0000029,DAPHNE (UTILITIES BOARD OF THE CITY OF),Region 4,Alabama,Community water system,33372,DAPHNE,Baldwin,36,8,85
+AL0000100,BLOUNTSVILLE UTILITIES BOARD,Region 4,Alabama,Community water system,4266,BLOUNTSVILLE,Blount,11,6,38
+AL0000940,DOUGLAS WATER AUTHORITY,Region 4,Alabama,Community water system,16632,DOUGLAS,Marshall,34,2,39
+AL0000028,"PARK CITY WATER AUTHORITY, INC",Region 4,Alabama,Community water system,810,DAPHNE,Baldwin,2,4,32
+AL0001132,WOODLAND WATER BOARD,Region 4,Alabama,Community water system,1425,WOODLAND,Randolph,7,69,39
+AL0001313,TUSCALOOSA WATER & SEWER,Region 4,Alabama,Community water system,172767,TUSCALOOSA,Tuscaloosa,34,7,55
+AL0001258,SYLACAUGA UTILITIES BOARD,Region 4,Alabama,Community water system,24087,SYLACAUGA,Talladega,37,31,57
+AL0000491,WEST DALLAS CO WATER AUTHORITY,Region 4,Alabama,Community water system,3870,SARDIS,Dallas,12,1,39
+AL0001555,ALA. WAREHOUSE/LOWER POOL #2,Region 4,Alabama,Non-Transient non-community system,45,SHORTERVILLE,Henry,4,1,31
+AL0000443,PINCKARD WATER DEPARTMENT,Region 4,Alabama,Community water system,1410,PINCKARD,Dale,8,2,40
+AL0000548,TALLASSEE WATER WORKS,Region 4,Alabama,Community water system,7410,TALLASSEE,Elmore,15,2,51
+AL0000878,HARVEST-MONROVIA WATER SYSTEM,Region 4,Alabama,Community water system,51912,HARVEST,Madison,28,1,150
+AL0001782,GOVERNMENTAL UTILITY SERVICE CORPORATION,Region 4,Alabama,Community water system,32,BESSEMER,Jefferson,3,0,22
+AL0001309,PETERSON WATER SYSTEM,Region 4,Alabama,Community water system,2058,PETERSON,Tuscaloosa,5,4,30
+AL0000732,STEVENSON (UTIL. BOARD OF THE TOWN OF),Region 4,Alabama,Community water system,3969,STEVENSON,Jackson,7,26,38
+AL0000919,THOMASTON WATER WORKS & GAS BOARD,Region 4,Alabama,Community water system,960,THOMASTON,Marengo,10,8,45
+AL0000831,"SWAN CREEK COMMUNITY (BSI, LLC)",Region 4,Alabama,Community water system,321,TANNER,Limestone,17,9,39
+AL0000319,LEIGHTON (WSB OF THE TOWN OF),Region 4,Alabama,Community water system,1206,LEIGHTON,Colbert,8,15,33
+AL0000604,HODGES WATER SYSTEM,Region 4,Alabama,Community water system,2352,HODGES,Franklin,10,1,34
+AL0001301,"ENGLEWOOD-HULLS WATER SYSTEM, INC.",Region 4,Alabama,Community water system,5400,TUSCALOOSA,Tuscaloosa,11,1,33
+AL0000708,WEBB WATER SYSTEM,Region 4,Alabama,Community water system,1761,WEBB,Houston,10,3,45
+AL0000184,CHATTAHOOCHEE VALLEY WATER SUPPLY DIST,Region 4,Alabama,Community water system,32,LANETT,Chambers,3,28,41
+AL0001202,NORTHWEST ST CLAIR WATER SYSTEM,Region 4,Alabama,Community water system,2706,ASHVILLE,St. Clair,5,4,31
+AL0000664,HEADLAND WATER WORKS,Region 4,Alabama,Community water system,5700,HEADLAND,Henry,12,1,41
+AL0000753,LEEDS WATER BOARD,Region 4,Alabama,Community water system,21300,LEEDS,Jefferson,29,65,50
+AL0001427,PERRY COUNTY WATER AUTHORITY,Region 4,Alabama,Community water system,2850,MARION,Perry,29,4,36
+AL0001781,"TATE & LYLE SUCRALOSE, INC. WATER SYSTEM",Region 4,Alabama,Non-Transient non-community system,80,MCINTOSH,Washington,6,9,20
+AL0000636,EUTAW WATER DEPARTMENT,Region 4,Alabama,Community water system,4764,EUTAW,Greene,19,28,34
+AL0000583,TILLISON BEND WATER AUTHORITY,Region 4,Alabama,Community water system,1065,GADSDEN,Etowah,3,20,34
+AL0000957,BAYOU LA BATRE UTILITIES,Region 4,Alabama,Community water system,8100,BAYOU LA BATRE,Mobile,13,6,33
+AL0001336,JASPER WATER WORKS AND SEWER BOARD,Region 4,Alabama,Community water system,28638,JASPER,Walker,23,1,121
+AL0000243,NORTH CHOCTAW WATER & SEWER AUTHORITY,Region 4,Alabama,Community water system,3552,LISMAN,Choctaw,15,23,32
+AL0001131,"WEDOWEE WATER, SEWER, & GAS BOARD",Region 4,Alabama,Community water system,7782,WEDOWEE,Randolph,7,41,47
+AL0000920,BEAR CREEK WATER WORKS,Region 4,Alabama,Community water system,3084,,Marion,6,1,33
+AL0001184,CAMP SUMATANGA,Region 4,Alabama,Transient non-community system,100,GALLANT,St. Clair,9,10,30
+AL0000164,PIEDMONT UTILITIES BOARD,Region 4,Alabama,Community water system,8073,PIEDMONT,Calhoun,15,3,42
+AL0001540,CARROLLS CREEK WATER AUTHORITY,Region 4,Alabama,Community water system,14145,NORTHPORT,Tuscaloosa,15,2,33
+AL0001164,STERRETT-VANDIVER WATER SYSTEM,Region 4,Alabama,Community water system,2970,STERRETT,Shelby,8,9,39
+AL0000773,VERNON WATER AND SEWER BOARD,Region 4,Alabama,Community water system,9801,VERNON,Lamar,31,7,103
+AL0001434,COOK SPRINGS WATER AUTHORITY,Region 4,Alabama,Community water system,4440,,St. Clair,11,4,30
+AL0000951,UNION GROVE UTILITY BOARD,Region 4,Alabama,Community water system,2862,UNION GROVE,Marshall,6,17,32
+AL0000983,GRAND BAY WATER WORKS BOARD,Region 4,Alabama,Community water system,11100,GRAND BAY,Mobile,14,1,35
+AL0001771,NORTH CLARKE WATER AUTHORITY,Region 4,Alabama,Community water system,975,THOMASVILLE,Clarke,4,5,17
+AL0000801,WEST LAWRENCE WATER COOP,Region 4,Alabama,Community water system,14595,,Lawrence,16,4,36
+AL0000816,OPELIKA UTILITIES,Region 4,Alabama,Community water system,43263,OPELIKA,Lee,17,19,75
+AL0001298,COALING WATER AUTHORITY,Region 4,Alabama,Community water system,3738,COALING,Tuscaloosa,8,2,30
+AL0001159,LITTLE WAXIE WATER AUTHORITY,Region 4,Alabama,Community water system,1269,COLUMBIANA,Shelby,2,1,29
+AL0000091,BRENT UTILITIES BOARD,Region 4,Alabama,Community water system,6750,BRENT,Bibb,23,3,45
+AL0001217,CUBA WATER BOARD,Region 4,Alabama,Community water system,591,CUBA,Sumter,3,7,31
+AL0000908,DEMOPOLIS WATER WORKS AND SEWER BOARD,Region 4,Alabama,Community water system,10530,DEMOPOLIS,Marengo,21,16,44
+AL0001037,U.S. AMINES LLC- CELANESE CHEMICALS,Region 4,Alabama,Non-Transient non-community system,50,BUCKS,Mobile,8,24,31
+AL0001289,WALNUT HILL WATER AUTHORITY,Region 4,Alabama,Community water system,11304,DADEVILLE,Tallapoosa,8,2,31
+AL0001288,WALL STREET WATER AUTHORITY,Region 4,Alabama,Community water system,5709,TALLAPOOSA COUNTY,Tallapoosa,12,3,31
+AL0000404,GARDEN CITY WATER DEPARTMENT,Region 4,Alabama,Community water system,1641,GARDEN CITY,Cullman,7,5,34
+AL0000409,"JOPPA, HULACO & RYAN WATER AUTHORITY",Region 4,Alabama,Community water system,4980,JOPPA,Cullman,7,1,39
+AL0001439,SOUTH MARENGO CO WATER & FIRE PRO AUTH,Region 4,Alabama,Community water system,5610,LINDEN,Marengo,10,5,33
+AL0000219,JEMISON WATER WORKS,Region 4,Alabama,Community water system,4110,JEMISON,Chilton,11,31,38
+AL0000645,GREENSBORO (UTILITIES BD OF THE CITY OF),Region 4,Alabama,Community water system,4500,GREENSBORO,Hale,12,0,34
+AL0001260,"TALLADEGA WATER AND SEWER BOARD, CITY OF",Region 4,Alabama,Community water system,19284,TALLADEGA,Talladega,33,29,96
+AL0001157,HELENA UTILITY BOARD,Region 4,Alabama,Community water system,20700,HELENA,Shelby,27,21,40
+AL0000351,GOODWATER WTR WORKS & SEWER BD (CITY OF),Region 4,Alabama,Community water system,2640,GOODWATER,Coosa,12,35,50
+AL0001342,NAUVOO WATER WORKS,Region 4,Alabama,Community water system,2160,NAUVOO,Walker,5,6,36
+AL0001299,COKER WATER AUTHORITY,Region 4,Alabama,Community water system,8370,COKER,Tuscaloosa,15,1,38
+AL0000651,MOUNDVILLE WATER WORKS,Region 4,Alabama,Community water system,4404,MOUNDVILLE,Hale,8,5,33
+AL0000717,CUMBERLAND MOUNTAIN WATER,Region 4,Alabama,Community water system,5541,SCOTTSBORO,Jackson,11,1,35
+AL0000258,MCVAY WATER SYSTEM,Region 4,Alabama,Community water system,1482,JACKSON,Clarke,4,0,32
+AL0000131,CALHOUN COUNTY WATER & FIRE PR AUTHORITY,Region 4,Alabama,Community water system,31650,ALEXANDRIA,Calhoun,46,23,38
+AL0000079,BAKERHILL WATER AUTHORITY,Region 4,Alabama,Community water system,7128,BAKERHILL,Barbour,33,4,49
+AL0000268,LINEVILLE WATER WORKS BOARD,Region 4,Alabama,Community water system,3126,LINEVILLE,Clay,8,4,31
+AL0001279,JACKSONS GAP WATER AUTHORITY,Region 4,Alabama,Community water system,5700,JACKSONS GAP,Tallapoosa,11,5,33
+AL0000189,CHEROKEE COUNTY WATER AUTHORITY,Region 4,Alabama,Community water system,11013,PIEDMONT,Cherokee,18,2,44
+AL0000180,BEULAH UTILITIES DISTRICT,Region 4,Alabama,Community water system,9120,,Lee,7,10,31
+AL0001078,SNOWDOUN WATER SYSTEM INC,Region 4,Alabama,Community water system,2550,"MONTGOMERY, SNOWDOUN",Montgomery,10,1,35
+AL0000626,MALVERN WATER DEPARTMENT,Region 4,Alabama,Community water system,1680,MALVERN,Geneva,11,1,29
+AL0000934,ARAB WATER WORKS BOARD,Region 4,Alabama,Community water system,34800,ARAB,Marshall,17,1,80
+AL0000904,GURLEY WATER SYSTEM,Region 4,Alabama,Community water system,1140,GURLEY,Madison,8,10,76
+AL0001268,CAMP ASCCA,Region 4,Alabama,Transient non-community system,280,,Tallapoosa,4,14,31
+AL0000302,NEW BROCKTON WATER DEPARTMENT,Region 4,Alabama,Community water system,3297,NEW BROCKTON,Coffee,16,15,45
+AL0001549,WEST BANK DAMSITE/GEORGE W ANDREWS,Region 4,Alabama,Transient non-community system,30,SHORTERVILLE,Houston,5,3,24
+AL0001208,RAGLAND (THE WW BOARD OF THE TOWN OF),Region 4,Alabama,Community water system,3162,RAGLAND,St. Clair,15,1,33
+AL0000539,MILLBROOK UTILITIES,Region 4,Alabama,Community water system,5181,MILLBROOK,Elmore,9,39,80
+AL0001566,WEST BANK DAMSITE/W F GEORGE LAKE,Region 4,Alabama,Transient non-community system,30,SHORTERVILLE,Henry,7,3,24
+AL0000657,ABBEVILLE WATER WORKS & SEWER BOARD,Region 4,Alabama,Community water system,3828,ABBEVILLE,Henry,13,68,53
+AL0000234,CHILTON WATER AUTHORITY,Region 4,Alabama,Community water system,26634,THORSBY,Chilton,49,21,42
+AL0000553,WEST ESCAMBIA UTILITIES INC.,Region 4,Alabama,Community water system,12060,ATMORE,Escambia,30,24,36
+AL0000577,GADSDEN WATER WORKS AND SEWER BOARD,Region 4,Alabama,Community water system,44637,GADSDEN,Etowah,32,26,40
+AL0000729,SCOTTSBORO WATER WORKS,Region 4,Alabama,Community water system,22119,SCOTTSBORO,Jackson,18,2,102
+AL0001229,"WATER WORKS, INC.",Region 4,Alabama,Community water system,579,TALLADEGA,Talladega,4,16,37
+AL0001004,"MCB WATER AUTHORITY, INC.",Region 4,Alabama,Community water system,651,BUCKS,Mobile,11,18,33
+AL0001219,WOLF CREEK WATER AUTHORITY,Region 4,Alabama,Community water system,984,RIVERSIDE,St. Clair,4,0,31
+AL0000262,THOMASVILLE WATER WORKS & SEWER BOARD,Region 4,Alabama,Community water system,6897,THOMASVILLE,Clarke,14,22,36
+AL0001247,"MUNFORD WATER AUTHORITY, INC.",Region 4,Alabama,Community water system,4305,MUNFORD,Talladega,8,38,28
+AL0000213,CLANTON WATER DEPARTMENT,Region 4,Alabama,Community water system,13500,CLANTON,Chilton,12,31,76
+AL0000320,LITTLEVILLE WATERWORKS,Region 4,Alabama,Community water system,3630,RUSSELLVILLE,Colbert,8,1,32
+AL0000259,MID-CLARKE WATER SYSTEM,Region 4,Alabama,Community water system,1500,GROVE HILL,Clarke,3,7,27
+AL0000663,HENRY COUNTY WATER AUTHORITY,Region 4,Alabama,Community water system,10902,ABBEVILLE,Henry,26,81,38
+AL0000741,BROOKSIDE WATER WORKS,Region 4,Alabama,Community water system,2550,BROOKSIDE,Jefferson,4,3,29
+AL0001363,MCINTOSH WATER & FIRE PRO AUTHORITY,Region 4,Alabama,Community water system,3060,MCINTOSH,Washington,12,24,32
+AL0001353,TOWNLEY WATER AUTHORITY,Region 4,Alabama,Community water system,2469,TOWNLEY,Walker,4,3,38
+AL0001351,SUMITON WATER WORKS BOARD,Region 4,Alabama,Community water system,5970,SUMITON,Walker,13,6,48
+AL0001378,SYCAMORE WATER AND SEWER AUTHORITY,Region 4,Alabama,Community water system,1731,SYCAMORE,Talladega,6,10,34
+AL0001391,PINE APPLE WATER WORKS,Region 4,Alabama,Community water system,390,"GEORGIANA, PINE APPLE",Wilcox,6,10,63
+AL0001420,ARDMORE WATER SYSTEM,Region 4,Alabama,Community water system,3600,ARDMORE,Limestone,13,56,40
+AL0001424,EAST LAUDERDALE COUNTY WATER AUTHORITY,Region 4,Alabama,Community water system,9348,ROGERSVILLE,Lauderdale,12,3,34
+AL0000352,KELLYTON WATER SYSTEM,Region 4,Alabama,Community water system,2010,KELLYTON,Coosa,5,1,27
+AL0001445,"GREENETRACK, INC",Region 4,Alabama,Non-Transient non-community system,200,EUTAW,Greene,5,7,38
+AL0001151,COLUMBIANA WATER WORKS,Region 4,Alabama,Community water system,11391,COLUMBIANA,Shelby,21,55,35
+AL0000587,NORTHEAST ETOWAH COUNTY WATER CO-OP,Region 4,Alabama,Community water system,4164,GADSDEN,Etowah,8,7,40
+AL0000385,BRANTLEY WATER WORKS,Region 4,Alabama,Community water system,1485,BRANTLEY,Crenshaw,5,26,34
+AL0000867,MACON COUNTY WATER AUTHORITY,Region 4,Alabama,Community water system,7566,TUSKEGEE,Macon,17,39,98
+AL0001784,WASHINGTON COUNTY WATER AUTHORITY,Region 4,Alabama,Community water system,2445,CHATOM,Washington,13,8,20
+AL0001760,"MILLERS FERRY WATER AUTHORITY, INC.",Region 4,Alabama,Community water system,1650,MILLERS FERRY,Wilcox,5,6,25
+AL0000255,GROVE HILL WATER WORKS,Region 4,Alabama,Community water system,3750,GROVE HILL,Clarke,16,67,80
+AL0001124,TROY UTILITIES (CITY OF),Region 4,Alabama,Community water system,21864,TROY,Pike,24,24,48
+AL0001220,LIVINGSTON WATER WORKS,Region 4,Alabama,Community water system,4680,LIVINGSTON,Sumter,12,3,49
+AL0000048,LOXLEY (TOWN OF),Region 4,Alabama,Community water system,6081,LOXLEY,Baldwin,15,2,44
+AL0000971,DAUPHIN ISLAND WATER & SEWER,Region 4,Alabama,Community water system,5802,DAUPHIN ISLAND,Mobile,21,103,43
+AL0000794,WEST LAUDERDALE CO WATER & FPA,Region 4,Alabama,Community water system,14694,FLORENCE,Lauderdale,18,5,38
+AL0001046,EXCEL WATER SYSTEM,Region 4,Alabama,Community water system,3600,EXCEL,Monroe,8,60,44
+AL0001052,MONROEVILLE (WATER WORKS BD. OF CITY OF),Region 4,Alabama,Community water system,9885,MONROEVILLE,Monroe,19,3,41
+AL0000329,SPRING VALLEY WATER AUTHORITY,Region 4,Alabama,Community water system,5160,TUSCUMBIA,Colbert,12,8,33
+AL0001508,QUINT-MAR WATER AUTHORITY,Region 4,Alabama,Community water system,8358,HIGHLAND HOME,Crenshaw,33,1,128
+AL0001091,TRINITY WATER WORKS SYSTEM,Region 4,Alabama,Community water system,2703,TRINITY,Morgan,6,2,31
+AL0001103,CARROLLTON WATER WORKS,Region 4,Alabama,Community water system,1404,,Pickens,3,2,29
+AL0001106,PICKENS COUNTY WATER & F. P. AUTHORITY,Region 4,Alabama,Community water system,14364,,Pickens,37,5,46
+AL0000463,DALLAS COUNTY WATER & SEWER AUTHORITY,Region 4,Alabama,Community water system,4152,SELMA,Dallas,11,3,42
+AL0001510,TURNERVILLE WATER & FIRE PRO DISTRICT,Region 4,Alabama,Community water system,5829,SARALAND,Mobile,17,0,32
+AL0001511,AVON WATER SYSTEM,Region 4,Alabama,Community water system,504,ASHFORD,Houston,3,2,30
+AL0001513,MID-CENTRAL WATER AUTHORITY,Region 4,Alabama,Community water system,2331,FULTON,Clarke,8,10,33
+AL0001541,HACKNEYVILLE WATER & FIRE PRO AUTHORITY,Region 4,Alabama,Community water system,1155,ALEXANDER CITY,Tallapoosa,5,9,30
+AL0000597,FAYETTE WATER WORKS BOARD,Region 4,Alabama,Community water system,8142,FAYETTE,Fayette,15,0,45
+AL0001810,UNIVERSITY OF ALABAMA AT BIRMINGHAM,Region 4,Alabama,Non-Transient non-community system,3200,BIRMINGHAM,Jefferson,6,8,8
+AL0001412,LYNN WATER WORKS,Region 4,Alabama,Community water system,1845,LYNN,Winston,8,5,35
+AL0001685,TALLADEGA COUNTY WATER SYSTEM,Region 4,Alabama,Community water system,5196,TALLADEGA,Talladega,5,1,29
+AL0000002,AUTAUGAVILLE WATER WORKS,Region 4,Alabama,Community water system,2088,AUTAUGAVILLE,Autauga,13,99,46
+AL0000387,DOZIER WATER WORKS,Region 4,Alabama,Community water system,597,DOZIER,Crenshaw,6,8,32
+AL0000178,LAFAYETTE WATER WORKS,Region 4,Alabama,Community water system,3774,LAFAYETTE,Chambers,7,45,80
+AL0000025,BELFOREST WATER SYSTEM,Region 4,Alabama,Community water system,13380,DAPHNE,Baldwin,11,49,72
+AL0001366,ST STEPHENS WATER SYSTEM,Region 4,Alabama,Community water system,735,,Washington,9,2,106
+AL0001006,MT. VERNON (TOWN OF),Region 4,Alabama,Community water system,1878,,Mobile,6,93,38
+AL0000098,ALLGOOD WATER WORKS (TOWN OF),Region 4,Alabama,Community water system,816,ALLGOOD,Blount,8,2,46
+AL0000847,HAYNEVILLE WATER DEPARTMENT,Region 4,Alabama,Community water system,2958,HAYNEVILLE,Lowndes,13,21,41
+AL0000384,SANFORD WATER SYSTEM,Region 4,Alabama,Community water system,420,ANDALUSIA,Covington,3,4,27
+AL0001739,CENTRAL TALLADEGA COUNTY WATER AUTHORITY,Region 4,Alabama,Community water system,3393,ALPINE,Talladega,13,4,20
+AL0001753,TIBBIE WATER & FIRE PROTECTION AUTHORITY,Region 4,Alabama,Community water system,1326,TIBBIE,Washington,7,4,20
+AL0001343,OAKMAN WATER WORKS,Region 4,Alabama,Community water system,3510,OAKMAN,Walker,13,5,35
+AL0000295,ELBA WATER WORKS,Region 4,Alabama,Community water system,5553,ELBA,Coffee,19,3,37
+AL0001808,PLURIS ALABAMA LLC,Region 4,Alabama,Community water system,0,LEXINGTON,Lauderdale,7,0,10
+AL0000101,CLEVELAND WATER WORKS,Region 4,Alabama,Community water system,3516,CLEVELAND,Blount,13,22,42
+AL0000049,STYX RIVER RESORT WATER SYSTEM,Region 4,Alabama,Transient non-community system,200,ROBERTSDALE,Baldwin,4,9,30
+AL0000168,WEAVER WATER SYSTEM,Region 4,Alabama,Community water system,6591,WEAVER,Calhoun,11,3,35
+AL0001213,STEELE WATER WORKS BOARD,Region 4,Alabama,Community water system,1614,STEELE,St. Clair,15,12,48
+AL0000022,BALDWIN BAPTIST CAMP,Region 4,Alabama,Transient non-community system,250,ELBERTA,Baldwin,7,4,32
+AL0001775,CHANDLER MTN/GREASY COVE WATER AUTHORITY,Region 4,Alabama,Community water system,1815,STEELE,St. Clair,6,1,17
+AL0000751,IRONDALE WATER SYSTEM,Region 4,Alabama,Community water system,10098,IRONDALE,Jefferson,15,21,42
+AL0001244,LOGAN LANDING RV RESORT & CAMPGROUND,Region 4,Alabama,Community water system,552,ALPINE,Talladega,4,15,26
+AL0000390,LUVERNE WATER & SEWER DEPARTMENT,Region 4,Alabama,Community water system,3660,LUVERNE,Crenshaw,13,3,41
+AL0001432,CURRY WATER AUTHORITY,Region 4,Alabama,Community water system,17613,JASPER,Walker,18,6,36
+AL0001360,FRUITDALE WATER SYSTEM,Region 4,Alabama,Community water system,3057,CHATOM,Washington,7,6,33
+AL0001500,FRANKLIN COUNTY WATER SERVICES AUTHORITY,Region 4,Alabama,Community water system,4950,RUSSELLVILLE,Franklin,16,0,31
+AL0001150,CALERA WATER WORKS,Region 4,Alabama,Community water system,23748,CALERA,Shelby,19,16,44
+AL0000420,DALEVILLE WATER & SEWER BOARD,Region 4,Alabama,Community water system,10014,DALEVILLE,Dale,14,4,40
+AL0001337,KANSAS WATER SYSTEM,Region 4,Alabama,Community water system,375,KANSAS,Walker,4,0,39
+AL0001216,WATTSVILLE WATER AUTHORITY,Region 4,Alabama,Community water system,5070,WATTSVILLE,St. Clair,16,6,36
+AL0000366,"WISE METALS GROUP, LLC (CONSTELLIUM)",Region 4,Alabama,Non-Transient non-community system,2400,MUSCLE SHOALS,Colbert,3,4,33
+AL0001086,HARTSELLE UTILITY BOARD,Region 4,Alabama,Community water system,21423,HARTSELLE,Morgan,13,20,51
+AL0000275,COLEMAN LAKE USFS REC AREA,Region 4,Alabama,Transient non-community system,60,HEFLIN,Cleburne,8,16,31
+AL0000121,"COASTAL FOREST PRODUCTS, LLC",Region 4,Alabama,Non-Transient non-community system,300,CHAPMAN,Butler,6,4,33
+AL0000083,CLIO WATER WORKS,Region 4,Alabama,Community water system,2730,CLIO,Barbour,13,10,63
+AL0000893,NEW HOPE WATER SYSTEM,Region 4,Alabama,Community water system,5802,NEW HOPE,Madison,9,3,36
+AL0000073,SUMMERDALE WATER WORKS,Region 4,Alabama,Community water system,1071,SUMMERDALE,Baldwin,8,3,126
+AL0000363,FLORALA WATER WORKS & SEWER BOARD,Region 4,Alabama,Community water system,3051,FLORALA,Covington,7,48,37
+AL0000737,BESSEMER WATER SERVICE,Region 4,Alabama,Community water system,85113,BESSEMER,Jefferson,30,3,36
+AL0000223,PEACH QUEEN KOA CAMPGROUNDS WATER SYSTEM,Region 4,Alabama,Transient non-community system,10,JEMISON,Chilton,4,9,34
+AL0001505,BIG WILLS WATER & FIRE PRO AUTHORITY,Region 4,Alabama,Community water system,2301,ATTALLA,Etowah,7,59,32
+AL0001344,PARRISH WATER WORKS BOARD,Region 4,Alabama,Community water system,5661,PARRISH,Walker,8,3,33
+AL0001633,HIGH BLUFF AAF,Region 4,Alabama,Transient non-community system,30,,Geneva,4,1,26
+AL0001719,RANGE CONTROL,Region 4,Alabama,Transient non-community system,40,,Dale,4,1,23
+AL0001643,TOTH FIELD,Region 4,Alabama,Transient non-community system,30,,Houston,4,1,25
+AL0001489,FORT RUCKER - AMERICAN WATER,Region 4,Alabama,Community water system,13880,,Dale,23,8,41
+AL0001804,TRAINING AREA-15,Region 4,Alabama,Transient non-community system,25,FORT RUCKER,Dale,4,0,13
+AL0001628,ALLEN AAF,Region 4,Alabama,Transient non-community system,30,,Houston,4,1,26
+AL0001800,LAKE THOLOCCO RECREATION AREA - AMERICAN,Region 4,Alabama,Transient non-community system,25,FORT RUCKER,Dale,22,3,13
+AL0001630,ECH AAF,Region 4,Alabama,Transient non-community system,30,,Dale,4,1,26
+AL0001802,FORWARD OPERATING BASE,Region 4,Alabama,Transient non-community system,25,FORT RUCKER,Dale,10,0,12
+AL0000394,CULLMAN COUNTY WATER DEPARTMENT,Region 4,Alabama,Community water system,49800,,Cullman,27,7,37
+AL0000139,CAMP COTTAQUILLA GSA,Region 4,Alabama,Transient non-community system,160,ANNISTON,Calhoun,3,18,32
+AL0000307,BALLEWS APARTMENTS,Region 4,Alabama,Transient non-community system,40,TUSCUMBIA,Colbert,4,20,35
+AL0001306,MITCHELL WATER SYSTEM INC,Region 4,Alabama,Community water system,9000,TUSCALOOSA,Tuscaloosa,10,1,35
+AL0000361,COVINGTON COUNTY WATER AUTHORITY,Region 4,Alabama,Community water system,13224,ANDALUSIA,Covington,28,2,46
+AL0000629,SLOCOMB WATER WORKS AND SEWER BOARD,Region 4,Alabama,Community water system,3600,SLOCOMB,Geneva,12,47,36
+AL0000888,MADISON COUNTY WATER DEPARTMENT,Region 4,Alabama,Community water system,94128,HUNTSVILLE,Madison,35,1,37
+AL0000036,FOLEY (UTILITIES BOARD OF THE CITY OF),Region 4,Alabama,Community water system,20880,FOLEY,Baldwin,17,6,39
+AL0000244,PENNINGTON (UTILITIES BOARD OF),Region 4,Alabama,Community water system,1080,PENNINGTON,Choctaw,9,12,41
+AL0000298,"JACK WATER SYSTEM, INC",Region 4,Alabama,Community water system,1305,JACK,Coffee,6,8,45
+AL0000767,DETROIT WATER WORKS,Region 4,Alabama,Community water system,435,DETROIT,Lamar,9,29,34
+AL0001809,EAST LOWNDES WATER ASSOCIATION,Region 4,Alabama,Community water system,372,,Lamar,4,0,8
+AL0000677,COTTONWOOD WATER WORKS,Region 4,Alabama,Community water system,3540,COTTONWOOD,Houston,12,28,49
+AL0000379,RIVER FALLS WATER SYSTEM,Region 4,Alabama,Community water system,1011,RIVER FALLS,Covington,6,34,38
+AL0000804,AUBURN WATER WORKS,Region 4,Alabama,Community water system,65313,AUBURN,Lee,21,63,94
+AL0001084,DECATUR (MUNICIPAL UTILITIES BOARD OF),Region 4,Alabama,Community water system,77100,DECATUR,Morgan,16,2,68
+AL0000123,GEORGIANA WATER WORKS & SEWER BOARD,Region 4,Alabama,Community water system,2793,GEORGIANA,Butler,9,3,45
+AL0001761,CLEBURNE COUNTY WATER AUTHORITY,Region 4,Alabama,Community water system,7350,HEFLIN,Cleburne,17,2,23
+AL0001750,WEST AUTAUGA WATER AUTHORITY,Region 4,Alabama,Community water system,4755,AUTAUGAVILLE,Autauga,15,0,28
+AL0001130,WADLEY UTILITIES BOARD,Region 4,Alabama,Community water system,873,WADLEY,Randolph,8,10,31
+AL0000858,WHITE HALL WATER BOARD,Region 4,Alabama,Community water system,2250,WHITE HALL,Lowndes,5,26,35
+AL0000755,MULGA WATER WORKS AND GAS DEPARTMENT,Region 4,Alabama,Community water system,6195,MULGA,Jefferson,8,5,35
+AL0000748,GRAYSVILLE WATER & SEWER BOARD,Region 4,Alabama,Community water system,9279,GRAYSVILLE,Jefferson,7,5,31
+AL0000899,US ARMY GARRISON-REDSTONE ARSENAL,Region 4,Alabama,Community water system,38700,REDSTONE ARSENAL,Madison,22,101,43
+AL0000311,CHEROKEE WATER & GAS DEPARTMENT,Region 4,Alabama,Community water system,1932,CHEROKEE,Colbert,4,17,47
+AL0001005,MOBILE BOARD OF WATER AND SEWER COMM.,Region 4,Alabama,Community water system,279000,MOBILE,Mobile,39,24,41
+AL0000198,LAD MARINA & CAMPGROUND,Region 4,Alabama,Transient non-community system,25,CEDAR BLUFF,Cherokee,4,25,28
+AL0000588,RAINBOW CITY UTILITIES BOARD,Region 4,Alabama,Community water system,11889,RAINBOW CITY,Etowah,14,3,36
+AL0000860,FRANKLIN WATER SYSTEM (TOWN OF),Region 4,Alabama,Community water system,150,TUSKEGEE,Macon,3,10,30
+AL0001362,LEROY WATER AUTHORITY,Region 4,Alabama,Community water system,1710,LEROY,Washington,7,1,36
+AL0000914,LINDEN UTILITIES BOARD,Region 4,Alabama,Community water system,5103,LINDEN,Marengo,16,9,34
+AL0000406,HANCEVILLE (THE WWSB OF THE CITY OF),Region 4,Alabama,Community water system,5844,HANCEVILLE,Cullman,14,3,51
+AL0000853,MOSSES WATER & FIRE PRO AUTHORITY,Region 4,Alabama,Community water system,2008,HAYNEVILLE,Lowndes,12,45,40
+AL0000945,NORTH MARSHALL UTILITIES,Region 4,Alabama,Community water system,11850,GRANT,Marshall,27,1,38
+AL0001770,EAST CENTRAL BALDWIN COUNTY WATER & FPA,Region 4,Alabama,Community water system,5496,ROBERTSDALE,Baldwin,8,194,27
+AL0001811,BIRMINGHAM AL VA MEDICAL CENTER,Region 4,Alabama,Non-Transient non-community system,1500,BIRMINGHAM,Jefferson,3,6,8
+AL0000852,LOWNDESBORO WATER SYSTEM,Region 4,Alabama,Community water system,840,LOWNDESBORO,Lowndes,10,5,36
+AL0000118,UNION SPRINGS UTIL BOARD,Region 4,Alabama,Community water system,5250,UNION SPRINGS,Bullock,17,10,78
+AL0000882,HUNTSVILLE UTILITIES,Region 4,Alabama,Community water system,262155,HUNTSVILLE,Madison,92,0,54
+AL0001044,BEATRICE WATER SYSTEM,Region 4,Alabama,Community water system,591,BEATRICE,Monroe,9,11,68
+AL0001105,GORDO WTR GAS & SEWER BOARD,Region 4,Alabama,Community water system,3630,GORDO,Pickens,9,4,38
+AL0001223,YORK WATER SYSTEM/CITY OF YORK,Region 4,Alabama,Community water system,3435,YORK,Sumter,13,66,61
+AL0000102,HAYDEN WATER WORKS,Region 4,Alabama,Community water system,2550,HAYDEN,Blount,6,18,43
+AL0001107,REFORM WATER & SEWER BOARD,Region 4,Alabama,Community water system,2376,REFORM,Pickens,10,18,33
+AL0000642,GREENE COUNTY STEAM PLANT,Region 4,Alabama,Non-Transient non-community system,120,DEMOPOLIS,Greene,5,2,33
+AL0000533,ECLECTIC WATER WORKS & SEWER BOARD,Region 4,Alabama,Community water system,9477,ECLECTIC,Elmore,13,15,34
+AL0001365,BASF CORPORATION,Region 4,Alabama,Non-Transient non-community system,1300,MCINTOSH,Washington,10,2,36
+AL0000436,LEVEL PLAINS WATER SYSTEM,Region 4,Alabama,Community water system,3630,DALEVILLE,Dale,13,1,40
+AL0001120,PIKE COUNTY WATER AUTHORITY,Region 4,Alabama,Community water system,10590,TROY,Pike,28,31,89
+AL0001815,ENERGY CENTER WATER SYSTEM,Region 4,Alabama,Non-Transient non-community system,2700,BIRMINGHAM,Jefferson,2,0,2
+AL0000594,FAYETTE CO. WATER COORD. & F. P. A.,Region 4,Alabama,Community water system,4134,FAYETTE,Fayette,17,0,40
+AL0000087,WEST BARBOUR COUNTY WATER AUTHORITY,Region 4,Alabama,Community water system,1407,CLAYTON,Barbour,10,4,36
+AL0000607,RED BAY WATER & GAS BOARD,Region 4,Alabama,Community water system,6000,RED BAY,Franklin,21,101,39
+AL0000610,RUSSELLVILLE WATER WORKS,Region 4,Alabama,Community water system,14325,RUSSELLVILLE,Franklin,16,3,111
+AL0000936,BOAZ WATER & SEWER BOARD,Region 4,Alabama,Community water system,14325,BOAZ,Marshall,20,2,29
+AL0000551,WETUMPKA WATER WORKS & SEWER BOARD,Region 4,Alabama,Community water system,9999,WETUMPKA,Elmore,12,13,32
+AL0000540,HOLTVILLE WATER SYSTEM,Region 4,Alabama,Community water system,8385,DEATSVILLE,Elmore,24,4,57
+AL0000738,BIRMINGHAM WATER WORKS BOARD,Region 4,Alabama,Community water system,585000,BIRMINGHAM,Jefferson,152,3,83
+AL0001070,MONTGOMERY WATER WORKS,Region 4,Alabama,Community water system,231354,MONTGOMERY,Montgomery,94,23,70
+AL0001767,AKRON WATER SYSTEM,Region 4,Alabama,Community water system,570,AKRON,Hale,3,28,20
+AL0000580,HIGHLAND WATER AUTHORITY,Region 4,Alabama,Community water system,3852,GADSDEN,Etowah,15,26,34
+AL0001393,PINE HILL WATER DEPARTMENT,Region 4,Alabama,Community water system,2370,PINE HILL,Wilcox,7,1,53
+AL0000082,CLAYTON WATER WORKS & SEWER,Region 4,Alabama,Community water system,2235,CLAYTON,Barbour,11,34,84
+AL0000582,WEST ETOWAH WATER & FIRE PRO AUTHORITY,Region 4,Alabama,Community water system,6765,ATTALLA,Etowah,26,11,104
+AL0001245,LINCOLN (CITY OF),Region 4,Alabama,Community water system,10218,LINCOLN,Talladega,16,63,48
+AL0000581,HOKES BLUFF WATER BOARD,Region 4,Alabama,Community water system,5310,HOKES BLUFF,Etowah,7,1,33
+AL0001204,PELL CITY WATER WORKS,Region 4,Alabama,Community water system,15402,PELL CITY,St. Clair,16,22,33
+AL0000578,GLENCOE WATER WORKS BOARD,Region 4,Alabama,Community water system,6450,GLENCOE,Etowah,14,25,41
+AL0000591,SOUTHSIDE WATER WORKS,Region 4,Alabama,Community water system,11535,SOUTHSIDE,Etowah,17,1,44
+AL0000571,ALTOONA WATER & SEWER BOARD,Region 4,Alabama,Community water system,1143,ALTOONA,Etowah,5,3,38
+AL0000327,SHEFFIELD UTILITIES DEPARTMENT,Region 4,Alabama,Community water system,14607,SHEFFIELD,Colbert,13,0,41
+AL0001437,NEW LONDON WATER & FIRE PRO AUTHORITY,Region 4,Alabama,Community water system,6477,CROPWELL,St. Clair,10,0,93
+AL0000233,"CHOCTAW-EDNA WATER AUTHORITY, INC.",Region 4,Alabama,Community water system,894,PENNINGTON,Choctaw,6,5,25
+AL0000833,LIMESTONE COUNTY WATER SYSTEM,Region 4,Alabama,Community water system,65000,ATHENS,Limestone,29,43,55
+AL0001796,DEKALB-JACKSON WATER SUPPLY DISTRICT,Region 4,Alabama,Community water system,15531,,Jackson,30,24,14
+AL0000076,"WHITE HOUSE WATER SYSTEM, INC.",Region 4,Alabama,Community water system,6852,BAY MINETTE,Baldwin,5,9,31
+AL0001368,DEER PARK-VINEGAR BEND WATER & FPA,Region 4,Alabama,Community water system,1467,DEER PARK,Washington,7,2,34
+AL0001085,FALKVILLE WATER WORKS,Region 4,Alabama,Community water system,1413,FALKVILLE,Morgan,6,4,33
+AL0001156,HARPERSVILLE WATER SYSTEM,Region 4,Alabama,Community water system,2178,HARPERSVILLE,Shelby,10,6,37
+AL0000416,ARITON WATER WORKS,Region 4,Alabama,Community water system,1242,ARITON,Dale,15,7,46

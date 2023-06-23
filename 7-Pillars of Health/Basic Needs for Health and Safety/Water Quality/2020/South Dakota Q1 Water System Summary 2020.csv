@@ -1,0 +1,652 @@
+PWS ID,PWS Name,EPA Region,Primacy Agency,PWS Type,Population<br> Served Count,Cities Served,Counties Served,# of Facilities,# of Violations,# of Site Visits
+SD4600100,BHHEC-HILLSIDE LODGE,Region 8,South Dakota,Transient non-community system,25,HERMOSA,Custer,3,6,2
+SD4602270,SUN VALLEY DEVELOPMENT,Region 8,South Dakota,Community water system,530,RAPID CITY,Meade,5,1,2
+SD4602273,HOLY SMOKE CABINS,Region 8,South Dakota,Transient non-community system,37,KEYSTONE,Pennington,6,3,2
+SD4602274,PRAIRIE BERRY WINERY,Region 8,South Dakota,Transient non-community system,1000,HILL CITY,Pennington,6,1,3
+SD4602276,BOXELDER HIGH COUNTRY ASSOCIATION,Region 8,South Dakota,Community water system,47,RAPID CITY,Pennington,2,8,3
+SD4602277,CLARK RURAL WATER-KAMPESKA,Region 8,South Dakota,Community water system,578,"CLARK, FLORENCE","Clark, Codington, Day, Hamlin",6,43,4
+SD4602285,"SHERIDAN LAKE HIGHLANDS, INC.",Region 8,South Dakota,Community water system,66,"PIEDMONT, RAPID CITY",Pennington,5,18,2
+SD4602323,PARADISE WATER COMPANY LLC,Region 8,South Dakota,Community water system,55,"LEAD, SIOUX FALLS",Lawrence,7,0,3
+SD4602301,CEDAR GULCH I,Region 8,South Dakota,Community water system,45,RAPID CITY,Pennington,2,127,4
+SD4602304,RAINBOW BIBLE RANCH,Region 8,South Dakota,Transient non-community system,50,STURGIS,Meade,6,29,2
+SD4602305,COSMOS MYSTERY AREA,Region 8,South Dakota,Transient non-community system,600,"COLUMBUS, RAPID CITY",Pennington,5,15,2
+SD4600337,TYNDALL,Region 8,South Dakota,Community water system,1067,TYNDALL,Bon Homme,6,4,10
+SD4602342,NORTHWOOD FIRST SUBDIVISION,Region 8,South Dakota,Community water system,90,ABERDEEN,Brown,3,1,3
+SD4602287,VIEWFIELD RURAL WATER SYSTEM,Region 8,South Dakota,Community water system,150,"BLACK HAWK, NEW UNDERWOOD",Meade,7,26,2
+SD4600321,STURGIS,Region 8,South Dakota,Community water system,6627,STURGIS,Meade,20,29,10
+SD4600263,COLONIAL PINE HILLS SANITARY DISTRIC,Region 8,South Dakota,Community water system,1200,RAPID CITY,Pennington,19,23,7
+SD4602336,GILDED MOUNTAIN HOMEOWNERS ASSOCIATI,Region 8,South Dakota,Transient non-community system,45,"LEAD, SPEARFISH",Lawrence,5,1,2
+SD4602297,BLACK HILLS RETREAT CENTER 2,Region 8,South Dakota,Transient non-community system,25,"DEADWOOD, SIOUX FALLS",Lawrence,4,4,1
+SD4602300,WHISPERING WINDS COTTAGES,Region 8,South Dakota,Transient non-community system,38,"HILL CITY, RAPID CITY",Pennington,4,5,1
+SD4602340,COUNTRY STORE AT THREE FORKS,Region 8,South Dakota,Transient non-community system,1000,"BLACK HAWK, RAPID CITY",Pennington,3,4,1
+SD4602356,RIMROCK HEIGHTS HOMEOWNERS ASSOCIATI,Region 8,South Dakota,Community water system,28,RAPID CITY,Pennington,4,0,1
+SD4602359,RUSHMORE MOUNTAIN COASTER,Region 8,South Dakota,Transient non-community system,300,KEYSTONE,Pennington,2,0,1
+SD4602360,MYSTIC HILLS HIDEAWAY SOUTH,Region 8,South Dakota,Transient non-community system,63,DEADWOOD,Lawrence,5,0,1
+SD4602361,VALLEY HEIGHTS ESTATES INC,Region 8,South Dakota,Community water system,320,"RAPID CITY, WESTMINSTER",Pennington,3,3,1
+SD4600039,BISON,Region 8,South Dakota,Community water system,333,BISON,Perkins,11,44,9
+SD4602295,CEDAR GULCH II,Region 8,South Dakota,Community water system,39,"PIEDMONT, RAPID CITY",Pennington,6,136,2
+SD4602272,TIMBERWOOD PARK ESTATES,Region 8,South Dakota,Community water system,75,"PIEDMONT, RAPID CITY",Meade,5,1,2
+SD4602326,PILLAR PEAK,Region 8,South Dakota,Community water system,25,"DEADWOOD, SCRANTON, SPEARFISH",Lawrence,3,0,1
+SD4602358,COLLINS COLONY,Region 8,South Dakota,Community water system,92,"ABERDEEN, IROQUOIS",Clark,5,50,2
+SD4602286,UNITED ORDER OF SOUTH DAKOTA,Region 8,South Dakota,Community water system,75,HOT SPRINGS,Custer,5,25,2
+SD4602289,NORTHERN LIGHTS MOBILE HOME PARK,Region 8,South Dakota,Community water system,57,YANKTON,Yankton,3,15,3
+SD4602290,CREATIVE KIDS TOO PRESCHOOL & DAYCAR,Region 8,South Dakota,Non-Transient non-community system,87,"PIEDMONT, RAPID CITY",Pennington,3,7,2
+SD4602347,MCNENNY STATE FISH HATCHERY,Region 8,South Dakota,Transient non-community system,25,SPEARFISH,Lawrence,3,0,1
+SD4602349,NORRIS PEAK WATER USERS ASSOC,Region 8,South Dakota,Community water system,30,"BLACK HAWK, RAPID CITY",Pennington,4,0,1
+SD4602156,WR/LJ - CREIGHTON PROJECT,Region 8,South Dakota,Community water system,1082,"MURDO, PHILIP","Jones, Pennington",19,0,4
+SD4602159,STAGEBARN SANITARY DISTRICT,Region 8,South Dakota,Community water system,293,"BLACK HAWK, RAPID CITY",Meade,7,24,4
+SD4602160,SPEARFISH CANYON RESORT LLC,Region 8,South Dakota,Transient non-community system,100,"LEAD, SPEARFISH",Lawrence,4,8,4
+SD4602341,RUSTIC RIDGE GUEST CABINS,Region 8,South Dakota,Transient non-community system,30,KEYSTONE,Pennington,3,0,1
+SD4602000,PEACEFUL PINES II,Region 8,South Dakota,Community water system,102,BLACK HAWK,Meade,2,69,8
+SD4602001,SUNNYSIDE MOBILE HOME PARK II,Region 8,South Dakota,Community water system,250,"BLACK HAWK, RAPID CITY",Pennington,4,33,7
+SD4600723,SCHMIDT'S LANDING,Region 8,South Dakota,Transient non-community system,75,BIG STONE CITY,Roberts,4,25,6
+SD4600771,CSP-BLUE BELL,Region 8,South Dakota,Transient non-community system,413,CUSTER,Custer,6,0,7
+SD4600773,CSP-CENTER LAKE & PLAYHOUSE,Region 8,South Dakota,Transient non-community system,120,CUSTER,Custer,9,0,7
+SD4600774,CSP-GAME LODGE,Region 8,South Dakota,Non-Transient non-community system,751,CUSTER,Custer,8,0,6
+SD4600775,CSP-LEGION LAKE,Region 8,South Dakota,Transient non-community system,278,CUSTER,Custer,9,0,7
+SD4600777,CSP-PARK SHOP,Region 8,South Dakota,Transient non-community system,50,CUSTER,Custer,7,0,4
+SD4600778,CSP-STOCKADE LAKE CG-SOUTH,Region 8,South Dakota,Transient non-community system,83,CUSTER,Custer,7,0,5
+SD4602337,BROKEN ARROW HORSE CAMP,Region 8,South Dakota,Transient non-community system,92,CUSTER,Custer,2,7,3
+SD4600095,BHHEC-MAIN LODGE,Region 8,South Dakota,Transient non-community system,25,HERMOSA,Custer,6,11,6
+SD4680108,HILL CITY VISITOR CENTER,Region 8,South Dakota,Transient non-community system,38,HILL CITY,Pennington,3,0,1
+SD4600364,WHITE,Region 8,South Dakota,Community water system,485,WHITE,Brookings,3,5,8
+SD4600366,WHITE LAKE,Region 8,South Dakota,Community water system,372,WHITE LAKE,Aurora,4,5,9
+SD4600367,WHITE RIVER,Region 8,South Dakota,Community water system,581,"VALENTINE, WHITE RIVER",Mellette,11,24,9
+SD4600368,WHITEWOOD,Region 8,South Dakota,Community water system,927,WHITEWOOD,Lawrence,13,45,9
+SD4600370,WILLOW LAKE,Region 8,South Dakota,Community water system,275,WILLOW LAKE,Clark,6,19,8
+SD4600371,WILMOT,Region 8,South Dakota,Community water system,492,WILMOT,Roberts,5,55,8
+SD4600373,WINNER,Region 8,South Dakota,Community water system,3100,WINNER,Tripp,12,12,10
+SD4600375,WOLSEY,Region 8,South Dakota,Community water system,376,WOLSEY,Beadle,5,48,8
+SD4600376,WOONSOCKET,Region 8,South Dakota,Community water system,655,WOONSOCKET,Sanborn,6,60,9
+SD4600377,WORTHING,Region 8,South Dakota,Community water system,877,WORTHING,Lincoln,6,53,8
+SD4600383,COUNTRY ACRES MHP,Region 8,South Dakota,Community water system,70,YANKTON,Yankton,4,26,7
+SD4600384,CUSTER DOC,Region 8,South Dakota,Community water system,25,CUSTER,Custer,10,11,8
+SD4600385,ARLINGTON,Region 8,South Dakota,Community water system,930,ARLINGTON,Kingsbury,5,7,10
+SD4600386,BERESFORD,Region 8,South Dakota,Community water system,2005,BERESFORD,Union,8,2,7
+SD4600387,BESTGEN ADDITION WATER COMPANY,Region 8,South Dakota,Community water system,73,STURGIS,Meade,3,7,11
+SD4600388,BRITTON,Region 8,South Dakota,Community water system,1241,BRITTON,Marshall,6,32,9
+SD4600390,COLTON,Region 8,South Dakota,Community water system,689,COLTON,Minnehaha,5,47,7
+SD4600124,FAITH,Region 8,South Dakota,Community water system,421,FAITH,Meade,4,8,10
+SD4600125,FAULKTON,Region 8,South Dakota,Community water system,736,FAULKTON,Faulk,10,8,11
+SD4600127,FLANDREAU,Region 8,South Dakota,Community water system,2341,FLANDREAU,Moody,10,8,8
+SD4600128,FLORENCE,Region 8,South Dakota,Community water system,374,FLORENCE,Codington,4,22,8
+SD4600391,CROOKS,Region 8,South Dakota,Community water system,1269,CROOKS,Minnehaha,5,48,9
+SD4600392,D & E WATER COMPANY,Region 8,South Dakota,Community water system,100,"BLACK HAWK, SPEARFISH",Lawrence,4,36,7
+SD4600046,BOX ELDER,Region 8,South Dakota,Community water system,8300,BOX ELDER,Pennington,24,135,10
+SD4600047,BRADLEY,Region 8,South Dakota,Community water system,72,BRADLEY,Clark,3,43,10
+SD4600236,PARKSTON,Region 8,South Dakota,Community water system,1508,PARKSTON,Hutchinson,6,14,8
+SD4600237,PEEVER,Region 8,South Dakota,Community water system,165,"BRITTON, PEEVER",Roberts,7,10,8
+SD4600238,PHILIP,Region 8,South Dakota,Community water system,779,PHILIP,Haakon,8,34,9
+SD4600241,PIERPONT,Region 8,South Dakota,Community water system,135,PIERPONT,Day,9,9,8
+SD4600242,PIERRE,Region 8,South Dakota,Community water system,13938,PIERRE,Hughes,30,6,10
+SD4600245,PLANKINTON,Region 8,South Dakota,Community water system,726,PLANKINTON,Aurora,8,23,9
+SD4600246,PLATTE,Region 8,South Dakota,Community water system,1230,PLATTE,Charles Mix,3,9,8
+SD4600247,POLLOCK,Region 8,South Dakota,Community water system,241,POLLOCK,Campbell,5,10,6
+SD4600248,PRESHO,Region 8,South Dakota,Community water system,497,PRESHO,Lyman,8,20,9
+SD4600250,PUKWANA,Region 8,South Dakota,Community water system,285,"CHAMBERLAIN, PUKWANA",Brule,3,31,8
+SD4600252,RAMONA,Region 8,South Dakota,Community water system,174,RAMONA,Lake,7,151,8
+SD4600253,WESTBERRY TRAILS WATER USERS ASSOC,Region 8,South Dakota,Community water system,152,"PIEDMONT, RAPID CITY",Pennington,3,75,5
+SD4600257,RAPID CITY MOBILE HOME PARK,Region 8,South Dakota,Community water system,160,"BLACK HAWK, CEDAREDGE",Pennington,4,123,7
+SD4600259,PLAINSVIEW MOBILE MANOR,Region 8,South Dakota,Community water system,210,"BOX ELDER, ORANGEVALE, RAPID CITY",Pennington,6,119,8
+SD4600260,PONDEROSA MOBILE HOME RANCH,Region 8,South Dakota,Community water system,50,RAPID CITY,Pennington,3,62,7
+SD4600264,CHAPEL LANE WATER COMPANY,Region 8,South Dakota,Community water system,1200,RAPID CITY,Pennington,7,4,9
+SD4600265,CARRIAGE HILLS,Region 8,South Dakota,Community water system,267,"PIEDMONT, RAPID CITY",Pennington,5,5,7
+SD4600268,WHISPERING PINES WATER ASSOCIATION,Region 8,South Dakota,Community water system,45,RAPID CITY,Pennington,4,144,6
+SD4600269,HIDDEN VALLEY WATER ASSOCIATION INC,Region 8,South Dakota,Community water system,30,RAPID CITY,Pennington,4,24,8
+SD4600270,PINE CLIFF ESTATES,Region 8,South Dakota,Community water system,180,"BLACK HAWK, RAPID CITY",Pennington,4,51,8
+SD4600271,HISEGA MEADOWS WATER INC,Region 8,South Dakota,Community water system,486,RAPID CITY,Pennington,13,5,8
+SD4600516,GOLDEN MEADOWS,Region 8,South Dakota,Community water system,96,BLACK HAWK,Meade,3,66,8
+SD4600518,MERCHEN'S MOBILE HOME ACRES,Region 8,South Dakota,Community water system,68,HOT SPRINGS,Fall River,4,37,8
+SD4601014,OUTLAW RANCH,Region 8,South Dakota,Transient non-community system,35,"CUSTER, WAUBAY",Custer,3,2,5
+SD4601019,HILLSIDE COUNTRY CABINS,Region 8,South Dakota,Transient non-community system,54,RAPID CITY,Pennington,2,29,6
+SD4601029,SUNSHINE BIBLE ACADEMY,Region 8,South Dakota,Community water system,240,MILLER,Hand,8,124,8
+SD4601031,MEDICINE MOUNTAIN SCOUT CAMP,Region 8,South Dakota,Transient non-community system,250,RAPID CITY,Pennington,5,13,6
+SD4601032,STORM MOUNTAIN CENTER,Region 8,South Dakota,Transient non-community system,80,"MITCHELL, RAPID CITY",Pennington,9,11,6
+SD4601033,MOONSHINE GULCH SALOON,Region 8,South Dakota,Transient non-community system,25,HILL CITY,Pennington,2,5,5
+SD4601035,SALVATION ARMY CAMP,Region 8,South Dakota,Transient non-community system,25,RAPID CITY,Pennington,4,14,5
+SD4601036,CAMP RIMROCK - PRESBYTERY OF SOUTH D,Region 8,South Dakota,Transient non-community system,25,"ONIDA, RAPID CITY",Pennington,3,14,8
+SD4601038,RUSH MOUNTAIN ADVENTURE PARK,Region 8,South Dakota,Transient non-community system,300,KEYSTONE,Pennington,3,9,5
+SD4601039,KLEIN RANCH,Region 8,South Dakota,Transient non-community system,45,"SIOUX FALLS, TIMBER LAKE",Corson,2,23,5
+SD4602281,WILD TURKEY ESTATES I,Region 8,South Dakota,Community water system,33,SPEARFISH,Lawrence,3,0,1
+SD4600361,WESSINGTON,Region 8,South Dakota,Community water system,175,WESSINGTON,"Beadle, Hand",6,46,9
+SD4600362,WESSINGTON SPRINGS,Region 8,South Dakota,Community water system,956,WESSINGTON SPRINGS,Jerauld,8,4,6
+SD4602309,SOUTHERN BLACK HILLS WATER,Region 8,South Dakota,Community water system,492,"BUFFALO GAP, HOT SPRINGS","Custer, Fall River",8,0,2
+SD4602303,PIEDMONT,Region 8,South Dakota,Community water system,800,PIEDMONT,Meade,1,2,2
+SD4602312,KEMP'S KAMP MIDDLE,Region 8,South Dakota,Transient non-community system,43,KEYSTONE,Pennington,4,1,2
+SD4602315,KEMP'S KAMP WEST,Region 8,South Dakota,Transient non-community system,40,KEYSTONE,Pennington,4,1,2
+SD4602313,SPEARFISH FOREST PRODUCTS,Region 8,South Dakota,Non-Transient non-community system,205,SPEARFISH,Lawrence,4,0,3
+SD4600011,HIGH MEADOWS RANCHETTES,Region 8,South Dakota,Community water system,58,"BLACK HAWK, RAPID CITY",Pennington,4,152,8
+SD4602243,CUSTERS GULCH RV PARK,Region 8,South Dakota,Transient non-community system,100,CUSTER,Custer,5,1,1
+SD4600546,SACORA MOBILE HOME PARK,Region 8,South Dakota,Community water system,42,"PIEDMONT, STURGIS",Meade,4,223,9
+SD4600547,LAUGHING WATER RESTAURANT AT CRAZY H,Region 8,South Dakota,Non-Transient non-community system,2055,"CRAZY HORSE, CUSTER",Custer,13,39,7
+SD4600549,DEER MOUNTAIN,Region 8,South Dakota,Community water system,125,LEAD,Lawrence,4,85,8
+SD4601045,TAM'S CORNER BAR,Region 8,South Dakota,Transient non-community system,25,CAMP CROOK,Harding,2,94,8
+SD4601047,SAINT ONGE LIVESTOCK CAFE,Region 8,South Dakota,Transient non-community system,30,"SPEARFISH, ST ONGE",Lawrence,4,126,5
+SD4601049,BLACK HILLS RETREAT CENTER 1,Region 8,South Dakota,Transient non-community system,71,"DEADWOOD, SIOUX FALLS",Lawrence,4,15,4
+SD4601050,TRAILSHEAD LODGE,Region 8,South Dakota,Transient non-community system,50,LEAD,Lawrence,3,4,6
+SD4601052,THUNDERHEAD EPISCOPAL CAMP,Region 8,South Dakota,Transient non-community system,45,"PIERRE, RAPID CITY, SIOUX FALLS",Lawrence,3,29,5
+SD4601061,DINOSAUR MUSEUM,Region 8,South Dakota,Transient non-community system,500,"COLUMBUS, RAPID CITY",Pennington,4,15,7
+SD4601062,CEDAR CANYON WESLEYAN CAMP,Region 8,South Dakota,Transient non-community system,62,RAPID CITY,Pennington,6,35,5
+SD4601067,PLACERVILLE CAMP,Region 8,South Dakota,Transient non-community system,84,RAPID CITY,Pennington,4,10,5
+SD4601069,PACTOLA PINES STORE,Region 8,South Dakota,Transient non-community system,35,"CUSTER, RAPID CITY",Pennington,4,24,7
+SD4601082,KEYSTONE,Region 8,South Dakota,Community water system,370,KEYSTONE,Pennington,14,16,8
+SD4601089,WEB WATER DEVELOPMENT ASSOCIATION,Region 8,South Dakota,Community water system,16568,"ABERDEEN, EUREKA","Brown, Campbell, Day, Edmunds, Faulk, Marshall, McPherson, Potter, Spink, Walworth",32,4,8
+SD4601090,DAVISON RURAL WATER SYSTEM INC,Region 8,South Dakota,Community water system,3130,MITCHELL,"Aurora, Davison, Douglas, Sanborn",6,1,7
+SD4601096,M-T CORNER,Region 8,South Dakota,Transient non-community system,37,"MADISON, WOONSOCKET",Sanborn,2,40,5
+SD4600540,CHEYENNE CROSSING STORE,Region 8,South Dakota,Transient non-community system,150,LEAD,Lawrence,4,13,6
+SD4600542,SPRING CREEK INN,Region 8,South Dakota,Transient non-community system,56,HILL CITY,Pennington,4,14,7
+SD4600004,ALCESTER,Region 8,South Dakota,Community water system,885,ALCESTER,Union,5,7,10
+SD4600007,BIG STONE CITY,Region 8,South Dakota,Community water system,467,BIG STONE CITY,Grant,8,44,10
+SD4600008,BOWDLE,Region 8,South Dakota,Community water system,485,BOWDLE,Edmunds,11,10,10
+SD4600009,CORONA,Region 8,South Dakota,Community water system,82,CORONA,Roberts,3,44,10
+SD4600010,EAGLE BUTTE,Region 8,South Dakota,Community water system,4000,EAGLE BUTTE,Dewey,3,20,10
+SD4600014,PRAIRIE ACRES LLC,Region 8,South Dakota,Community water system,325,RAPID CITY,Pennington,4,56,8
+SD4600015,SPRING CANYON WATER COMPANY,Region 8,South Dakota,Community water system,89,"PIEDMONT, RAPID CITY",Pennington,6,6,7
+SD4600019,JOBEE ACRES,Region 8,South Dakota,Community water system,75,ABERDEEN,Brown,1,34,10
+SD4600020,ABERDEEN,Region 8,South Dakota,Community water system,26091,ABERDEEN,Brown,19,32,8
+SD4600021,COUNTRY VILLAGE PARK,Region 8,South Dakota,Community water system,340,"ABERDEEN, CANDO",Brown,4,29,9
+SD4600022,LAKESIDE ESTATES,Region 8,South Dakota,Community water system,460,"ABERDEEN, ST LOUIS PARK",Brown,5,28,10
+SD4600890,REPTILE GARDENS INC,Region 8,South Dakota,Transient non-community system,1169,RAPID CITY,Pennington,6,6,4
+SD4600902,PACTOLA WATER ASSOCIATION,Region 8,South Dakota,Transient non-community system,25,"BLACK HAWK, RAPID CITY",Pennington,4,4,6
+SD4600903,YMCA GIRAFFIC PARK,Region 8,South Dakota,Transient non-community system,250,RAPID CITY,Pennington,2,20,5
+SD4600214,MITCHELL,Region 8,South Dakota,Community water system,15539,MITCHELL,Davison,8,37,9
+SD4600215,MOBRIDGE,Region 8,South Dakota,Community water system,3465,MOBRIDGE,Walworth,6,21,9
+SD4600562,KEMP'S KAMP EAST,Region 8,South Dakota,Transient non-community system,48,KEYSTONE,Pennington,9,23,9
+SD4600563,RAPID CITY RV PARK AND CG,Region 8,South Dakota,Transient non-community system,188,RAPID CITY,Pennington,4,50,5
+SD4600568,GUADALAJARA MEXICAN RESTAURANT,Region 8,South Dakota,Transient non-community system,300,SPEARFISH,Lawrence,4,71,7
+SD4600580,MOUNTAIN VIEW LODGE,Region 8,South Dakota,Transient non-community system,68,HILL CITY,Pennington,4,64,7
+SD4600581,POWDER HOUSE LODGE,Region 8,South Dakota,Transient non-community system,300,"KEYSTONE, RAPID CITY",Pennington,7,5,7
+SD4600582,RAFTER-J BAR RANCH,Region 8,South Dakota,Transient non-community system,350,HILL CITY,Pennington,12,0,6
+SD4600583,ROBIN'S ROOST CABINS,Region 8,South Dakota,Transient non-community system,38,HILL CITY,Pennington,5,17,7
+SD4600595,BLACK HILLS CHAIRLIFT,Region 8,South Dakota,Transient non-community system,150,"BLACK HAWK, LEAD",Lawrence,5,6,7
+SD4600597,TOMAHAWK COUNTRY CLUB-CLUBHOUSE,Region 8,South Dakota,Transient non-community system,60,"DEADWOOD, LEAD",Lawrence,3,22,6
+SD4600598,THREE FORKS CAMPGROUND AND RV PARK,Region 8,South Dakota,Transient non-community system,25,HILL CITY,Pennington,7,16,7
+SD4600599,JOHNSON SIDING/RIMROCK TAVERN,Region 8,South Dakota,Transient non-community system,100,RAPID CITY,Pennington,2,17,9
+SD4600605,WILD BILL'S CAMPGROUND,Region 8,South Dakota,Transient non-community system,50,DEADWOOD,Lawrence,3,10,7
+SD4600395,HIGH MEADOWS WATER COMPANY,Region 8,South Dakota,Community water system,140,BLACK HAWK,Meade,3,11,8
+SD4600396,PROVO AREA WATER SYSTEM,Region 8,South Dakota,Community water system,42,EDGEMONT,Fall River,5,197,9
+SD4600397,IPSWICH,Region 8,South Dakota,Community water system,954,IPSWICH,Edmunds,8,6,9
+SD4600398,LAKE PRESTON,Region 8,South Dakota,Community water system,565,LAKE PRESTON,Kingsbury,5,14,10
+SD4600404,PLEASANT VALLEY ESTATES,Region 8,South Dakota,Community water system,105,ABERDEEN,Brown,1,8,8
+SD4600405,PONDEROSA PARK,Region 8,South Dakota,Community water system,31,RAPID CITY,Pennington,3,91,8
+SD4600406,RAPID CITY,Region 8,South Dakota,Community water system,66481,RAPID CITY,Pennington,48,6,8
+SD4600407,SPENCER,Region 8,South Dakota,Community water system,154,SPENCER,McCook,6,33,8
+SD4600408,STRATFORD,Region 8,South Dakota,Community water system,72,"ABERDEEN, STRATFORD",Brown,2,30,8
+SD4602288,LEWIS AND CLARK REGIONAL WATER SYSTE,Region 8,South Dakota,Community water system,0,"LUVERNE, TEA, VERMILLION",Minnehaha,19,0,2
+SD4600167,HUMBOLDT,Region 8,South Dakota,Community water system,589,HUMBOLDT,Minnehaha,5,18,9
+SD4600168,HURLEY,Region 8,South Dakota,Community water system,415,HURLEY,Turner,4,30,8
+SD4600169,HURON,Region 8,South Dakota,Community water system,12592,HURON,Beadle,20,4,9
+SD4600172,HIDDEN VALLEY CAMPGROUND,Region 8,South Dakota,Transient non-community system,50,"BLACK HAWK, DEADWOOD",Lawrence,5,35,4
+SD4600173,IRENE,Region 8,South Dakota,Community water system,420,IRENE,"Clay, Turner, Yankton",4,15,9
+SD4600174,IROQUOIS,Region 8,South Dakota,Community water system,260,IROQUOIS,"Beadle, Kingsbury",7,6,9
+SD4600175,ISABEL,Region 8,South Dakota,Community water system,135,ISABEL,Dewey,5,103,9
+SD4600176,JAVA,Region 8,South Dakota,Community water system,129,JAVA,Walworth,4,17,10
+SD4600179,WESTPORT SANITARY DISTRICT,Region 8,South Dakota,Community water system,125,"ABERDEEN, WESTPORT",Brown,1,9,7
+SD4600181,KADOKA,Region 8,South Dakota,Community water system,654,KADOKA,Jackson,9,56,8
+SD4600182,KENNEBEC,Region 8,South Dakota,Community water system,265,KENNEBEC,Lyman,7,34,9
+SD4602293,ROOST RESORT - EAST WELL,Region 8,South Dakota,Transient non-community system,30,CUSTER,Custer,4,0,3
+SD4602298,ROOST RESORT - CAMPGROUND WELL,Region 8,South Dakota,Transient non-community system,25,CUSTER,Custer,4,1,4
+SD4600184,KIMBALL,Region 8,South Dakota,Community water system,703,KIMBALL,Brule,5,6,10
+SD4600185,LAKE ANDES,Region 8,South Dakota,Community water system,879,LAKE ANDES,Charles Mix,5,18,8
+SD4600186,LAKE CITY,Region 8,South Dakota,Community water system,51,"BRITTON, LAKE CITY",Marshall,4,122,9
+SD4600187,LAKE NORDEN,Region 8,South Dakota,Community water system,424,LAKE NORDEN,Hamlin,18,6,10
+SD4600189,LANGFORD,Region 8,South Dakota,Community water system,313,LANGFORD,Marshall,4,4,10
+SD4600190,LEAD-DEADWOOD SANITARY DISTRICT,Region 8,South Dakota,Community water system,0,DEADWOOD,Lawrence,37,44,8
+SD4600192,LEMMON,Region 8,South Dakota,Community water system,1227,LEMMON,Perkins,16,30,9
+SD4600193,LENNOX,Region 8,South Dakota,Community water system,2173,LENNOX,Lincoln,19,6,9
+SD4600194,LEOLA,Region 8,South Dakota,Community water system,457,LEOLA,McPherson,6,7,10
+SD4600195,LESTERVILLE,Region 8,South Dakota,Community water system,127,LESTERVILLE,Yankton,3,27,7
+SD4600196,LETCHER,Region 8,South Dakota,Community water system,190,LETCHER,Sanborn,3,27,8
+SD4600197,MCINTOSH,Region 8,South Dakota,Community water system,173,MCINTOSH,Corson,8,30,11
+SD4600198,MCLAUGHLIN,Region 8,South Dakota,Community water system,663,MCLAUGHLIN,Corson,12,3,9
+SD4600199,MADISON,Region 8,South Dakota,Community water system,7425,MADISON,Lake,17,33,9
+SD4600201,MARION,Region 8,South Dakota,Community water system,784,MARION,Turner,7,8,10
+SD4600202,MARTIN,Region 8,South Dakota,Community water system,1071,MARTIN,Bennett,9,53,10
+SD4600203,MARVIN,Region 8,South Dakota,Community water system,30,"MARVIN, SOUTH SHORE",Grant,6,230,10
+SD4600204,MELLETTE,Region 8,South Dakota,Community water system,210,"MELLETTE, REDFIELD",Spink,7,10,9
+SD4600205,MENNO,Region 8,South Dakota,Community water system,620,MENNO,Hutchinson,5,7,8
+SD4600207,MILBANK,Region 8,South Dakota,Community water system,3353,MILBANK,Grant,10,2,8
+SD4600211,MILLER,Region 8,South Dakota,Community water system,1489,MILLER,Hand,12,11,8
+SD4600212,MISSION HILL,Region 8,South Dakota,Community water system,177,"MISSION HILL, YANKTON",Yankton,1,19,9
+SD4600779,CSP-STOCKADE LAKE CG-NORTH,Region 8,South Dakota,Transient non-community system,44,CUSTER,Custer,6,0,5
+SD4600780,CSP-SYLVAN LAKE,Region 8,South Dakota,Transient non-community system,762,CUSTER,Custer,9,0,5
+SD4600789,DOT REST AREA 119 - GLACIAL LAKES,Region 8,South Dakota,Transient non-community system,1000,"PIERRE, ROSHOLT",Roberts,4,2,7
+SD4600810,DOT REST AREA 517A-SPEARFISH,Region 8,South Dakota,Transient non-community system,300,"PIERRE, RAPID CITY",Meade,5,8,6
+SD4600846,GFP-BEAR BUTTE VISITOR'S CENTER,Region 8,South Dakota,Transient non-community system,60,"PIERRE, STURGIS",Meade,4,5,6
+SD4600862,WESTON HEIGHTS HOMEOWNERS ASSOCIATIO,Region 8,South Dakota,Community water system,372,RAPID CITY,Meade,4,9,9
+SD4600863,PONDEROSA RIDGE,Region 8,South Dakota,Community water system,90,RAPID CITY,Pennington,3,48,8
+SD4600012,MIDLAND,Region 8,South Dakota,Community water system,120,MIDLAND,Haakon,5,48,9
+SD4600013,NEW EFFINGTON,Region 8,South Dakota,Community water system,230,NEW EFFINGTON,Roberts,6,20,9
+SD4600409,TEA,Region 8,South Dakota,Community water system,5600,TEA,Lincoln,9,8,8
+SD4600411,TIMBER LAKE,Region 8,South Dakota,Community water system,435,TIMBER LAKE,Dewey,13,103,8
+SD4600412,TIMBERLAND PARK,Region 8,South Dakota,Community water system,140,YANKTON,Yankton,2,75,7
+SD4600864,GRANT-ROBERTS RURAL WATER SYSTEM,Region 8,South Dakota,Community water system,4857,MILBANK,"Codington, Grant, Roberts",14,2,8
+SD4600865,BON HOMME-YANKTON RWS,Region 8,South Dakota,Community water system,12448,"AVON, TABOR","Bon Homme, Douglas, Hanson, Hutchinson, McCook, Turner, Yankton",23,7,8
+SD4600866,SIOUX RURAL WATER SYSTEM,Region 8,South Dakota,Community water system,4091,"GOODWIN, WATERTOWN","Clark, Codington, Deuel, Hamlin",29,0,7
+SD4600870,SOUTH LINCOLN RURAL WATER SYSTEM,Region 8,South Dakota,Community water system,4404,"BERESFORD, WORTHING","Lincoln, Turner, Union",17,29,7
+SD4600874,KINGBROOK III RURAL WATER SYSTEM,Region 8,South Dakota,Community water system,2738,ARLINGTON,Lake,16,0,10
+SD4600875,SPEARFISH MEADOWS,Region 8,South Dakota,Community water system,87,SPEARFISH,Lawrence,11,169,8
+SD4600876,WESTVIEW HOMEOWNERS ASSOCIATION,Region 8,South Dakota,Community water system,103,SPEARFISH,Lawrence,5,13,7
+SD4600877,FAIRBURN WATER ASSOCIATION,Region 8,South Dakota,Community water system,55,FAIRBURN,Custer,2,37,9
+SD4600878,HANSON RURAL WATER SYSTEM,Region 8,South Dakota,Community water system,2490,"EMERY, FULTON","Davison, Hanson, McCook",15,4,8
+SD4600881,CLARK RURAL WATER SYSTEM,Region 8,South Dakota,Community water system,2130,"CLARK, FLORENCE","Clark, Codington, Day, Hamlin",15,34,10
+SD4600882,BROWN-DAY-MARSHALL RWS,Region 8,South Dakota,Community water system,5673,"BRITTON, LANGFORD","Brown, Day, Marshall",24,2,7
+SD4600884,PRAIRIE ACRES NORTH,Region 8,South Dakota,Community water system,292,RAPID CITY,Pennington,4,101,8
+SD4600221,MURDO,Region 8,South Dakota,Community water system,488,MURDO,Jones,9,11,8
+SD4600222,NEWELL,Region 8,South Dakota,Community water system,603,NEWELL,Butte,14,20,8
+SD4600223,BUTTE-MEADE SWD-BEAN WELL,Region 8,South Dakota,Community water system,1469,NEWELL,"Butte, Meade",14,35,8
+SD4600224,NEW UNDERWOOD,Region 8,South Dakota,Community water system,750,NEW UNDERWOOD,Pennington,8,37,10
+SD4600225,NISLAND,Region 8,South Dakota,Community water system,232,NISLAND,Butte,4,211,12
+SD4600226,NORTH SIOUX CITY,Region 8,South Dakota,Community water system,2530,NORTH SIOUX CITY,Union,19,34,10
+SD4600227,NORTHVILLE,Region 8,South Dakota,Community water system,143,NORTHVILLE,Spink,7,32,10
+SD4600228,NUNDA,Region 8,South Dakota,Community water system,43,NUNDA,Lake,3,24,8
+SD4600229,OACOMA,Region 8,South Dakota,Community water system,451,OACOMA,Lyman,8,12,9
+SD4600230,OELRICHS,Region 8,South Dakota,Community water system,126,OELRICHS,Fall River,4,26,9
+SD4600231,OLDHAM,Region 8,South Dakota,Community water system,133,"ARLINGTON, OLDHAM",Kingsbury,6,11,10
+SD4600233,ONIDA,Region 8,South Dakota,Community water system,740,ONIDA,Sully,11,65,8
+SD4600235,PARKER,Region 8,South Dakota,Community water system,1022,PARKER,Turner,9,44,9
+SD4600940,LONG VALLEY ELEMENTARY SCHOOL,Region 8,South Dakota,Non-Transient non-community system,48,KADOKA,Jackson,2,19,9
+SD4600948,PINE GROVE,Region 8,South Dakota,Community water system,402,RAPID CITY,Pennington,2,13,5
+SD4600963,"HARNEY CAMP, INC.",Region 8,South Dakota,Transient non-community system,25,CUSTER,Pennington,2,35,5
+SD4600964,CAMP JUDSON,Region 8,South Dakota,Transient non-community system,100,"KEYSTONE, SIOUX FALLS",Pennington,3,2,5
+SD4600967,"SOUTH WHITLOCK RESORT, LLC",Region 8,South Dakota,Transient non-community system,50,GETTYSBURG,Potter,1,15,4
+SD4600615,AMERICAN BUFFALO RESORT,Region 8,South Dakota,Transient non-community system,270,RAPID CITY,Pennington,6,25,7
+SD4600620,ROLLING MEADOWS,Region 8,South Dakota,Community water system,78,ABERDEEN,Brown,1,6,9
+SD4600621,AURORA-BRULE RURAL WATER SYSTEM,Region 8,South Dakota,Community water system,2600,KIMBALL,"Aurora, Brule, Buffalo, Davison, Douglas, Jerauld",14,42,7
+SD4600624,PINE LAKE HILLS,Region 8,South Dakota,Community water system,320,SIOUX FALLS,Minnehaha,6,21,8
+SD4600625,SPEARFISH VALLEY MOBILE ESTATES,Region 8,South Dakota,Community water system,155,SPEARFISH,Lawrence,7,9,8
+SD4600626,CLAY RURAL WATER SYSTEM,Region 8,South Dakota,Community water system,4395,WAKONDA,"Clay, Union",18,5,7
+SD4600627,SOUTH CANYON COUNTRY ESTATES,Region 8,South Dakota,Community water system,420,RAPID CITY,Pennington,8,10,10
+SD4600082,CANTON,Region 8,South Dakota,Community water system,3057,CANTON,Lincoln,17,31,8
+SD4600217,MONTROSE,Region 8,South Dakota,Community water system,483,MONTROSE,McCook,5,130,7
+SD4600218,MORRISTOWN,Region 8,South Dakota,Community water system,55,MORRISTOWN,Corson,9,132,9
+SD4600220,MOUNT VERNON,Region 8,South Dakota,Community water system,462,MOUNT VERNON,Davison,6,12,8
+SD4600346,VOLGA,Region 8,South Dakota,Community water system,1768,VOLGA,Brookings,10,7,9
+SD4600347,VOLIN,Region 8,South Dakota,Community water system,161,VOLIN,Yankton,3,10,6
+SD4600348,WAGNER,Region 8,South Dakota,Community water system,1566,WAGNER,Charles Mix,3,7,7
+SD4600349,WAKONDA,Region 8,South Dakota,Community water system,321,WAKONDA,Clay,4,6,8
+SD4600350,WALLACE,Region 8,South Dakota,Community water system,87,WALLACE,Codington,7,50,8
+SD4600999,TM RURAL WATER DISTRICT,Region 8,South Dakota,Community water system,3968,"PARKER, SIOUX FALLS","McCook, Turner",22,3,8
+SD4600023,THE MEADOWS,Region 8,South Dakota,Community water system,80,ABERDEEN,Brown,4,111,10
+SD4600025,ALPENA,Region 8,South Dakota,Community water system,286,"ALPENA, MILLER",Jerauld,4,29,9
+SD4600028,ARMOUR,Region 8,South Dakota,Community water system,702,ARMOUR,Douglas,7,4,10
+SD4602345,CAMROSE COLONY,Region 8,South Dakota,Community water system,75,"ABERDEEN, FRANKFORT",Spink,4,22,1
+SD4602245,RUSHMORE TRAMWAY ADVENTURES,Region 8,South Dakota,Transient non-community system,500,KEYSTONE,Pennington,4,8,1
+SD4602164,LEAD,Region 8,South Dakota,Community water system,3292,LEAD,Lawrence,6,4,6
+SD4602165,THREE FLAGS RV PARK,Region 8,South Dakota,Transient non-community system,45,BLACK HAWK,Meade,4,2,6
+SD4602167,SUGAR SHACK,Region 8,South Dakota,Transient non-community system,75,DEADWOOD,Lawrence,3,47,4
+SD4602051,LONG LAKE COLONY,Region 8,South Dakota,Community water system,95,"ABERDEEN, WESTPORT",Brown,3,76,10
+SD4602056,DEERFIELD COLONY,Region 8,South Dakota,Community water system,130,"ABERDEEN, IPSWICH",Edmunds,4,8,10
+SD4602057,BLUMENGARD COLONY,Region 8,South Dakota,Community water system,115,"ABERDEEN, FAULKTON",Faulk,3,16,7
+SD4602059,SPINK COLONY,Region 8,South Dakota,Community water system,100,"ABERDEEN, FRANKFORT",Spink,7,103,8
+SD4602060,GLENDALE COLONY,Region 8,South Dakota,Community water system,95,"ABERDEEN, FRANKFORT",Spink,9,222,9
+SD4602064,FORDHAM COLONY,Region 8,South Dakota,Community water system,120,"ABERDEEN, CARPENTER",Clark,9,72,8
+SD4602066,BRENTWOOD COLONY,Region 8,South Dakota,Community water system,115,FAULKTON,Faulk,7,123,7
+SD4602068,SOUTH SHORE,Region 8,South Dakota,Community water system,180,SOUTH SHORE,Codington,9,52,9
+SD4602070,GCC DACOTAH-NORTH QUARRY WELL,Region 8,South Dakota,Non-Transient non-community system,35,RAPID CITY,Pennington,3,0,8
+SD4602073,PEARL CREEK COLONY,Region 8,South Dakota,Community water system,90,"ABERDEEN, IROQUOIS",Beadle,4,61,7
+SD4602076,SPRING LAKE COLONY,Region 8,South Dakota,Community water system,120,ARLINGTON,Kingsbury,4,136,8
+SD4602077,UPLAND COLONY,Region 8,South Dakota,Community water system,180,"ABERDEEN, ARTESIAN",Sanborn,5,156,8
+SD4602081,NEWDALE COLONY,Region 8,South Dakota,Community water system,99,ELKTON,Brookings,9,46,9
+SD4602084,RIMROCK RIDGE WATER ASSOCIATION,Region 8,South Dakota,Community water system,35,RAPID CITY,Pennington,4,49,7
+SD4602086,PLEASANT VALLEY COLONY,Region 8,South Dakota,Community water system,107,"ABERDEEN, FLANDREAU",Moody,12,109,9
+SD4602087,CSP-WILDLIFE STATION VC,Region 8,South Dakota,Transient non-community system,297,CUSTER,Custer,3,0,6
+SD4602089,SPRING CREEK SANITARY DISTRICT,Region 8,South Dakota,Community water system,465,PIERRE,Hughes,7,28,7
+SD4602093,DAKOTA DUNES CID,Region 8,South Dakota,Community water system,3000,DAKOTA DUNES,Union,10,3,7
+SD4602094,WHISPERING WILLOWS,Region 8,South Dakota,Community water system,90,"BLACK HAWK, BOX ELDER, RAPID CITY",Pennington,5,49,7
+SD4602246,BOONDOCKS ADVENTURES,Region 8,South Dakota,Transient non-community system,50,DEADWOOD,Lawrence,9,12,1
+SD4602247,R BAR AND GRILL,Region 8,South Dakota,Transient non-community system,25,MARTIN,Bennett,2,62,2
+SD4602249,ROLLING DICE SUBDIVISION,Region 8,South Dakota,Community water system,120,PIEDMONT,Meade,4,1,2
+SD4602250,LOFTY PINES II,Region 8,South Dakota,Community water system,38,PIEDMONT,Meade,5,4,2
+SD4602252,SPRING CREEK ACRES,Region 8,South Dakota,Community water system,145,"BLACK HAWK, HOT SPRINGS",Custer,4,16,2
+SD4602253,HORSE THIEF CAMPGROUND,Region 8,South Dakota,Transient non-community system,140,"CUSTER, HILL CITY",Pennington,9,5,1
+SD4602256,SHEPS CANYON COVE MHC,Region 8,South Dakota,Transient non-community system,167,HOT SPRINGS,Fall River,4,12,1
+SD4602257,WILEN ENTERPRISES WATER,Region 8,South Dakota,Community water system,0,BELLE FOURCHE,Butte,3,1,3
+SD4602258,MEADOW CREST HOMEOWNERS ASSOCIATION,Region 8,South Dakota,Community water system,48,"DEADWOOD, SPEARFISH",Lawrence,4,24,2
+SD4602259,76 RANCH ESTATES,Region 8,South Dakota,Community water system,40,"DEADWOOD, STURGIS",Lawrence,2,187,3
+SD4602260,WEST NIKE SUBDIVISION,Region 8,South Dakota,Community water system,50,RAPID CITY,Meade,4,0,2
+SD4602261,GOLDEN VALLEY WATER COMPANY,Region 8,South Dakota,Community water system,165,"BLACK HAWK, RAPID CITY",Meade,4,15,2
+SD4602263,SUNSET RANCH,Region 8,South Dakota,Community water system,150,"PIEDMONT, RAPID CITY",Pennington,3,23,2
+SD4602265,STEEL WHEEL CAMPGROUND AND CONVENIEN,Region 8,South Dakota,Transient non-community system,150,"BLACK HAWK, DEADWOOD",Lawrence,5,0,3
+SD4602266,HORSESHOE ACRES WATER ASSOCIATION,Region 8,South Dakota,Community water system,65,PIEDMONT,Meade,4,5,2
+SD4680000,BOXELDER CIVILIAN CONSERVATION CTR,Region 8,South Dakota,Non-Transient non-community system,220,NEMO,Lawrence,5,6,6
+SD4602095,DEBERG WELL USERS ASSOCIATION,Region 8,South Dakota,Community water system,54,SPEARFISH,Lawrence,2,25,6
+SD4600317,SPRINGFIELD,Region 8,South Dakota,Community water system,1989,SPRINGFIELD,Bon Homme,6,23,6
+SD4600318,STICKNEY,Region 8,South Dakota,Community water system,300,STICKNEY,Aurora,3,5,10
+SD4600324,BLUCKSBERG MOUNTAIN #1,Region 8,South Dakota,Community water system,223,"PIEDMONT, STURGIS",Meade,9,19,8
+SD4600326,SUMMIT,Region 8,South Dakota,Community water system,288,SUMMIT,Roberts,6,88,9
+SD4600327,TABOR,Region 8,South Dakota,Community water system,423,TABOR,Bon Homme,5,4,9
+SD4600331,TOLSTOY,Region 8,South Dakota,Community water system,36,TOLSTOY,Potter,4,85,8
+SD4600333,TRENT,Region 8,South Dakota,Community water system,232,TRENT,Moody,5,57,8
+SD4600606,VALLEY MOTEL,Region 8,South Dakota,Transient non-community system,25,CUSTER,Custer,4,23,7
+SD4600609,WHEELS WEST RV PARK,Region 8,South Dakota,Transient non-community system,68,CUSTER,Custer,3,15,8
+SD4600610,CUSTER MOUNTAIN CAMPGROUND,Region 8,South Dakota,Transient non-community system,100,CUSTER,Custer,4,30,5
+SD4600334,TRIPP,Region 8,South Dakota,Community water system,647,TRIPP,Hutchinson,8,92,7
+SD4600335,TULARE,Region 8,South Dakota,Community water system,217,TULARE,Spink,5,24,10
+SD4600338,UTICA,Region 8,South Dakota,Community water system,65,"UTICA, YANKTON",Yankton,3,15,8
+SD4600340,VALLEY SPRINGS,Region 8,South Dakota,Community water system,800,VALLEY SPRINGS,Minnehaha,7,11,8
+SD4600341,VEBLEN,Region 8,South Dakota,Community water system,526,VEBLEN,Marshall,6,85,8
+SD4600342,VERMILLION,Region 8,South Dakota,Community water system,11108,VERMILLION,Clay,13,2,9
+SD4600343,VIBORG,Region 8,South Dakota,Community water system,782,VIBORG,Turner,6,15,8
+SD4680063,USFS-BHNF HORSETHIEF LAKE CG,Region 8,South Dakota,Transient non-community system,79,"CUSTER, HILL CITY",Pennington,3,3,5
+SD4680064,USFS-BHNF OREVILLE CAMPGROUND,Region 8,South Dakota,Transient non-community system,40,"CUSTER, HILL CITY",Pennington,4,2,7
+SD4680068,USFS-BHNF ROUBAIX LAKE CG,Region 8,South Dakota,Transient non-community system,65,"CUSTER, HILL CITY",Lawrence,4,4,5
+SD4680071,USFS-BHNF PACTOLA CAMPGROUND,Region 8,South Dakota,Transient non-community system,117,"CUSTER, HILL CITY",Pennington,4,3,6
+SD4680073,USFS-BHNF CHIPPER/THUMPER CG,Region 8,South Dakota,Transient non-community system,48,"CUSTER, HILL CITY",Pennington,4,3,5
+SD4680074,USFS-BHNF WOODSY/SMOKEY CG,Region 8,South Dakota,Transient non-community system,48,"CUSTER, HILL CITY",Pennington,5,9,3
+SD4680078,USFS-BHNF ROCKY CAMPGROUND,Region 8,South Dakota,Transient non-community system,48,"CUSTER, HILL CITY",Pennington,5,4,5
+SD4680001,PICKSTOWN,Region 8,South Dakota,Community water system,201,PICKSTOWN,Charles Mix,4,8,7
+SD4680002,FORT MEADE VA CENTER,Region 8,South Dakota,Community water system,800,FORT MEADE,Meade,12,66,6
+SD4600101,CUSTER,Region 8,South Dakota,Community water system,2067,CUSTER,Custer,24,39,8
+SD4600102,DALLAS,Region 8,South Dakota,Community water system,132,DALLAS,Gregory,2,7,10
+SD4600104,DEADWOOD,Region 8,South Dakota,Community water system,1270,DEADWOOD,Lawrence,10,12,9
+SD4600105,DELL RAPIDS,Region 8,South Dakota,Community water system,3633,DELL RAPIDS,Minnehaha,7,5,9
+SD4600106,DELMONT,Region 8,South Dakota,Community water system,120,DELMONT,Douglas,3,10,7
+SD4600108,DOLAND,Region 8,South Dakota,Community water system,180,DOLAND,Spink,8,14,8
+SD4600110,DUPREE,Region 8,South Dakota,Community water system,525,DUPREE,Ziebach,3,15,9
+SD4600112,TRI-COUNTY RURAL WATER SYSTEM,Region 8,South Dakota,Community water system,2880,"EAGLE BUTTE, RIDGEVIEW","Dewey, Meade, Ziebach",42,64,10
+SD4600113,EDEN,Region 8,South Dakota,Community water system,89,EDEN,Marshall,6,39,9
+SD4600114,EDGEMONT,Region 8,South Dakota,Community water system,774,EDGEMONT,Fall River,14,202,10
+SD4600115,EGAN,Region 8,South Dakota,Community water system,278,EGAN,Moody,4,32,8
+SD4600116,ELK POINT,Region 8,South Dakota,Community water system,1963,ELK POINT,Union,6,41,9
+SD4600130,FORT PIERRE,Region 8,South Dakota,Community water system,2260,FORT PIERRE,Stanley,8,15,8
+SD4600133,FREDERICK,Region 8,South Dakota,Community water system,250,FREDERICK,Brown,3,10,10
+SD4600134,FREEMAN,Region 8,South Dakota,Community water system,1298,FREEMAN,Hutchinson,7,13,8
+SD4600135,FRUITDALE,Region 8,South Dakota,Community water system,64,FRUITDALE,Butte,2,45,8
+SD4600136,CSP-FRENCH CREEK HORSE CAMP,Region 8,South Dakota,Transient non-community system,32,CUSTER,Custer,5,6,6
+SD4600137,GARDEN CITY,Region 8,South Dakota,Community water system,50,GARDEN CITY,Clark,7,98,8
+SD4600138,GARRETSON,Region 8,South Dakota,Community water system,1166,GARRETSON,Minnehaha,7,66,9
+SD4600139,GARY,Region 8,South Dakota,Community water system,231,GARY,Deuel,6,5,10
+SD4600140,GAYVILLE,Region 8,South Dakota,Community water system,407,GAYVILLE,Yankton,6,17,10
+SD4600141,GEDDES,Region 8,South Dakota,Community water system,208,"GEDDES, LAKE ANDES",Charles Mix,3,21,10
+SD4600142,GETTYSBURG,Region 8,South Dakota,Community water system,1162,GETTYSBURG,Potter,4,9,9
+SD4600143,T C & G RURAL WATER SYSTEM,Region 8,South Dakota,Community water system,170,"GLENCROSS, MOBRIDGE",Dewey,14,59,9
+SD4600145,GREGORY,Region 8,South Dakota,Community water system,1295,GREGORY,Gregory,37,33,10
+SD4600147,GROTON,Region 8,South Dakota,Community water system,1458,GROTON,Brown,5,5,10
+SD4600629,COUNTRY CLUB ESTATES,Region 8,South Dakota,Community water system,83,HOT SPRINGS,Fall River,3,39,8
+SD4600630,ELK CREEK RESORT,Region 8,South Dakota,Transient non-community system,90,PIEDMONT,Meade,5,63,5
+SD4602318,APPLE SPRINGS SUBDIVISION,Region 8,South Dakota,Community water system,50,"FLOWER MOUND, RAPID CITY",Lawrence,3,2,1
+SD4602282,WILD TURKEY ESTATES II,Region 8,South Dakota,Community water system,45,SPEARFISH,Lawrence,4,0,2
+SD4602338,OVER THE EDGE BAR AND GRILL,Region 8,South Dakota,Transient non-community system,25,CAMP CROOK,Harding,2,3,3
+SD4602346,FOUNDING FATHERS AT INDEPENDENCE HAL,Region 8,South Dakota,Transient non-community system,90,RAPID CITY,Pennington,4,2,1
+SD4600090,CLAREMONT,Region 8,South Dakota,Community water system,127,"BRITTON, CLAREMONT",Brown,4,39,9
+SD4600091,CLARK,Region 8,South Dakota,Community water system,1139,CLARK,Clark,8,7,9
+SD4600092,CLEAR LAKE,Region 8,South Dakota,Community water system,1273,CLEAR LAKE,Deuel,8,4,9
+SD4600093,COLMAN,Region 8,South Dakota,Community water system,782,COLMAN,Moody,6,53,8
+SD4600094,COLOME,Region 8,South Dakota,Community water system,296,COLOME,Tripp,5,32,10
+SD4600096,CONDE,Region 8,South Dakota,Community water system,135,CONDE,Spink,5,17,9
+SD4600097,CORSICA,Region 8,South Dakota,Community water system,592,CORSICA,Douglas,5,15,10
+SD4600099,CRESBARD,Region 8,South Dakota,Community water system,110,"CRESBARD, WECOTA",Faulk,4,6,10
+SD4600352,WASTA,Region 8,South Dakota,Community water system,80,"WALL, WASTA",Pennington,5,61,8
+SD4600354,PELICAN PLAZA,Region 8,South Dakota,Community water system,100,"RANCHO PALOS VERDE, WATERTOWN",Codington,8,132,8
+SD4600356,WATERTOWN MUNICIPAL UTILITIES,Region 8,South Dakota,Community water system,21482,WATERTOWN,Codington,52,4,6
+SD4600357,WAUBAY,Region 8,South Dakota,Community water system,576,WAUBAY,Day,5,67,9
+SD4600360,WEBSTER,Region 8,South Dakota,Community water system,1886,WEBSTER,Day,8,6,7
+SD4680083,USFS - NEMO WATER SYSTEM,Region 8,South Dakota,Non-Transient non-community system,31,"CUSTER, SPEARFISH",Lawrence,9,13,5
+SD4680103,COE-COTTONWOOD SPRINGS,Region 8,South Dakota,Transient non-community system,25,"CHAMBERLAIN, HOT SPRINGS",Fall River,5,21,5
+SD4680110,USFS-BHNF PACTOLA VISITOR CENTER,Region 8,South Dakota,Transient non-community system,535,"HILL CITY, SPEARFISH",Pennington,4,23,6
+SD4600117,ELKTON,Region 8,South Dakota,Community water system,736,ELKTON,Brookings,6,14,8
+SD4600118,EMERY,Region 8,South Dakota,Community water system,447,EMERY,Hanson,3,10,10
+SD4600119,ESTELLINE,Region 8,South Dakota,Community water system,768,ESTELLINE,Hamlin,11,84,11
+SD4600120,ETHAN,Region 8,South Dakota,Community water system,331,ETHAN,Davison,4,9,8
+SD4600121,EUREKA,Region 8,South Dakota,Community water system,868,EUREKA,McPherson,10,9,11
+SD4600430,BROOKINGS-DEUEL RURAL WATER SYSTEM,Region 8,South Dakota,Community water system,5300,"CLEAR LAKE, TORONTO","Brookings, Deuel",36,5,10
+SD4600431,KINGBROOK I RURAL WATER SYSTEM,Region 8,South Dakota,Community water system,5686,ARLINGTON,Brookings,7,3,8
+SD4600432,MINNEHAHA COMMUNITY WATER CORP,Region 8,South Dakota,Community water system,12805,DELL RAPIDS,"Lincoln, McCook, Minnehaha",38,6,10
+SD4600433,RANDALL COMMUNITY WATER DISTRICT,Region 8,South Dakota,Community water system,6078,"LAKE ANDES, WAGNER",Charles Mix,22,5,7
+SD4600501,MINA LAKE SANITARY DISTRICT,Region 8,South Dakota,Community water system,863,"ABERDEEN, MINA",Edmunds,3,16,10
+SD4600504,RICHMOND HEIGHTS HOMEOWNERS ASSOCIAT,Region 8,South Dakota,Community water system,67,ABERDEEN,Brown,2,16,8
+SD4600508,RIVERSIDE MOBILE HOME COURT,Region 8,South Dakota,Community water system,60,SPEARFISH,Butte,1,65,8
+SD4600511,KINGBROOK II RURAL WATER SYSTEM,Region 8,South Dakota,Community water system,2532,ARLINGTON,Kingsbury,18,3,10
+SD4600512,SUNRISE HOMEOWNERS ASSOCIATION,Region 8,South Dakota,Community water system,50,SPEARFISH,Lawrence,3,159,9
+SD4600513,THRALL MTN. PROPERTY OWNERS ASSOCIAT,Region 8,South Dakota,Community water system,70,"BLACK HAWK, RAPID CITY",Pennington,5,40,6
+SD4600514,NORTHDALE SANITARY DISTRICT,Region 8,South Dakota,Community water system,1075,"BLACK HAWK, PIEDMONT, RAPID CITY","Meade, Pennington",5,5,7
+SD4600515,MIDLAND HEIGHTS,Region 8,South Dakota,Community water system,130,"BLACK HAWK, RAPID CITY",Meade,4,11,8
+SD4600423,YANKTON,Region 8,South Dakota,Community water system,14700,YANKTON,Yankton,9,31,6
+SD4600425,GREEN ACRES ASSOCIATION,Region 8,South Dakota,Community water system,75,BATH,Brown,7,11,8
+SD4600426,BICENTENNIAL TRAILER COURT,Region 8,South Dakota,Community water system,75,SPEARFISH,Lawrence,3,41,7
+SD4602099,"EAST WINDS COURT, INC.",Region 8,South Dakota,Community water system,180,"MISSION HILL, YANKTON",Yankton,7,10,7
+SD4602102,CREEKSIDE COUNTRY RESORT,Region 8,South Dakota,Transient non-community system,130,HILL CITY,Pennington,4,8,5
+SD4602106,CAVALRY TRAILS HOMEOWNER ASSOCIATION,Region 8,South Dakota,Community water system,55,"PIEDMONT, RAPID CITY",Pennington,4,51,7
+SD4602107,GFP-BEAR BUTTE TRAILHEAD,Region 8,South Dakota,Transient non-community system,25,"PIERRE, STURGIS",Meade,3,4,5
+SD4602108,LAKESIDE WATER USERS DISTRICT,Region 8,South Dakota,Community water system,50,OWANKA,Pennington,4,192,7
+SD4602114,LEWIE'S SALOON AND EATERY,Region 8,South Dakota,Transient non-community system,100,"LEAD, SPEARFISH",Lawrence,3,34,4
+SD4602118,SHIPWRECK LEE'S,Region 8,South Dakota,Transient non-community system,30,RAPID CITY,Pennington,3,11,4
+SD4602121,BLACK HILLS CHILDREN'S HOME,Region 8,South Dakota,Non-Transient non-community system,105,"RAPID CITY, SIOUX FALLS",Pennington,4,40,6
+SD4600059,DESMET,Region 8,South Dakota,Community water system,1089,DESMET,Kingsbury,6,52,8
+SD4600060,JEFFERSON,Region 8,South Dakota,Community water system,571,JEFFERSON,Union,6,37,9
+SD4600062,ALEXANDRIA,Region 8,South Dakota,Community water system,615,ALEXANDRIA,Hanson,6,5,6
+SD4600276,RAYMOND,Region 8,South Dakota,Community water system,54,RAYMOND,Clark,3,35,7
+SD4600277,REDFIELD,Region 8,South Dakota,Community water system,2333,REDFIELD,Spink,8,3,9
+SD4600278,REE HEIGHTS,Region 8,South Dakota,Community water system,70,REE HEIGHTS,Hand,6,43,10
+SD4600282,ROSCOE,Region 8,South Dakota,Community water system,325,ROSCOE,Edmunds,8,5,9
+SD4600283,ROSHOLT,Region 8,South Dakota,Community water system,423,ROSHOLT,Roberts,7,147,8
+SD4600284,ROSLYN,Region 8,South Dakota,Community water system,183,ROSLYN,Day,6,32,9
+SD4600286,SAINT LAWRENCE,Region 8,South Dakota,Community water system,198,"MILLER, SAINT LAWRENCE",Hand,7,115,9
+SD4600287,SAINT ONGE SEWER & WATER CO,Region 8,South Dakota,Community water system,255,"SPEARFISH, ST ONGE",Lawrence,5,73,9
+SD4600288,SALEM,Region 8,South Dakota,Community water system,1347,SALEM,McCook,9,34,8
+SD4600290,SCOTLAND,Region 8,South Dakota,Community water system,841,SCOTLAND,Bon Homme,5,2,7
+SD4600291,SELBY,Region 8,South Dakota,Community water system,642,SELBY,Walworth,8,26,10
+SD4600292,SENECA,Region 8,South Dakota,Community water system,38,SENECA,Faulk,5,17,8
+SD4600294,SIOUX FALLS,Region 8,South Dakota,Community water system,190326,SIOUX FALLS,Minnehaha,88,4,7
+SD4600297,SKYLINE HEIGHTS,Region 8,South Dakota,Community water system,126,SIOUX FALLS,Minnehaha,6,22,8
+SD4600300,VALLEY VIEW ESTATES,Region 8,South Dakota,Community water system,205,SIOUX FALLS,Minnehaha,4,13,8
+SD4600304,LINCOLN COUNTY RURAL WATER SYSTEM,Region 8,South Dakota,Community water system,5788,"HARRISBURG, SIOUX FALLS","Lincoln, Minnehaha",7,1,10
+SD4600310,SISSETON,Region 8,South Dakota,Community water system,2470,SISSETON,Roberts,9,5,9
+SD4600311,SPEARFISH,Region 8,South Dakota,Community water system,10697,SPEARFISH,Lawrence,20,8,8
+SD4600314,KEN'S TRAILER COURT,Region 8,South Dakota,Community water system,110,"BLACK HAWK, SPEARFISH",Lawrence,6,28,8
+SD4600315,LANTERN ESTATES,Region 8,South Dakota,Community water system,192,"SPEARFISH, WHITEWOOD",Lawrence,1,114,10
+SD4600316,WALNUT PARK,Region 8,South Dakota,Community water system,180,SPEARFISH,Lawrence,6,73,8
+SD4602169,MOUNTAIN PLAINS 2 HOMEOWNERS ASSOC,Region 8,South Dakota,Community water system,268,SPEARFISH,Lawrence,11,85,4
+SD4602171,LARSSON'S CROOKED CREEK CG-SOUTH WEL,Region 8,South Dakota,Transient non-community system,120,HILL CITY,Pennington,3,16,4
+SD4602172,PLEASANT VALLEY HOMEOWNERS ASSOCIATI,Region 8,South Dakota,Community water system,48,"PIEDMONT, STRUGIS, STURGIS",Meade,3,111,6
+SD4602175,MID-DAKOTA RURAL WATER,Region 8,South Dakota,Community water system,11463,"MILLER, PIERRE","Hand, Hughes, Hyde, Sully",21,1,4
+SD4602176,CENTENNIAL HILLS HOME ASSOCIATION,Region 8,South Dakota,Community water system,25,SPEARFISH,Lawrence,4,24,8
+SD4600643,GCC DACOTAH - EAST/WEST/NORTH,Region 8,South Dakota,Non-Transient non-community system,100,RAPID CITY,Pennington,5,10,12
+SD4600645,FISH-N-FRY CAMPGROUND,Region 8,South Dakota,Transient non-community system,90,"BLACK HAWK, DEADWOOD",Lawrence,3,16,5
+SD4600646,BADLANDS/WHITE RIVER KOA KAMPGROUND,Region 8,South Dakota,Transient non-community system,183,INTERIOR,Jackson,8,19,7
+SD4600649,SPOKANE CREEK CABINS & CAMPGROUND,Region 8,South Dakota,Transient non-community system,100,KEYSTONE,Custer,4,7,5
+SD4600650,CUSTER-MOUNT RUSHMORE KOA-REAR/CG,Region 8,South Dakota,Transient non-community system,125,CUSTER,Custer,6,56,6
+SD4600655,CHRIS' CAMPGROUND,Region 8,South Dakota,Transient non-community system,50,SPEARFISH,Lawrence,5,5,5
+SD4601000,EAST RIDGE ACRES,Region 8,South Dakota,Community water system,118,"BLACK HAWK, PIEDMONT, RAPID CITY",Meade,6,10,8
+SD4601004,CARPENTER CAFE,Region 8,South Dakota,Transient non-community system,25,CARPENTER,Clark,2,7,7
+SD4601009,LAKE POINSETT ESTATES,Region 8,South Dakota,Transient non-community system,36,ARLINGTON,Hamlin,7,194,7
+SD4600085,CENTERVILLE,Region 8,South Dakota,Community water system,882,CENTERVILLE,Turner,9,73,8
+SD4600086,CHAMBERLAIN,Region 8,South Dakota,Community water system,2387,CHAMBERLAIN,Brule,6,24,9
+SD4600087,CHANCELLOR,Region 8,South Dakota,Community water system,266,CHANCELLOR,Turner,2,6,10
+SD4600088,CHESTER SANITARY DISTRICT,Region 8,South Dakota,Community water system,363,"CHESTER, EGAN",Lake,6,40,7
+SD4600415,VALE SANITARY DISTRICT,Region 8,South Dakota,Community water system,120,VALE,Butte,4,37,12
+SD4600416,LOURIE LANE HOMEOWNERS ASSOC,Region 8,South Dakota,Community water system,75,SPEARFISH,Lawrence,4,149,8
+SD4600417,WALL,Region 8,South Dakota,Community water system,766,WALL,Pennington,15,28,9
+SD4600418,WARNER,Region 8,South Dakota,Community water system,496,WARNER,Brown,5,10,9
+SD4600419,WENTWORTH,Region 8,South Dakota,Community water system,171,"EGAN, WENTWORTH",Lake,3,35,9
+SD4600421,WONDERLAND HOMES,Region 8,South Dakota,Community water system,750,"PIEDMONT, RAPID CITY",Meade,5,12,8
+SD4600274,RAPID VALLEY SANITARY DISTRICT,Region 8,South Dakota,Community water system,9792,RAPID CITY,Pennington,14,7,9
+SD4602230,CAMP VOLUNTEER,Region 8,South Dakota,Transient non-community system,35,CUSTER,Custer,4,7,2
+SD4602231,RIMROCK HIGHLAND ESTATES COMM ASSOC,Region 8,South Dakota,Community water system,68,"PIEDMONT, RAPID CITY",Meade,4,1,2
+SD4602232,SHIRT TAIL GULCH DEVELOPMENT,Region 8,South Dakota,Community water system,60,"CLAY CENTER, DEADWOOD",Lawrence,5,181,3
+SD4602234,HIGH SHERIDAN RANCH,Region 8,South Dakota,Community water system,36,"BLACK HAWK, RAPID CITY",Pennington,4,0,3
+SD4602235,HEARTLAND COUNTRY RANCHETTES,Region 8,South Dakota,Community water system,95,"BLACK HAWK, HERMOSA",Custer,3,1,3
+SD4602236,FORT WELIKIT FAMILY CAMPGROUND,Region 8,South Dakota,Transient non-community system,87,CUSTER,Custer,4,1,1
+SD4602237,ELK CREEK VILLAGE,Region 8,South Dakota,Community water system,110,"PIEDMONT, RAPID CITY",Meade,4,58,2
+SD4602238,HIGH COUNTRY-HC WEST WELL,Region 8,South Dakota,Transient non-community system,125,HILL CITY,Pennington,6,1,1
+SD4602240,AUTUMN MEADOWS SANITARY DISTRICT,Region 8,South Dakota,Community water system,68,"BLACK HAWK, PIEDMONT",Meade,4,42,2
+SD4602241,DRY CREEK ESTATES,Region 8,South Dakota,Community water system,105,"BLACK HAWK, RAPID CITY",Meade,5,21,2
+SD4602242,SANBORN CENTRAL SCHOOL DISTRICT,Region 8,South Dakota,Non-Transient non-community system,219,FORESTBURG,Sanborn,2,119,2
+SD4600162,HOSMER,Region 8,South Dakota,Community water system,208,HOSMER,Edmunds,4,7,7
+SD4600163,HOT SPRINGS,Region 8,South Dakota,Community water system,3711,HOT SPRINGS,Fall River,10,3,9
+SD4600164,HOVEN,Region 8,South Dakota,Community water system,406,HOVEN,Potter,9,45,8
+SD4600165,HOWARD,Region 8,South Dakota,Community water system,858,HOWARD,Miner,7,5,8
+SD4600166,HUDSON,Region 8,South Dakota,Community water system,296,HUDSON,Lincoln,3,13,11
+SD4600520,TRIPP COUNTY WATER USER DISTRICT,Region 8,South Dakota,Community water system,4844,"HAMILL, WINNER","Gregory, Lyman, Mellette, Todd, Tripp",35,57,10
+SD4600521,WESTFIELD ADDITION,Region 8,South Dakota,Community water system,104,SPEARFISH,Lawrence,3,80,9
+SD4600527,LARSSON'S CROOKED CREEK CG-NORTH WEL,Region 8,South Dakota,Transient non-community system,203,HILL CITY,Pennington,3,23,6
+SD4600528,BEAR COUNTRY USA,Region 8,South Dakota,Transient non-community system,1021,"BLACK HAWK, RAPID CITY",Pennington,9,79,7
+SD4600529,BEAVER LAKE CAMPGROUND,Region 8,South Dakota,Transient non-community system,400,CUSTER,Custer,6,22,8
+SD4600532,BIG PINE CAMPGROUND,Region 8,South Dakota,Transient non-community system,111,CUSTER,Custer,3,1,8
+SD4600534,BOULDER CANYON COUNTRY CLUB,Region 8,South Dakota,Transient non-community system,100,"RAPID CITY, STURGIS",Lawrence,3,26,7
+SD4600535,NEMO GUEST RANCH,Region 8,South Dakota,Transient non-community system,65,NEMO,Lawrence,7,91,8
+SD4600537,CALAMITY PEAK LODGE,Region 8,South Dakota,Transient non-community system,28,CUSTER,Custer,5,8,7
+SD4600153,HENRY,Region 8,South Dakota,Community water system,297,HENRY,Codington,6,10,10
+SD4600154,HERMOSA-OLD SYSTEM,Region 8,South Dakota,Community water system,462,HERMOSA,Custer,7,10,8
+SD4600155,HERREID,Region 8,South Dakota,Community water system,438,HERREID,Campbell,5,8,10
+SD4600158,HIGHMORE,Region 8,South Dakota,Community water system,850,HIGHMORE,Hyde,8,73,9
+SD4600159,HILL CITY,Region 8,South Dakota,Community water system,950,HILL CITY,Pennington,19,100,9
+SD4600160,REYNOLDS COURT,Region 8,South Dakota,Community water system,28,SPEARFISH,Pennington,6,97,4
+SD4600161,HITCHCOCK,Region 8,South Dakota,Community water system,91,"HITCHCOCK, MILLER",Beadle,4,8,11
+SD4600002,CASTLEWOOD,Region 8,South Dakota,Community water system,650,CASTLEWOOD,Hamlin,6,67,8
+SD4602227,BLACK HILLS NATIONAL CEMETERY,Region 8,South Dakota,Transient non-community system,30,STURGIS,Meade,3,4,3
+SD4602228,PERKINS COUNTY RURAL WATER,Region 8,South Dakota,Community water system,450,BISON,Perkins,2,0,4
+SD4602229,HEARTLAND CAMPGROUND,Region 8,South Dakota,Transient non-community system,395,"BLACK HAWK, HERMOSA, RAPID CITY",Custer,3,11,2
+SD4600030,AMHERST WATER COMPANY,Region 8,South Dakota,Community water system,40,"AMHERST, BRITTON",Marshall,1,17,8
+SD4600031,AVON,Region 8,South Dakota,Community water system,590,AVON,Bon Homme,3,6,10
+SD4600032,BADGER,Region 8,South Dakota,Community water system,140,BADGER,Kingsbury,4,15,10
+SD4602191,STRAT-O-RIM ESTATES WATER COMPANY,Region 8,South Dakota,Community water system,165,RAPID CITY,Pennington,6,234,5
+SD4602196,BLUE WING RECREATION AREA,Region 8,South Dakota,Transient non-community system,200,"HILL CITY, RAPID CITY",Pennington,6,1,3
+SD4602199,HORSE CREEK INN-CG WELL,Region 8,South Dakota,Transient non-community system,35,RAPID CITY,Pennington,3,3,3
+SD4602200,HORSE CREEK INN-CABIN WELL,Region 8,South Dakota,Transient non-community system,30,RAPID CITY,Pennington,3,2,3
+SD4602201,FALL RIVER WUD-SOUTH,Region 8,South Dakota,Community water system,648,ORAL,Fall River,11,60,3
+SD4602203,THE RANCH AT BLACK GAP,Region 8,South Dakota,Community water system,375,RAPID CITY,Pennington,5,1,4
+SD4602204,D&J MOBILE HOME PARK,Region 8,South Dakota,Community water system,112,"BLACK HAWK, SPEARFISH",Pennington,4,79,3
+SD4602205,RAMADA INN,Region 8,South Dakota,Transient non-community system,50,BLACK HAWK,Meade,4,9,3
+SD4602206,PRINGLE,Region 8,South Dakota,Transient non-community system,60,PRINGLE,Custer,5,59,5
+SD4602207,BLACK HAWK OIL COMPANY,Region 8,South Dakota,Transient non-community system,150,BLACK HAWK,Custer,3,9,7
+SD4602209,TRIPLE T MOBILE HOME PARK,Region 8,South Dakota,Community water system,74,CUSTER,Custer,4,210,2
+SD4602210,RENDEZVOUS RANCH,Region 8,South Dakota,Community water system,195,BLACK HAWK,Lawrence,4,51,4
+SD4602211,VALHALLA ADDITION,Region 8,South Dakota,Community water system,38,"BLACK HAWK, STURGIS",Lawrence,5,119,4
+SD4602212,RUSHMORE RANCH ESTATES,Region 8,South Dakota,Community water system,128,"BLACK HAWK, HOT SPRINGS",Pennington,5,31,4
+SD4602213,GOLDEN HILLS HOMES,Region 8,South Dakota,Community water system,47,RAPID CITY,Pennington,4,3,4
+SD4600034,BALTIC,Region 8,South Dakota,Community water system,1177,BALTIC,Minnehaha,4,30,10
+SD4600036,BATESLAND,Region 8,South Dakota,Community water system,148,"BATESLAND, MARTIN",Shannon,6,339,10
+SD4600037,BELLE FOURCHE,Region 8,South Dakota,Community water system,5594,BELLE FOURCHE,Butte,10,113,10
+SD4600040,VALLEY VIEW WATER COMPANY,Region 8,South Dakota,Community water system,248,"BLACK HAWK, RAPID CITY",Meade,4,28,7
+SD4600041,PINE HILLS PARK,Region 8,South Dakota,Community water system,200,"BLACK HAWK, RAPID CITY",Meade,5,93,9
+SD4600042,WOODLAND HILLS SANITARY DISTRICT,Region 8,South Dakota,Community water system,255,BLACK HAWK,Meade,9,27,8
+SD4600043,BLACK HAWK WATER USER DISTRICT,Region 8,South Dakota,Community water system,3750,BLACK HAWK,Meade,15,56,11
+SD4600044,BLUNT,Region 8,South Dakota,Community water system,354,"BLUNT, MILLER",Hughes,7,80,10
+SD4600045,BONESTEEL,Region 8,South Dakota,Community water system,275,BONESTEEL,Gregory,5,29,10
+SD4600716,WHISPERING PINES CAMPGROUND,Region 8,South Dakota,Transient non-community system,41,RAPID CITY,Pennington,3,9,5
+SD4602005,BOULDER PARK WATER USERS ASSOCIATION,Region 8,South Dakota,Community water system,200,"RAPID CITY, STURGIS",Lawrence,7,35,6
+SD4602017,LAKEVIEW COLONY,Region 8,South Dakota,Community water system,180,"ABERDEEN, LAKE ANDES",Charles Mix,6,97,8
+SD4602020,CLEARFIELD COLONY,Region 8,South Dakota,Community water system,96,"ABERDEEN, DELMONT",Douglas,6,56,7
+SD4600428,PRAIRIE ACRES SOUTH,Region 8,South Dakota,Community water system,168,RAPID CITY,Pennington,3,126,7
+SD4600429,BIG SIOUX COMMUNITY WATER SYSTEM,Region 8,South Dakota,Community water system,5337,EGAN,"Brookings, Lake, Moody",32,2,10
+SD4600904,HORSE CREEK INN-RESTAURANT WELL,Region 8,South Dakota,Transient non-community system,90,RAPID CITY,Pennington,4,16,5
+SD4600906,BLACK HILLS CABINS AND MOTEL @ QUAIL,Region 8,South Dakota,Transient non-community system,59,HILL CITY,Pennington,4,18,5
+SD4600908,CANYON LAKE RESORT,Region 8,South Dakota,Transient non-community system,60,RAPID CITY,Pennington,4,15,6
+SD4600909,PINE REST CABINS,Region 8,South Dakota,Transient non-community system,79,HILL CITY,Pennington,4,11,5
+SD4600910,HART RANCH,Region 8,South Dakota,Community water system,390,RAPID CITY,Pennington,6,80,7
+SD4600048,BRANDON,Region 8,South Dakota,Community water system,9981,BRANDON,Minnehaha,13,17,9
+SD4600049,CSP-HIDDEN VALLEY,Region 8,South Dakota,Transient non-community system,45,CUSTER,Custer,5,34,7
+SD4600050,HIGHLAND HILLS,Region 8,South Dakota,Community water system,32,RAPID CITY,Pennington,4,47,9
+SD4600053,TERRY TROJAN WATER DISTRICT,Region 8,South Dakota,Community water system,400,"BLACK HAWK, DEADWOOD, LEAD",Lawrence,8,147,7
+SD4600055,STATE VETERANS HOME,Region 8,South Dakota,Non-Transient non-community system,205,HOT SPRINGS,Fall River,7,48,9
+SD4602022,GREENWOOD COLONY,Region 8,South Dakota,Community water system,85,"ABERDEEN, DELMONT",Douglas,7,131,8
+SD4602023,MAXWELL COLONY,Region 8,South Dakota,Community water system,220,"ABERDEEN, SCOTLAND",Bon Homme,4,154,10
+SD4602025,SUNSET COLONY,Region 8,South Dakota,Community water system,140,"ABERDEEN, BRITTON",Marshall,9,151,8
+SD4602026,HUTTERVILLE COLONY SOUTH DAKOTA INC,Region 8,South Dakota,Community water system,84,"BERESFORD, STRATFORD",Brown,10,177,9
+SD4602027,WHITE ROCK COLONY,Region 8,South Dakota,Community water system,100,"ABERDEEN, ROSHOLT",Roberts,8,204,8
+SD4602028,GRASSLAND COLONY,Region 8,South Dakota,Community water system,140,"ABERDEEN, WESTPORT",Brown,4,145,9
+SD4602029,NEWPORT COLONY,Region 8,South Dakota,Community water system,125,CLAREMONT,Marshall,11,165,8
+SD4602031,GAS LIGHT,Region 8,South Dakota,Transient non-community system,75,"RAPID CITY, ROCKERVILLE",Pennington,3,33,4
+SD4602040,RIVERSIDE COLONY,Region 8,South Dakota,Community water system,80,"ABERDEEN, HURON",Beadle,5,203,6
+SD4602042,HURON COLONY,Region 8,South Dakota,Community water system,90,"ABERDEEN, HURON",Beadle,6,320,6
+SD4602050,EVERGREEN COLONY,Region 8,South Dakota,Community water system,106,"ABERDEEN, FAULKTON",Faulk,5,23,5
+SD4602218,GREEN ACRES WATER CORPORATION,Region 8,South Dakota,Community water system,31,HOT SPRINGS,Fall River,2,32,3
+SD4602220,SANDSTONE WATER-WEST ADDITION,Region 8,South Dakota,Community water system,300,BELLE FOURCHE,Butte,2,4,3
+SD4602221,CHAPEL IN THE HILLS,Region 8,South Dakota,Transient non-community system,200,RAPID CITY,Pennington,2,3,3
+SD4602222,RAPID CITY ATHLETIC CLUB,Region 8,South Dakota,Transient non-community system,100,RAPID CITY,Pennington,3,4,3
+SD4602223,WR/LJ - MNI WICONI,Region 8,South Dakota,Community water system,4871,MURDO,"Jones, Lyman, Stanley",10,1,2
+SD4602224,WR/LJ - NORTH STANLEY COUNTY,Region 8,South Dakota,Community water system,2396,MURDO,Stanley,15,1,2
+SD4602225,COTTONWOOD GROVE MOBILE HOME PARK,Region 8,South Dakota,Community water system,30,RAPID CITY,Pennington,3,60,2
+SD4600915,CROOKED OAKS CANYON HOMEOWNERS,Region 8,South Dakota,Community water system,75,"BLACK HAWK, PIEDMONT",Meade,4,22,7
+SD4602310,OWANKA RURAL WATER SYSTEM,Region 8,South Dakota,Community water system,52,"BLACK HAWK, OWANKA",Pennington,3,16,2
+SD4602314,BUTTE-MEADE SWD-VALE WELL,Region 8,South Dakota,Community water system,345,NEWELL,"Butte, Meade",5,0,3
+SD4602316,FALL RIVER WUD-NORTH,Region 8,South Dakota,Community water system,100,ORAL,Fall River,5,79,3
+SD4600058,AURORA,Region 8,South Dakota,Community water system,850,AURORA,Brookings,3,9,9
+SD4600921,GFP-WEST BEND RECREATION AREA,Region 8,South Dakota,Transient non-community system,125,PIERRE,Hughes,5,19,3
+SD4600925,FLYING J TRAVEL PLAZA,Region 8,South Dakota,Transient non-community system,560,"BLACK HAWK, RAPID CITY",Pennington,6,51,6
+SD4600927,SILVER DOLLAR SALOON,Region 8,South Dakota,Transient non-community system,50,HILL CITY,Pennington,3,53,7
+SD4600929,ELK CREEK STEAKHOUSE,Region 8,South Dakota,Transient non-community system,175,PIEDMONT,Meade,3,22,6
+SD4600933,WHARF RESOURCES WATER SYSTEM,Region 8,South Dakota,Non-Transient non-community system,200,LEAD,Lawrence,9,31,7
+SD4600065,BRENTFORD,Region 8,South Dakota,Community water system,93,BRENTFORD,Spink,2,23,10
+SD4600066,BRIDGEWATER,Region 8,South Dakota,Community water system,492,BRIDGEWATER,McCook,7,68,9
+SD4600067,BRISTOL,Region 8,South Dakota,Community water system,341,BRISTOL,Day,4,14,10
+SD4600071,BROOKINGS MUNICIPAL UTILITIES,Region 8,South Dakota,Community water system,22298,BROOKINGS,Brookings,21,4,8
+SD4600072,SOUTHBROOK ESTATES,Region 8,South Dakota,Community water system,50,BROOKINGS,Brookings,4,738,7
+SD4600075,UNIVERSITY ESTATES,Region 8,South Dakota,Community water system,150,BROOKINGS,Brookings,3,27,7
+SD4600076,BRYANT,Region 8,South Dakota,Community water system,450,BRYANT,Hamlin,6,4,10
+SD4600077,BUFFALO GAP,Region 8,South Dakota,Community water system,126,BUFFALO GAP,Custer,6,197,11
+SD4600078,BUFFALO,Region 8,South Dakota,Community water system,330,BUFFALO,Harding,13,86,8
+SD4600079,BURKE,Region 8,South Dakota,Community water system,604,BURKE,Gregory,19,2,10
+SD4600080,CANISTOTA,Region 8,South Dakota,Community water system,656,CANISTOTA,McCook,5,12,9
+SD4600081,CANOVA,Region 8,South Dakota,Community water system,90,CANOVA,Miner,4,46,9
+SD4600148,HARRISBURG,Region 8,South Dakota,Community water system,6000,HARRISBURG,Lincoln,10,7,11
+SD4600150,HARTFORD,Region 8,South Dakota,Community water system,2934,HARTFORD,Minnehaha,8,13,9
+SD4600151,HAYTI,Region 8,South Dakota,Community water system,375,HAYTI,Hamlin,6,11,10
+SD4600152,HECLA,Region 8,South Dakota,Community water system,200,HECLA,Brown,7,16,6
+SD4600272,SIPHON HILL WATER ASSOCIATION,Region 8,South Dakota,Community water system,65,RAPID CITY,Pennington,4,352,10
+SD4600273,EDELWEISS MOUNTAIN IMPROVEMENT ASSOC,Region 8,South Dakota,Community water system,172,"BLACK HAWK, RAPID CITY",Pennington,8,195,9
+SD4600669,HAPPY HOLIDAY RV RESORT,Region 8,South Dakota,Community water system,264,"MERCER ISLAND, RAPID CITY",Pennington,6,108,7
+SD4600672,IRON CREEK LAKE STORE,Region 8,South Dakota,Transient non-community system,50,SPEARFISH,Lawrence,4,5,8
+SD4600679,LAKE PARK CAMPGROUND,Region 8,South Dakota,Transient non-community system,25,RAPID CITY,Pennington,3,8,5
+SD4600695,MOUNTAIN MEADOW RESORT,Region 8,South Dakota,Transient non-community system,40,HILL CITY,Pennington,4,11,6
+SD4600697,PALMER GULCH LODGE/MT RUSHMORE KOA,Region 8,South Dakota,Transient non-community system,850,"BLACK HAWK, HILL CITY",Pennington,15,4,5
+SD4600708,SPEARFISH KOA,Region 8,South Dakota,Transient non-community system,100,SPEARFISH,Lawrence,5,1,5
+SD4600710,RAPID CITY SOUTH RV PARK,Region 8,South Dakota,Transient non-community system,440,"BLACK HAWK, RAPID CITY",Pennington,3,12,5
+SD4602368,CUSTER-MOUNT RUSHMORE KOA-FRONT/OFFI,Region 8,South Dakota,Transient non-community system,25,CUSTER,Custer,2,0,0
+SD4602355,SPRING CREEK RANCH,Region 8,South Dakota,Non-Transient non-community system,30,SPEARFISH,Lawrence,1,0,0
+SD4602372,BRIDLE RIDGE HORSE AND RV CAMP,Region 8,South Dakota,Transient non-community system,60,CUSTER,Custer,3,0,0
+SD4680003,HOT SPRINGS VA CENTER,Region 8,South Dakota,Community water system,445,HOT SPRINGS,Fall River,10,75,9
+SD4680004,ELLSWORTH AFB,Region 8,South Dakota,Community water system,6827,ELLSWORTH AFB,Pennington,5,6,8
+SD4680036,COE-LK S/LEFT TAILRACE,Region 8,South Dakota,Transient non-community system,130,CHAMBERLAIN,Buffalo,4,2,6
+SD4680044,NPS-JEWEL CAVE NATIONAL MONUMENT,Region 8,South Dakota,Transient non-community system,219,CUSTER,Custer,8,1,5
+SD4680046,NPS-MOUNT RUSHMORE NATIONAL MEMORIAL,Region 8,South Dakota,Non-Transient non-community system,4100,KEYSTONE,Pennington,9,22,6
+SD4680047,NPS-WIND CAVE NATIONAL PARK,Region 8,South Dakota,Non-Transient non-community system,465,HOT SPRINGS,Custer,11,5,6
+SD4680054,USFS-BHNF BISMARK LAKE CAMPGROUND,Region 8,South Dakota,Transient non-community system,25,"CUSTER, HILL CITY",Custer,4,13,7
+SD4680055,CAMP BOB MARSHALL,Region 8,South Dakota,Transient non-community system,80,"CUSTER, HERMOSA",Custer,4,12,6
+SD4680056,USFS-BHNF COMMANCHE PARK CAMPGROUND,Region 8,South Dakota,Transient non-community system,25,"CUSTER, HILL CITY",Custer,4,9,7
+SD4680062,USFS-BHNF DUTCHMAN CAMPGROUND,Region 8,South Dakota,Transient non-community system,28,"CUSTER, HILL CITY",Pennington,5,20,3
+SD4602311,CANYON SPRINGS PRESERVE HOA,Region 8,South Dakota,Community water system,50,"BLACK HAWK, RAPID CITY",Pennington,4,0,2
+SD4602354,WHITEWOOD FOREST ACRES,Region 8,South Dakota,Community water system,90,WHITEWOOD,Lawrence,1,1,1
+SD4602351,PARAMOUNT POINT,Region 8,South Dakota,Community water system,35,HOT SPRINGS,Custer,4,0,2
+SD4602334,BEAR BUTTE VALLEY WATER,Region 8,South Dakota,Community water system,488,STURGIS,Meade,5,0,1
+SD4602352,RED WILLOW COLONY,Region 8,South Dakota,Community water system,78,"ABERDEEN, WHITE",Brookings,4,4,2
+SD4602373,CUSTER CROSSING CG AND CABINS,Region 8,South Dakota,Transient non-community system,75,DEADWOOD,Lawrence,2,0,0
+SD4602371,CENTRAL MEADE SCHOOL,Region 8,South Dakota,Non-Transient non-community system,25,STURGIS,Meade,2,0,0
+SD4602307,EAGLE WATER COMPANY,Region 8,South Dakota,Community water system,25,"DEADWOOD, LEAD",Lawrence,3,22,3
+SD4602308,KLEIN SCHOOL,Region 8,South Dakota,Non-Transient non-community system,25,MISSION,Todd,3,15,2
+SD4602180,HERMOSA WATER USERS ASSOCIATION,Region 8,South Dakota,Community water system,108,HERMOSA,Custer,9,49,6
+SD4602185,CLAY RWS/SOUTH UNION,Region 8,South Dakota,Community water system,965,WAKONDA,Union,6,157,4
+SD4602189,ELK VALLEY RANCHETTES,Region 8,South Dakota,Community water system,62,RAPID CITY,Meade,5,1,3
+SD4602190,WICKIUP VILLAGE CABINS LLC,Region 8,South Dakota,Transient non-community system,65,LEAD,Lawrence,3,15,5
+SD4602296,MYSTIC HILLS HIDEAWAY NORTH,Region 8,South Dakota,Transient non-community system,132,DEADWOOD,Lawrence,5,1,2
+SD4602179,PINE CONE ESTATES,Region 8,South Dakota,Community water system,42,"PIEDMONT, STURGIS",Meade,4,26,4
+SD4600887,ROCKERVILLE GOLD NUGGET LODGE,Region 8,South Dakota,Transient non-community system,52,RAPID CITY,Pennington,4,3,3
+SD4600600,ROCKERVILLE MOTEL AND CABINS,Region 8,South Dakota,Transient non-community system,45,ROCKERVILLE,Pennington,3,1,4
+SD4602150,COCA COLA BOTTLING CO,Region 8,South Dakota,Non-Transient non-community system,75,RAPID CITY,Pennington,3,38,5
+SD4602151,OAK MOUNTAIN COUNTRY ESTATES,Region 8,South Dakota,Community water system,70,"BLACK HAWK, DEADWOOD",Lawrence,7,121,6
+SD4602153,PINEVIEW WATER ASSOCIATION,Region 8,South Dakota,Community water system,25,RAPID CITY,Pennington,3,10,5
+SD4602154,OAHE ACRES,Region 8,South Dakota,Community water system,98,PIERRE,Hughes,4,6,6
+SD4602122,B & J MOBILE HOME PARK,Region 8,South Dakota,Community water system,135,"PIEDMONT, RAPID CITY",Pennington,4,2,6
+SD4602125,PRAIRIEWOOD PROPERTY OWNERS,Region 8,South Dakota,Community water system,288,ABERDEEN,Brown,4,5,8
+SD4602127,QUAAL WATER ASSOCIATION,Region 8,South Dakota,Community water system,83,BLACK HAWK,Meade,3,8,5
+SD4602134,PONDEROSA WATER COMPANY,Region 8,South Dakota,Community water system,25,RAPID CITY,Pennington,4,45,5
+SD4602135,OAKS WATER USERS ASSOCIATION,Region 8,South Dakota,Community water system,180,RAPID CITY,Pennington,6,65,6
+SD4602136,COPPER OAKS I,Region 8,South Dakota,Community water system,64,RAPID CITY,Pennington,6,23,5
+SD4602137,DOT REST AREA - WHETSTONE VALLEY,Region 8,South Dakota,Transient non-community system,1000,"PIERRE, SISSETON, WILMOT",Roberts,4,2,3
+SD4602143,HAY CREEK WATER COMPANY,Region 8,South Dakota,Community water system,300,BELLE FOURCHE,Butte,4,21,7
+SD4602144,"BLACK HILLS WATER DISTRIBUTION, LLC",Region 8,South Dakota,Community water system,0,BELLE FOURCHE,Butte,5,89,6
+SD4602239,HIGH COUNTRY-RS EAST WELL,Region 8,South Dakota,Transient non-community system,125,HILL CITY,Pennington,4,0,0
+SD4602350,KEMP'S KAMP UPPER,Region 8,South Dakota,Transient non-community system,26,KEYSTONE,Pennington,2,0,1
+SD4602267,SHAMROCK COLONY,Region 8,South Dakota,Community water system,75,"ABERDEEN, CARPENTER",Clark,3,85,4
+SD4602357,POWDER HOUSE PASS,Region 8,South Dakota,Transient non-community system,25,"LEAD, SIOUX FALLS",Lawrence,4,0,1
+SD4600146,GRENVILLE,Region 8,South Dakota,Community water system,54,GRENVILLE,Day,3,44,9
+SD4602375,HIDDEN LAKE CG AND RESORT,Region 8,South Dakota,Transient non-community system,45,HOT SPRINGS,Fall River,2,0,0
+SD4602280,CENTENNIAL VISTA ESTATES,Region 8,South Dakota,Community water system,25,SPEARFISH,Meade,7,0,1
+SD4602322,PRAIRIE HAVEN SUBDIVISION,Region 8,South Dakota,Community water system,25,"BLACK HAWK, RAPID CITY",Pennington,4,0,0
+SD4602363,ELK CREEK VALLEY VIEW ASSOC,Region 8,South Dakota,Community water system,52,RAPID CITY,Meade,4,0,0
+SD4602343,ELKHORN RIDGE WATER ASSOCIATION,Region 8,South Dakota,Community water system,25,"LAKEWOOD, SPEARFISH",Meade,4,0,2
+SD4602364,RUSHMORE UNDER CANVAS,Region 8,South Dakota,Transient non-community system,25,"BLACK HAWK, BOZEMAN, KEYSTONE",Pennington,4,0,2
+SD4602366,BLUCKSBERG MOUNTAIN #2,Region 8,South Dakota,Community water system,333,"PIEDMONT, STURGIS",Meade,9,0,0
+SD4602367,FOUR MILE OLD WEST TOWN,Region 8,South Dakota,Transient non-community system,25,CUSTER,Custer,4,0,1

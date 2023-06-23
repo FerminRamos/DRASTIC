@@ -1,0 +1,857 @@
+PWS ID,PWS Name,EPA Region,Primacy Agency,PWS Type,Population<br> Served Count,Cities Served,Counties Served,# of Facilities,# of Violations,# of Site Visits
+WV3302331,LOGAN WATER BOARD CITY OF,Region 3,West Virginia,Community water system,3862,LOGAN,Logan,16,105,66
+WV9942072,ELK SPRINGS RESORT,Region 3,West Virginia,Transient non-community system,25,MONTERVILLE,Randolph,5,52,7
+WV3303301,BERKELEY SPRINGS CITY OF,Region 3,West Virginia,Community water system,3526,BERKELEY SPRINGS,Morgan,14,38,42
+WV3303901,ALBRIGHT TOWN OF,Region 3,West Virginia,Community water system,333,ALBRIGHT,Preston,10,69,7
+WV3302704,HARTFORD TOWN OF,Region 3,West Virginia,Community water system,720,HARTFORD CITY (CORPORATE NAME,Mason,6,116,46
+WV9939036,AURORA ELEMENTARY AND JR HIGH,Region 3,West Virginia,Non-Transient non-community system,192,AURORA,Preston,4,14,21
+WV3303111,MORGANTOWN UTILITY BOARD,Region 3,West Virginia,Community water system,60065,MORGANTOWN,Monongalia,62,6,49
+WV3304203,ELKINS CITY OF,Region 3,West Virginia,Community water system,8456,ELKINS,Randolph,11,10,54
+WV9952022,COMMUNITY HEALTH CENTER,Region 3,West Virginia,Transient non-community system,25,BURTON,Wetzel,3,13,13
+WV9951016,HACKER VALLEY ELEMENTARY,Region 3,West Virginia,Non-Transient non-community system,74,HACKER VALLEY,Webster,3,28,23
+WV9919099,SUMMIT POINT - MAIN OFFICE,Region 3,West Virginia,Transient non-community system,50,SUMMIT POINT,Jefferson,3,0,1
+WV9919038,SUMMIT POINT RACEWAY,Region 3,West Virginia,Transient non-community system,200,SUMMIT POINT,Jefferson,3,38,6
+WV9939108,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,6,9
+WV9939107,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,6,9
+WV9939105,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,3,9
+WV9939104,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,1,10
+WV9939103,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,5,9
+WV9939102,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,3,9
+WV9939101,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,4,9
+WV9939100,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,6,9
+WV9939099,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,3,9
+WV9939098,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,7,9
+WV9939097,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,3,9
+WV9939096,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,2,9
+WV9939095,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,4,9
+WV9939094,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,6,9
+WV9939093,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,6,10
+WV3301727,GREATER HARRISON PSD VALLEY OF GOOD HOPE,Region 3,West Virginia,Community water system,2519,WEST MILFORD,Harrison,5,17,9
+WV3301713,GREATER HARRISON PSD LOST CREEK MT CLARE,Region 3,West Virginia,Community water system,3407,WEST MILFORD,Harrison,13,14,11
+WV3301719,GREATER HARRISON PSD - QUIET DELL,Region 3,West Virginia,Community water system,2079,NUTTER FORT,Harrison,9,15,8
+WV3304802,MIDDLEBOURNE WATER WORKS,Region 3,West Virginia,Community water system,1267,MIDDLEBOURNE,Tyler,7,34,16
+WV9939092,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,6,10
+WV9939091,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,6,10
+WV9939089,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,10,10
+WV9939088,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,4,10
+WV9939087,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,5,10
+WV9939030,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,3,10
+WV9939029,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,4,10
+WV9939028,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,4,10
+WV9939027,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,4,5,10
+WV9939026,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,4,10
+WV9939025,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,6,10
+WV9939024,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,3,10
+WV9939023,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,4,10
+WV9939022,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,4,6,10
+WV9939021,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,4,10
+WV9939161,ALYESKA - BIG BEAR LAKE STORE,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,8,5
+WV9939020,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,6,10
+WV9939019,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,4,11
+WV9939018,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,5,10
+WV9939017,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,8,10
+WV9939016,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,7,10
+WV9939015,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,6,10
+WV9939014,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,6,8
+WV9939013,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,4,10
+WV9939012,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,4,10
+WV9939011,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,6,10
+WV9939010,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,4,10
+WV9939009,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,5,10
+WV9939008,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,4,9
+WV9939007,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,2,10
+WV9939006,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,4,9
+WV9939005,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,5,10
+WV9939004,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,8,10
+WV9939003,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,3,10
+WV9939110,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,3,9
+WV9939111,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,5,9
+WV9939113,ALYESKA INC,Region 3,West Virginia,Community water system,52,BRUCETON MILLS,Preston,3,131,10
+WV9939106,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,3,8
+WV9939109,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,7,9
+WV3303406,FENWICK MOUNTAIN PSD,Region 3,West Virginia,Community water system,554,FENWICK,Nicholas,7,37,19
+WV3303209,PICKAWAY TRAILER PARK,Region 3,West Virginia,Community water system,54,PICKAWAY,Monroe,6,82,42
+WV9919016,RAINBOW ROAD CLUB,Region 3,West Virginia,Transient non-community system,250,RIPPON,Jefferson,3,104,7
+WV3301411,CENTRAL HAMPSHIRE PSD,Region 3,West Virginia,Community water system,2123,"AUGUSTA, ROMNEY",Hampshire,15,25,16
+WV3301412,CENTRAL HAMPSHIRE PSD GREEN SPRING,Region 3,West Virginia,Community water system,1046,GREEN SPRING,Hampshire,13,404,36
+WV3303317,"TRI LAKE HOLDINGS, INC.",Region 3,West Virginia,Community water system,139,BERKELEY SPRINGS,Morgan,7,277,10
+WV3300702,MOUNT ZION P S D,Region 3,West Virginia,Community water system,1392,GRANTSVILLE,Calhoun,11,154,35
+WV9918017,RIPPLING WATERS CAMPGROUND,Region 3,West Virginia,Transient non-community system,25,ROMANCE,Jackson,3,9,21
+WV9927103,SANDY RIVER MIDDLE SCHOOL,Region 3,West Virginia,Non-Transient non-community system,450,AVONDALE,McDowell,3,190,9
+WV3302077,REAMER HILL WATER ASSOC,Region 3,West Virginia,Community water system,64,CLENDENIN (RR NAME CLENDENNIN),Kanawha,4,303,16
+WV3300506,FOLLANSBEE MUNICIPAL,Region 3,West Virginia,Community water system,2628,FOLLANSBEE,Brooke,12,10,13
+WV3300512,FOLLANSBEE HOOVERSON HEIGHTS,Region 3,West Virginia,Community water system,4970,FOLLANSBEE,Brooke,14,35,28
+WV3303402,CRAIGSVILLE PSD,Region 3,West Virginia,Community water system,4591,CRAIGSVILLE,Nicholas,13,22,104
+WV3302516,MONTANA WATER ASSOC,Region 3,West Virginia,Community water system,722,FAIRMONT,Marion,4,84,18
+WV3302529,RAYFORD ACRES,Region 3,West Virginia,Community water system,71,FAIRMONT,Marion,2,9,9
+WV3302502,FAIRMONT CITY OF,Region 3,West Virginia,Community water system,29864,FAIRMONT,Marion,17,11,50
+WV9938107,DEANS DEN,Region 3,West Virginia,Transient non-community system,30,,Pocahontas,4,2,2
+WV3304409,CLOVER PSD,Region 3,West Virginia,Community water system,926,CLOVER,Roane,9,53,28
+WV9913110,STUARTS SMOKEHOUSE,Region 3,West Virginia,Transient non-community system,25,ALDERSON,Greenbrier,4,98,52
+WV3301046,WVAWC NEW RIVER REGIONAL WTR TRTMT PLT,Region 3,West Virginia,Community water system,24295,OAK HILL,Fayette,34,0,57
+WV3304513,WVAWC BLUESTONE PLANT,Region 3,West Virginia,Community water system,26874,HINTON,Summers,41,0,98
+WV3304111,WVAWC GLADE SPRINGS DISTRICT,Region 3,West Virginia,Community water system,1340,DANIELS,Raleigh,5,1,19
+WV3305104,WVAW - WEBSTER SPRINGS,Region 3,West Virginia,Community water system,1971,WEBSTER SPRINGS (CORPORATE NAM,Webster,11,0,21
+WV3301017,WVAWC MONTGOMERY HEIGHTS DISTRICT,Region 3,West Virginia,Community water system,92,MONTGOMERY,Fayette,3,8,9
+WV3300406,WVAW- GASSAWAY,Region 3,West Virginia,Community water system,2049,GASSAWAY,Braxton,10,0,18
+WV3304020,WVAWC 5 AND 20 MILE ROAD DISTRICT,Region 3,West Virginia,Community water system,78,FRAZIERS BOTTOM,Putnam,2,0,22
+WV3305519,GARWOOD COMMUNITY WATER,Region 3,West Virginia,Community water system,55,GARWOOD,Wyoming,6,508,10
+WV9942097,WHITES CAMPGROUND,Region 3,West Virginia,Transient non-community system,150,GLADY,Randolph,3,95,3
+WV3301947,POTOMAC FARMS WATER CO,Region 3,West Virginia,Community water system,65,BAKERTON,Jefferson,4,290,6
+WV9915030,ARCELORMITTAL WEIRTON STEEL USA,Region 3,West Virginia,Non-Transient non-community system,1000,WEIRTON,Hancock,6,16,16
+WV9916021,USFS TROUT POND,Region 3,West Virginia,Transient non-community system,100,LOST CITY,Hardy,3,24,13
+WV9914053,USFS HAWK CAMPGROUND HP,Region 3,West Virginia,Transient non-community system,50,WARDENSVILLE,Hampshire,3,22,5
+WV9947043,BLACKWATER FALLS STATE PARK,Region 3,West Virginia,Non-Transient non-community system,1189,DAVIS,Tucker,5,50,7
+WV3303003,KERMIT WATER WORKS,Region 3,West Virginia,Community water system,1330,KERMIT,Mingo,8,154,43
+WV3304104,BECKLEY WATER COMPANY,Region 3,West Virginia,Community water system,49058,BECKLEY,Raleigh,34,14,349
+WV3304206,HUTTONSVILLE TOWN OF,Region 3,West Virginia,Community water system,193,HUTTONSVILLE,Randolph,3,44,13
+WV3300231,ROCKY GLEN MANUFACTURED HOUSING COMMUNIT,Region 3,West Virginia,Community water system,861,MARTINSBURG,Berkeley,9,31,8
+WV3303334,MORGAN VILLAGE MHP,Region 3,West Virginia,Community water system,98,HEDGESVILLE,Morgan,5,20,7
+WV3300204,JUDY LYNN MHP,Region 3,West Virginia,Community water system,53,HEDGESVILLE,Berkeley,3,130,14
+WV3302946,MOUNTAIN VIEW WATER SYSTEM,Region 3,West Virginia,Community water system,132,RIDGELEY (RR NAME RIDGELY),Mineral,8,115,6
+WV3303011,DELBARTON TOWN OF,Region 3,West Virginia,Community water system,286,DELBARTON,Mingo,6,62,15
+WV3300402,FLATWOODS CANOE RUN PSD,Region 3,West Virginia,Community water system,3775,"FLATWOODS, SUTTON",Braxton,19,45,31
+WV3303204,GAP MILLS PSD,Region 3,West Virginia,Community water system,392,GAP MILLS,Monroe,4,18,61
+WV9913138,ORGAN CAVE DOLLAR GENERAL,Region 3,West Virginia,Transient non-community system,25,RONCEVERTE,Greenbrier,3,2,2
+WV3300516,WEIRTON AREA WATER BOARD,Region 3,West Virginia,Community water system,22694,WEIRTON,Brooke,26,56,54
+WV9922048,UPPER MUD RIVER  (W M A),Region 3,West Virginia,Transient non-community system,159,"HAMLIN, SPURLOCKVILLE",Lincoln,3,4,12
+WV3301814,NORTHERN JACKSON COUNTY PSD,Region 3,West Virginia,Community water system,2543,RAVENSWOOD,Jackson,16,10,31
+WV3302849,GREEN VALLEY GLENWOOD PSD GLENWOOD,Region 3,West Virginia,Community water system,5775,PRINCETON,Mercer,19,30,38
+WV3302813,GREEN VALLEY GLENWOOD PSD BULLTAIL,Region 3,West Virginia,Community water system,1869,PRINCETON,Mercer,8,18,27
+WV9910104,NAT PK SER NEW RIVER GORGE DUN GLEN,Region 3,West Virginia,Transient non-community system,25,GLEN JEAN,Fayette,3,5,22
+WV9907030,"BARN, THE",Region 3,West Virginia,Transient non-community system,25,,Calhoun,3,4,8
+WV3300806,CLAY-ROANE PSD (PROCIOUS DISTRICT),Region 3,West Virginia,Community water system,1953,PROCIOUS (CAMP),Clay,16,162,105
+WV9938080,ARBUCKLES,Region 3,West Virginia,Transient non-community system,25,SNOWSHOE RESORT,Pocahontas,3,0,5
+WV9938081,SUGAR HOUSE RESTAURANT,Region 3,West Virginia,Transient non-community system,30,SNOWSHOE RESORT,Pocahontas,3,2,5
+WV9938079,"BOAT HOUSE, THE",Region 3,West Virginia,Transient non-community system,25,SNOWSHOE RESORT,Pocahontas,3,0,5
+WV9938095,HENRYS QUICK STOP,Region 3,West Virginia,Transient non-community system,25,GREEN BANK,Pocahontas,4,22,3
+WV9938096,TRENTS,Region 3,West Virginia,Transient non-community system,25,ARBOVALE,Pocahontas,3,29,3
+WV9910096,NAT PK SER THURMOND DEPOT,Region 3,West Virginia,Transient non-community system,25,GLEN JEAN,Fayette,3,20,26
+WV3302013,EAST BANK WATER DEPT,Region 3,West Virginia,Community water system,912,EAST BANK,Kanawha,5,73,29
+WV9945074,VANDALLS,Region 3,West Virginia,Transient non-community system,25,GREEN SULPHUR SPRINGS,Summers,4,26,35
+WV9947006,CANAAN VALLEY NATIONAL WILDLIFE RESERVE,Region 3,West Virginia,Transient non-community system,25,CANAAN VALLEY,Tucker,3,11,5
+WV3302605,GLEN DALE WATER WORKS,Region 3,West Virginia,Community water system,2495,GLEN DALE,Marshall,12,37,23
+WV3302617,ISKCON - NEW VRINDABAN,Region 3,West Virginia,Community water system,184,MOUNDSVILLE,Marshall,6,19,7
+WV3300515,WASHINGTON PIKE PSD,Region 3,West Virginia,Community water system,3571,WELLSBURG,Brooke,7,5,6
+WV9913044,LAKE SHERWOOD 062 HP,Region 3,West Virginia,Transient non-community system,500,WHITE SULPHUR SPRINGS,Greenbrier,3,9,8
+WV9913042,LAKE SHERWOOD PICNIC AREA 61,Region 3,West Virginia,Transient non-community system,500,WHITE SULPHUR SPRINGS,Greenbrier,5,15,9
+WV9913008,BLUEBEND HANDPUMP 0614 HP,Region 3,West Virginia,Transient non-community system,300,,Greenbrier,3,13,11
+WV9913007,BLUEBEND REC CENTER WELL 066,Region 3,West Virginia,Transient non-community system,25,WHITE SULPHUR SPRINGS,Greenbrier,3,16,9
+WV9955105,SALYERS FAMILY MARKET,Region 3,West Virginia,Transient non-community system,25,HANOVER,Wyoming,3,56,27
+WV3305010,CRUM PSD,Region 3,West Virginia,Community water system,3092,CRUM,Wayne,22,15,51
+WV3304711,TIMBERLINE-CV PSD,Region 3,West Virginia,Community water system,544,CANAAN VALLEY,Tucker,18,67,22
+WV9939090,ALYESKA INC,Region 3,West Virginia,Transient non-community system,50,BRUCETON MILLS,Preston,3,4,10
+WV9931007,CHESTNUT RIDGE PARK,Region 3,West Virginia,Transient non-community system,40,CHESTNUT RIDGE,Monongalia,4,49,7
+WV9942091,KUMBRABOW STATE FOREST BATH HOUSE,Region 3,West Virginia,Transient non-community system,26,ELKWATER,Randolph,4,18,5
+WV9942070,KUMBRABOW STATE FOREST CABIN 4 - HP,Region 3,West Virginia,Transient non-community system,30,HUTTONSVILLE,Randolph,3,10,5
+WV9942086,KUMBRABOW STATE FOREST CABIN 5 - HP,Region 3,West Virginia,Transient non-community system,25,HUTTONSVILLE,Randolph,3,13,5
+WV9942087,KUMBRABOW STATE FOREST CABIN 6 -HP,Region 3,West Virginia,Transient non-community system,25,HUTTONSVILLE,Randolph,3,9,5
+WV9942085,KUMBRABOW STATE FOREST CAMPSITE 9 - HP,Region 3,West Virginia,Transient non-community system,25,HUTTONSVILLE,Randolph,3,3,4
+WV9942084,KUMBRABOW STATE FOREST PLAYGROUND - HP,Region 3,West Virginia,Transient non-community system,25,HUTTONSVILLE,Randolph,3,12,5
+WV9942064,KUMBRABOW STATE FOREST CABINS - HP,Region 3,West Virginia,Transient non-community system,30,HUTTONSVILLE,Randolph,3,20,5
+WV9955109,BLACKHAWK FLYING EAGLE WATER SYSTEM,Region 3,West Virginia,Non-Transient non-community system,60,KOPPERSTON,Wyoming,4,116,1
+WV3302708,MASON WATER DEPT,Region 3,West Virginia,Community water system,1651,MASON (RR NAME MASON CITY),Mason,6,119,45
+WV9919100,BLACK DOG COFFEE,Region 3,West Virginia,Transient non-community system,25,KEARNEYSVILLE,Jefferson,3,2,3
+WV3305007,WAYNE WATER TOWN OF,Region 3,West Virginia,Community water system,5265,WAYNE,Wayne,16,8,51
+WV3301315,ALDERSON WATER,Region 3,West Virginia,Community water system,2458,ALDERSON,Greenbrier,6,13,100
+WV3300901,"WEST UNION, TOWN OF",Region 3,West Virginia,Community water system,1895,WEST UNION,Doddridge,10,79,20
+WV3301309,RAINELLE WATER DEPT,Region 3,West Virginia,Community water system,1381,RAINELLE,Greenbrier,9,14,62
+WV3301312,RAINELLE WATER TREATMENT PLANT 2,Region 3,West Virginia,Community water system,290,RAINELLE,Greenbrier,5,22,17
+WV9947049,PATRIOT 4 OUTDOOR RESORT,Region 3,West Virginia,Transient non-community system,25,PARSONS,Tucker,3,24,3
+WV3302607,MARSHALL COUNTY PSD 2,Region 3,West Virginia,Community water system,1601,MOUNDSVILLE,Marshall,9,97,23
+WV3301904,CAVE QUARTER UTILITY,Region 3,West Virginia,Community water system,126,CHARLES TOWN,Jefferson,5,320,4
+WV3304306,PENNSBORO,Region 3,West Virginia,Community water system,1291,PENNSBORO,Ritchie,9,24,10
+WV9938029,NATIONAL RADIO ASTRONOMY OBSERVATORY,Region 3,West Virginia,Non-Transient non-community system,110,GREEN BANK,Pocahontas,8,5,16
+WV3301317,ANTHONY CORRECTIONAL CENTER,Region 3,West Virginia,Non-Transient non-community system,44,NEOLA,Greenbrier,9,99,20
+WV3304302,ELLENBORO-LAMBERTON PSD,Region 3,West Virginia,Community water system,456,PENNSBORO,Ritchie,6,27,10
+WV9914004,BURGUNDY WILDLIFE CENTER,Region 3,West Virginia,Transient non-community system,25,CAPON BRIDGE,Hampshire,4,45,7
+WV3301302,GREENBRIER COUNTY PSD 2,Region 3,West Virginia,Community water system,1164,CRICHTON,Greenbrier,8,20,62
+WV3300523,BROOKE COUNTY PSD,Region 3,West Virginia,Community water system,240,COLLIERS,Brooke,4,26,8
+WV3305510,KOPPERSTON PSD,Region 3,West Virginia,Community water system,1095,KOPPERSTON,Wyoming,11,49,16
+WV9945012,CAMP SUMMERS,Region 3,West Virginia,Transient non-community system,100,HINTON,Summers,4,25,37
+WV3305103,COWEN PSD,Region 3,West Virginia,Community water system,3372,COWEN,Webster,16,68,52
+WV3303002,GILBERT WATER WORKS,Region 3,West Virginia,Community water system,1629,GILBERT,Mingo,10,248,57
+WV3304707,PARSONS CITY OF,Region 3,West Virginia,Community water system,1544,PARSONS,Tucker,8,96,29
+WV3305206,GRANDVIEW - DOOLIN PSD,Region 3,West Virginia,Community water system,1942,PROCTOR,Wetzel,14,15,16
+WV9938067,POCAHONTAS CO PARKS REC BD,Region 3,West Virginia,Transient non-community system,25,MARLINTON,Pocahontas,3,64,6
+WV3303513,VALLEY GROVE WATER DEPT,Region 3,West Virginia,Community water system,686,VALLEY GROVE,Ohio,5,66,15
+WV9936053,SUGAR GROVE RESEARCH STATION,Region 3,West Virginia,Non-Transient non-community system,70,SUGAR GROVE,Pendleton,8,29,6
+WV3304213,NORTON  HARDING JIMTOWN PSD,Region 3,West Virginia,Community water system,1684,NORTON,Randolph,11,4,22
+WV9913054,ALFREDOS,Region 3,West Virginia,Transient non-community system,25,RAINELLE,Greenbrier,3,14,18
+WV9939049,COOL SPRINGS,Region 3,West Virginia,Transient non-community system,125,ROWLESBURG,Preston,3,48,6
+WV9944019,SPRING HEIGHTS ED AND CONF CENTER,Region 3,West Virginia,Transient non-community system,31,SPENCER,Roane,6,16,18
+WV3305532,GREEN CAMP PSD,Region 3,West Virginia,Community water system,44,BRENTON,Wyoming,4,280,10
+WV9945049,PIPESTEM RV PARK AND CAMPGROUND,Region 3,West Virginia,Transient non-community system,25,PIPESTEM,Summers,4,77,45
+WV3301414,GLOBAL CAPITAL OF WORLD PEACE,Region 3,West Virginia,Community water system,80,ROMNEY,Hampshire,6,10,9
+WV3302203,"WEST HAMLIN, CITY OF",Region 3,West Virginia,Community water system,2285,WEST HAMLIN,Lincoln,8,188,49
+WV3302520,SUGAR LANE WATER ASSOC,Region 3,West Virginia,Community water system,218,RIVESVILLE,Marion,2,83,9
+WV3300408,BURNSVILLE PUBLIC UTILITY,Region 3,West Virginia,Community water system,1128,BURNSVILLE,Braxton,11,35,27
+WV9951041,HOLLY RIVER GROCERY,Region 3,West Virginia,Transient non-community system,26,HACKER VALLEY,Webster,3,3,4
+WV3302512,MANNINGTON PSD,Region 3,West Virginia,Community water system,796,MANNINGTON,Marion,9,16,16
+WV3302532,MANNINGTON PSD - LOGANSPORT,Region 3,West Virginia,Community water system,346,LOGANSPORT,Marion,5,13,8
+WV3302536,MANNINGTON PSD - METZ,Region 3,West Virginia,Community water system,232,METZ,Marion,4,8,5
+WV3302104,WVAW -  WESTON,Region 3,West Virginia,Community water system,11797,WESTON,Lewis,17,0,48
+WV9910097,CHESTNUT CREEK CAMPGROUND,Region 3,West Virginia,Transient non-community system,25,LANSING,Fayette,3,35,26
+WV3300811,CLAY CO PSD-HARTLAND,Region 3,West Virginia,Community water system,798,PROCIOUS (CAMP),Clay,11,18,58
+WV3300809,CLAY CO P S D - IVYDALE,Region 3,West Virginia,Community water system,680,CLAY,Clay,8,18,47
+WV3300810,CLAY CO P S D-TRIPLETT RIDGE,Region 3,West Virginia,Community water system,103,PROCIOUS (CAMP),Clay,5,19,42
+WV3300209,BERKELEY CO PSWD-GLENWOOD FOREST,Region 3,West Virginia,Community water system,1102,GERRARDSTOWN,Berkeley,16,42,5
+WV3300218,BERKELEY COUNTY PSWD-POTOMAC RIVER,Region 3,West Virginia,Community water system,27335,MARTINSBURG,Berkeley,29,27,50
+WV3300202,BERKELEY CO P S W D-BUNKER HILL,Region 3,West Virginia,Community water system,31185,"BAKER HEIGHTS, INWOOD",Berkeley,30,30,34
+WV3300237,WOODS HOME OWNERS ASSOCIATION 2,Region 3,West Virginia,Community water system,1723,HEDGESVILLE,Berkeley,15,7,12
+WV3300223,"WOODS HOA, THE",Region 3,West Virginia,Community water system,1550,HEDGESVILLE,Berkeley,14,8,12
+WV9936056,D AND K DAIRY BAR,Region 3,West Virginia,Transient non-community system,25,CHERRY GROVE,Pendleton,3,14,8
+WV9947030,BLACKWATER CENTER,Region 3,West Virginia,Transient non-community system,60,DAVIS,Tucker,3,3,5
+WV9947042,NORTH POINT SUBDIVISION,Region 3,West Virginia,Transient non-community system,141,DAVIS,Tucker,5,1,6
+WV3302703,GALLIPOLIS FERRY,Region 3,West Virginia,Community water system,995,GALLIPOLIS FERRY (RR NAME GALL,Mason,5,17,21
+WV3300106,CENTRAL BARBOUR PSD,Region 3,West Virginia,Community water system,2502,PHILIPPI,Barbour,8,6,10
+WV3300110,CENTRAL BARBOUR PSD - BELINGTON,Region 3,West Virginia,Community water system,597,MEADOWVILLE,Barbour,7,5,7
+WV3303405,WILDERNESS PSD,Region 3,West Virginia,Community water system,4475,MOUNT NEBO,Nicholas,16,23,82
+WV9938098,GREEN BANK SENIOR CENTER,Region 3,West Virginia,Transient non-community system,75,GREEN BANK,Pocahontas,3,6,2
+WV3302202,BRANCHLAND MIDKIFF PSD,Region 3,West Virginia,Community water system,3278,BRANCHLAND,Lincoln,18,19,33
+WV9913093,BROWNS WATER SYSTEM,Region 3,West Virginia,Transient non-community system,250,NEOLA,Greenbrier,3,888,44
+WV3304138,RALEIGH COUNTY MEM AIRPORT,Region 3,West Virginia,Community water system,4656,BEAVER,Raleigh,8,3,66
+WV3302857,RALEIGH COUNTY PSD EGERIA,Region 3,West Virginia,Community water system,200,FLAT TOP,Mercer,4,8,39
+WV3304150,RALEIGH COUNTY PSD ODD,Region 3,West Virginia,Community water system,675,ODD,Raleigh,5,1,38
+WV3304144,RALEIGH COUNTY PSD FITZPATRICK,Region 3,West Virginia,Community water system,201,MACARTHUR,Raleigh,2,4,16
+WV3304140,RALEIGH COUNTY PSD ARNETT,Region 3,West Virginia,Community water system,7180,ARNETT,Raleigh,22,6,90
+WV3304120,RALEIGH COUNTY PSD SLAB FORK,Region 3,West Virginia,Community water system,789,SLAB FORK,Raleigh,14,40,59
+WV3304123,RALEIGH COUNTY PSD COAL CITY,Region 3,West Virginia,Community water system,2905,COAL CITY,Raleigh,7,24,42
+WV3304152,RALEIGH COUNTY PSD PLUTO BRAGG,Region 3,West Virginia,Community water system,374,SHADY SPRING,Raleigh,3,3,3
+WV3304119,RHODELL WATER WORKS,Region 3,West Virginia,Community water system,238,RHODELL,Raleigh,5,60,51
+WV3304151,RALEIGH COUNTY PSD CLEAR CREEK,Region 3,West Virginia,Community water system,1407,CLEAR CREEK,Raleigh,8,0,51
+WV9945054,MOUNTAIN CREEK LODGE,Region 3,West Virginia,Transient non-community system,300,PIPESTEM,Summers,4,10,15
+WV9915021,WOODVIEW GOLF COURSE,Region 3,West Virginia,Transient non-community system,50,CHESTER,Hancock,4,10,5
+WV3301520,MOUNTAINEER PARK INC,Region 3,West Virginia,Non-Transient non-community system,5760,CHESTER,Hancock,5,91,10
+WV9939146,KNOTTS LANDING,Region 3,West Virginia,Transient non-community system,25,ROWLESBURG,Preston,3,76,3
+WV3302531,HUTCHINSON COMMUNITY WATER ASSOC,Region 3,West Virginia,Community water system,370,WORTHINGTON,Marion,2,15,7
+WV9950086,VAMC - HUNTINGTON,Region 3,West Virginia,Non-Transient non-community system,1759,HUNTINGTON,Wayne,5,8,15
+WV9939164,FAST FREDDY'S LLC,Region 3,West Virginia,Transient non-community system,25,AURORA,Preston,4,14,3
+WV3301909,CHARLES TOWN UTL-GLEN HAVEN UTILITIES,Region 3,West Virginia,Community water system,195,RANSON,Jefferson,4,28,5
+WV3301972,CHARLES TOWN UTL-CAVALAND  SUBDIVISION,Region 3,West Virginia,Community water system,107,"RANSON, SHEPHERDSTOWN",Jefferson,5,15,5
+WV3301905,CHARLES TOWN UTILITIES,Region 3,West Virginia,Community water system,14488,CHARLES TOWN,Jefferson,17,148,27
+WV3301942,WALNUT GROVE UTILITIES,Region 3,West Virginia,Community water system,6797,CHARLES TOWN,Jefferson,31,324,15
+WV3300230,VALLEY WATER AND SEWER-DEERWOOD,Region 3,West Virginia,Community water system,219,"KEARNEYSVILLE, MARTINSBURG",Berkeley,6,10,6
+WV3303314,APPLE ORCHARD ACRES,Region 3,West Virginia,Community water system,91,BERKELEY SPRINGS,Morgan,8,113,8
+WV9902029,RIVER BEND MEMBERSHIP CORPORATION,Region 3,West Virginia,Non-Transient non-community system,2500,FALLING WATERS,Berkeley,6,22,6
+WV9931009,COOPERS ROCK STATE FOREST,Region 3,West Virginia,Transient non-community system,837,PISGAH,Monongalia,4,92,19
+WV3301612,HARDY COUNTY PSD MARVIN CHAPEL,Region 3,West Virginia,Community water system,90,MOOREFIELD,Hardy,4,6,3
+WV3303609,PENDLETON CO PSD-CIRCLEVILLE,Region 3,West Virginia,Community water system,75,FRANKLIN,Pendleton,6,8,7
+WV3303614,PENDLETON COUNTY PSD RIVERTON,Region 3,West Virginia,Community water system,54,RIVERTON,Pendleton,5,8,8
+WV3303613,PENDLETON CO PSD(BRANDYWINE),Region 3,West Virginia,Community water system,692,"BRANDYWINE, FRANKLIN",Pendleton,7,46,18
+WV3303611,PENDLETON CO PSD-UPPER TRACT,Region 3,West Virginia,Community water system,695,"FRANKLIN, UPPER TRACT",Pendleton,7,61,23
+WV3303608,PENDLETON CO PSD-US 220 NORTH,Region 3,West Virginia,Community water system,144,FRANKLIN,Pendleton,2,10,7
+WV9933003,BERKELEY SPRINGS BOWL,Region 3,West Virginia,Transient non-community system,150,BERKELEY SPRINGS,Morgan,3,87,8
+WV3301605,CALEDONIA HEIGHTS SUBDIVISION,Region 3,West Virginia,Community water system,200,MOOREFIELD,Hardy,3,17,10
+WV9942081,SHAVERS FORK CAMPGROUND,Region 3,West Virginia,Transient non-community system,25,BOWDEN,Randolph,3,34,5
+WV9916003,BIG RIDGE CAMPGROUND,Region 3,West Virginia,Transient non-community system,50,MATHIAS,Hardy,3,4,7
+WV9932029,PICKAWAY PICKINS RESTAURANT,Region 3,West Virginia,Transient non-community system,25,PICKAWAY,Monroe,3,25,12
+WV9918002,ROANE-JACKSON TECHNICAL CENTER,Region 3,West Virginia,Non-Transient non-community system,500,MARSHALL (BUFFALO),Jackson,7,45,19
+WV3301804,COTTAGEVILLE PSD,Region 3,West Virginia,Community water system,3072,COTTAGEVILLE,Jackson,13,12,38
+WV9938102,CAMP HIDDEN MEADOWS,Region 3,West Virginia,Transient non-community system,200,,Pocahontas,6,10,3
+WV9938103,CAMP HIDDEN MEADOWS (SWIM POOL),Region 3,West Virginia,Transient non-community system,25,,Pocahontas,3,13,4
+WV9945088,GENES,Region 3,West Virginia,Transient non-community system,25,MEADOW BRIDGE,Summers,3,69,9
+WV3301963,THE MOUNTAIN WATER SYSTEM,Region 3,West Virginia,Community water system,1021,HARPERS FERRY,Jefferson,14,54,5
+WV3301979,DEERFIELD VILLAGE SUBDIVISION,Region 3,West Virginia,Community water system,118,CHARLES TOWN,Jefferson,6,139,4
+WV3301036,PAGE KINCAID PSD,Region 3,West Virginia,Community water system,1590,KINCAID,Fayette,18,79,37
+WV3301402,TOWN OF CAPON BRIDGE INC,Region 3,West Virginia,Community water system,700,CAPON BRIDGE,Hampshire,5,12,10
+WV3302949,FOUNTAIN PSD BURLINGTON,Region 3,West Virginia,Community water system,793,BURLINGTON,Mineral,9,156,22
+WV3302942,FOUNTAIN PSD,Region 3,West Virginia,Community water system,1001,"ADDITION, KEYSER",Mineral,9,124,29
+WV9916048,RIO GENERAL STORE,Region 3,West Virginia,Transient non-community system,25,RIO,Hardy,3,19,15
+WV9918011,CONSTELLIUM ROLLED PRODUCTS LLC,Region 3,West Virginia,Non-Transient non-community system,1036,RAVENSWOOD,Jackson,4,8,13
+WV3303106,CHEAT VIEW PSD,Region 3,West Virginia,Community water system,9201,"EASTON, MORGANTOWN",Monongalia,9,36,7
+WV9933031,VFW POST 4019,Region 3,West Virginia,Transient non-community system,25,BERKELEY SPRINGS,Morgan,3,35,10
+WV9918034,WV BAPTIST CONFERENCE CENTER,Region 3,West Virginia,Transient non-community system,32,RIPLEY,Jackson,4,10,18
+WV9919028,LEETOWN PARK,Region 3,West Virginia,Transient non-community system,25,CHARLES TOWN,Jefferson,3,23,9
+WV9919074,SUMMIT POINT PARK,Region 3,West Virginia,Transient non-community system,25,SUMMIT POINT,Jefferson,3,34,8
+WV9912003,BIG BEND CAMPGROUND 0510,Region 3,West Virginia,Transient non-community system,100,PETERSBURG,Grant,3,12,8
+WV9927104,NEWBERRY FOOD AND FUEL INC,Region 3,West Virginia,Transient non-community system,25,IAEGER,McDowell,3,37,30
+WV9916014,LOST RIVER STATE PARK,Region 3,West Virginia,Transient non-community system,50,MATHIAS,Hardy,3,7,6
+WV9916013,LOST RIVER STATE PARK,Region 3,West Virginia,Transient non-community system,60,MATHIAS,Hardy,3,6,6
+WV9902043,FAITH CHRISTIAN ACADEMY,Region 3,West Virginia,Non-Transient non-community system,285,MARTINSBURG,Berkeley,3,42,7
+WV9902002,BACK CREEK VALLEY ELEMENTARY,Region 3,West Virginia,Non-Transient non-community system,150,"HEDGESVILLE, MARTINSBURG",Berkeley,4,78,5
+WV9947040,WHITE GRASS SKI TOURING CENTER,Region 3,West Virginia,Transient non-community system,50,DAVIS,Tucker,3,77,7
+WV9939118,MELANIES FAMILY RESTAURANT,Region 3,West Virginia,Transient non-community system,25,AURORA,Preston,3,7,6
+WV9947002,WV RESORTS,Region 3,West Virginia,Transient non-community system,50,DAVIS,Tucker,5,1,6
+WV9941080,BERRYS CAMPGROUND,Region 3,West Virginia,Transient non-community system,35,HINTON,Raleigh,3,37,20
+WV3302835,WVAWC BLUEFIELD DISTRICT,Region 3,West Virginia,Community water system,12174,BLUEFIELD,Mercer,18,0,17
+WV3302611,MOUNDSVILLE,Region 3,West Virginia,Community water system,11999,MOUNDSVILLE,Marshall,17,50,49
+WV9920075,MORTON PLAZA-WV PARKWAYS,Region 3,West Virginia,Non-Transient non-community system,3364,GALLAGHER,Kanawha,5,21,32
+WV9920086,MILEPOST 69 REST AREA,Region 3,West Virginia,Transient non-community system,3974,BECKLEY,Kanawha,6,3,29
+WV3302710,POINT PLEASANT WATER WORKS,Region 3,West Virginia,Community water system,5290,POINT PLEASANT,Mason,18,185,44
+WV9955071,CASTLE ROCK RESTAURANT INC,Region 3,West Virginia,Transient non-community system,25,JESSE,Wyoming,3,8,15
+WV9947033,LAND OF CANAAN VACATION RESORT,Region 3,West Virginia,Transient non-community system,177,"CANAAN VALLEY, DAVIS",Tucker,9,11,5
+WV9938035,POCAHONTAS COUNTY HIGH SCHOOL,Region 3,West Virginia,Non-Transient non-community system,331,MARLINTON,Pocahontas,5,75,18
+WV9916005,CAMP PINNACLE,Region 3,West Virginia,Transient non-community system,100,MOOREFIELD,Hardy,4,48,8
+WV9902047,SONIA'S BAR AND GRILL,Region 3,West Virginia,Transient non-community system,25,MARTINSBURG,Berkeley,3,2,2
+WV9919040,TJ'S PIT STOP,Region 3,West Virginia,Transient non-community system,25,RIPPON,Jefferson,3,65,8
+WV3301042,GAULEY RIVER PSD,Region 3,West Virginia,Community water system,4168,BELVA,Fayette,22,7,52
+WV3301724,STONEWOOD CITY OF,Region 3,West Virginia,Community water system,2236,STONEWOOD,Harrison,5,32,19
+WV3301008,DANESE PSD,Region 3,West Virginia,Community water system,2210,DANESE,Fayette,13,12,57
+WV3302420,GARY CITY OF,Region 3,West Virginia,Community water system,1633,GARY,McDowell,12,39,40
+WV3301701,ANMOORE TOWN OF,Region 3,West Virginia,Community water system,951,ANMOORE,Harrison,4,88,10
+WV3301022,MEADOW BRIDGE TOWN OF,Region 3,West Virginia,Community water system,551,MEADOW BRIDGE,Fayette,5,25,56
+WV3302421,WELCH CITY OF,Region 3,West Virginia,Community water system,2907,WELCH,McDowell,27,61,37
+WV3303128,CLINTON WATER ASSOC - KINGWOOD PIKE,Region 3,West Virginia,Community water system,3208,MORGANTOWN,Monongalia,13,5,9
+WV3303107,CLINTON WATER ASSOC - ROUTE 119,Region 3,West Virginia,Community water system,5580,MORGANTOWN,Monongalia,12,6,16
+WV3305302,ELIZABETH WATER DEPT,Region 3,West Virginia,Community water system,2072,ELIZABETH,Wirt,12,32,30
+WV9955083,WVDHHR,Region 3,West Virginia,Non-Transient non-community system,52,PINEVILLE,Wyoming,3,48,12
+WV9938038,BEARS DEN LLC,Region 3,West Virginia,Transient non-community system,40,ARBOVALE,Pocahontas,3,65,5
+WV3304909,ELKINS ROAD PSD,Region 3,West Virginia,Community water system,2848,BUCKHANNON,Upshur,15,8,16
+WV9938019,GREEN BANK SCHOOL,Region 3,West Virginia,Non-Transient non-community system,293,GREEN BANK,Pocahontas,4,56,24
+WV3303916,BIG SANDY MHP,Region 3,West Virginia,Community water system,55,BRUCETON MILLS,Preston,3,34,17
+WV3303923,PRESTON COUNTY PSD 4,Region 3,West Virginia,Community water system,8700,ALBRIGHT,Preston,35,41,54
+WV9936075,TC COUNTRY COOKIN,Region 3,West Virginia,Transient non-community system,25,,Pendleton,3,90,9
+WV3300801,CLAY WATER DEPT,Region 3,West Virginia,Community water system,1084,CLAY,Clay,10,69,79
+WV3301205,MOUNTAIN TOP PSD,Region 3,West Virginia,Community water system,2072,MT STORM,Grant,15,31,25
+WV3302517,MONUMENTAL PSD,Region 3,West Virginia,Community water system,1924,FAIRMONT,Marion,13,15,10
+WV3302533,MONUMENTAL PSD - CHESAPEAKE,Region 3,West Virginia,Community water system,228,FAIRMONT,Marion,3,27,10
+WV3303921,ALPINE LAKE PUBLIC UTILITIES,Region 3,West Virginia,Community water system,1339,TERRA ALTA,Preston,14,11,23
+WV9941085,I HEART CHURCH,Region 3,West Virginia,Non-Transient non-community system,1000,BRADLEY,Raleigh,5,211,5
+WV3301303,DAVIS STUART INC,Region 3,West Virginia,Community water system,100,LEWISBURG,Greenbrier,5,19,12
+WV9955106,PINNACLE CREEK ATV CAMPGROUND 2,Region 3,West Virginia,Transient non-community system,25,CRUMPLER,Wyoming,4,40,18
+WV3302947,"CARPENDALE, TOWN OF",Region 3,West Virginia,Community water system,908,RIDGELEY (RR NAME RIDGELY),Mineral,5,15,17
+WV9904001,USACOE BAKERS RUN,Region 3,West Virginia,Transient non-community system,500,BAKERS RUN,Braxton,3,14,5
+WV9904015,USACOE UPPER KANAWHA RUN,Region 3,West Virginia,Transient non-community system,500,SUTTON,Braxton,3,10,5
+WV9904011,USACOE LOWER KANAWHA RUN,Region 3,West Virginia,Transient non-community system,500,SUTTON,Braxton,3,13,5
+WV9904012,USACOE MIDDLE KANAWHA RUN,Region 3,West Virginia,Transient non-community system,500,SUTTON,Braxton,3,8,5
+WV3300701,GRANTSVILLE MUNICIPAL,Region 3,West Virginia,Community water system,571,GRANTSVILLE,Calhoun,8,9,47
+WV3301104,GLENVILLE UTILITY,Region 3,West Virginia,Community water system,2228,GLENVILLE,Gilmer,9,8,26
+WV3301517,OAKLAND PSD,Region 3,West Virginia,Community water system,1846,NEW CUMBERLAND,Hancock,8,16,28
+WV9942032,USFS STUART PARK WELL 15A,Region 3,West Virginia,Transient non-community system,50,CANFIELD (POE RUN),Randolph,6,41,6
+WV9942028,USFS SPRUCE KNOB CAMPGROUND 053,Region 3,West Virginia,Transient non-community system,25,WHITMER,Randolph,3,41,5
+WV3302472,WAR WATER WORKS CITY REALTY,Region 3,West Virginia,Community water system,942,WAR,McDowell,7,256,26
+WV3302031,ST ALBANS WATER,Region 3,West Virginia,Community water system,13619,ST. ALBANS,Kanawha,9,43,62
+WV3305009,KENOVA MUNICIPAL WATER,Region 3,West Virginia,Community water system,9134,KENOVA,Wayne,26,73,61
+WV3300502,BEECH BOTTOM WATER DEPT,Region 3,West Virginia,Community water system,610,BEECH BOTTOM,Brooke,8,12,13
+WV3305405,MINERAL WELLS PSD,Region 3,West Virginia,Community water system,5674,MINERALWELLS,Wood,11,19,13
+WV9930144,TWIN HOLLOW CAMPGROUND,Region 3,West Virginia,Transient non-community system,45,GILBERT,Mingo,3,8,10
+WV3302431,MCDOWELL COUNTY PSD KIMBALL,Region 3,West Virginia,Community water system,605,KIMBALL,McDowell,7,100,13
+WV3302411,MCDOWELL COUNTY PSD PREMIER,Region 3,West Virginia,Community water system,122,PREMIER,McDowell,8,68,11
+WV3302448,CRUMPLER COMMUNITY WATER,Region 3,West Virginia,Community water system,318,CRUMPLER,McDowell,6,209,7
+WV3300609,MILTON WATER,Region 3,West Virginia,Community water system,4883,MILTON,Cabell,12,59,94
+WV9914028,MILLESONS WALNUT GROVE CAMPGROUND INC,Region 3,West Virginia,Transient non-community system,100,SPRINGFIELD,Hampshire,3,18,10
+WV9914003,BUFFALO GAP CAMP,Region 3,West Virginia,Transient non-community system,100,CAPON BRIDGE,Hampshire,3,30,1
+WV9936004,US FOREST SERVICE BRANDYWINE,Region 3,West Virginia,Transient non-community system,50,BRANDYWINE,Pendleton,3,55,4
+WV3301024,MOUNT HOPE WATER,Region 3,West Virginia,Community water system,1431,MOUNT HOPE,Fayette,14,15,50
+WV3301610,HARDY COUNTY PSD-ROUTE 55,Region 3,West Virginia,Community water system,802,MOOREFIELD,Hardy,7,4,6
+WV3301608,HARDY COUNTY PSD 220 N,Region 3,West Virginia,Community water system,1388,MOOREFIELD,Hardy,10,8,10
+WV3301613,HARDY COUNTY PSD BAKER,Region 3,West Virginia,Community water system,182,MOOREFIELD,Hardy,4,45,34
+WV3301609,HARDY COUNTY PSD-TROUT RUN,Region 3,West Virginia,Community water system,245,WARDENSVILLE,Hardy,5,7,6
+WV3301611,HARDY COUNTY PSD-SOUTH FORK,Region 3,West Virginia,Community water system,244,MOOREFIELD,Hardy,5,0,6
+WV3301607,HARDY COUNTY PSD 220 SOUTH,Region 3,West Virginia,Community water system,1463,MOOREFIELD,Hardy,12,3,8
+WV3301819,SOUTHERN JACKSON COUNTY PSD ROUTE 33,Region 3,West Virginia,Community water system,154,RIPLEY,Jackson,2,11,10
+WV9914007,CAMP TALL TIMBERS,Region 3,West Virginia,Transient non-community system,100,HIGH VIEW,Hampshire,5,23,8
+WV9914061,AVALON RESORT LLC,Region 3,West Virginia,Transient non-community system,25,PAW PAW,Hampshire,4,50,6
+WV3302417,ASHLAND COMMUNITY,Region 3,West Virginia,Community water system,70,ASHLAND,McDowell,3,130,7
+WV3302434,MCDOWELL COUNTY PSD BARTLEY,Region 3,West Virginia,Community water system,1632,"BARTLEY, ENGLISH",McDowell,16,206,21
+WV3302407,MCDOWELL COUNTY PSD TIDEWATER,Region 3,West Virginia,Community water system,188,VIVIAN,McDowell,4,120,7
+WV3302405,MCDOWELL COUNTY PSD ECKMAN,Region 3,West Virginia,Community water system,118,ECKMAN,McDowell,5,96,7
+WV3302475,MCDOWELL COUNTY PSD BISHOP,Region 3,West Virginia,Community water system,100,BISHOP,McDowell,2,25,11
+WV3302471,MCDOWELL COUNTY PSD BIG FOUR,Region 3,West Virginia,Community water system,363,WELCH,McDowell,7,76,15
+WV3302465,MCDOWELL COUNTY PSD GREENBRIER,Region 3,West Virginia,Community water system,165,NORTHFORK (RR NAME NORTH FORK),McDowell,5,98,7
+WV3302460,MCDOWELL COUNTY PSD MAYBEURY,Region 3,West Virginia,Community water system,871,MAYBEURY,McDowell,7,63,13
+WV3302441,MCDOWELL COUNTY PSD HEMPHILL,Region 3,West Virginia,Community water system,322,HEMPHILLL,McDowell,4,55,6
+WV3302440,MCDOWELL COUNTY PSD HAVACO,Region 3,West Virginia,Community water system,370,HAVACO,McDowell,4,35,8
+WV3302439,MCDOWELL COUNTY PSD COALWOOD,Region 3,West Virginia,Community water system,1008,COALWOOD,McDowell,9,74,34
+WV3302435,MCDOWELL COUNTY PSD BERWIND,Region 3,West Virginia,Community water system,863,BERWIND,McDowell,6,247,22
+WV9939045,CATHEDRAL STATE PARK,Region 3,West Virginia,Transient non-community system,25,AURORA,Preston,4,13,5
+WV9949047,HILLBILLY GRILL,Region 3,West Virginia,Transient non-community system,25,ATLAS,Upshur,3,37,4
+WV3302513,MANNINGTON CITY OF,Region 3,West Virginia,Community water system,2003,MANNINGTON,Marion,41,21,15
+WV3303403,NETTIE LEIVASY PSD,Region 3,West Virginia,Community water system,3239,NETTIE,Nicholas,15,46,111
+WV3303116,STAR CITY TOWN OF,Region 3,West Virginia,Community water system,2197,STAR CITY,Monongalia,5,20,7
+WV9933058,LITTLE LEARNERS VILLAGE LLC,Region 3,West Virginia,Non-Transient non-community system,30,BERKELEY SPRINGS,Morgan,3,75,8
+WV3300107,CENTURY VOLGA PSD,Region 3,West Virginia,Community water system,2492,VOLGA,Barbour,14,12,11
+WV9939119,SILVER LAKE PARK,Region 3,West Virginia,Transient non-community system,40,HORSE SHOE RUN,Preston,4,30,7
+WV9919027,JOHNS FAMILY RESTAURANT,Region 3,West Virginia,Transient non-community system,60,RIPPON,Jefferson,3,140,12
+WV3304605,TAYLOR COUNTY PSD,Region 3,West Virginia,Community water system,1404,GRAFTON,Taylor,12,7,30
+WV3304606,HAYMOND PSD,Region 3,West Virginia,Community water system,1325,GRAFTON,Taylor,12,12,8
+WV3301977,ALLENS WONDERLAND,Region 3,West Virginia,Transient non-community system,157,"BAKERTON, HARPERS FERRY",Jefferson,3,6,5
+WV9947044,CANAAN VALLEY STATE PARK,Region 3,West Virginia,Non-Transient non-community system,1656,CANAAN VALLEY,Tucker,7,48,22
+WV3304801,TYLER COUNTY PSD (FKA FRIENDLY PSD),Region 3,West Virginia,Community water system,2146,FRIENDLY,Tyler,19,30,37
+WV9948015,TYLER COUNTY FAIR GROUNDS,Region 3,West Virginia,Transient non-community system,75,MIDDLEBOURNE,Tyler,7,38,9
+WV9947031,BLACK BEAR WOODS,Region 3,West Virginia,Transient non-community system,283,DAVIS,Tucker,8,32,5
+WV3303707,PLEASANTS CO PSD,Region 3,West Virginia,Community water system,2357,ST. MARYS,Pleasants,16,4,24
+WV9907014,STINSON GROCERY,Region 3,West Virginia,Transient non-community system,40,CHLOE,Calhoun,3,15,14
+WV9936061,"FRONT PORCH, THE",Region 3,West Virginia,Transient non-community system,25,SENECA ROCKS,Pendleton,3,87,11
+WV3305404,LUBECK PSD,Region 3,West Virginia,Community water system,10377,WASHINGTON,Wood,22,6,8
+WV9945040,WVDOT SUMMERS COUNTY,Region 3,West Virginia,Non-Transient non-community system,25,HINTON,Summers,3,279,34
+WV9902020,AM-VETS POST 38,Region 3,West Virginia,Transient non-community system,70,FALLING WATERS,Berkeley,3,30,8
+WV3301717,NUTTER FORT TOWN OF,Region 3,West Virginia,Community water system,1793,NUTTER FORT,Harrison,3,22,10
+WV3303512,TRIADELPHIA WATER DEPT,Region 3,West Virginia,Community water system,1215,TRIADELPHIA,Ohio,3,24,26
+WV9919051,IMAGES C AND A ENTERPRISES,Region 3,West Virginia,Transient non-community system,25,BUNKER HILL,Jefferson,5,72,5
+WV3302510,LITTLE CREEK PSD,Region 3,West Virginia,Community water system,2029,FAIRMONT,Marion,15,12,10
+WV3300103,JUNIOR TOWN OF,Region 3,West Virginia,Community water system,956,JUNIOR,Barbour,15,18,13
+WV9913056,VALLEY VIEW COUNTRY CLUB,Region 3,West Virginia,Transient non-community system,25,WHITE SULPHUR SPRINGS,Greenbrier,3,13,12
+WV3305411,VIENNA,Region 3,West Virginia,Community water system,12507,VIENNA,Wood,29,163,12
+WV3301004,ARMSTRONG PSD,Region 3,West Virginia,Community water system,2208,KIMBERLY,Fayette,11,172,49
+WV9910113,KINGSTON MINING TOWN CREEK BATHHOUSE,Region 3,West Virginia,Non-Transient non-community system,70,PAX,Fayette,4,4,2
+WV9916039,MISTY VALLEY HARDWARE & GROCERY,Region 3,West Virginia,Transient non-community system,30,MATHIAS,Hardy,3,11,5
+WV9945082,BLUESTONE CAMPGROUND,Region 3,West Virginia,Transient non-community system,25,HINTON,Summers,4,12,12
+WV9945003,BLUESTONE CAMP AND RETREAT,Region 3,West Virginia,Transient non-community system,200,HINTON,Summers,4,26,17
+WV9955101,SOUTHERN DIVISION OF ALPHA RESOURCES,Region 3,West Virginia,Non-Transient non-community system,94,MARIANNA,Wyoming,4,50,5
+WV9910111,KINGSTON MINING 2 BATHHOUSE,Region 3,West Virginia,Non-Transient non-community system,161,KINGSTON,Fayette,7,17,22
+WV3301817,SOUTHERN JACKSON COUNTY P S D,Region 3,West Virginia,Community water system,5701,RIPLEY,Jackson,22,63,35
+WV3301811,RIPLEY CITY OF,Region 3,West Virginia,Community water system,5255,RIPLEY,Jackson,24,94,76
+WV3305011,LAVALETTE PSD-ROUTE 52 NORTH DISTRICT,Region 3,West Virginia,Community water system,965,LAVALETTE,Wayne,9,6,14
+WV3305006,LAVALETTE PSD,Region 3,West Virginia,Community water system,6725,LAVALETTE,Wayne,17,4,26
+WV3305012,LAVALETTE PSD - EASTERN DISTRICT,Region 3,West Virginia,Community water system,1163,LAVALETTE,Wayne,8,1,8
+WV9903092,ROCKLICK PLANT,Region 3,West Virginia,Non-Transient non-community system,30,WHARTON,Boone,3,17,20
+WV9903021,EASTERN ASSOC COAL HARRIS PREP PLANT,Region 3,West Virginia,Non-Transient non-community system,150,WHARTON,Boone,4,9,18
+WV9951002,USFS CRANBERRY LOWER 029 - HP,Region 3,West Virginia,Transient non-community system,60,DYER,Webster,3,11,5
+WV9938011,USFS CRANBERRY MTN NATURE CTR,Region 3,West Virginia,Transient non-community system,25,MILL POINT,Pocahontas,3,13,6
+WV9913048,USFS SUMMIT LAKE CAMPGROUND 0215 HP,Region 3,West Virginia,Transient non-community system,25,RICHWOOD,Greenbrier,4,9,9
+WV9902004,CAMP TOMAHAWK,Region 3,West Virginia,Transient non-community system,100,HEDGESVILLE,Berkeley,3,28,7
+WV9934037,USFS WOODBINE PICNIC LOWER 026 HP,Region 3,West Virginia,Transient non-community system,25,RICHWOOD,Nicholas,3,10,10
+WV9934039,USFS BIG ROCK CAMPGROUND WELL 028 HP,Region 3,West Virginia,Transient non-community system,50,RICHWOOD,Nicholas,4,8,12
+WV9913113,USFS SUMMIT LAKE SITES 1 THRU 9 HP,Region 3,West Virginia,Transient non-community system,25,RICHWOOD,Greenbrier,3,6,8
+WV9951019,USFS BISHOP KNOB 021 (A - LEFT LOOP) HP,Region 3,West Virginia,Transient non-community system,25,DYER,Webster,3,9,5
+WV9951003,USFS CRANBERRY UPPER 0210 - HP,Region 3,West Virginia,Transient non-community system,60,DYER,Webster,3,13,5
+WV3304208,MIDLAND PSD,Region 3,West Virginia,Community water system,3155,ELKINS,Randolph,8,19,12
+WV3300214,MIDWAY MHP,Region 3,West Virginia,Community water system,245,FALLING WATERS,Berkeley,3,16,8
+WV3303404,SUMMERSVILLE MUNICIPAL WATER,Region 3,West Virginia,Community water system,5574,SUMMERSVILLE,Nicholas,17,17,82
+WV9916047,LOST RIVER GENERAL STORE,Region 3,West Virginia,Transient non-community system,25,LOST CITY,Hardy,3,129,11
+WV9919069,CAZ/HILLBROOK INN,Region 3,West Virginia,Transient non-community system,70,CHARLES TOWN,Jefferson,4,89,6
+WV9938086,SCHOOL DAYS CHILD CARE,Region 3,West Virginia,Non-Transient non-community system,64,BEARD HEIGHTS,Pocahontas,3,457,15
+WV9914071,CACAPON RIVER RECREATION AREA,Region 3,West Virginia,Transient non-community system,88,CAPON BRIDGE,Hampshire,3,7,3
+WV9925054,NICKS  LOUNGE,Region 3,West Virginia,Transient non-community system,50,MOUNDSVILLE,Marshall,3,22,7
+WV9913102,ACCESS HEALTH WILLIAMSBURG,Region 3,West Virginia,Transient non-community system,25,WILLIAMSBURG,Greenbrier,3,16,18
+WV3305535,HERNDON COMMUNITY WATER,Region 3,West Virginia,Community water system,56,HERNDON,Wyoming,4,4742,10
+WV9933048,COOLFONT MOUNTAINSIDE NORTH,Region 3,West Virginia,Transient non-community system,143,BERKELEY SPRINGS,Morgan,3,5,4
+WV9933052,MORGAN CO INDUSTRIAL PARK,Region 3,West Virginia,Non-Transient non-community system,40,BERKELEY SPRINGS,Morgan,4,21,7
+WV9914067,SLANESVILLE GENERAL INC,Region 3,West Virginia,Transient non-community system,25,SLANESVILLE,Hampshire,3,56,9
+WV9913074,SENECA TRAIL CHRISTIAN ACADEMY,Region 3,West Virginia,Non-Transient non-community system,100,RONCEVERTE,Greenbrier,3,891,33
+WV3303313,BERKELEY SPRINGS CENTER - UPPER,Region 3,West Virginia,Community water system,140,BERKELEY SPRINGS,Morgan,3,7,7
+WV3303315,BERKELEY SPRINGS CENTER - LOWER,Region 3,West Virginia,Community water system,140,BERKELEY SPRINGS,Morgan,3,7,6
+WV3304307,HUGHES RIVER WATER,Region 3,West Virginia,Community water system,1,HARRISVILLE,Ritchie,8,11,29
+WV9916027,LOST RIVER GRILL AND MOTEL LLC,Region 3,West Virginia,Transient non-community system,25,LOST CITY,Hardy,3,31,8
+WV3304603,SOUTHWESTERN WATER DISTRICT,Region 3,West Virginia,Community water system,5344,FLEMINGTON,Taylor,18,18,10
+WV9919077,F L O C  (FOR LOVE OF CHILDREN),Region 3,West Virginia,Transient non-community system,25,HARPERS FERRY,Jefferson,4,40,6
+WV3304301,CAIRO WATER DEPARTMENT,Region 3,West Virginia,Community water system,406,CAIRO,Ritchie,5,55,16
+WV3301920,LEIGHTS MHP,Region 3,West Virginia,Community water system,78,KEARNEYSVILLE,Jefferson,4,17,8
+WV3301929,RUSSELLS MHP,Region 3,West Virginia,Community water system,75,KEARNEYSVILLE,Jefferson,3,16,12
+WV3305527,COAL MOUNTAIN WATER,Region 3,West Virginia,Community water system,118,COAL MOUNTAIN,Wyoming,4,2539,11
+WV9919083,BAKERTON MARKET,Region 3,West Virginia,Transient non-community system,25,"BAKERTON, HARPERS FERRY",Jefferson,3,54,5
+WV3300703,PLEASANT HILL P S D RT 16 DISTRICT,Region 3,West Virginia,Community water system,1573,FIVE FORKS,Calhoun,13,98,29
+WV9913118,CAMP ALLEGHANY,Region 3,West Virginia,Transient non-community system,250,CALDWELL,Greenbrier,6,28,19
+WV3304115,LESTER MUNICIPAL WATER WORKS,Region 3,West Virginia,Community water system,750,LESTER,Raleigh,7,69,139
+WV3303306,WAUGHS COMMUNITY HOME PARK,Region 3,West Virginia,Community water system,72,BERKELEY SPRINGS,Morgan,4,46,7
+WV9933056,BOBS BIG BEEF INC,Region 3,West Virginia,Transient non-community system,25,BERKELEY SPRINGS,Morgan,3,11,9
+WV9919062,E Z MART,Region 3,West Virginia,Transient non-community system,200,CHARLES TOWN,Jefferson,3,20,8
+WV3303902,ARTHURDALE WATER ASSOC.,Region 3,West Virginia,Community water system,299,ARTHURDALE,Preston,10,143,22
+WV3301726,SUN VALLEY PSD,Region 3,West Virginia,Community water system,2698,REYNOLDSVILLE,Harrison,12,5,10
+WV9925016,COVESTRO (FKA BAYER MATERIALSCIENCE LLC),Region 3,West Virginia,Non-Transient non-community system,300,NEW MARTINSVILLE,Marshall,3,32,8
+WV3301912,CORPORATION OF HARPERS FERRY,Region 3,West Virginia,Community water system,2122,HARPERS FERRY,Jefferson,9,89,22
+WV9942023,PICKENS SCHOOL,Region 3,West Virginia,Non-Transient non-community system,40,PICKENS,Randolph,7,128,17
+WV3301314,WHITE SULPHUR SPRINGS WATER,Region 3,West Virginia,Community water system,3845,WHITE SULPHUR SPRINGS,Greenbrier,17,35,81
+WV3305517,PINEVILLE MUNICIPAL WATER,Region 3,West Virginia,Community water system,2945,PINEVILLE,Wyoming,15,200,49
+WV9915034,HILLTOP DRIVE-IN,Region 3,West Virginia,Transient non-community system,25,NEWELL,Hancock,3,58,6
+WV3304209,MILL CREEK WATER DEPT,Region 3,West Virginia,Community water system,823,MILL CREEK,Randolph,5,145,40
+WV3300508,HAMMOND PSD,Region 3,West Virginia,Community water system,2186,WINDSOR HEIGHTS,Brooke,13,73,35
+WV9942083,HULLS STORE,Region 3,West Virginia,Transient non-community system,25,PICKENS,Randolph,3,33,5
+WV3305203,NEW MARTINSVILLE,Region 3,West Virginia,Community water system,5272,NEW MARTINSVILLE,Wetzel,21,63,15
+WV9913117,ORGAN CAVE,Region 3,West Virginia,Transient non-community system,25,RONCEVERTE,Greenbrier,3,93,12
+WV3303920,NEWBURG TOWN OF,Region 3,West Virginia,Community water system,939,NEWBURG,Preston,11,4,15
+WV9914057,"BHAVANA SOCIETY, THE",Region 3,West Virginia,Transient non-community system,25,HIGH VIEW,Hampshire,3,32,4
+WV9914066,XPRESS STOP INC,Region 3,West Virginia,Transient non-community system,25,AUGUSTA,Hampshire,3,11,9
+WV3301810,RAVENSWOOD MUNICIPAL WATER WORKS,Region 3,West Virginia,Community water system,4245,RAVENSWOOD,Jackson,13,66,48
+WV9955041,SENECA COAL RESOURCES PINNACLE CREEK,Region 3,West Virginia,Non-Transient non-community system,100,PINEVILLE,Wyoming,6,13,11
+WV9948024,BENS RUN INDUSTRIAL PARK WATER SYSTEM,Region 3,West Virginia,Community water system,673,FRIENDLY,Tyler,5,137,3
+WV9936077,NORTH FORK SENIOR CENTER,Region 3,West Virginia,Transient non-community system,25,RIVERTON,Pendleton,3,7,3
+WV9919094,BLUE RIDGE PRIMARY SCHOOL,Region 3,West Virginia,Non-Transient non-community system,248,HARPERS FERRY,Jefferson,3,24,3
+WV3302525,BINGAMON PSD,Region 3,West Virginia,Community water system,1213,MANNINGTON,Marion,10,25,10
+WV9929036,FIRESIDE INN,Region 3,West Virginia,Transient non-community system,150,FORT ASHBY,Mineral,3,45,20
+WV9919032,PAGE JACKSON SOLAR ELEM,Region 3,West Virginia,Non-Transient non-community system,450,CHARLES TOWN,Jefferson,3,36,7
+WV9919037,SOUTH JEFFERSON ELEMENTARY,Region 3,West Virginia,Non-Transient non-community system,424,SUMMIT POINT,Jefferson,4,31,4
+WV9919005,BLUE RIDGE ELEMENTARY,Region 3,West Virginia,Non-Transient non-community system,310,HARPERS FERRY,Jefferson,4,103,7
+WV9936063,RIVER MART,Region 3,West Virginia,Transient non-community system,25,RIVERTON,Pendleton,3,62,4
+WV3301310,RONCEVERTE WATER,Region 3,West Virginia,Community water system,2100,RONCEVERTE,Greenbrier,17,11,70
+WV9916044,LOST RIVER CAMPGROUND,Region 3,West Virginia,Transient non-community system,25,LOST CITY,Hardy,3,7,4
+WV9914062,S O M E  MAYA ANGELOU,Region 3,West Virginia,Transient non-community system,40,HIGH VIEW,Hampshire,5,15,6
+WV9914063,S O M E EXODUS,Region 3,West Virginia,Transient non-community system,25,HIGH VIEW,Hampshire,3,18,7
+WV9913122,DAWSON INN,Region 3,West Virginia,Transient non-community system,25,DAWSON,Greenbrier,3,15,28
+WV3302009,"CEDAR GROVE, COMMUNITY OF",Region 3,West Virginia,Community water system,960,CEDAR GROVE,Kanawha,5,64,61
+WV9948010,ARLINGTON CABINS,Region 3,West Virginia,Transient non-community system,100,FRIENDLY,Tyler,3,61,5
+WV9925020,WESTLAKE CHEMICAL (FKA AXIALL / PPG),Region 3,West Virginia,Non-Transient non-community system,435,NEW MARTINSVILLE,Marshall,8,17,7
+WV9945087,BLUESTONE VIEW,Region 3,West Virginia,Transient non-community system,25,PIPESTEM,Summers,3,44,10
+WV9945070,RED ROCK CAMPGROUND,Region 3,West Virginia,Transient non-community system,25,PIPESTEM,Summers,3,52,45
+WV3303001,MINGO COUNTY PSD CHATTAROY,Region 3,West Virginia,Community water system,224,CHATTAROY,Mingo,14,37,17
+WV3303033,MINGO COUNTY PSD - MARROWBONE,Region 3,West Virginia,Community water system,241,LENORE,Mingo,4,20,4
+WV3303030,MINGO COUNTY PSD - DELORME,Region 3,West Virginia,Community water system,60,DELORME (RR NAME FOR EDGARTON),Mingo,2,37,10
+WV3303032,MINGO COUNTY PSD - LICK CREEK,Region 3,West Virginia,Community water system,498,RAWL,Mingo,4,38,15
+WV3303031,MINGO COUNTY PSD PIGEON CREEK,Region 3,West Virginia,Community water system,2035,VARNEY,Mingo,9,34,10
+WV3303013,MINGO CO PSD-RAGLAND DISTRICT,Region 3,West Virginia,Community water system,787,RAGLAND,Mingo,11,50,14
+WV3304601,GRAFTON CITY OF,Region 3,West Virginia,Community water system,6577,GRAFTON,Taylor,11,7,6
+WV3302347,BUFFALO CREEK PSD,Region 3,West Virginia,Community water system,2770,AMHERSTDALE,Logan,33,13,41
+WV3302336,BUFFALO CREEK PSD - MAN,Region 3,West Virginia,Community water system,935,MAN,Logan,5,80,36
+WV9933060,COUNTRY TRADITIONS EMPORIUM,Region 3,West Virginia,Transient non-community system,25,BERKELEY SPRINGS,Morgan,3,11,9
+WV3300212,MARTINSBURG CITY OF,Region 3,West Virginia,Community water system,15652,MARTINSBURG,Berkeley,16,34,48
+WV3305508,GLEN ROGERS PSD,Region 3,West Virginia,Community water system,283,GLEN ROGERS,Wyoming,7,126,11
+WV9938078,WVDNR GREENBRIER RIVER TRAIL - HP,Region 3,West Virginia,Transient non-community system,25,CLOVER LICK,Pocahontas,3,11,6
+WV9938077,GREENBRIER RIVER TRAIL - HP,Region 3,West Virginia,Transient non-community system,25,CLOVER LICK,Pocahontas,3,12,5
+WV9945042,BASS LAKE PARK,Region 3,West Virginia,Transient non-community system,40,HINTON,Summers,3,105,26
+WV3303014,JUSTICE PSD,Region 3,West Virginia,Community water system,530,JUSTICE,Mingo,7,69,14
+WV3303029,MINGO COUNTY PSD - NAUGATUCK,Region 3,West Virginia,Community water system,6324,NAUGATUCK,Mingo,36,417,48
+WV9938083,CAMP TWIN CREEKS,Region 3,West Virginia,Transient non-community system,180,MINNEHAHA SPRINGS,Pocahontas,4,46,8
+WV3300236,CHESTNUT RIDGE WATER SYSTEM,Region 3,West Virginia,Community water system,105,MARTINSBURG,Berkeley,4,9,6
+WV3302508,ICES RUN PSD,Region 3,West Virginia,Community water system,1130,FAIRMONT,Marion,6,11,9
+WV3302501,DOWNS PSD,Region 3,West Virginia,Community water system,1024,RACHEL (DOWNS),Marion,6,17,11
+WV3301516,NEWELL COMPANY,Region 3,West Virginia,Community water system,1377,NEWELL,Hancock,8,55,13
+WV9933049,CAPERTON FURNITURE WORKS,Region 3,West Virginia,Non-Transient non-community system,120,BERKELEY SPRINGS,Morgan,3,57,10
+WV3305001,CEREDO WATER WORKS,Region 3,West Virginia,Community water system,1480,CEREDO,Wayne,20,53,22
+WV3302608,MARSHALL COUNTY PSD 3,Region 3,West Virginia,Community water system,2694,"LIMESTONE, PLEASANT VALLEY",Marshall,6,14,42
+WV3303903,BRUCETON MILLS WATER DEPT,Region 3,West Virginia,Community water system,114,BRUCETON MILLS,Preston,8,8,9
+WV3300238,BERKELEY ESTATES,Region 3,West Virginia,Community water system,109,MARTINSBURG,Berkeley,5,50,9
+WV3302530,TRI COUNTY WATER ASSOC - SHINNSTON,Region 3,West Virginia,Community water system,92,FAIRMONT,Marion,2,30,21
+WV3302522,TRI-COUNTY WATER ASSOC - FAIRMONT,Region 3,West Virginia,Community water system,1770,BOOTHSVILLE,Marion,5,34,19
+WV3301742,TRI COUNTY CLARKSBURG,Region 3,West Virginia,Community water system,886,,Harrison,5,5,1
+WV3303308,PAW PAW WATER WORKS,Region 3,West Virginia,Community water system,488,PAW PAW,Morgan,7,58,33
+WV3304212,COALTON WATER SYSTEM,Region 3,West Virginia,Community water system,264,WOMELSDORF (CORPORATE NAME FOR,Randolph,5,27,22
+WV9910062,CAMP WASHINGTON CARVER,Region 3,West Virginia,Transient non-community system,25,CLIFFTOP,Fayette,3,27,15
+WV9902021,ROCKY KNOLL ELEMENTARY,Region 3,West Virginia,Non-Transient non-community system,68,MARTINSBURG,Berkeley,3,91,4
+WV3300229,CHERRY RUN MHP,Region 3,West Virginia,Community water system,99,"CARLISLE, HEDGESVILLE",Berkeley,6,37,12
+WV9919091,SUMMIT POINT TACTICAL TRAINING CENTER,Region 3,West Virginia,Non-Transient non-community system,125,SUMMIT POINT,Jefferson,5,45,5
+WV3300102,CHESTNUT RIDGE PSD,Region 3,West Virginia,Community water system,2644,CHESTNUT RIDGE,Barbour,21,2,24
+WV3300109,CHESTNUT RIDGE PSD - BERRYBURG,Region 3,West Virginia,Community water system,137,BERRYBURG,Barbour,2,4,9
+WV9947032,BEAVER RIDGE RESORT,Region 3,West Virginia,Transient non-community system,300,DAVIS,Tucker,5,0,5
+WV9933061,DOLLAR GENERAL STORE BERKELEY SPRINGS,Region 3,West Virginia,Transient non-community system,25,BERKELEY SPRINGS,Morgan,3,2,2
+WV9919098,DOLLAR GENERAL STORE MIDDLEWAY,Region 3,West Virginia,Transient non-community system,25,BUNKER HILL,Jefferson,3,3,2
+WV9914078,DOLLAR GENERAL SLANESVILLE,Region 3,West Virginia,Transient non-community system,25,SLANESVILLE,Hampshire,3,3,1
+WV9942002,ALPINE SPRINGS LODGE,Region 3,West Virginia,Transient non-community system,25,BOWDEN,Randolph,5,38,8
+WV9942043,ALPINE SHORE INC - CAMPGROUND,Region 3,West Virginia,Transient non-community system,25,BOWDEN,Randolph,4,18,5
+WV9942096,ALPINE SHORES - UPPER CAMPGROUND,Region 3,West Virginia,Transient non-community system,60,BOWDEN,Randolph,3,16,3
+WV9912039,K AND  A KAMPGROUND (BATH HOUSE WELL),Region 3,West Virginia,Transient non-community system,85,MOUNT STORM,Grant,3,21,7
+WV3301026,PAX WATER COMPANY,Region 3,West Virginia,Community water system,762,PAX,Fayette,9,94,28
+WV9919090,ROCK SPRING CHURCH,Region 3,West Virginia,Non-Transient non-community system,120,KEARNEYSVILLE,Jefferson,3,57,3
+WV9912040,K AND A KAMPGROUND (GRASSY RIDGE WELL),Region 3,West Virginia,Transient non-community system,25,MOUNT STORM,Grant,4,27,7
+WV3302923,"RIDGELEY, TOWN OF",Region 3,West Virginia,Community water system,737,RIDGELEY (RR NAME RIDGELY),Mineral,2,47,13
+WV3301933,CORPORATION OF SHEPHERDSTOWN,Region 3,West Virginia,Community water system,4300,SHEPHERDSTOWN,Jefferson,6,105,35
+WV3301601,MOOREFIELD MUNICIPAL WATER,Region 3,West Virginia,Community water system,2328,MOOREFIELD,Hardy,10,117,33
+WV3305401,CENTRAL BOAZ PSD,Region 3,West Virginia,Community water system,1418,PARKERSBURG,Wood,4,4,7
+WV9914047,CAMP RIM ROCK LLC,Region 3,West Virginia,Transient non-community system,25,YELLOW SPRING,Hampshire,3,3,7
+WV9914070,CAMP RIM ROCK,Region 3,West Virginia,Transient non-community system,75,YELLOW SPRING,Hampshire,3,4,6
+WV3302814,HIAWATHA WATER,Region 3,West Virginia,Community water system,75,HIAWATHA,Mercer,3,1417,10
+WV9931022,SAND SPRINGS CAMPGROUND,Region 3,West Virginia,Transient non-community system,110,CHESTNUT RIDGE,Monongalia,5,52,7
+WV9939123,PINEHILL CAMPGROUND,Region 3,West Virginia,Transient non-community system,25,BRUCETON MILLS,Preston,3,18,4
+WV9933043,HILLBILLY HEAVEN BAR AND GRILL,Region 3,West Virginia,Transient non-community system,25,BERKELEY SPRINGS,Morgan,3,79,12
+WV3304211,HUTTONSVILLE PSD,Region 3,West Virginia,Community water system,5031,MILL CREEK,Randolph,18,24,63
+WV9955058,RD BAILEY CAMPGROUND,Region 3,West Virginia,Transient non-community system,25,JUSTICE,Wyoming,5,8,38
+WV9955056,RD BAILEY LAKE,Region 3,West Virginia,Transient non-community system,25,JUSTICE,Wyoming,4,10,42
+WV9955104,RD BAILEY LAKE BIG BRANCH RECREATION,Region 3,West Virginia,Transient non-community system,500,HANOVER,Wyoming,3,7,26
+WV9913111,UPS,Region 3,West Virginia,Non-Transient non-community system,52,CALDWELL,Greenbrier,3,103,20
+WV3300227,VA MEDICAL CENTER,Region 3,West Virginia,Community water system,2175,MARTINSBURG,Berkeley,9,37,12
+WV3302524,WORTHINGTON TOWN OF,Region 3,West Virginia,Community water system,680,WORTHINGTON,Marion,24,38,15
+WV3302506,FOUR STATES PSD,Region 3,West Virginia,Community water system,363,FOUR STATES,Marion,2,75,10
+WV3304303,HARRISVILLE,Region 3,West Virginia,Community water system,2246,HARRISVILLE,Ritchie,8,30,49
+WV3304408,REEDY WATER SERVICE TOWN OF,Region 3,West Virginia,Community water system,356,REEDY,Roane,4,96,43
+WV3305516,OCEANA COMMUNITY OF,Region 3,West Virginia,Community water system,2672,OCEANA,Wyoming,10,126,44
+WV9933057,TROUBADOUR RESTAURANT,Region 3,West Virginia,Transient non-community system,25,BERKELEY SPRINGS,Morgan,3,38,15
+WV9921036,STONEWALL JACKSON STATE PARK,Region 3,West Virginia,Non-Transient non-community system,639,ROANOKE,Lewis,7,53,17
+WV3303009,WILLIAMSON UTILITY BOARD,Region 3,West Virginia,Community water system,3249,WILLIAMSON,Mingo,16,128,46
+WV3301204,PETERSBURG TOWN OF,Region 3,West Virginia,Community water system,2841,PETERSBURG,Grant,8,15,33
+WV3304011,PUTNAM P S D,Region 3,West Virginia,Community water system,21719,SCOTT DEPOT (RR NAME SCOTT),Putnam,34,1,97
+WV9914068,MIDDLE RIDGE CAMPGROUND,Region 3,West Virginia,Transient non-community system,25,ROMNEY,Hampshire,3,2,11
+WV9921050,BROKEN WHEEL CAMPGROUND,Region 3,West Virginia,Transient non-community system,90,BROWNSVILLE,Lewis,3,25,4
+WV3304204,HARMAN TOWN OF,Region 3,West Virginia,Community water system,552,HARMAN,Randolph,8,47,42
+WV3304912,HODGESVILLE PSD LORENTZ SYSTEM,Region 3,West Virginia,Community water system,375,BUCKHANNON,Upshur,3,16,6
+WV3304913,HODGESVILLE PSD - SAULS RUN,Region 3,West Virginia,Community water system,134,BUCKHANNON,Upshur,4,8,3
+WV3304908,HODGESVILLE PSD RT 20,Region 3,West Virginia,Community water system,2306,BUCKHANNON,Upshur,6,32,6
+WV3302618,BENWOOD WATER DEPARTMENT,Region 3,West Virginia,Community water system,1510,BENWOOD,Marshall,6,86,23
+WV3305202,HUNDRED LITTLETON PSD,Region 3,West Virginia,Community water system,638,HUNDRED,Wetzel,13,44,24
+WV3303704,SAINT MARYS,Region 3,West Virginia,Community water system,2711,ST. MARYS,Pleasants,15,13,40
+WV9929007,"NORTHRUP GRUMMAN INNOVATION SYSTEMS, INC",Region 3,West Virginia,Non-Transient non-community system,1600,ROCKET CENTER,Mineral,14,84,14
+WV9914002,"BIG CACAPON BUBBLING SPRING CAMP, LLC",Region 3,West Virginia,Transient non-community system,160,CAPON BRIDGE,Hampshire,4,27,7
+WV3301705,CLARKSBURG WATER BOARD,Region 3,West Virginia,Community water system,17685,CLARKSBURG,Harrison,13,22,32
+WV9919072,RAILSIDE MARKET,Region 3,West Virginia,Transient non-community system,25,SUMMIT POINT,Jefferson,3,18,8
+WV9929028,ROBERT W CRAIG MEMORIAL CAMPGROUND,Region 3,West Virginia,Transient non-community system,25,ELK GARDEN,Mineral,7,3,4
+WV9929001,JENNINGS RANDOLPH LAKE,Region 3,West Virginia,Transient non-community system,50,ELK GARDEN,Mineral,3,5,5
+WV3303917,TERRA ALTA WATER WORKS,Region 3,West Virginia,Community water system,1781,TERRA ALTA,Preston,15,13,21
+WV9919079,CLAYMONT SOCIETY,Region 3,West Virginia,Transient non-community system,25,CHARLES TOWN,Jefferson,4,52,4
+WV9933051,CACAPON INVESTMENTS LLC,Region 3,West Virginia,Transient non-community system,25,BERKELEY SPRINGS,Morgan,5,30,5
+WV9936012,GATEWAY RESTAURANT,Region 3,West Virginia,Transient non-community system,25,CIRCLEVILLE,Pendleton,3,52,7
+WV9919020,OX PAPERBOARD LLC,Region 3,West Virginia,Non-Transient non-community system,95,HALLTOWN,Jefferson,3,36,6
+WV3302920,NEW CREEK WATER ASSOCIATION,Region 3,West Virginia,Community water system,3043,NEW CREEK (NEWCREEK),Mineral,17,18,22
+WV9903110,HATFIELD AND MCCOY QUICK STOP,Region 3,West Virginia,Transient non-community system,400,DANVILLE,Boone,3,59,15
+WV3303508,OHIO COUNTY PSD,Region 3,West Virginia,Community water system,8838,WEST LIBERTY,Ohio,31,30,28
+WV3303908,KINGWOOD WATER BOARD,Region 3,West Virginia,Community water system,6656,KINGWOOD,Preston,19,18,29
+WV9929038,KNOBLEY FARM,Region 3,West Virginia,Transient non-community system,25,NEW CREEK (NEWCREEK),Mineral,3,6,8
+WV3302851,WEYANOKE GIATTO WATER SYSTEM,Region 3,West Virginia,Community water system,40,MATOAKA,Mercer,6,1895,8
+WV3305004,FORT GAY WATER WORKS,Region 3,West Virginia,Community water system,2287,FORT GAY (CASSVILLE),Wayne,9,117,64
+WV3303207,UNION TOWN OF,Region 3,West Virginia,Community water system,758,UNION,Monroe,13,15,106
+WV3302103,JANE LEW PSD,Region 3,West Virginia,Community water system,1324,JANE LEW,Lewis,9,63,20
+WV9941070,MARFORK COAL COMPANY INC OFFICE,Region 3,West Virginia,Non-Transient non-community system,25,WHITESVILLE,Raleigh,4,45,18
+WV9920095,KANAWHA EAGLE COAL COMPANIES,Region 3,West Virginia,Non-Transient non-community system,50,WINIFREDE (RR NAME WEST CARBON,Kanawha,7,219,10
+WV9903114,GATEWAY EAGLE MINE,Region 3,West Virginia,Non-Transient non-community system,60,WHARTON,Boone,3,16,3
+WV9941088,BLACK EAGLE MINE,Region 3,West Virginia,Non-Transient non-community system,25,,Raleigh,3,76,1
+WV3300201,G AND E MHP,Region 3,West Virginia,Community water system,235,INWOOD,Berkeley,4,53,5
+WV9941087,PANTHER EAGLE WATER PLANT,Region 3,West Virginia,Non-Transient non-community system,25,,Raleigh,3,156,1
+WV9941086,SLIP RIDGE MINE BATHHOUSE,Region 3,West Virginia,Non-Transient non-community system,104,NAOMA,Raleigh,3,218,1
+WV9920100,"WINCHESTER MINES, REMINGTON LLC",Region 3,West Virginia,Non-Transient non-community system,50,ESKDALE,Kanawha,3,65,7
+WV9920099,CATENARY MAIN OFFICE,Region 3,West Virginia,Non-Transient non-community system,35,ESKDALE,Kanawha,3,54,7
+WV9955108,BLACKHAWK EAGLE 3,Region 3,West Virginia,Non-Transient non-community system,60,OCEANA,Wyoming,3,125,1
+WV9913108,DEBS PARTY CLUB,Region 3,West Virginia,Transient non-community system,25,RAINELLE,Greenbrier,3,53,37
+WV3304911,ADRIAN P S D,Region 3,West Virginia,Community water system,5295,FRENCH CREEK,Upshur,21,11,21
+WV9919071,MOUNTAINEER MINI MART,Region 3,West Virginia,Transient non-community system,25,HARPERS FERRY,Jefferson,3,60,8
+WV3303912,PRESTON COUNTY PSD 1,Region 3,West Virginia,Community water system,3528,REEDSVILLE,Preston,11,91,65
+WV3303924,PRESTON CO PSD 1 PURCHASER,Region 3,West Virginia,Community water system,286,ARTHURDALE,Preston,2,27,8
+WV9919029,MIDDLEWAY MARKET,Region 3,West Virginia,Transient non-community system,25,KEARNEYSVILLE,Jefferson,3,19,5
+WV9913109,GREENBRIER RIVER CAMPGROUND,Region 3,West Virginia,Transient non-community system,25,RONCEVERTE,Greenbrier,3,42,17
+WV3303130,PLEASANT VALLEY PSD - NORTH CASSVILLE,Region 3,West Virginia,Community water system,114,MAIDSVILLE,Monongalia,2,23,7
+WV3303112,PLEASANT VALLEY PSD,Region 3,West Virginia,Community water system,2308,MAIDSVILLE,Monongalia,11,24,9
+WV9928067,DANIELS COMPANY,Region 3,West Virginia,Non-Transient non-community system,39,BLUEFIELD,Mercer,3,110,19
+WV3302515,MONONGAH TOWN OF,Region 3,West Virginia,Community water system,3171,MONONGAH,Marion,8,13,22
+WV3303413,BIRCH RIVER PSD,Region 3,West Virginia,Community water system,1103,BIRCH RIVER,Nicholas,12,12,60
+WV3300101,BELINGTON TOWN OF,Region 3,West Virginia,Community water system,2095,BELINGTON,Barbour,6,2,35
+WV9938063,OVERLOOK CONDOMINIUMS,Region 3,West Virginia,Transient non-community system,100,SLATYFORK (RR NAME LAUREL BANK,Pocahontas,4,72,7
+WV3304139,COOL RIDGE FLAT TOP PSD,Region 3,West Virginia,Community water system,4151,COOL RIDGE,Raleigh,10,10,109
+WV3303514,BETHLEHEM,Region 3,West Virginia,Community water system,2667,BETHLEHEM,Ohio,4,13,11
+WV9939166,OLD TRAIL INN,Region 3,West Virginia,Transient non-community system,25,EGLON,Preston,3,7,0
+WV3305410,UNION WILLIAMS P S D,Region 3,West Virginia,Community water system,7252,WAVERLY,Wood,21,21,10
+WV9914023,HAMPSHIRE PARK,Region 3,West Virginia,Transient non-community system,75,ROMNEY,Hampshire,3,37,5
+WV3304405,SPENCER WATER DEPT,Region 3,West Virginia,Community water system,4521,SPENCER,Roane,16,23,61
+WV3304407,WALTON PSD,Region 3,West Virginia,Community water system,2012,WALTON,Roane,13,21,72
+WV3302603,CAMERON WATER,Region 3,West Virginia,Community water system,1052,CAMERON,Marshall,8,74,64
+WV9919002,USDA APPALACHIAN FRUIT RESEARCH STATION,Region 3,West Virginia,Non-Transient non-community system,70,KEARNEYSVILLE,Jefferson,4,42,5
+WV9902038,LONG BRANCH SALOON AND GRILL,Region 3,West Virginia,Transient non-community system,100,HEDGESVILLE,Berkeley,3,112,7
+WV9913041,SECOND CREEK CAMPGROUND,Region 3,West Virginia,Transient non-community system,25,RONCEVERTE,Greenbrier,3,35,13
+WV3305207,WETZEL CO PSD 1,Region 3,West Virginia,Community water system,1378,READER,Wetzel,10,7,32
+WV3305402,CLAYWOOD PARK PSD,Region 3,West Virginia,Community water system,8141,PARKERSBURG,Wood,30,124,22
+WV3301709,ENLARGED HEPZIBAH PSD,Region 3,West Virginia,Community water system,1926,HEPZIBAH,Harrison,6,25,16
+WV3300608,WVAWC - HUNTINGTON DIST,Region 3,West Virginia,Community water system,97242,HUNTINGTON,Cabell,68,1,72
+WV3302610,MCMECHEN MUNICIPAL WATER,Region 3,West Virginia,Community water system,2212,MCMECHEN,Marshall,9,69,25
+WV3305412,WILLIAMSTOWN WATER DEPT,Region 3,West Virginia,Community water system,3363,WILLIAMSTOWN,Wood,11,23,8
+WV3304709,THOMAS CITY OF,Region 3,West Virginia,Community water system,725,THOMAS,Tucker,8,127,29
+WV9922055,HENRYS CAMPING RETREAT,Region 3,West Virginia,Transient non-community system,25,BRANCHLAND,Lincoln,3,32,7
+WV3302609,MARSHALL COUNTY PSD 4,Region 3,West Virginia,Community water system,4063,MOUNDSVILLE,Marshall,22,39,70
+WV3301307,LEWISBURG,Region 3,West Virginia,Community water system,10057,LEWISBURG,Greenbrier,19,26,81
+WV3302804,BLUEWELL PSD,Region 3,West Virginia,Community water system,6216,BLUEWELL,Mercer,24,163,55
+WV3302521,SUNNY VIEW ACRES WATER PROJECT,Region 3,West Virginia,Community water system,69,FARMINGTON,Marion,4,53,8
+WV9932007,MONCOVE LAKE STATE PARK,Region 3,West Virginia,Transient non-community system,25,GAP MILLS,Monroe,3,9,38
+WV9913090,GREENBRIER STATE FOREST CAMPING AREA,Region 3,West Virginia,Transient non-community system,25,CALDWELL,Greenbrier,3,46,16
+WV9913031,GREENBRIER STATE FOREST,Region 3,West Virginia,Transient non-community system,25,CALDWELL,Greenbrier,3,45,18
+WV9913073,GREENBRIER STATE FOREST POOL AREA,Region 3,West Virginia,Transient non-community system,25,CALDWELL,Greenbrier,3,33,15
+WV3301949,OAK HILL MOBILE HOME COMMUNITY LLC,Region 3,West Virginia,Community water system,163,HARPERS FERRY,Jefferson,5,100,8
+WV3305504,BRENTON PSD,Region 3,West Virginia,Community water system,363,BRENTON,Wyoming,5,153,25
+WV9914008,CAMP WAPOCOMA,Region 3,West Virginia,Transient non-community system,300,ROMNEY,Hampshire,5,26,6
+WV3301737,EAST VIEW PSD 172,Region 3,West Virginia,Community water system,160,CLARKSBURG,Harrison,2,21,9
+WV3301736,EAST VIEW PSD 194,Region 3,West Virginia,Community water system,424,CLARKSBURG,Harrison,2,18,9
+WV3301722,SHORTLINE PSD,Region 3,West Virginia,Community water system,2732,WALLACE,Harrison,9,24,9
+WV9928003,CAMP CREEK STATE PARK,Region 3,West Virginia,Transient non-community system,50,CAMP CREEK,Mercer,3,10,52
+WV9928028,PINNACLE ROCK STATE PARK,Region 3,West Virginia,Transient non-community system,25,PRINCETON,Mercer,3,13,37
+WV9936034,EXPERIENCE LEARNING,Region 3,West Virginia,Transient non-community system,25,CHERRY GROVE,Pendleton,4,35,5
+WV9938066,POCAHONTAS MEMORIAL AND MARLINTON M S,Region 3,West Virginia,Non-Transient non-community system,374,BUCKEYE,Pocahontas,5,3,17
+WV3301714,LUMBERPORT TOWN OF,Region 3,West Virginia,Community water system,1486,LUMBERPORT,Harrison,6,264,22
+WV3301728,WEST MILFORD WATER WORKS,Region 3,West Virginia,Community water system,614,WEST MILFORD,Harrison,5,31,10
+WV9942040,REVELLES RIVER RESORT,Region 3,West Virginia,Transient non-community system,25,BOWDEN,Randolph,9,35,6
+WV3302709,NEW HAVEN WATER DEPT,Region 3,West Virginia,Community water system,1920,NEW HAVEN,Mason,9,58,46
+WV9914034,PETERKIN CONFERENCE CENTER,Region 3,West Virginia,Transient non-community system,25,ROMNEY,Hampshire,5,24,6
+WV9913136,GREENBRIER MOUNTAINEER 1 SHAFT,Region 3,West Virginia,Non-Transient non-community system,30,RUPERT,Greenbrier,3,14,2
+WV9927086,PENNYS KWIK STOP,Region 3,West Virginia,Transient non-community system,25,IAEGER,McDowell,3,91,27
+WV3303701,"BELMONT, CITY OF",Region 3,West Virginia,Community water system,1048,BELMONT,Pleasants,8,13,20
+WV9936072,SENECA CAVERNS RESTAURANT,Region 3,West Virginia,Transient non-community system,25,RIVERTON,Pendleton,3,5,6
+WV3302928,FRANKFORT PSD,Region 3,West Virginia,Community water system,5626,"FORT ASHBY, SHORT GAP, WILEY FORD",Mineral,25,311,44
+WV3302926,FRANKFORT PSD WILEY FORD,Region 3,West Virginia,Community water system,1062,WILEY FORD,Mineral,5,213,17
+WV3301720,SALEM WATER BOARD,Region 3,West Virginia,Community water system,1735,SALEM,Harrison,7,125,25
+WV3302801,ATHENS TOWN OF,Region 3,West Virginia,Community water system,4802,ATHENS,Mercer,10,9,33
+WV3303803,MARLINTON TOWN OF,Region 3,West Virginia,Community water system,1408,MARLINTON,Pocahontas,12,110,35
+WV9912041,F MINE BATHHOUSE,Region 3,West Virginia,Non-Transient non-community system,200,MT STORM,Grant,3,45,1
+WV3300243,SPRINGER RUN PARK LLC,Region 3,West Virginia,Community water system,150,"GLENGARY, HEDGESVILLE, INWOOD",Berkeley,4,16,8
+WV3303904,DENVER WATER ASSOC,Region 3,West Virginia,Community water system,364,TUNNELTON,Preston,5,23,8
+WV9938044,USFS TEA CREEK CAMPGROUND 045 - HP,Region 3,West Virginia,Transient non-community system,25,MARLINTON,Pocahontas,3,18,5
+WV9938012,USFS DAY RUN CAMPGROUND - HP,Region 3,West Virginia,Transient non-community system,30,MARLINTON,Pocahontas,3,13,5
+WV3302016,WVAWC-KANAWHA VALLEY DIST,Region 3,West Virginia,Community water system,200679,CHARLESTON,Kanawha,282,0,178
+WV3304005,HURRICANE CITY OF,Region 3,West Virginia,Community water system,8248,HURRICANE,Putnam,14,5,81
+WV9928061,APPALACHIAN TEEN CHALLENGE MALE CENTER,Region 3,West Virginia,Community water system,30,ATHENS,Mercer,4,58,26
+WV9928102,APPALACHIAN TEEN CHALLENGE FEMALE CENTER,Region 3,West Virginia,Community water system,30,ATHENS,Mercer,3,67,14
+WV9925045,REYNOLDS MEMORIAL HOSPITAL,Region 3,West Virginia,Non-Transient non-community system,600,GLEN DALE,Marshall,8,15,30
+WV9913121,GREENBRIER RIVER TRAIL NORTH HP,Region 3,West Virginia,Transient non-community system,25,RENICK,Greenbrier,3,8,5
+WV9914077,CONCORD RETREAT LODGE,Region 3,West Virginia,Transient non-community system,25,YELLOW SPRING,Hampshire,3,2,4
+WV9914076,CONCORD RETREAT ROMNEY HOUSE,Region 3,West Virginia,Transient non-community system,25,,Hampshire,3,14,10
+WV9914055,CONCORD RETREAT HOOK MILL HOUSE,Region 3,West Virginia,Transient non-community system,25,YELLOW SPRING,Hampshire,5,79,12
+WV9931044,ADVENTURE WEST VIRGINIA,Region 3,West Virginia,Transient non-community system,25,MORGANTOWN,Monongalia,4,0,1
+WV3304602,MOUNTAIN VIEW WATER ASSOC,Region 3,West Virginia,Community water system,2263,PRUNTYTOWN,Taylor,6,14,8
+WV9928005,CAMP CREEK STATE PARK BLUE JAY,Region 3,West Virginia,Transient non-community system,50,CAMP CREEK,Mercer,3,15,51
+WV9928077,CAMP CREEK STATE PARK FARLEY BRANCH,Region 3,West Virginia,Transient non-community system,50,CAMP CREEK,Mercer,4,20,51
+WV3301005,BELLWOOD COMMUNITY FACIL IMP,Region 3,West Virginia,Community water system,113,BELLWOOD,Fayette,4,28,12
+WV9932022,NEW PICKAWAY STORE,Region 3,West Virginia,Transient non-community system,25,SINKS GROVE,Monroe,3,22,40
+WV3302430,KEYSTONE MUNICIPAL WATER,Region 3,West Virginia,Community water system,448,KEYSTONE,McDowell,9,631,15
+WV9938092,SENECA STATE FOREST - BATHHOUSE,Region 3,West Virginia,Transient non-community system,25,DUNMORE,Pocahontas,4,25,4
+WV9936078,HIGHLANDS GOLF CLUB,Region 3,West Virginia,Transient non-community system,25,FRANKLIN,Pendleton,4,18,6
+WV9938040,SENECA STATE FOREST PICNIC SHELTER - HP,Region 3,West Virginia,Transient non-community system,30,DUNMORE,Pocahontas,3,29,7
+WV9936081,SENECA ROCKS RV RESORT,Region 3,West Virginia,Transient non-community system,50,SENECA ROCKS,Pendleton,3,6,1
+WV9913089,STOP IN 98,Region 3,West Virginia,Transient non-community system,25,CLINTONVILLE,Greenbrier,3,79,46
+WV3301721,SHINNSTON CITY OF,Region 3,West Virginia,Community water system,4867,SHINNSTON,Harrison,16,70,25
+WV9916033,MATHIAS COMMUNITY CENTER,Region 3,West Virginia,Transient non-community system,25,MATHIAS,Hardy,3,15,6
+WV3302208,LINCOLN PSD - LOWER MUD RIVER,Region 3,West Virginia,Community water system,49,,Lincoln,3,2,5
+WV3302207,LINCOLN PSD - ROUTE 3,Region 3,West Virginia,Community water system,2087,GRIFFITHSVILLE,Lincoln,6,22,36
+WV3302205,LINCOLN PSD,Region 3,West Virginia,Community water system,3772,ALUM CREEK,Lincoln,15,211,73
+WV9919044,USGS LEETOWN SCIENCE CENTER,Region 3,West Virginia,Non-Transient non-community system,105,KEARNEYSVILLE,Jefferson,4,131,12
+WV9951007,HOLLY RIVER STATE PARK/LAUREL FORK,Region 3,West Virginia,Transient non-community system,107,HACKER VALLEY,Webster,3,2,18
+WV9951008,HOLLY RIVER STATE PARK/WELL,Region 3,West Virginia,Transient non-community system,200,HACKER VALLEY,Webster,4,7,7
+WV9928088,KAIROS WILDERNESS RESORT,Region 3,West Virginia,Transient non-community system,25,PRINCETON,Mercer,3,16,11
+WV9955094,WAGON WHEEL ATV RESORT,Region 3,West Virginia,Transient non-community system,25,CRUMPLER,Wyoming,3,33,7
+WV9934060,CHERRY HILL COUNTRY CLUB INC,Region 3,West Virginia,Transient non-community system,25,RICHWOOD,Nicholas,3,15,9
+WV3303310,SKY LINE VILLAGE MHP,Region 3,West Virginia,Community water system,120,BERKELEY SPRINGS,Morgan,5,105,9
+WV3302343,WEST LOGAN WATER CO,Region 3,West Virginia,Community water system,915,LOGAN,Logan,3,62,28
+WV3302425,DAVY MUNICIPAL WATER WORKS,Region 3,West Virginia,Community water system,552,DAVY,McDowell,7,39,12
+WV9913096,ALTA STATION,Region 3,West Virginia,Transient non-community system,25,ALTA,Greenbrier,3,21,37
+WV9926037,KANAWHA RIVER CAMPGROUND,Region 3,West Virginia,Transient non-community system,25,LEON,Mason,5,35,5
+WV9919081,US FISH & WILDLIFE-NCTC,Region 3,West Virginia,Non-Transient non-community system,150,CHARLES TOWN,Jefferson,5,22,13
+WV3302354,LOGAN COUNTY PSD - MUD FORK,Region 3,West Virginia,Community water system,330,LOGAN,Logan,2,14,15
+WV3302341,LOGAN CO PSD - STOLLINGS,Region 3,West Virginia,Community water system,2008,LOGAN,Logan,6,10,14
+WV3302357,LOGAN CO PSD-GREENVILLE SYSTEM,Region 3,West Virginia,Community water system,4652,GREENVILLE,Logan,16,85,47
+WV3302364,LOGAN COUNTY PSD - NORTHERN REGIONAL,Region 3,West Virginia,Community water system,16949,"HENLAWSON, LOGAN",Logan,52,90,65
+WV3302361,RIDGEVIEW ESTATES PROP ASSOC,Region 3,West Virginia,Community water system,74,CHAPMANVILLE,Logan,5,38,16
+WV3305521,EASTERN WYOMING PSD STEPHENSON WTP,Region 3,West Virginia,Community water system,3561,MULLENS,Wyoming,8,186,56
+WV3302355,LOGAN CO PSD-RUM CREEK,Region 3,West Virginia,Community water system,923,LOGAN,Logan,6,14,15
+WV3302363,LOGAN CO P S D - CRAWLEY CREEK,Region 3,West Virginia,Community water system,1444,LOGAN,Logan,9,21,13
+WV3300310,PRENTER WATER COMPANY,Region 3,West Virginia,Community water system,60,SETH,Boone,4,976,36
+WV3303005,MATEWAN WATER WORKS,Region 3,West Virginia,Community water system,2237,MATEWAN,Mingo,15,42,40
+WV3301305,GREENBRIER HOTEL CORPORATION,Region 3,West Virginia,Community water system,3280,WHITE SULPHUR SPRINGS,Greenbrier,8,24,8
+WV9919095,HARPERS FERRY CAMPGROUND,Region 3,West Virginia,Transient non-community system,25,HARPERS FERRY,Jefferson,3,40,6
+WV9942100,REVELLES RIVER RETREAT INC.,Region 3,West Virginia,Transient non-community system,25,BOWDEN,Randolph,3,6,2
+WV9947047,METTIKI COAL LLC - MTN VIEW MINE,Region 3,West Virginia,Transient non-community system,25,"BAYARD, GATZMER",Tucker,4,10,12
+WV9942049,USFS MIDDLE MOUNTAIN CABINS - HP,Region 3,West Virginia,Transient non-community system,25,GLADY,Randolph,3,24,5
+WV9945081,ROCKY BOTTOM CAMPGROUND,Region 3,West Virginia,Transient non-community system,25,FOREST HILL,Summers,4,9,45
+WV9954026,BLENNERHASSETT ISLAND STATE PARK,Region 3,West Virginia,Transient non-community system,200,PARKERSBURG,Wood,6,6,3
+WV9902039,APPALACHIAN ORCHARD COMPANY,Region 3,West Virginia,Transient non-community system,50,MARTINSBURG,Berkeley,3,9,6
+WV3304507,BIG BEND PSD,Region 3,West Virginia,Community water system,1338,TALCOTT,Summers,8,12,161
+WV3303812,POCAHONTAS COUNTY PSD,Region 3,West Virginia,Community water system,515,"DURBIN FR BART, FRANK",Pocahontas,8,51,20
+WV9928018,INDIAN MEADOWS TOWER,Region 3,West Virginia,Transient non-community system,250,LERONA,Mercer,7,44,34
+WV3303808,POCAHONTAS CO PSD - CHEAT MOUNTAIN WATER,Region 3,West Virginia,Community water system,1867,SNOWSHOE RESORT,Pocahontas,8,37,33
+WV9914011,CAPON SPRINGS AND FARMS,Region 3,West Virginia,Non-Transient non-community system,25,CAPON SPRINGS,Hampshire,5,34,8
+WV9954007,CHEMOURS COMPANY-WASHINGTON WORKS,Region 3,West Virginia,Non-Transient non-community system,2500,PARKERSBURG,Wood,6,8,6
+WV9913028,GREENBRIER CO YOUTH CAMP INC,Region 3,West Virginia,Transient non-community system,25,ANTHONY,Greenbrier,3,44,14
+WV9942071,JK RICHMOND'S FAMILY CAMPGROUND,Region 3,West Virginia,Transient non-community system,102,FAULKNER,Randolph,3,7,5
+WV3301741,SHINNSTON - SALTWELL ROAD,Region 3,West Virginia,Community water system,196,SALTWELL,Harrison,2,44,7
+WV9930140,TWISTED GUN GOLF COURSE LLC,Region 3,West Virginia,Transient non-community system,25,WHARNCLIFFE,Mingo,5,29,9
+WV3301106,GILMER CO PSD,Region 3,West Virginia,Community water system,812,GLENVILLE,Gilmer,3,16,10
+WV3301107,GILMER CO PSD - ROUTE 33/119,Region 3,West Virginia,Community water system,739,GLENVILLE,Gilmer,7,34,17
+WV3301110,GILMER COUNTY PSD - ROUTE 5 WEST,Region 3,West Virginia,Community water system,149,NORMANTOWN,Gilmer,2,8,6
+WV3301109,GILMER COUNTY PSD - NORMANTOWN STUMPTOWN,Region 3,West Virginia,Community water system,518,NORMANTOWN,Gilmer,6,19,9
+WV3301108,GILMER COUNTY PSD - FEDERAL PRISON,Region 3,West Virginia,Community water system,2400,GLENVILLE,Gilmer,3,15,6
+WV3302915,KEYSER CITY OF,Region 3,West Virginia,Community water system,5202,KEYSER,Mineral,12,26,44
+WV3302921,PIEDMONT MUNICIPAL WTR WKS,Region 3,West Virginia,Community water system,847,PIEDMONT,Mineral,12,192,35
+WV9931030,MURRAY AMERICAN ENERGY,Region 3,West Virginia,Non-Transient non-community system,50,WADESTOWN,Monongalia,5,30,22
+WV9945055,RIVER REST CAMPGROUND,Region 3,West Virginia,Transient non-community system,25,ALDERSON,Summers,3,114,41
+WV3303602,"FRANKLIN, MUNICIPALITY OF",Region 3,West Virginia,Community water system,1402,FRANKLIN,Pendleton,11,76,30
+WV3302519,RIVESVILLE TOWN OF,Region 3,West Virginia,Community water system,1372,RIVESVILLE,Marion,8,20,22
+WV3302523,VALLEY FALLS PSD,Region 3,West Virginia,Community water system,4027,FAIRMONT,Marion,12,29,14
+WV3301603,"WARDENSVILLE, TOWN OF",Region 3,West Virginia,Community water system,788,WARDENSVILLE,Hardy,7,27,23
+WV3303401,RICHWOOD WATER DEPT,Region 3,West Virginia,Community water system,2389,RICHWOOD,Nicholas,11,35,72
+WV9925015,MITCHELL PLANT,Region 3,West Virginia,Non-Transient non-community system,250,MOUNDSVILLE,Marshall,7,8,7
+WV9902027,"GREEN FROG, LLC.",Region 3,West Virginia,Transient non-community system,60,MARTINSBURG,Berkeley,3,99,14
+WV9902032,LORING HILL ORCHARDS,Region 3,West Virginia,Transient non-community system,25,MARTINSBURG,Berkeley,3,13,6
+WV3301504,CHESTER WATER DEPT.,Region 3,West Virginia,Community water system,3119,CHESTER,Hancock,7,57,24
+WV3303804,DENMAR CORRECTIONAL CENTER,Region 3,West Virginia,Community water system,346,HILLSBORO,Pocahontas,6,8,16
+WV3303121,CLAY BATTELLE PSD,Region 3,West Virginia,Community water system,3717,CORE,Monongalia,19,1,17
+WV3301405,ROMNEY WATER DEPT,Region 3,West Virginia,Community water system,1825,ROMNEY,Hampshire,6,42,32
+WV3305204,"PADEN CITY, CITY OF",Region 3,West Virginia,Community water system,2985,PADEN CITY,Wetzel,11,79,11
+WV9911002,CEDAR CREEK STATE PARK,Region 3,West Virginia,Transient non-community system,25,GLENVILLE,Gilmer,6,7,5
+WV9955003,BAILEYSVILLE ELEMENTARY AND MIDDLE,Region 3,West Virginia,Non-Transient non-community system,460,BAILEYSVILLE,Wyoming,3,59,26
+WV3302504,FARMINGTON TOWN OF,Region 3,West Virginia,Community water system,713,FARMINGTON,Marion,6,26,10
+WV3300108,PHILIPPI CITY OF - WELLINGTON HEIGHTS,Region 3,West Virginia,Community water system,144,PHILIPPI,Barbour,2,20,8
+WV3300104,PHILIPPI CITY OF,Region 3,West Virginia,Community water system,3269,PHILIPPI,Barbour,17,33,30
+WV3303802,CASS SCENIC RAILROAD,Region 3,West Virginia,Community water system,555,CASS,Pocahontas,4,78,19
+WV3303206,RED SULPHUR PSD,Region 3,West Virginia,Community water system,5352,PETERSTOWN,Monroe,26,8,189
+WV3301207,GRANT CO PSD-US 220 S,Region 3,West Virginia,Community water system,1767,PETERSBURG,Grant,18,4,21
+WV3301209,GRANT COUNTY PSD WELTON ORCHARD,Region 3,West Virginia,Community water system,213,PETERSBURG,Grant,7,3,18
+WV3302437,BRADSHAW WATER WORKS,Region 3,West Virginia,Community water system,233,BRADSHAW,McDowell,4,54,18
+WV3302606,MARSHALL COUNTY PSD 1,Region 3,West Virginia,Community water system,3463,SHERRARD,Marshall,5,12,14
+WV9938104,MIMS KITCHEN,Region 3,West Virginia,Transient non-community system,25,MARLINTON,Pocahontas,3,5,5
+WV3305107,CAMDEN ON GAULEY - COWEN,Region 3,West Virginia,Community water system,72,CAMDEN-ON-GAULEY (CORP/RR NAME,Webster,2,35,5
+WV3305102,CAMDEN ON GAULEY - CRAIGSVILLE,Region 3,West Virginia,Community water system,304,CAMDEN-ON-GAULEY (CORP/RR NAME,Webster,4,60,16
+WV3304704,HAMRICK PSD,Region 3,West Virginia,Community water system,1671,"HAMBLETON, HENDRICKS, ST. GEORGE",Tucker,11,9,35
+WV3300902,DODDRIDGE COUNTY PSD,Region 3,West Virginia,Community water system,48,,Doddridge,4,3,0
+WV3302828,PINNACLE WATER ASSOCIATION,Region 3,West Virginia,Community water system,85,MCCOMAS,Mercer,5,1932,16
+WV9927109,ASHLAND SCENIC CAMPGROUND LLC,Region 3,West Virginia,Transient non-community system,25,ASHLAND,McDowell,4,5,21
+WV9930108,KIRKLAND'S PIZZA AND MORE,Region 3,West Virginia,Transient non-community system,25,DELBARTON,Mingo,3,70,13
+WV9955078,HATFIELDS,Region 3,West Virginia,Transient non-community system,25,HANOVER,Wyoming,3,12,14
+WV3303815,HILLSBORO TOWN OF,Region 3,West Virginia,Community water system,262,HILLSBORO,Pocahontas,5,93,20
+WV9916042,THE HOME PLACE RESTAURANT,Region 3,West Virginia,Transient non-community system,25,MATHIAS,Hardy,3,47,11
+WV3304701,DAVIS WATER WORKS,Region 3,West Virginia,Community water system,927,DAVIS,Tucker,5,72,33
+WV9933062,COOLFONT RESORT,Region 3,West Virginia,Transient non-community system,25,BERKELEY SPRINGS,Morgan,3,2,0
+WV3305518,RAVENCLIFF MCGRAWS SAULSVILLE PSD,Region 3,West Virginia,Community water system,3186,MCGRAWS,Wyoming,24,19,42
+WV9919067,MORGAN GROVE PARK,Region 3,West Virginia,Transient non-community system,25,SHEPHERDSTOWN,Jefferson,3,24,7
+WV3304202,BEVERLY TOWN OF,Region 3,West Virginia,Community water system,2555,BEVERLY,Randolph,10,36,32
+WV3302507,"GRANT TOWN, TOWN OF",Region 3,West Virginia,Community water system,1240,GRANT TOWN,Marion,7,29,9
+WV9917026,FBI CENTER CLARKSBURG,Region 3,West Virginia,Non-Transient non-community system,3500,CLARKSBURG,Harrison,3,0,2
+WV3304216,WHITMER PUBLIC WATER SYSTEM,Region 3,West Virginia,Community water system,238,WHITMER,Randolph,8,257,21
+WV3301725,SUMMIT PARK PSD,Region 3,West Virginia,Community water system,888,CLARKSBURG,Harrison,2,5,9
+WV3303516,WHEELING WATER,Region 3,West Virginia,Community water system,29899,WHEELING,Ohio,37,32,46
+WV3300517,"WELLSBURG, CITY OF",Region 3,West Virginia,Community water system,3468,WELLSBURG,Brooke,10,38,63
+WV9945073,NEW RIVER CITGO,Region 3,West Virginia,Transient non-community system,25,SANDSTONE,Summers,3,31,24
+WV9933016,MORGAN COUNTY EARLY CHILDHOOD CENTER,Region 3,West Virginia,Non-Transient non-community system,30,GREAT CACAPON,Morgan,4,89,17
+WV9933025,PLEASANT VIEW ELEMENTARY,Region 3,West Virginia,Non-Transient non-community system,135,BERKELEY SPRINGS,Morgan,3,87,17
+WV9947039,DEERFIELD VILLAGE,Region 3,West Virginia,Transient non-community system,100,DAVIS,Tucker,5,7,6
+WV3301519,TOMLINSON PSD,Region 3,West Virginia,Community water system,2012,NEW MANCHESTER (PUGHTOWN),Hancock,7,4,8
+WV3301507,GRANT PSD,Region 3,West Virginia,Community water system,2086,NEWELL,Hancock,6,6,19
+WV3300404,SUGAR CREEK PSD,Region 3,West Virginia,Community water system,1396,FRAMETOWN,Braxton,18,279,26
+WV9929037,CAMP MINCO BATH HOUSES,Region 3,West Virginia,Transient non-community system,70,KEYSER,Mineral,3,9,11
+WV3301406,CENTRAL HAMPSHIRE PSD - RT 28,Region 3,West Virginia,Community water system,388,ROMNEY,Hampshire,2,21,13
+WV9950030,COE - LAKESIDE MARINA,Region 3,West Virginia,Transient non-community system,210,EAST LYNN,Wayne,3,36,23
+WV9938034,POCAHONTAS 4 H CAMP,Region 3,West Virginia,Transient non-community system,100,BARTOW,Pocahontas,4,16,5
+WV9913092,END OF THE TRAIL 1,Region 3,West Virginia,Transient non-community system,25,NEOLA,Greenbrier,3,48,28
+WV3301326,END OF THE TRAIL CENTRAL,Region 3,West Virginia,Transient non-community system,18,NEOLA,Greenbrier,3,171,34
+WV9913101,END OF THE TRAIL 3,Region 3,West Virginia,Transient non-community system,25,NEOLA,Greenbrier,3,51,23
+WV9913100,END OF THE TRAIL 2,Region 3,West Virginia,Transient non-community system,25,NEOLA,Greenbrier,3,59,24
+WV9942101,CARTER ROAG MORGAN CAMP MINE,Region 3,West Virginia,Non-Transient non-community system,130,HELVETIA,Randolph,5,5,2
+WV9913059,SMOOT ELEMENTARY,Region 3,West Virginia,Non-Transient non-community system,165,SMOOT,Greenbrier,3,198,23
+WV9933007,CACAPON STATE PARK,Region 3,West Virginia,Non-Transient non-community system,100,BERKELEY SPRINGS,Morgan,5,21,6
+WV9936073,CAVE COUNTRY CAMPGROUND,Region 3,West Virginia,Transient non-community system,25,FRANKLIN,Pendleton,3,4,5
+WV9936007,CAVE COUNTRY STORE,Region 3,West Virginia,Transient non-community system,30,FRANKLIN,Pendleton,3,6,11
+WV9947029,CANAAN VILLAGE INN,Region 3,West Virginia,Transient non-community system,400,DAVIS,Tucker,4,2,5
+WV9914042,SLANESVILLE ELEMENTARY SCHOOL,Region 3,West Virginia,Non-Transient non-community system,250,ROMNEY,Hampshire,3,73,4
+WV9914014,JOHN J CORNWELL SCHOOL,Region 3,West Virginia,Non-Transient non-community system,135,ROMNEY,Hampshire,3,84,4
+WV3302514,MINISTERS RUN WATER ASSOC,Region 3,West Virginia,Community water system,337,RIVESVILLE,Marion,2,50,13
+WV3301703,BRIDGEPORT CITY OF,Region 3,West Virginia,Community water system,10309,BRIDGEPORT,Harrison,13,8,11
+WV3302534,FAIR OAKS SUBDIVISION,Region 3,West Virginia,Community water system,178,FAIRMONT,Marion,2,63,9
+WV3301706,COONS RUN PSD,Region 3,West Virginia,Community water system,927,"ADAMSVILLE, FRANCIS",Harrison,5,46,10
+WV9955075,LAKESIDE MARKET,Region 3,West Virginia,Transient non-community system,25,,Wyoming,3,25,16
+WV3302702,MASON COUNTY PSD-CAMP CONLEY,Region 3,West Virginia,Community water system,458,POINT PLEASANT,Mason,4,7,25
+WV3302712,MASON CO PSD-LAKIN DIST,Region 3,West Virginia,Community water system,3232,"LAKIN (LAKIN STATE HOSPITAL), POINT PLEASANT",Mason,16,21,35
+WV3302713,MASON CO PSD-LETART,Region 3,West Virginia,Community water system,3401,"LETART, POINT PLEASANT",Mason,15,21,37
+WV3302714,MASON CO PSD-CRAB CREEK,Region 3,West Virginia,Community water system,5909,POINT PLEASANT,Mason,22,9,43
+WV3302715,MASON CO PSD-FOGLESONG DIST,Region 3,West Virginia,Community water system,89,"MASON (RR NAME MASON CITY), POINT PLEASANT",Mason,3,3,16
+WV9945083,NAT PK SER NEW RIVER GORGE VISITORS CTR,Region 3,West Virginia,Transient non-community system,25,SANDSTONE,Summers,4,24,54
+WV9947050,POINTY KNOB SUBDIVISION,Region 3,West Virginia,Transient non-community system,35,DAVIS,Tucker,5,1,2
+WV9947036,CANAAN VALLEY STORES,Region 3,West Virginia,Transient non-community system,25,DAVIS,Tucker,3,5,5
+WV3304803,SISTERSVILLE MUNICIPAL WATER,Region 3,West Virginia,Community water system,1892,SISTERSVILLE,Tyler,5,176,57
+WV9933047,COOLFONT MOUNTAINSIDE ASSOCIATION-SALMON,Region 3,West Virginia,Transient non-community system,103,BERKELEY SPRINGS,Morgan,3,3,5
+WV3302518,PAW PAW ROUTE 19 PSD,Region 3,West Virginia,Community water system,1249,PAW PAW,Marion,12,38,7
+WV9942102,CARTER ROAG BEECH MOUNTAIN,Region 3,West Virginia,Non-Transient non-community system,50,ADOLPH,Randolph,5,2,1
+WV3301525,OAKLAND PSD GOLDEN KEY ACRES,Region 3,West Virginia,Community water system,506,WEIRTON,Hancock,8,28,9
+WV9927068,PANTHER WILDLIFE MANAGEMENT AREA,Region 3,West Virginia,Transient non-community system,25,PANTHER,McDowell,3,23,16
+WV9927049,PANTHER WILDLIFE MANAGEMENT AREA 1,Region 3,West Virginia,Transient non-community system,200,PANTHER,McDowell,3,31,15
+WV3301206,GRANT CO PSD-NORTHFORK-MAYSVILLE,Region 3,West Virginia,Community water system,4269,"MAYSVILLE, PETERSBURG",Grant,30,6,33
+WV3304905,MOUNT HOPE WATER ASSOC,Region 3,West Virginia,Community water system,2825,BUCKHANNON,Upshur,15,7,8
+WV3301515,"NEW CUMBERLAND, CITY OF",Region 3,West Virginia,Community water system,1326,NEW CUMBERLAND,Hancock,10,14,12
+WV3302503,FAIRVIEW TOWN OF,Region 3,West Virginia,Community water system,1083,FAIRVIEW,Marion,11,29,54
+WV3305407,PARKERSBURG UTILITY BOARD,Region 3,West Virginia,Community water system,34251,PARKERSBURG,Wood,29,11,25
+WV9919096,HAWTHORNE INN,Region 3,West Virginia,Transient non-community system,25,CHARLES TOWN,Jefferson,5,6,3
+WV3302413,NORTHFORK WATER WORKS,Region 3,West Virginia,Community water system,542,NORTHFORK (RR NAME NORTH FORK),McDowell,6,199,24
+WV3305542,HUFF CONSOLIDATED ELEMENTARY AND MIDDLE,Region 3,West Virginia,Non-Transient non-community system,275,HANOVER,Wyoming,6,139,4
+WV3302705,J-2-Y-35 WATER,Region 3,West Virginia,Community water system,1250,POINT PLEASANT,Mason,6,115,21
+WV9938105,YEW MOUNTAIN CENTER,Region 3,West Virginia,Transient non-community system,25,HILLSBORO,Pocahontas,3,8,1
+WV3305205,PINE GROVE WATER,Region 3,West Virginia,Community water system,593,PINE GROVE,Wetzel,6,133,31
+WV3300409,FLATWOODS CANOE RUN PSD PURCHASER,Region 3,West Virginia,Community water system,336,SUTTON,Braxton,2,2,10
+WV9939120,CAMP GALILEE,Region 3,West Virginia,Transient non-community system,25,TERRA ALTA,Preston,3,9,5
+WV3303909,MASONTOWN WATER WORKS,Region 3,West Virginia,Community water system,2306,MASONTOWN,Preston,14,38,15
+WV3304215,LEADSVILLE PSD,Region 3,West Virginia,Community water system,1539,ELKINS,Randolph,4,9,7
+WV3303918,TUNNELTON TOWN OF,Region 3,West Virginia,Community water system,1115,TUNNELTON,Preston,14,10,18
+WV3303914,ROWLESBURG WATER WORKS,Region 3,West Virginia,Community water system,759,ROWLESBURG,Preston,9,42,45
+WV9922052,BIG UGLY COMMUNITY CENTER,Region 3,West Virginia,Transient non-community system,61,LEET,Lincoln,4,51,17
+WV3302317,"CHAPMANVILLE, TOWN OF",Region 3,West Virginia,Community water system,1454,CHAPMANVILLE,Logan,14,33,48
+WV9919082,RIVER COUNTRY STORE,Region 3,West Virginia,Transient non-community system,25,CHARLES TOWN,Jefferson,3,12,9
+WV3301311,RUPERT WATER,Region 3,West Virginia,Community water system,1170,RUPERT,Greenbrier,6,3,80
+WV3304902,BUCKHANNON WATER BOARD,Region 3,West Virginia,Community water system,8631,BUCKHANNON,Upshur,13,11,29
+WV9938048,WATOGA STATE PARK BUSH PLACE,Region 3,West Virginia,Transient non-community system,50,SEEBERT,Pocahontas,4,4,5
+WV9938056,WATOGA STATE PARK RIVERSIDE CG,Region 3,West Virginia,Transient non-community system,25,MARLINTON,Pocahontas,5,6,4
+WV9938046,WATOGA STATE PARK ISLAND LICK,Region 3,West Virginia,Transient non-community system,50,MARLINTON,Pocahontas,4,1,4
+WV9938047,WATOGA STATE PARK PINE RUN,Region 3,West Virginia,Transient non-community system,50,SEEBERT,Pocahontas,4,3,4
+WV9938002,BEAR TOWN STATE PARK - HP,Region 3,West Virginia,Transient non-community system,25,HILLSBORO,Pocahontas,3,22,5
+WV9938049,WATOGA STATE PARK BEAVER CREEK CG,Region 3,West Virginia,Transient non-community system,50,SEEBERT,Pocahontas,4,3,4
+WV9919084,JEFFERSON ACADEMY,Region 3,West Virginia,Non-Transient non-community system,93,KEARNEYSVILLE,Jefferson,3,83,7
+WV3301973,SHENANDOAH MINI HOMES,Region 3,West Virginia,Community water system,61,MILLVILLE,Jefferson,3,56,7
+WV9929039,HOOVERS BAR AND GRILL,Region 3,West Virginia,Transient non-community system,25,KEYSER,Mineral,3,49,2
+WV3301037,KANAWHA FALLS PSD,Region 3,West Virginia,Community water system,2273,GAULEY BRIDGE,Fayette,12,98,71
