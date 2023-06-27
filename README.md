@@ -93,9 +93,9 @@
 
 - [X] Pull all *possible* 7-Pillars Datasets  ![](https://geps.dev/progress/100)
 
-- [ ] FBI Crime Statistics  ![](https://geps.dev/progress/90)
+- [X] FBI Crime Statistics  ![](https://geps.dev/progress/100)
 
-    - [ ] 2000 FBI Statistics  ![](https://geps.dev/progress/00)
+    - [X] 2000 FBI Statistics  ![](https://geps.dev/progress/100)
 
     - [X] 2010 FBI Statistics  ![](https://geps.dev/progress/100)
      
