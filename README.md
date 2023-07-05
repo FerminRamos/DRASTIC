@@ -1,6 +1,6 @@
 # DRASTIC Database Repository
 
-###### :exclamation: Current Obj: Organizing 7-Pillars Datasets, Figuring out other poss. datasets for DRASTIC, Pulling FBI Crime Statistics :exclamation:
+###### :exclamation: Current Obj: Organizing 7-Pillars Datasets, Figuring out other poss. datasets for DRASTIC :exclamation:
 
 
 </br>
@@ -100,14 +100,6 @@
     - [X] 2010 FBI Statistics  ![](https://geps.dev/progress/100)
      
     - [X] 2020 FBI Statistics  ![](https://geps.dev/progress/100)
-
-- [ ] Tobacco, Diet & Exercise, Alcohol & Drug, Sexual Activity  ![](https://geps.dev/progress/00)
-
-    - [ ] 2000 Health Activities  ![](https://geps.dev/progress/00)
-     
-    - [ ] 2010 Health Activities  ![](https://geps.dev/progress/00)
-     
-    - [ ] 2020 Health Activities  ![](https://geps.dev/progress/00)
 
 </br>
 
