@@ -1,6 +1,6 @@
 # DRASTIC Database Repository
 
-###### :exclamation: Current Obj: Organizing 7-Pillars Datasets, Figuring out other poss. datasets for DRASTIC :exclamation:
+###### :exclamation: Current Obj: Pulling CENSUS Language Proficiency Data :exclamation:
 
 
 </br>
@@ -83,6 +83,14 @@
     
     - [X] Convert Estimates -> Percents  ![](https://geps.dev/progress/100)
 
+- [ ] Language Proficiency  ![](https://geps.dev/progress/00)
+    - [ ] 2000s   ![](https://geps.dev/progress/00)
+
+    - [ ] 2010s    ![](https://geps.dev/progress/90)
+        * Need to standardize
+
+    - [ ] 2020s    ![](https://geps.dev/progress/00)
+
 </br>
 
 
@@ -107,6 +115,7 @@
 ✨***Miscellaneous***
 - [X] Upload Census Datasets (2000, 2010, 2020) as both Estimates & Whole Values.  ![](https://geps.dev/progress/100)
 
+- [ ] Clean up DRASTIC repository w/ better README's & Folder Structures  ![](https://geps.dev/progress/00)
 
 </br></br>
 
