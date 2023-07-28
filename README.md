@@ -1,6 +1,6 @@
 # DRASTIC Database Repository
 
-###### :exclamation: Current Obj: Pulling CENSUS Language Proficiency Data :exclamation:
+###### :exclamation: Current Obj: Mapping GitHub data to ArcGIS :exclamation:
 
 
 </br>
