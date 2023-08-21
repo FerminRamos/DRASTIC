@@ -7,7 +7,6 @@
 
 
 #### :boom: Announcements :boom:
-✔️ We have 121 ***NEW*** 7-Pillars variables! Go check them out. Located in "7-Pillars of Health" Folder. ***Newer simplified README's coming soon.***
 
 </br>
 </br>
@@ -15,6 +14,16 @@
 
 
 #### 👉 Pipeline of Current Objectives 👈
+✨ ***ArcGIS Online, Known Bugs or Issues***
+- [ ] UnOptimized Performance Loading Maps
+- [ ] Fix Religious Orgs Lat/Long Coordinates. Invalid coordinate values.
+- [ ] Air quality datasets needs standardizing.
+- [ ] CCNE Graduate Certifications not counted correctly. Bug in code fixed, datasets need updating.
+- [ ] Employment dataset is still RAW, need parsing + standardizing.
+- [ ] Misc. Datasets not uploaded (Fault Lines, Nuclear Power Plants, CCNE, etc.)
+- [ ] (Not-a-bug) Double check FBI Agencies Lat/Long Coordinates.
+- [ ] (Not-a-bug) Spot-check all datasets once uploaded to ArcGIS Online.
+
 
 ✨ ***FEMA Disasters***
 - [X] Pull FEMA Declaration Summaries data, to now include years 2000-2022.  ![](https://geps.dev/progress/100)
