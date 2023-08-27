@@ -18,7 +18,6 @@
 - [ ] UnOptimized Performance Loading Maps
 - [ ] Fix Religious Orgs Lat/Long Coordinates. Invalid coordinate values.
 - [ ] Air quality datasets needs standardizing.
-- [ ] CCNE Graduate Certifications not counted correctly. Bug in code fixed, datasets need updating.
 - [ ] Employment dataset is still RAW, need parsing + standardizing.
 - [ ] Misc. Datasets not uploaded (Fault Lines, Nuclear Power Plants, CCNE, etc.)
 - [ ] (Not-a-bug) Double check FBI Agencies Lat/Long Coordinates.
