@@ -17,7 +17,7 @@
 ✨ ***Article Prep***
 - [X] All nursing schools in the US  ![](https://geps.dev/progress/100)
 - [X] All violent crime NM  ![](https://geps.dev/progress/100)
-- [ ] Households under 18 in 2020  ![](https://geps.dev/progress/00)
+- [X] Households under 18 in 2020  ![](https://geps.dev/progress/100)
 - [ ] Lifelong learning – less than high school 2020  ![](https://geps.dev/progress/00)
 - [ ] Meaningful work – employed in poverty 2020  ![](https://geps.dev/progress/00)
 - [ ] FEMA – fire in NM  ![](https://geps.dev/progress/00)
