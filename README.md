@@ -1,6 +1,6 @@
 # DRASTIC Database Repository
 
-###### :exclamation: Current Obj: Mapping GitHub data to ArcGIS :exclamation:
+###### :exclamation: Current Obj: Verifying data for our next publish :exclamation:
 
 
 </br>
@@ -11,20 +11,39 @@
 </br>
 </br>
 
-
+---
 
 #### 👉 Pipeline of Current Objectives 👈
+✨ ***Article Prep***
+- [ ] All nursing schools in the US  ![](https://geps.dev/progress/100)
+- [ ] All violent crime NM  ![](https://geps.dev/progress/90)
+    - [ ] *TODO: Need to update existing layers w/ new updated data*
+
+- [ ] Households under 18 in 2020  ![](https://geps.dev/progress/00)
+- [ ] Lifelong learning – less than high school 2020  ![](https://geps.dev/progress/00)
+- [ ] Meaningful work – employed in poverty 2020  ![](https://geps.dev/progress/00)
+- [ ] FEMA – fire in NM  ![](https://geps.dev/progress/00)
+
+</br>
+
+---
+
+</br>
+</br>
+
+
+<!---
 ✨ ***ArcGIS Online, Known Bugs or Issues***
 - [ ] UnOptimized Performance Loading Maps
 - [ ] Fix Religious Orgs Lat/Long Coordinates. Invalid coordinate values.
 - [ ] Air quality datasets needs standardizing.
 - [ ] Employment dataset is still RAW, need parsing + standardizing.
-- [ ] Misc. Datasets not uploaded (Fault Lines, Nuclear Power Plants, CCNE, etc.)
+- [ ] Misc. Datasets not uploaded (Fault Lines, Nuclear Power Plants, etc.)
 - [ ] (Not-a-bug) Double check FBI Agencies Lat/Long Coordinates.
 - [ ] (Not-a-bug) Spot-check all datasets once uploaded to ArcGIS Online.
 
 </br>
-
+--->
 
 ✨ ***FEMA Disasters***
 - [X] Pull FEMA Declaration Summaries data, to now include years 2000-2022.  ![](https://geps.dev/progress/100)
