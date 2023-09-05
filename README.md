@@ -15,10 +15,8 @@
 
 #### 👉 Pipeline of Current Objectives 👈
 ✨ ***Article Prep***
-- [ ] All nursing schools in the US  ![](https://geps.dev/progress/100)
-- [ ] All violent crime NM  ![](https://geps.dev/progress/90)
-    - [ ] *TODO: Need to update existing layers w/ new updated data*
-
+- [X] All nursing schools in the US  ![](https://geps.dev/progress/100)
+- [X] All violent crime NM  ![](https://geps.dev/progress/100)
 - [ ] Households under 18 in 2020  ![](https://geps.dev/progress/00)
 - [ ] Lifelong learning – less than high school 2020  ![](https://geps.dev/progress/00)
 - [ ] Meaningful work – employed in poverty 2020  ![](https://geps.dev/progress/00)
