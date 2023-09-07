@@ -21,7 +21,8 @@
 - [X] Lifelong learning – less than high school 2020  ![](https://geps.dev/progress/100)
 - [ ] Meaningful work – employed in poverty 2020  ![](https://geps.dev/progress/00)
 - [ ] FEMA – fire in NM  ![](https://geps.dev/progress/60)
-      * All of NM is good. Spot checking the rest of the SW region.
+     - [ ] Bug Found: "statewide" disasters +1 freq for already affected counties. If county not prev. affected during the year, we do not +1 it's freq counter
+
 
 </br>
 
