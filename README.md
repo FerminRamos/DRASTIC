@@ -20,7 +20,8 @@
 - [X] Households under 18 in 2020  ![](https://geps.dev/progress/100)
 - [X] Lifelong learning – less than high school 2020  ![](https://geps.dev/progress/100)
 - [ ] Meaningful work – employed in poverty 2020  ![](https://geps.dev/progress/00)
-- [ ] FEMA – fire in NM  ![](https://geps.dev/progress/00)
+- [ ] FEMA – fire in NM  ![](https://geps.dev/progress/60)
+      * All of NM is good. Spot checking the rest of the SW region.
 
 </br>
 
