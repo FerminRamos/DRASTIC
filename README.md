@@ -7,6 +7,7 @@
 
 
 #### :boom: Announcements :boom:
+💥 BUG FOUND: "statewide" FEMA affected counties did not receive +1 freq, when prev. unaffected. Total "statewide" affected datasets ~ 20. Solution found. Need to re-run datasets.
 
 </br>
 </br>
@@ -19,11 +20,7 @@
 - [X] All violent crime NM  ![](https://geps.dev/progress/100)
 - [X] Households under 18 in 2020  ![](https://geps.dev/progress/100)
 - [X] Lifelong learning – less than high school 2020  ![](https://geps.dev/progress/100)
-- [ ] Meaningful work – employed in poverty 2020  ![](https://geps.dev/progress/00)
-- [ ] FEMA – fire in NM  ![](https://geps.dev/progress/90)
-     - [X] Bug Fixed: "statewide" disasters +1 freq for already affected counties. If county not prev. affected during the year, we do not +1 it's freq counter  ![](https://geps.dev/progress/100)
-     - [ ] Wrestling w/ ArcGIS Online to push new changes...
-
+- [X] FEMA – fire in NM  ![](https://geps.dev/progress/100)
 
 </br>
 
