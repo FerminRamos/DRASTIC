@@ -27,10 +27,10 @@
 ---
 
 ✨ ***Datasets affected by FEMA "statewide" Bug***
-- [ ] FEMA Severe Storm(s) 2000-2005 (2000), statewide = ND  ![](https://geps.dev/progress/00)
-- [ ] FEMA Severe Storm(s) 2000-2005 (2000), statewide = AZ  ![](https://geps.dev/progress/00)
-- [ ] FEMA Severe Storm(s) 2000-2005 (2002), statewide = IN  ![](https://geps.dev/progress/00)
-- [ ] FEMA Severe Storm(s) 2000-2005 (2003), statewide = PA  ![](https://geps.dev/progress/00)
+- [X] FEMA Severe Storm(s) 2000-2005 (2000), statewide = ND  ![](https://geps.dev/progress/100)
+- [X] FEMA Severe Storm(s) 2000-2005 (2000), statewide = AZ  ![](https://geps.dev/progress/100)
+- [X] FEMA Severe Storm(s) 2000-2005 (2002), statewide = IN  ![](https://geps.dev/progress/100)
+- [X] FEMA Severe Storm(s) 2000-2005 (2003), statewide = PA  ![](https://geps.dev/progress/100)
 - [ ] FEMA Fire 2000-2005 (2001), statewide = OR  ![](https://geps.dev/progress/00)
 - [ ] FEMA Fire 2000-2005 (2002), statewide = CO  ![](https://geps.dev/progress/00)
 - [ ] FEMA Fire 2000-2005 (2003), statewide = NM  ![](https://geps.dev/progress/00)
