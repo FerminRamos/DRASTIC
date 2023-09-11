@@ -1,13 +1,13 @@
 # DRASTIC Database Repository
 
-###### :exclamation: Current Obj: Fixing "statewide" bug :exclamation:
+###### :exclamation: Current Obj: Mapping to ArcGIS :exclamation:
 
 
 </br>
 
 
 #### :boom: Announcements :boom:
-💥 BUG FOUND: "statewide" FEMA affected counties did not receive +1 freq, when prev. unaffected. Total "statewide" affected datasets ~ 20. Solution found. Need to re-run datasets.
+💥 BUG FOUND: "statewide" FEMA affected counties did not receive +1 freq, when prev. unaffected. Total "statewide" instances ~ 20. Solution found & all GitHub Datasets have now been patched.
 
 </br>
 </br>
