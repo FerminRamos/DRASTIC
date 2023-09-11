@@ -281,3 +281,20 @@ BaseYear,state,incidentType,designatedArea,Freq,FID
 2015,CO,Fire,Routt,1,809
 2015,CO,Fire,Summit,1,373
 2015,CO,Fire,Washington,1,377
+2015,WA,Fire,Adams,1,2840
+2015,WA,Fire,Clallam,1,2861
+2015,WA,Fire,Clark,1,2865
+2015,WA,Fire,Columbia,1,2869
+2015,WA,Fire,Cowlitz,1,2871
+2015,WA,Fire,Garfield,1,2886
+2015,WA,Fire,Grays Harbor,1,2894
+2015,WA,Fire,Island,1,2898
+2015,WA,Fire,Jefferson,1,2905
+2015,WA,Fire,King,1,2913
+2015,WA,Fire,Kitsap,1,2927
+2015,WA,Fire,Lewis,1,2940
+2015,WA,Fire,Mason,1,2946
+2015,WA,Fire,Pacific,1,2949
+2015,WA,Fire,Snohomish,1,2960
+2015,WA,Fire,San Juan,1,2957
+2015,WA,Fire,Wahkiakum,1,2969
