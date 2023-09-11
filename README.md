@@ -38,15 +38,15 @@
 - [X] FEMA Fire 2006-2014 (2009), statewide = OK  ![](https://geps.dev/progress/100)
 - [X] FEMA Fire 2006-2014 (2009), statewide = TX  ![](https://geps.dev/progress/100)
 - [X] FEMA Fire 2006-2014 (2012), statewide = OK  ![](https://geps.dev/progress/100)
-- [ ] FEMA Other 2000-2005 (2003), statewide = NY  ![](https://geps.dev/progress/00)
-- [ ] FEMA Hurricane 2000-2005 (2005), statewide = WI  ![](https://geps.dev/progress/00)
-- [ ] FEMA Hurricane 2000-2005 (2005), statewide = TX  ![](https://geps.dev/progress/00)
-- [ ] FEMA Severe Ice Storm 2006-2014 (2007), statewide = MO  ![](https://geps.dev/progress/00)
-- [ ] FEMA Hurricane 2006-2014 (2012), statewide = PA  ![](https://geps.dev/progress/00)
-- [ ] FEMA Biological 2015-2022 (2020), statewide = LA  ![](https://geps.dev/progress/00)
-- [ ] FEMA Hurricane 2006-2014 (2011), statewide = RI  ![](https://geps.dev/progress/00)
+- [X] FEMA Other 2000-2005 (2003), statewide = NY  ![](https://geps.dev/progress/100)
+- [X] FEMA Hurricane 2000-2005 (2005), statewide = WI  ![](https://geps.dev/progress/100)
+- [X] FEMA Hurricane 2000-2005 (2005), statewide = TX  ![](https://geps.dev/progress/100)
+- [X] FEMA Severe Ice Storm 2006-2014 (2007), statewide = MO  ![](https://geps.dev/progress/100)
+- [X] FEMA Hurricane 2006-2014 (2012), statewide = PA  ![](https://geps.dev/progress/100)
+- [X] FEMA Biological 2015-2022 (2020), statewide = LA  ![](https://geps.dev/progress/100)
+- [X] FEMA Hurricane 2006-2014 (2011), statewide = RI  ![](https://geps.dev/progress/100)
 - [X] FEMA Fire 2015-2022 (2016), statewide = CO  ![](https://geps.dev/progress/100)
-- [ ] FEMA Fire 2015-2022 (2021), statewide = WA  ![](https://geps.dev/progress/00)
+- [X] FEMA Fire 2015-2022 (2021), statewide = WA  ![](https://geps.dev/progress/100)
 
 
 <!---
