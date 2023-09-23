@@ -16,7 +16,7 @@
 ✨ ***ArcGIS Online, Known Bugs or Issues***
 - [ ] Fix UnOptimized Performance with Online Maps  ![](https://geps.dev/progress/40)
 - [ ] Fix Religious Orgs Lat/Long Coordinates. Invalid coordinate values?  ![](https://geps.dev/progress/00)
-- [ ] Air quality datasets needs standardizing.  ![](https://geps.dev/progress/00)
+- [X] Air quality 2010 & 2020 mapped.  ![](https://geps.dev/progress/100)
 - [ ] Water quality dataset needs standardizing.  ![](https://geps.dev/progress/00)
 - [ ] Employment dataset is still RAW  ![](https://geps.dev/progress/00)
 - [ ] Double check FBI Agencies Lat/Long Coordinates.
