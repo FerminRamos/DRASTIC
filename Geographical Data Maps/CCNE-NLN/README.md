@@ -1,5 +1,5 @@
 ## About this Directory
-Directory contains all accredited collges of nursing from CCNE, NLN, and ACEN that meet our Accreditation Requirements. 
+Directory contains all accredited colleges of nursing from CCNE, NLN, and ACEN that meet our Accreditation Requirements. 
 Certain schools excluded if they did not offer the necessary degrees or were established outside United States/Territories. 
 * CCNE Website - [https://directory.ccnecommunity.org/](https://directory.ccnecommunity.org/)
 * NLN Website - [https://cnea.nln.org](https://cnea.nln.org/accredited-programs)
