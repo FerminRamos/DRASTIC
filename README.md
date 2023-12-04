@@ -1,13 +1,12 @@
 # DRASTIC Database Repository
 
-###### :exclamation: Current Obj: Mapping to ArcGIS :exclamation:
+###### ❗ Current Obj: Mapping to ArcGIS ❗
 
 
 </br>
 
 
-#### :boom: Announcements :boom:
-💥 BUG FOUND: "statewide" FEMA affected counties did not receive +1 freq, when prev. unaffected. Total "statewide" instances ~ 20. ***Solution found & all GitHub & ArcGIS Datasets have now been patched.***
+#### 💥 Announcements 💥
 
 <br></br>
 
@@ -19,7 +18,7 @@
 - [X] Air quality 2010 & 2020 mapped.  ![](https://geps.dev/progress/100)
 - [ ] Water quality dataset needs standardizing.  ![](https://geps.dev/progress/00)
 - [ ] Employment dataset is still RAW  ![](https://geps.dev/progress/00)
-- [ ] Double check FBI Agencies Lat/Long Coordinates.
+- [X] Double check FBI Agencies Lat/Long Coordinates.
 - [X] Misc. Datasets not uploaded (Fault Lines, Nuclear Power Plants, etc.)  ![](https://geps.dev/progress/100)
 - [ ] Clean up DRASTIC repository w/ better README's & Folder Structures  ![](https://geps.dev/progress/40)
 
